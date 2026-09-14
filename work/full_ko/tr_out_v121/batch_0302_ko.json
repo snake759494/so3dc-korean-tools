@@ -1,0 +1,435 @@
+{
+ "batch_id": "batch_0302",
+ "translations": [
+  {
+   "key": "7a7061ff8e17",
+   "speaker_korean": null,
+   "korean": "프로그레시브 표시로 전환할까요?\n예(16:9) 예(4:3) 아니오\n\n프로그레시브 표시엔 ″PlayStation 2″전용 컴포넌트 AV케이블과\n프로그레시브(525p) 표시에 대응하는 TV가 필요합니다.\n\n⟦1⟧10초 이상 지나도 화면이 정상적으로 표시되지 않으면\n이 화면이 다시 표시됩니다.\n\n버튼을 쓰면 와이드 TV 대응이 되므로\nTV의 화면 모드를 풀 모드(또는 그에 준하는 모드)로\n전환해 주십시오. 자세한 내용은 사용설명서를 참고하십시오."
+  },
+  {
+   "key": "e58916437109",
+   "speaker_korean": null,
+   "korean": "프로그레시브 표시(16:9)로 변경했습니다.\n게임을 시작하시겠습니까?\n예 아니오"
+  },
+  {
+   "key": "38a6d92bc72a",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구1・2에\n″PlayStation 2″ 전용 메모리 카드(8MB)가\n꽂혀 있지 않습니다.\nStar Ocean Till the End of Time D.C.의\n게임 데이터 세이브하려면 ⟦1⟧KB 이상의\n여유 공간이 필요합니다.\n\n이대로 게임을 시작하시겠습니까?\n예 아니오"
+  },
+  {
+   "key": "b287331fccef",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구1의\n″PlayStation 2″ 전용 메모리 카드(8MB)의\n여유 공간이 부족합니다.\nStar Ocean Till the End of Time D.C.의\n게임 데이터 세이브하려면 ⟦1⟧KB 이상의\n여유 공간이 필요합니다.\n\n이대로 게임을 시작하시겠습니까?\n예 아니오"
+  },
+  {
+   "key": "b5a06fc61334",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구2의\n″PlayStation 2″ 전용 메모리 카드(8MB)의\n여유 공간이 부족합니다.\nStar Ocean Till the End of Time D.C.의\n게임 데이터 세이브하려면 ⟦1⟧KB 이상의\n여유 공간이 필요합니다.\n\n이대로 게임을 시작하시겠습니까?\n예 아니오"
+  },
+  {
+   "key": "c3be838906bc",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구1・2의\n″PlayStation 2″ 전용 메모리 카드(8MB)의\n여유 공간이 부족합니다.\nStar Ocean Till the End of Time D.C.의\n게임 데이터 세이브하려면 ⟦1⟧KB 이상의\n여유 공간이 필요합니다.\n\n이대로 게임을 시작하시겠습니까?\n예 아니오"
+  },
+  {
+   "key": "cfe95d89e599",
+   "speaker_korean": null,
+   "korean": "프로그레시브 표시(4:3)로 변경했습니다.\n게임을 시작하시겠습니까?\n예 아니오"
+  },
+  {
+   "key": "ba4d2a95c5cc",
+   "speaker_korean": null,
+   "korean": "″PlayStation BB Unit″가 초기화되어 있지 않습니다.\n\n⟦1⟧설치를 하려면 ″PlayStation BB Navigator″ 등의\n유틸리티 디스크로 사용설명서의 지시에 따라\n초기화를 실행해야 합니다.\n\n⟦2⟧게임 시작"
+  },
+  {
+   "key": "91aa53701768",
+   "speaker_korean": null,
+   "korean": "일반 TV 모드입니다.\n와이드 TV가 아닌 TV를 쓰는 분은\n이쪽을 선택해 주십시오."
+  },
+  {
+   "key": "a195ad48eeff",
+   "speaker_korean": null,
+   "korean": "와이드 TV 플레이는 이쪽 선택합니다.\n16:9 모드로 플레이 시 TV 화면 모드\n풀 모드(또는 그에 준하는 모드)로\n전환해 주십시오.\n자세한 내용 TV 설명서 참고하십시오.\n프로그레시브 대응 TV라면 게임 시작 시\n버튼과 버튼을 누르고 있으면\n프로그레시브 모드로 전환할 수 있습니다."
+  },
+  {
+   "key": "beb14f5dd398",
+   "speaker_korean": null,
+   "korean": "모노럴 TV로 플레이할 분은 이쪽\n선택해 주십시오."
+  },
+  {
+   "key": "9c1b3a46d4bd",
+   "speaker_korean": null,
+   "korean": "스테레오 TV나 스테레오 환경을\n갖추신 분은 이쪽 선택해 주십시오"
+  },
+  {
+   "key": "1e864209fcf8",
+   "speaker_korean": null,
+   "korean": "5ch스피커 환경과 돌비 서라운드\n프로로직 II 디코더 탑재 앰프를\n갖추신 분은 이쪽 선택 시\n입체 음향 즐길 수 있습니다.\n버튼을 누르면 스피커 환경을\n설정 가능.(스피커 환경은\n게임 중 변경할 수 없습니다.)"
+  },
+  {
+   "key": "48c6fa28437d",
+   "speaker_korean": null,
+   "korean": "버튼으로 화면 스피커를 골라 방향키로 조정합니다.\n왼쪽 스틱으로 여자아이를 이동시킬 수 있습니다.\n버튼으로 여자아이가 가운데 남자아이를 향해 말합니다.\n목소리와 화면 속 여자아이 위치를 맞춰 주십시오."
+  },
+  {
+   "key": "4871a379c535",
+   "speaker_korean": null,
+   "korean": "이벤트 스킵 기능을 사용합니다.\n긴 이벤트에서는 이벤트 시작 시\n스킵할지 묻는 창이 뜹니다.\n단, 처음 보는 이벤트도\n스킵할 수 있어 내용을 모르게 되어\n게임을 진행 못 할 수 있습니다.\n이 기능 플레이어 각자의 책임하에\n이용해 주십시오."
+  },
+  {
+   "key": "13e14d10bc3b",
+   "speaker_korean": null,
+   "korean": "이벤트 스킵 기능 미사용"
+  },
+  {
+   "key": "defe24fae417",
+   "speaker_korean": null,
+   "korean": "음성 대사가 준비된 이벤트에서는\n텍스트와 음성이 함께 나옵니다.\n음성 대사는 스킵할 수 있습니다."
+  },
+  {
+   "key": "5bae8fd8d274",
+   "speaker_korean": null,
+   "korean": "음성 대사가 준비된 이벤트에서는\n음성만으로 현장감 있게 됩니다."
+  },
+  {
+   "key": "091de6b18264",
+   "speaker_korean": null,
+   "korean": "음성이 준비된 이벤트라도\n텍스트로만 진행합니다.\n(고정 화면 무비 제외.)"
+  },
+  {
+   "key": "11431cb56a70",
+   "speaker_korean": null,
+   "korean": "컨트롤러 진동을 ON으로 합니다.\n뼈·관절 질환이 있으면 ON 금지.\n또한 골절, 탈구, 근육 파열, 염좌 등을\n겪고 있을 때 ON으로 하지 마십시오."
+  },
+  {
+   "key": "51cfda3e8df9",
+   "speaker_korean": null,
+   "korean": "진동을 OFF로 합니다."
+  },
+  {
+   "key": "8518f9496089",
+   "speaker_korean": null,
+   "korean": "지구 레벨의 쉬운 난이도입니다.\n스타오션 특유의 실시간 전투나\n액션 타입 게임이 서투른 분은 이쪽\n선택해 주십시오. 단, 배틀 컬렉션은\n진행할 수 없습니다."
+  },
+  {
+   "key": "b5dc518fe1cb",
+   "speaker_korean": null,
+   "korean": "은하 레벨의 보통 난이도입니다.\n평범한 플레이를 원하면 이쪽 선택."
+  },
+  {
+   "key": "e3e8de05b3a5",
+   "speaker_korean": null,
+   "korean": "우주 레벨의 흉악한 난이도입니다.\n조건 클리어 시 즐길 수 있습니다."
+  },
+  {
+   "key": "b5f9bae96bc6",
+   "speaker_korean": null,
+   "korean": "우주 레벨 흉악 난이도입니다.\n손맛 있는 전투 즐겨 주십시오."
+  },
+  {
+   "key": "e206625e26fe",
+   "speaker_korean": null,
+   "korean": "헤드폰으로 플레이하는 분은 이 모드\n를 선택해 주십시오.\n단, 돌비 헤드폰 등을 쓰는\n분은 돌비 프로로직 II선택해 주십시오."
+  },
+  {
+   "key": "0aad9283ca00",
+   "speaker_korean": null,
+   "korean": "음성 대사가 준비된 이벤트에서는\n텍스트와 음성이 함께 나옵니다.\n텍스트가 자동으로 진행되므로\n수동 스킵은 할 수 없게 됩니다."
+  },
+  {
+   "key": "317c86732b86",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C.를\n″PlayStation BB Unit″에 설치합니다.\n하시겠습니까?"
+  },
+  {
+   "key": "ebd26272ff34",
+   "speaker_korean": null,
+   "korean": "이미 Star Ocean Till the End of Time D.C.가\n설치되어 있습니다. 덮어쓰시겠습니까?"
+  },
+  {
+   "key": "4b704f8ff2c2",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C.를\n″PlayStation BB Unit″에 설치할\n여유 공간이 부족합니다.\n이 게임을 설치하려면 ⟦1⟧MB 이상\n의 여유 공간이 필요합니다.\n\n 타이틀로 돌아가기"
+  },
+  {
+   "key": "9d146c3ab860",
+   "speaker_korean": null,
+   "korean": "오류가 발생했습니다.\n 타이틀로 돌아가기"
+  },
+  {
+   "key": "26d7c739781c",
+   "speaker_korean": null,
+   "korean": "오류가 발생했습니다.\n″PlayStation BB Unit″에 포함된 사용설명서의\n지시에 따라 ″PlayStation BB Unit″을 복구\n해 주십시오.\n\n 타이틀로 돌아가기"
+  },
+  {
+   "key": "7f0c3051d5a6",
+   "speaker_korean": null,
+   "korean": "설치 중입니다. 전원을 끄지 마십시오.\n또한 디스크 트레이를 열지 마십시오.\n중단하려면 버튼을 눌러 주십시오."
+  },
+  {
+   "key": "a6a33a936766",
+   "speaker_korean": null,
+   "korean": "중단합니다. 하시겠습니까?"
+  },
+  {
+   "key": "019f61e8a357",
+   "speaker_korean": null,
+   "korean": "설치가 완료되었습니다.\n\n 타이틀로 돌아가기"
+  },
+  {
+   "key": "a33ce2e7c2a6",
+   "speaker_korean": null,
+   "korean": "여기서는 설치하는 시간을\n이용해 Star Ocean Till the\nEnd of Time특유전투 시스템\n을 간단히 설명합니다.\n게임 중 설명도 있으므로 이\n설명은 굳이 볼 필요는 없지\n만, 설치 중 시간이 있으신\n분은 봐 주십시오."
+  },
+  {
+   "key": "0098a0b660bc",
+   "speaker_korean": null,
+   "korean": "이번 전투 시스템에서는\n버튼으로 소공격이라는 공격을\n낼 수 있습니다.\n소공격은 데미지가 작지만\n공격 속도가 빨라 상대 대공\n격(후술)을 본 뒤에 내도\n선수를 칠 수 있습니다.\n단, 프로텍트(후술)에는\n100% 가드당하고 맙니다."
+  },
+  {
+   "key": "91bd11decfc1",
+   "speaker_korean": null,
+   "korean": "버튼으로는 대공격을 낼 수\n있습니다.대공격 데미지가 크\n고 프로텍트당하지 않지\n만 모션이 커서 상대\n소공격에는 불리해\n집니다. 대공격 시엔 적도 아\n군도 파란 잔상이 나오므로\n그걸로 판별할 수 있습니다."
+  },
+  {
+   "key": "d9aff18d6f08",
+   "speaker_korean": null,
+   "korean": "이번 Guts라는 파라미터가 있\n습니다. Guts는 이동·공격·방어\n등의 행동으로 줄어들지만\n아무것도 안 하면 곧 회복\n됩니다. Guts 100%면 소공격\n을 받으면 100%가드되는 프로\n텍트가 발동합니다. 이때 데\n미지가 0이 될 뿐 아니라 특수\n효과가 나기도 합니다."
+  },
+  {
+   "key": "3c779571667e",
+   "speaker_korean": null,
+   "korean": "Guts 100% 소공격엔 프로테\n크트가 발동했지만, 대공격을\n받으면 프로텍트가 안 되고\n데미지를 받게 됩니다.\n1대1 전투서 프로텍트를 잘 활\n용하려면 상대 대공격\n을 간파해 이동으로 피할게 중\n요합니다. 프로텍트 성공 시\n엔 반격의 기회입니다."
+  },
+  {
+   "key": "956e7e41225d",
+   "speaker_korean": null,
+   "korean": "게임이 진행되면 프로텍트\n시 택티컬스킬 ″카운\n터 오라″를 발동할 수 있게\n됩니다. 카운터 오라는 설\n정에 따라 여러 방향으로 다\n양한 효과를 낼 수 있습니\n다. 화면은 적을 카운터 오라\n로 기절시키려 하고 있습니다."
+  },
+  {
+   "key": "4518d18b875c",
+   "speaker_korean": null,
+   "korean": "공격버튼 일정 시간 계속 누르\n면 세팅된 배\n틀 스킬이 발동합니다. 배틀\n스킬은 맵을 걷는 중에\n캠프 메뉴를 열어 설정\n합니다. 각 배틀 스킬엔 캐\n퍼시티 포인트(CP)가 설정되\n어 있어 캐릭터가 가진\nCP 범위 내서 배틀 스킬 설정\n할 수 있습니다."
+  },
+  {
+   "key": "1a42caabac1e",
+   "speaker_korean": null,
+   "korean": "배틀 스킬 중엔 문장술이라 불\n리는 것이 있어 문장술을 세\n팅할 수도 있지만,\n전투 중 메뉴를 열어 고른\n배틀 스킬(문장술)을 발동\n할 수도 있습니다.\n이상으로 설치 시의 간단한 전\n투 설명을 마칩니다. 이후는 게\n임 중 설명을 참고해 주십시오.\n곧 설치가 종료됩니다."
+  },
+  {
+   "key": "97bd1928bf23",
+   "speaker_korean": null,
+   "korean": "오류가 발생했습니다.\n″PlayStation BB Unit″에 포함된 사용설명서의\n지시에 따라 ″PlayStation BB Unit″을 복구\n해 주십시오."
+  },
+  {
+   "key": "5a26d603270a",
+   "speaker_korean": null,
+   "korean": "″PlayStation BB Unit″에 설치되어 있던\nStar Ocean Till the End of Time D.C.의 데이터가\n손상되어 삭제했습니다.\n다시 설치해 주십시오.\n\n⟦1⟧게임 시작"
+  },
+  {
+   "key": "5027c61db1cd",
+   "speaker_korean": null,
+   "korean": "Four Dimension 레벨 궁극 난이도\n더 많은 배틀 컬렉션 얻으면 즐기실 수\n있습니다."
+  },
+  {
+   "key": "a218b4ba8f97",
+   "speaker_korean": null,
+   "korean": "Four Dimension 궁극 난이도\n궁극의 전투를 즐겨 주십시오."
+  },
+  {
+   "key": "292cf9ff51bd",
+   "speaker_korean": null,
+   "korean": "어느 MEMORY CARD 삽입구에도\n배틀 컬렉션 데이터가 없습니다.\n\n 타이틀로 돌아가기"
+  },
+  {
+   "key": "394b8e040a41",
+   "speaker_korean": null,
+   "korean": "어느 MEMORY CARD 삽입구에서 불러오시겠습니까?"
+  },
+  {
+   "key": "33af55c5f78a",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터를 로드하고 있습니다.\nMEMORY CARD 삽입구1에서\n″PlayStation 2″ 전용 메모리 카드(8MB)를\n뽑거나 꽂지 마십시오."
+  },
+  {
+   "key": "9bd763f3399e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧/⟦2⟧달성률⟦3⟧%"
+  },
+  {
+   "key": "e5a1bbce59af",
+   "speaker_korean": null,
+   "korean": "획득하지 않았습니다."
+  },
+  {
+   "key": "7ae82fc8c45b",
+   "speaker_korean": null,
+   "korean": "200⟦1⟧년⟦2⟧월⟦3⟧일 ⟦4⟧시⟦5⟧분 획득"
+  },
+  {
+   "key": "24604d7677a7",
+   "speaker_korean": null,
+   "korean": "20⟦1⟧년⟦2⟧월⟦3⟧일 ⟦4⟧시⟦5⟧분 획득"
+  },
+  {
+   "key": "8b7e7c124a1e",
+   "speaker_korean": null,
+   "korean": "버튼→획득순"
+  },
+  {
+   "key": "0aad4cb2eaa7",
+   "speaker_korean": null,
+   "korean": "버튼→번호순"
+  },
+  {
+   "key": "50ea38f41850",
+   "speaker_korean": null,
+   "korean": "2P컬러 스테이터스 가능"
+  },
+  {
+   "key": "89eb61d6fb72",
+   "speaker_korean": null,
+   "korean": "유니버스모드(New Game 필요)"
+  },
+  {
+   "key": "75232028d062",
+   "speaker_korean": null,
+   "korean": "3P컬러 스테이터스 가능"
+  },
+  {
+   "key": "7652e7fc06a4",
+   "speaker_korean": null,
+   "korean": "버튼으로 뮤직 모드"
+  },
+  {
+   "key": "09301e270cdf",
+   "speaker_korean": null,
+   "korean": "FD모드(New Game 필요)"
+  },
+  {
+   "key": "8a8602537156",
+   "speaker_korean": null,
+   "korean": "4P컬러 스테이터스 가능"
+  },
+  {
+   "key": "5e91c84d94dc",
+   "speaker_korean": null,
+   "korean": "풀 액티브 모드(New Game 필요)"
+  },
+  {
+   "key": "fe0d1f0a666b",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구1의\n″PlayStation 2″ 전용 메모리 카드(8MB)에 있는\nStar Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터를 로드하는 중에\n이상이 생겨 로드에 실패했습니다.\n\n 타이틀로 돌아가기"
+  },
+  {
+   "key": "cfaf13e286e0",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구1의\n″PlayStation 2″ 전용 메모리 카드(8MB)에\nStar Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터가 없습니다.\n\n 다시 선택."
+  },
+  {
+   "key": "037cea6d782b",
+   "speaker_korean": null,
+   "korean": "데이터 손상되어 있습니다."
+  },
+  {
+   "key": "b05376a6231e",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터를 로드하고 있습니다.\nMEMORY CARD 삽입구2에서\n″PlayStation 2″ 전용 메모리 카드(8MB)를\n뽑거나 꽂지 마십시오."
+  },
+  {
+   "key": "3a44e83bd649",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구2의\n″PlayStation 2″ 전용 메모리 카드(8MB)에 있는\nStar Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터를 로드하는 중에\n이상이 생겨 로드에 실패했습니다.\n\n 타이틀로 돌아가기"
+  },
+  {
+   "key": "fb7cb5f32a75",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구2의\n″PlayStation 2″ 전용 메모리 카드(8MB)에\nStar Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터가 없습니다.\n\n 다시 선택."
+  },
+  {
+   "key": "a288c4be7f61",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구1에\n″PlayStation 2″ 전용 메모리 카드(8MB)가\n꽂혀 있지 않습니다.\n\n 다시 선택."
+  },
+  {
+   "key": "25631532a0eb",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구2에\n″PlayStation 2″ 전용 메모리 카드(8MB)가\n꽂혀 있지 않습니다.\n\n 다시 선택."
+  },
+  {
+   "key": "0983ce44a0a4",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구1의\n″PlayStation 2″ 전용 메모리 카드(8MB)에 있는\nStar Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터는\n손상되었을 가능성이 있습니다.\n로드할 수 없습니다.\n\n 타이틀로 돌아가기"
+  },
+  {
+   "key": "826070908ca3",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구2의\n″PlayStation 2″ 전용 메모리 카드(8MB)에 있는\nStar Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터는\n손상되었을 가능성이 있습니다.\n로드할 수 없습니다.\n\n 타이틀로 돌아가기"
+  },
+  {
+   "key": "0ec230756e5a",
+   "speaker_korean": null,
+   "korean": "쇠파이프 온리 승리"
+  },
+  {
+   "key": "8e104b2285d5",
+   "speaker_korean": null,
+   "korean": "노턴 쇠파이프 온리 승리"
+  },
+  {
+   "key": "576282ed1ae4",
+   "speaker_korean": null,
+   "korean": "쇠파이프 99999 데미지"
+  },
+  {
+   "key": "80b68479b533",
+   "speaker_korean": null,
+   "korean": "루시퍼 쇠파이프 온리 승리"
+  },
+  {
+   "key": "3c33b05a1ae4",
+   "speaker_korean": null,
+   "korean": "레나스 쇠파이프 온리 승리"
+  },
+  {
+   "key": "738ae60d8513",
+   "speaker_korean": null,
+   "korean": "1곡만"
+  },
+  {
+   "key": "ee0874f90d53",
+   "speaker_korean": null,
+   "korean": "곡순 자동 연주"
+  },
+  {
+   "key": "f5f8c52b43ee",
+   "speaker_korean": null,
+   "korean": "랜덤 자동 연주"
+  },
+  {
+   "key": "984669865ea8",
+   "speaker_korean": null,
+   "korean": "통상 모드"
+  },
+  {
+   "key": "68c0218804e6",
+   "speaker_korean": null,
+   "korean": "LR 독립 모드"
+  },
+  {
+   "key": "debfa31fd7f8",
+   "speaker_korean": null,
+   "korean": "비행 잊은 새 ~ STAR OCEAN VERSION"
+  },
+  {
+   "key": "8aa91679f4e8",
+   "speaker_korean": null,
+   "korean": "비행 잊은 새 ~ Instrumetal version"
+  },
+  {
+   "key": "4605a01033f3",
+   "speaker_korean": null,
+   "korean": "비행 잊은 새 ~ Short version"
+  }
+ ]
+}

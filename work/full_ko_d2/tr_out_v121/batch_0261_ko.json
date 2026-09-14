@@ -1,0 +1,570 @@
+{
+ "batch_id": "batch_0261",
+ "translations": [
+  {
+   "key": "0dcd2f684412",
+   "speaker_korean": null,
+   "korean": "공격력 1/2"
+  },
+  {
+   "key": "dc64c4159901",
+   "speaker_korean": null,
+   "korean": "왠지 불길하다"
+  },
+  {
+   "key": "7ce93ff242b6",
+   "speaker_korean": null,
+   "korean": "저주받은 것 같다"
+  },
+  {
+   "key": "ac0e9d78db89",
+   "speaker_korean": null,
+   "korean": "배틀스킬 소비가…!"
+  },
+  {
+   "key": "6e5f1bf2b58d",
+   "speaker_korean": null,
+   "korean": "소비 Guts가…!"
+  },
+  {
+   "key": "e26c87a3ea18",
+   "speaker_korean": null,
+   "korean": "공격시 무수한 광탄 발사"
+  },
+  {
+   "key": "099f25fe1650",
+   "speaker_korean": null,
+   "korean": "공격시 무수한 화염탄 발사"
+  },
+  {
+   "key": "09463be999df",
+   "speaker_korean": null,
+   "korean": "공격시 무수한 뇌탄 발사"
+  },
+  {
+   "key": "956484986fcb",
+   "speaker_korean": null,
+   "korean": "공격시 무수한 빙탄 발사"
+  },
+  {
+   "key": "5abbdc8cc6f4",
+   "speaker_korean": null,
+   "korean": "방어 시 무수한 광탄 발사"
+  },
+  {
+   "key": "006f72b3a144",
+   "speaker_korean": null,
+   "korean": "일반공격 판정 1 증가"
+  },
+  {
+   "key": "7a90a7adff77",
+   "speaker_korean": null,
+   "korean": "일반공격 판정 2 증가"
+  },
+  {
+   "key": "fdff72664b54",
+   "speaker_korean": null,
+   "korean": "일반공격 판정 3 증가"
+  },
+  {
+   "key": "69e7d702af10",
+   "speaker_korean": null,
+   "korean": "HP20회복"
+  },
+  {
+   "key": "e415aafcc2ae",
+   "speaker_korean": null,
+   "korean": "HP50회복"
+  },
+  {
+   "key": "e49cd26cb362",
+   "speaker_korean": null,
+   "korean": "HP100회복"
+  },
+  {
+   "key": "f2b3a7e14e12",
+   "speaker_korean": null,
+   "korean": "HP500회복"
+  },
+  {
+   "key": "acaad5180c9e",
+   "speaker_korean": null,
+   "korean": "땅 공격속성 부여"
+  },
+  {
+   "key": "5daad67759c4",
+   "speaker_korean": null,
+   "korean": "물 공격속성 부가"
+  },
+  {
+   "key": "4261c150c4f1",
+   "speaker_korean": null,
+   "korean": "불 공격속성 부가"
+  },
+  {
+   "key": "c87a7de76a15",
+   "speaker_korean": null,
+   "korean": "풍 공격속성 부여"
+  },
+  {
+   "key": "738bb45f3003",
+   "speaker_korean": null,
+   "korean": "미사용440"
+  },
+  {
+   "key": "084435db731a",
+   "speaker_korean": null,
+   "korean": "배틀스킬「캐논・블레이즈」 습득"
+  },
+  {
+   "key": "d2b1d7b529c5",
+   "speaker_korean": null,
+   "korean": "배틀스킬「이모션・토렌트」 습득"
+  },
+  {
+   "key": "93bff4a815e0",
+   "speaker_korean": null,
+   "korean": "배틀스킬「스피큘」 습득"
+  },
+  {
+   "key": "f38b35a32a72",
+   "speaker_korean": null,
+   "korean": "크리티컬 확률+1"
+  },
+  {
+   "key": "31d28d12c61f",
+   "speaker_korean": null,
+   "korean": "크리티컬 확률+3"
+  },
+  {
+   "key": "257b3fe31dc2",
+   "speaker_korean": null,
+   "korean": "크리티컬 확률+5"
+  },
+  {
+   "key": "ad411cfe84d1",
+   "speaker_korean": null,
+   "korean": "크리티컬 확률+7"
+  },
+  {
+   "key": "9332716430c0",
+   "speaker_korean": null,
+   "korean": "크리티컬 확률+10"
+  },
+  {
+   "key": "6754ec26fcbb",
+   "speaker_korean": null,
+   "korean": "크리티컬 확률+15"
+  },
+  {
+   "key": "d31df5bf7b62",
+   "speaker_korean": null,
+   "korean": "크리티컬 확률+20"
+  },
+  {
+   "key": "1219803f1bc9",
+   "speaker_korean": null,
+   "korean": "크리티컬 확률+30"
+  },
+  {
+   "key": "8a01ca4fe070",
+   "speaker_korean": null,
+   "korean": "크리티컬 확률+50"
+  },
+  {
+   "key": "b211555bf733",
+   "speaker_korean": null,
+   "korean": "크리티컬 확률+80"
+  },
+  {
+   "key": "96ee07ea1dbb",
+   "speaker_korean": null,
+   "korean": "CA「스탠더드」 습득"
+  },
+  {
+   "key": "d999486f318e",
+   "speaker_korean": null,
+   "korean": "CA「2WAY」 습득"
+  },
+  {
+   "key": "8f7437291b3b",
+   "speaker_korean": null,
+   "korean": "CA「링웨이브」 습득"
+  },
+  {
+   "key": "6a41187b5243",
+   "speaker_korean": null,
+   "korean": "CA「에이밍」 습득"
+  },
+  {
+   "key": "dbd972d33561",
+   "speaker_korean": null,
+   "korean": "CA「와이드・에이밍」 습득"
+  },
+  {
+   "key": "3ca2ea7c4507",
+   "speaker_korean": null,
+   "korean": "CA「리제너레이션」 습득"
+  },
+  {
+   "key": "a2ef166801e7",
+   "speaker_korean": null,
+   "korean": "배틀스킬「드레인」 습득"
+  },
+  {
+   "key": "4100a6310222",
+   "speaker_korean": null,
+   "korean": "배틀스킬「겟아이템」 습득"
+  },
+  {
+   "key": "ddd447db3448",
+   "speaker_korean": null,
+   "korean": "배틀스킬「스태미나업」 습득"
+  },
+  {
+   "key": "00ab9a168d77",
+   "speaker_korean": null,
+   "korean": "배틀스킬「더블업」 습득"
+  },
+  {
+   "key": "3857c0fec943",
+   "speaker_korean": null,
+   "korean": "배틀스킬「커먼어택스펠」 습득"
+  },
+  {
+   "key": "05b13208c3f4",
+   "speaker_korean": null,
+   "korean": "배틀스킬「커먼서포트스펠」 습득"
+  },
+  {
+   "key": "7ef552f596c8",
+   "speaker_korean": null,
+   "korean": "배틀스킬「MP익스텐드」 습득"
+  },
+  {
+   "key": "c7d52e3c5936",
+   "speaker_korean": null,
+   "korean": "배틀스킬「퀵차지」 습득"
+  },
+  {
+   "key": "9c13af21d4c7",
+   "speaker_korean": null,
+   "korean": "배틀스킬「Guts익스텐드」 습득"
+  },
+  {
+   "key": "2a7979ba596b",
+   "speaker_korean": null,
+   "korean": "배틀스킬「럭키스타」 습득"
+  },
+  {
+   "key": "719586222ea8",
+   "speaker_korean": null,
+   "korean": "택티컬스킬「수행」 습득"
+  },
+  {
+   "key": "e86d00ab34b6",
+   "speaker_korean": null,
+   "korean": "택티컬스킬「밸런스컨디션」 습득"
+  },
+  {
+   "key": "52e32bdae5c1",
+   "speaker_korean": null,
+   "korean": "택티컬스킬「큐어컨디션」 습득"
+  },
+  {
+   "key": "252809732fe5",
+   "speaker_korean": null,
+   "korean": "배틀스킬「디바인・웨폰」 습득"
+  },
+  {
+   "key": "bdad998e74a2",
+   "speaker_korean": null,
+   "korean": "배틀스킬「이세리얼・블래스트」 습득"
+  },
+  {
+   "key": "d92948a9724d",
+   "speaker_korean": null,
+   "korean": "배틀스킬「매지컬・댄스」 습득"
+  },
+  {
+   "key": "80cf51f2a673",
+   "speaker_korean": null,
+   "korean": "배틀스킬「드림・콤보」 습득"
+  },
+  {
+   "key": "af2980d0faef",
+   "speaker_korean": null,
+   "korean": "배틀스킬「무한・쌍파참」 습득"
+  },
+  {
+   "key": "6dd2ddc01bda",
+   "speaker_korean": null,
+   "korean": "배틀스킬「무한・공파참」 습득"
+  },
+  {
+   "key": "59a6f16e7dce",
+   "speaker_korean": null,
+   "korean": "배틀스킬「인피니티・아츠」 습득"
+  },
+  {
+   "key": "76dc44435b1f",
+   "speaker_korean": null,
+   "korean": "배틀스킬「맥스・익스텐션」 습득"
+  },
+  {
+   "key": "921eba19b813",
+   "speaker_korean": null,
+   "korean": "배틀스킬「봉신성뢰파」 습득"
+  },
+  {
+   "key": "b11057f86e92",
+   "speaker_korean": null,
+   "korean": "배틀스킬「이앵화 작광」 습득"
+  },
+  {
+   "key": "083cf0c3ead7",
+   "speaker_korean": null,
+   "korean": "배틀스킬「버스트・에미션」 습득"
+  },
+  {
+   "key": "430bbfa55460",
+   "speaker_korean": null,
+   "korean": "배틀스킬「레디에이션・디바이스」 습득"
+  },
+  {
+   "key": "14e0d3f82f5d",
+   "speaker_korean": null,
+   "korean": "배틀스킬「트라이・퍼널」 습득"
+  },
+  {
+   "key": "d77b23292a6a",
+   "speaker_korean": null,
+   "korean": "배틀스킬「스타・폴」 습득"
+  },
+  {
+   "key": "b1e40daafb13",
+   "speaker_korean": null,
+   "korean": "땅 방어속성 부여[흡수]"
+  },
+  {
+   "key": "64fc134193c6",
+   "speaker_korean": null,
+   "korean": "땅 방어속성 부여[데미지0]"
+  },
+  {
+   "key": "6e41fcee6cd2",
+   "speaker_korean": null,
+   "korean": "땅 방어속성 부여[데미지1/2]"
+  },
+  {
+   "key": "0f5385e10627",
+   "speaker_korean": null,
+   "korean": "땅 방어속성 부여[데미지2배]"
+  },
+  {
+   "key": "12015e6081c2",
+   "speaker_korean": null,
+   "korean": "땅 방어속성 부여[즉사]"
+  },
+  {
+   "key": "e482c3ac4d13",
+   "speaker_korean": null,
+   "korean": "물 방어속성 부가[흡수]"
+  },
+  {
+   "key": "4e6a359a5d2d",
+   "speaker_korean": null,
+   "korean": "물 방어속성 부가[데미지0]"
+  },
+  {
+   "key": "52d9f6f0b061",
+   "speaker_korean": null,
+   "korean": "물 방어속성 부가[데미지1/2]"
+  },
+  {
+   "key": "d051768621ca",
+   "speaker_korean": null,
+   "korean": "물 방어속성 부가[데미지2배]"
+  },
+  {
+   "key": "c9f1ce23fa75",
+   "speaker_korean": null,
+   "korean": "물 방어속성 부가[즉사]"
+  },
+  {
+   "key": "36651f30d5a4",
+   "speaker_korean": null,
+   "korean": "불 방어속성 부가[흡수]"
+  },
+  {
+   "key": "fa3f6920f3ac",
+   "speaker_korean": null,
+   "korean": "불 방어속성 부가[데미지0]"
+  },
+  {
+   "key": "33567ae02a9a",
+   "speaker_korean": null,
+   "korean": "불 방어속성 부가[데미지1/2]"
+  },
+  {
+   "key": "32502def9b75",
+   "speaker_korean": null,
+   "korean": "불 방어속성 부가[데미지2배]"
+  },
+  {
+   "key": "7f335159c6b1",
+   "speaker_korean": null,
+   "korean": "불 방어속성 부가[즉사]"
+  },
+  {
+   "key": "7231f3c99af9",
+   "speaker_korean": null,
+   "korean": "풍 방어속성 부여[흡수]"
+  },
+  {
+   "key": "66a2faad9566",
+   "speaker_korean": null,
+   "korean": "풍 방어속성 부여[데미지0]"
+  },
+  {
+   "key": "b52decf11343",
+   "speaker_korean": null,
+   "korean": "풍 방어속성 부여[데미지1/2]"
+  },
+  {
+   "key": "652fa204045d",
+   "speaker_korean": null,
+   "korean": "풍 방어속성 부여[데미지2배]"
+  },
+  {
+   "key": "ab7cf7755e0d",
+   "speaker_korean": null,
+   "korean": "풍 방어속성 부여[즉사]"
+  },
+  {
+   "key": "de84e464f1ff",
+   "speaker_korean": null,
+   "korean": "HP회복 10%"
+  },
+  {
+   "key": "9cb87efe1b7d",
+   "speaker_korean": null,
+   "korean": "MP 회복10%"
+  },
+  {
+   "key": "feddd8194bc3",
+   "speaker_korean": null,
+   "korean": "무적 상태가 되나 항상 기절"
+  },
+  {
+   "key": "51859f90c388",
+   "speaker_korean": null,
+   "korean": "전투중 주기적 MP3% 회복"
+  },
+  {
+   "key": "6e5efd1a9d79",
+   "speaker_korean": null,
+   "korean": "전투중 주기적 MP6% 회복"
+  },
+  {
+   "key": "acdce19826ed",
+   "speaker_korean": null,
+   "korean": "INT 상승+20%"
+  },
+  {
+   "key": "29ca11f15761",
+   "speaker_korean": null,
+   "korean": "행동불능 시 Guts 발생률+20%"
+  },
+  {
+   "key": "92b60c68d07c",
+   "speaker_korean": null,
+   "korean": "행동불능 시 Guts 발생률+30%"
+  },
+  {
+   "key": "1d27a08a22f5",
+   "speaker_korean": null,
+   "korean": "ATK HIT 10% 상승"
+  },
+  {
+   "key": "0cf273f96e57",
+   "speaker_korean": null,
+   "korean": "INT AGL 10% 상승"
+  },
+  {
+   "key": "320770b2cfac",
+   "speaker_korean": null,
+   "korean": "ATK 5% 상승"
+  },
+  {
+   "key": "c7ef875cde4f",
+   "speaker_korean": null,
+   "korean": "HIT 5% 상승"
+  },
+  {
+   "key": "92cb64b857e0",
+   "speaker_korean": null,
+   "korean": "AGL 5% 상승"
+  },
+  {
+   "key": "7f271ebe1b00",
+   "speaker_korean": null,
+   "korean": "DEF 5% 상승"
+  },
+  {
+   "key": "a80cc330938c",
+   "speaker_korean": null,
+   "korean": "INT 5% 상승"
+  },
+  {
+   "key": "b624b4fc9b58",
+   "speaker_korean": null,
+   "korean": "전투중 적을 기절시킴"
+  },
+  {
+   "key": "6f259071260b",
+   "speaker_korean": null,
+   "korean": "공격시 무수한 광탄 발사 고위력"
+  },
+  {
+   "key": "4d49c0d1e7a7",
+   "speaker_korean": null,
+   "korean": "공격시 무수한 화염탄 발사 고위력"
+  },
+  {
+   "key": "cee70e1ba205",
+   "speaker_korean": null,
+   "korean": "공격시 무수한 뇌탄 발사 고위력"
+  },
+  {
+   "key": "d1be609c4feb",
+   "speaker_korean": null,
+   "korean": "공격시 무수한 빙탄 발사 고위력"
+  },
+  {
+   "key": "409e16d5d9a6",
+   "speaker_korean": null,
+   "korean": "방어 시 무수한 광탄 발사 고위력"
+  },
+  {
+   "key": "83b5dfe5fa9a",
+   "speaker_korean": null,
+   "korean": "파괴율5%"
+  },
+  {
+   "key": "297993da68ba",
+   "speaker_korean": null,
+   "korean": "파괴율20%"
+  },
+  {
+   "key": "fe0f6da27501",
+   "speaker_korean": null,
+   "korean": "파괴율30%"
+  },
+  {
+   "key": "80ea24d6daaf",
+   "speaker_korean": null,
+   "korean": "배틀스킬「그렘린 레어」 습득"
+  }
+ ]
+}

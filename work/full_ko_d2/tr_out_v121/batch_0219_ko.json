@@ -1,0 +1,315 @@
+{
+ "batch_id": "batch_0219",
+ "translations": [
+  {
+   "key": "5a6df354d856",
+   "speaker_korean": "페이트",
+   "korean": "「우리가… 이놈들을 막아낸다!!"
+  },
+  {
+   "key": "28acf5d80e1a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧소피아⟦2⟧가\n파티를 일시 이탈합니다.\n전투 멤버를\n교체할까요?"
+  },
+  {
+   "key": "c863e942d5a0",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・안 함.⟦2⟧"
+  },
+  {
+   "key": "c9c5f7545729",
+   "speaker_korean": "페이트",
+   "korean": "「아직이냐, ⟦1⟧소피아⟦2⟧!?"
+  },
+  {
+   "key": "d53054ce53da",
+   "speaker_korean": "소피아",
+   "korean": "「미안! 조금만 더 버텨!\n지금 하고 있으니까!!"
+  },
+  {
+   "key": "9a3fba274f5a",
+   "speaker_korean": "페이트",
+   "korean": "「젠장!"
+  },
+  {
+   "key": "620ef7621e00",
+   "speaker_korean": "페이트",
+   "korean": "「이러면 되는 거냐?"
+  },
+  {
+   "key": "090f6c3325d5",
+   "speaker_korean": "소피아",
+   "korean": "「⟦1⟧페이트⟦2⟧,\n이걸로 끝난 거야?"
+  },
+  {
+   "key": "637cd7e41942",
+   "speaker_korean": "페이트",
+   "korean": "「아마도…."
+  },
+  {
+   "key": "126efdfd1267",
+   "speaker_korean": "소피아",
+   "korean": "「오너라는 사람은 어떻게 됐을까?"
+  },
+  {
+   "key": "684da6f3ba2c",
+   "speaker_korean": "클리프",
+   "korean": "「신경 쓸 거 없다고.\n실제로 그 빌어먹을 천사 놈들은\n사라졌으니까… 끝난 거라고."
+  },
+  {
+   "key": "54f7c716d747",
+   "speaker_korean": "넬",
+   "korean": "「그래, 임무 완료란 거지."
+  },
+  {
+   "key": "e4293b41b992",
+   "speaker_korean": "로저",
+   "korean": "「그래그래. 신경 쓰지 말라고.\n머리 너무 쓰면 바보 된다고.\n아빠도 그랬거든."
+  },
+  {
+   "key": "54bfcc6086ce",
+   "speaker_korean": "클리프",
+   "korean": "「뭐라는 거냐!?"
+  },
+  {
+   "key": "3d268296cde5",
+   "speaker_korean": "마리아",
+   "korean": "「그냥 지진은 아닌 것 같네…!"
+  },
+  {
+   "key": "90ea756e6028",
+   "speaker_korean": "페이트",
+   "korean": "「어떻게 된 거야?\n끝난 거 아니었어!?"
+  },
+  {
+   "key": "b762ef0256a7",
+   "speaker_korean": "스프레",
+   "korean": "「왜에!?\n끝난 거 아니었어~!?"
+  },
+  {
+   "key": "674acbc43a41",
+   "speaker_korean": "마리아",
+   "korean": "「이건…."
+  },
+  {
+   "key": "596046c03da5",
+   "speaker_korean": "클리프",
+   "korean": "「진짜냐…."
+  },
+  {
+   "key": "4836521e7fbc",
+   "speaker_korean": "넬",
+   "korean": "「이런 이런, 의욕이 넘치는 느낌이네."
+  },
+  {
+   "key": "e4c62267dcb1",
+   "speaker_korean": "로저",
+   "korean": "「뭔가 기분 나쁜 녀석이잖아…."
+  },
+  {
+   "key": "bdcd235a5a0f",
+   "speaker_korean": "스프레",
+   "korean": "「싫은데…."
+  },
+  {
+   "key": "4620dbe8f5cf",
+   "speaker_korean": "마리아",
+   "korean": "「다들 조심해.\n왠지 지금까지와는 다른 힘이 느껴져…."
+  },
+  {
+   "key": "c8bf47caa6a6",
+   "speaker_korean": "소피아",
+   "korean": "「…됐다!"
+  },
+  {
+   "key": "3b84300f9fca",
+   "speaker_korean": "스프레",
+   "korean": "「끝난 거구나… 다행이다♪"
+  },
+  {
+   "key": "18649b287c34",
+   "speaker_korean": "소피아",
+   "korean": "「꺄악!?"
+  },
+  {
+   "key": "7ac7615f7fd8",
+   "speaker_korean": "페이트",
+   "korean": "「뭐, 뭐야!?"
+  },
+  {
+   "key": "afdb078f9218",
+   "speaker_korean": "페이트",
+   "korean": "「그래… 돌아가자."
+  },
+  {
+   "key": "58035409103b",
+   "speaker_korean": "페이트",
+   "korean": "「뭐야!?"
+  },
+  {
+   "key": "617e3e9eb7bd",
+   "speaker_korean": "마리아",
+   "korean": "「곤란하게 됐네…."
+  },
+  {
+   "key": "f5c5f9c4218a",
+   "speaker_korean": "클리프",
+   "korean": "「이건 웃지 못할 농담이군.\n크기는 줄어들었으면서도,\n힘은 장난 아니잖아."
+  },
+  {
+   "key": "10762e2ba6cc",
+   "speaker_korean": "블레어",
+   "korean": "『…들! 다들!!"
+  },
+  {
+   "key": "1bdec103f684",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧블레어 씨⟦2⟧!?"
+  },
+  {
+   "key": "8d1c7a22ce57",
+   "speaker_korean": "블레어",
+   "korean": "「다행이다… 무사했구나."
+  },
+  {
+   "key": "de44260a0daa",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧블레어 씨⟦2⟧,\n대체 이게 어떻게 된 일인 겁니까!?"
+  },
+  {
+   "key": "36ca59ecf519",
+   "speaker_korean": "소피아",
+   "korean": "「⟦1⟧언인스톨러⟦2⟧를 사용했는데도,\n⟦3⟧엑스큐셔너⟦4⟧가 사라지지 않아요!"
+  },
+  {
+   "key": "cac0752f5791",
+   "speaker_korean": "블레어",
+   "korean": "「바로 그거야. 당했어."
+  },
+  {
+   "key": "ccbbaec2a1c9",
+   "speaker_korean": "마리아",
+   "korean": "「설명해 줄 거지?"
+  },
+  {
+   "key": "7b475b1fe20c",
+   "speaker_korean": "넬",
+   "korean": "「뭘 당했다는 거야?"
+  },
+  {
+   "key": "21d2b4f4d1d1",
+   "speaker_korean": "알벨",
+   "korean": "「설명을 좀 들어볼까."
+  },
+  {
+   "key": "d047ced31387",
+   "speaker_korean": "스프레",
+   "korean": "「그게 무슨 말이야?"
+  },
+  {
+   "key": "1bb746c38f6e",
+   "speaker_korean": "로저",
+   "korean": "「응? 으응~?\n메라, 하나도 모르겠다고~."
+  },
+  {
+   "key": "d5716ff6fe4e",
+   "speaker_korean": "블레어",
+   "korean": "「그래."
+  },
+  {
+   "key": "221beef5364d",
+   "speaker_korean": "블레어",
+   "korean": "「사실은 오너에게 선수를\n빼앗긴 것 같아."
+  },
+  {
+   "key": "50fed1efe2f9",
+   "speaker_korean": "소피아",
+   "korean": "「선수요?"
+  },
+  {
+   "key": "638214ecbc3a",
+   "speaker_korean": "블레어",
+   "korean": "「그래. 오너는 우리가 ⟦1⟧언인스톨러⟦2⟧를\n작동시킬 걸 예상하고,\n보안 프로그램을 심어놨던 거야."
+  },
+  {
+   "key": "5731fce55844",
+   "speaker_korean": "블레어",
+   "korean": "「⟦1⟧언인스톨러⟦2⟧를\n작동시켰을 때만 움직이는,\n특수한 프로그램이지."
+  },
+  {
+   "key": "3c7a4a16cfb2",
+   "speaker_korean": "페이트",
+   "korean": "「그게… 그 새로운\n⟦1⟧엑스큐셔너⟦2⟧라는\n거였군요."
+  },
+  {
+   "key": "428c4958cfa5",
+   "speaker_korean": "블레어",
+   "korean": "「그래…\n알고 있어?"
+  },
+  {
+   "key": "f3ec19e6e505",
+   "speaker_korean": "클리프",
+   "korean": "「그래, 방금 막\n상대해 드리고 온 참이라고."
+  },
+  {
+   "key": "2970f7dc72e5",
+   "speaker_korean": "블레어",
+   "korean": "「쓰러뜨린 거야!?"
+  },
+  {
+   "key": "e368e96576c5",
+   "speaker_korean": "페이트",
+   "korean": "「네… 고생은 좀 했지만요."
+  },
+  {
+   "key": "94d1ffd5dad2",
+   "speaker_korean": "블레어",
+   "korean": "「그래.\n그럼 알겠지만, 그들 『⟦1⟧단죄자⟦2⟧』는\n지금까지의 『⟦3⟧집행자⟦4⟧』들과는 달라."
+  },
+  {
+   "key": "c37229463292",
+   "speaker_korean": "블레어",
+   "korean": "「크기는 소형화됐지만,\n설정된 파라미터는 강대해.\n이대로는 은하의 소멸을 피할 수 없어."
+  },
+  {
+   "key": "b5b72423bca6",
+   "speaker_korean": "소피아",
+   "korean": "「어떻게 안 되는 건가요?"
+  },
+  {
+   "key": "9f6bb02c3728",
+   "speaker_korean": "블레어",
+   "korean": "「그 보안 프로그램은\n그쪽 세계에서 기동된 흔적이 있어.\n즉 오너는 ⟦1⟧에터널 스피어⟦2⟧ 안에\n있다는 뜻이야."
+  },
+  {
+   "key": "e76517b59501",
+   "speaker_korean": "클리프",
+   "korean": "「그래서 그게 어쨌다는 거야.\n우린 대처법을 묻고 있다고?"
+  },
+  {
+   "key": "ba407df3de75",
+   "speaker_korean": "블레어",
+   "korean": "「오너를 설득하는 거야….\n그리고, 보안 프로그램의 언인스톨을\n실행시킬 수 있다면,\n은하의 소멸을 피할 수 있을지도 몰라."
+  },
+  {
+   "key": "7906e4dd7fb0",
+   "speaker_korean": "블레어",
+   "korean": "「나도 그걸\n설명하고 있는 거야."
+  },
+  {
+   "key": "5915c2da2c53",
+   "speaker_korean": "소피아",
+   "korean": "「하지만, 순순히 설득에\n응해 줄까요?"
+  },
+  {
+   "key": "fbb8138927ca",
+   "speaker_korean": "마리아",
+   "korean": "「그때는 힘으로라도\n언인스톨시키면\n되는 거지."
+  },
+  {
+   "key": "f164a60c08b1",
+   "speaker_korean": "블레어",
+   "korean": "「오너는 아마 스스로 만들어낸\n특수 공간에 있을 거야.\n다만 그곳에 가려면 특수 ⟦1⟧AD⟦2⟧가\n필요해지는데."
+  }
+ ]
+}

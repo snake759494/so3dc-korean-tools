@@ -1,0 +1,360 @@
+{
+ "batch_id": "batch_0167",
+ "translations": [
+  {
+   "key": "026a33f588d4",
+   "speaker_korean": "제시",
+   "korean": "『결코 포기하지 마, 끝까지 살아남아!\n너에겐 그럴 힘이 있으니까…"
+  },
+  {
+   "key": "3eb0c3a0c47d",
+   "speaker_korean": "마리아",
+   "korean": "「다들,\n포기하면 안 돼!"
+  },
+  {
+   "key": "c8ba9b44c01b",
+   "speaker_korean": "클리프",
+   "korean": "「너,\n왜 그러는 거야…"
+  },
+  {
+   "key": "09bde9dcddf3",
+   "speaker_korean": "마리아",
+   "korean": "「⟦1⟧미라쥬⟦2⟧,\n⟦3⟧양자어뢰⟦4⟧를 쏴!"
+  },
+  {
+   "key": "f7efeb399833",
+   "speaker_korean": "미라쥬",
+   "korean": "「어, 하지만…"
+  },
+  {
+   "key": "f7434b9f82ec",
+   "speaker_korean": "마리아",
+   "korean": "「쏴!"
+  },
+  {
+   "key": "df199f8a84cf",
+   "speaker_korean": "클리프",
+   "korean": "「상관없다!\n쏴라, ⟦1⟧미라쥬⟦2⟧!"
+  },
+  {
+   "key": "3676856ea7b9",
+   "speaker_korean": "미라쥬",
+   "korean": "「알, 알겠습니다!"
+  },
+  {
+   "key": "18a7f4e08404",
+   "speaker_korean": "미라쥬",
+   "korean": "「⟦1⟧마리아⟦2⟧…,\n무슨 일이에요!?"
+  },
+  {
+   "key": "d51cdd2df1ab",
+   "speaker_korean": "클리프",
+   "korean": "「⟦1⟧전투함⟦2⟧이라고!?"
+  },
+  {
+   "key": "c63d47c0e9bb",
+   "speaker_korean": "마리에타",
+   "korean": "「⟦1⟧양자어뢰⟦2⟧ 2발 피탄! ⟦3⟧실드⟦4⟧ 83%로 저하!\n적함, 시공 안정에 들어갔습니다.\n다음 ⟦5⟧크리에이션 포⟦6⟧, 100초 후!"
+  },
+  {
+   "key": "700ddebdac8a",
+   "speaker_korean": "클리프",
+   "korean": "「긴급 회피 프로그램 작동!\n⟦1⟧양자어뢰⟦2⟧ 준비!\n⟦3⟧페이즈 캐논⟦4⟧ 발사!"
+  },
+  {
+   "key": "8fa176b3356c",
+   "speaker_korean": "미라쥬",
+   "korean": "「알겠습니다!\n⟦1⟧양자어뢰⟦2⟧ 준비 완료…,\n⟦3⟧페이즈 캐논⟦4⟧도 함께 발사합니다!"
+  },
+  {
+   "key": "c76d7c807671",
+   "speaker_korean": "마리에타",
+   "korean": "「적 ⟦1⟧실드⟦2⟧에 ⟦3⟧양자어뢰⟦4⟧,\n⟦5⟧페이즈 캐논⟦6⟧ 모두 명중!\n하지만, 전혀 피해가 없습니다!\n전부 ⟦7⟧실드⟦8⟧에 흡수되고 있습니다!"
+  },
+  {
+   "key": "0149151e8ba9",
+   "speaker_korean": "미라쥬",
+   "korean": "「과연 최신예함이네요.\n좋은 ⟦1⟧실드⟦2⟧를 장비하고 있어요."
+  },
+  {
+   "key": "7042c1c4e622",
+   "speaker_korean": "클리프",
+   "korean": "「감탄이나 하고\n있을 때냐!"
+  },
+  {
+   "key": "6285fa50df49",
+   "speaker_korean": "마리에타",
+   "korean": "「적 3차 사격 옵니다!\n⟦1⟧양자어뢰⟦2⟧ 8문 동시 발사입니다!"
+  },
+  {
+   "key": "c88195bbe7cc",
+   "speaker_korean": "클리프",
+   "korean": "「제기랄,\n쏘고 싶은 대로 쏴 대는군!"
+  },
+  {
+   "key": "7e926420d8b6",
+   "speaker_korean": "클리프",
+   "korean": "「피해 상황은?"
+  },
+  {
+   "key": "f1c648e57066",
+   "speaker_korean": "마리에타",
+   "korean": "「적함, 완전히 소멸했습니다…"
+  },
+  {
+   "key": "bc50812740a7",
+   "speaker_korean": "클리프",
+   "korean": "「어, 어떻게 된 거야…"
+  },
+  {
+   "key": "1d4e4af1408f",
+   "speaker_korean": "클리프",
+   "korean": "「네 짓이라는 거냐…?"
+  },
+  {
+   "key": "492f5ddb977a",
+   "speaker_korean": "마리아",
+   "korean": "「다들, 지금 돌아왔어.\n이 함의 목적은 라인갓 박사의\n신병 확보야.\n조금 늦었지만, 당초 예정대로,\n포인트 l317로 향할 거야.\n전원 배치로!!"
+  },
+  {
+   "key": "0e21d8f03aaa",
+   "speaker_korean": "마리에타",
+   "korean": "「넵!!"
+  },
+  {
+   "key": "8c390bc9166c",
+   "speaker_korean": "페이트",
+   "korean": "「자, 잠깐만…\n신병 확보라니, 아버지가\n지금 어디 있는지 알고 있는 거야?"
+  },
+  {
+   "key": "885d44d8c6d3",
+   "speaker_korean": "마리아",
+   "korean": "「그래. 포인트S317의 행성 내\n자연 동굴에 감금되어 있어."
+  },
+  {
+   "key": "87f216544c2f",
+   "speaker_korean": "마리아",
+   "korean": "「교묘하게 위장해 놨지만,\n⟦1⟧반데인⟦2⟧의 비밀 기지가 틀림없어."
+  },
+  {
+   "key": "00557e5f7218",
+   "speaker_korean": "페이트",
+   "korean": "「비밀 기지라니,\n그런 것까지!?"
+  },
+  {
+   "key": "8e65e75c31cd",
+   "speaker_korean": "마리아",
+   "korean": "「⟦1⟧쿼크⟦2⟧의 정보망을\n얕보지 마.\n곧 ⟦3⟧중력 워프⟦4⟧에 들어갈 거야.\n넌 거기 앉아나 있어."
+  },
+  {
+   "key": "41bcb0b4942d",
+   "speaker_korean": "페이트",
+   "korean": "「아, 응."
+  },
+  {
+   "key": "55ae33e3d470",
+   "speaker_korean": "마리아",
+   "korean": "「⟦1⟧중력 워프⟦2⟧로 포인트l317로 간다.\n추력 1n4로 궤도를 이탈한다."
+  },
+  {
+   "key": "76df278238e5",
+   "speaker_korean": "미라쥬",
+   "korean": "「알겠습니다.\n추력 1n4로 궤도를 이탈합니다."
+  },
+  {
+   "key": "d9ef53e3d8fd",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧미라쥬 씨⟦2⟧,\n⟦3⟧에리클⟦4⟧로 향해 주세요."
+  },
+  {
+   "key": "dea9dc051e05",
+   "speaker_korean": "미라쥬",
+   "korean": "「⟦1⟧에리클⟦2⟧ 말씀이시죠?\n알겠습니다."
+  },
+  {
+   "key": "16a69ca41568",
+   "speaker_korean": "미라쥬",
+   "korean": "「궤도 이탈했습니다."
+  },
+  {
+   "key": "9327425b35ab",
+   "speaker_korean": "마리아",
+   "korean": "「⟦1⟧중력 워프⟦2⟧에 들어가."
+  },
+  {
+   "key": "b582a668fdf4",
+   "speaker_korean": "미라쥬",
+   "korean": "「알겠습니다.\n⟦1⟧중력 워프⟦2⟧에 들어갑니다."
+  },
+  {
+   "key": "bf174b26267e",
+   "speaker_korean": "마리에타",
+   "korean": "「장거리 센서가\n함선 한 척을 포착했습니다.\n당함으로 ⟦1⟧중력 워프⟦2⟧로 접근 중입니다."
+  },
+  {
+   "key": "629067790619",
+   "speaker_korean": "마리아",
+   "korean": "「소속은?"
+  },
+  {
+   "key": "438e6c1ded67",
+   "speaker_korean": "마리에타",
+   "korean": "「은하 연방 소속의\n⟦1⟧전투함 아쿠아에리⟦2⟧입니다."
+  },
+  {
+   "key": "259d9ef9c004",
+   "speaker_korean": "마리아",
+   "korean": "「⟦1⟧전투함⟦2⟧?\n왜 연방의 ⟦3⟧전투함⟦4⟧이 이런 변경에?"
+  },
+  {
+   "key": "f0a3178efb91",
+   "speaker_korean": "페이트",
+   "korean": "「혹시 이 배를?"
+  },
+  {
+   "key": "d6b56f631b46",
+   "speaker_korean": "마리아",
+   "korean": "「…"
+  },
+  {
+   "key": "50abe032a121",
+   "speaker_korean": "마리에타",
+   "korean": "「통신이 들어오고 있습니다."
+  },
+  {
+   "key": "528bbfb320d0",
+   "speaker_korean": "마리아",
+   "korean": "「전진 정지.\n통신은 스크린으로."
+  },
+  {
+   "key": "4b01f75ad613",
+   "speaker_korean": "미라쥬",
+   "korean": "「알겠습니다."
+  },
+  {
+   "key": "9ffc2f69d95b",
+   "speaker_korean": "마리에타",
+   "korean": "「알겠습니다."
+  },
+  {
+   "key": "dfc789fa2b52",
+   "speaker_korean": "???",
+   "korean": "『연방함 ⟦1⟧아쿠아에리⟦2⟧ 함장 ⟦3⟧비스콤⟦4⟧이다.\n처음 뵙겠소, ⟦5⟧쿼크⟦6⟧의 여러분.\n만나서 영광이오."
+  },
+  {
+   "key": "c660a17dcf2c",
+   "speaker_korean": "마리아",
+   "korean": "「저도 마찬가지예요.\n이런 변경의 땅에서 연방 제일의 명장,\n⟦1⟧비스콤 제독⟦2⟧을 만나게 될 줄은\n생각도 못 했으니까요."
+  },
+  {
+   "key": "e15c75fff544",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『후후… 자네에게 이름을\n기억되고 있었다니. 영광이군.\n뭐, 그런 건 됐고.\n자네 뒤에 있는 게\n라인갓 박사의 아드님인가?"
+  },
+  {
+   "key": "8c3b81ec54fe",
+   "speaker_korean": "마리아",
+   "korean": "「그렇습니다."
+  },
+  {
+   "key": "a291f3c3848c",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『음. 갑작스럽겠지만,\n지금 사태가 급박하네.\n자세히 설명할 시간이\n없으니, 간단히 말하지."
+  },
+  {
+   "key": "81cc7c66d65f",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『지금 귀함을 향해 한 척의\n반데인 함이 접근하고 있네.\n우리 예상이 맞다면,\n그들은 귀함을 공격하지\n않을 테니,\n귀함도 공격하지 말아 주게.\n물론 우리도 손대지 않겠네."
+  },
+  {
+   "key": "b936b3f9da13",
+   "speaker_korean": "페이트",
+   "korean": "「그게 무슨 말씀이시죠?\n왜 ⟦1⟧반데인⟦2⟧이 공격하지 않을 거라고\n아시는 겁니까!?"
+  },
+  {
+   "key": "13cbe70e3474",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『그건―――――"
+  },
+  {
+   "key": "7411e765239c",
+   "speaker_korean": "마리에타",
+   "korean": "「리더, 센서가\n반데인 함을 포착했습니다.\n그쪽에서도 통신이 들어오고 있습니다."
+  },
+  {
+   "key": "172a24c9fafe",
+   "speaker_korean": "마리아",
+   "korean": "「스크린을 전환해."
+  },
+  {
+   "key": "fae01285bd60",
+   "speaker_korean": "???",
+   "korean": "『⟦1⟧반데인 제국⟦2⟧ 소속함 ⟦3⟧다스바누⟦4⟧의\n함장 ⟦5⟧비위그⟦6⟧다.\n너희에게 선택의 여지는 없다.\n얌전히 우리 지시에 따라라."
+  },
+  {
+   "key": "baf245d9d4c6",
+   "speaker_korean": "마리아",
+   "korean": "「또, 대뜸 인사가 험하네."
+  },
+  {
+   "key": "86de81c13079",
+   "speaker_korean": "비위그",
+   "korean": "『이쪽은 은하의 적인\n⟦1⟧록시 라인갓⟦2⟧을 붙잡고 있다.\n너희에게 요구를 거절할 권리는 없다."
+  },
+  {
+   "key": "4ac245db2405",
+   "speaker_korean": "페이트",
+   "korean": "「아버지!\n⟦1⟧소피아⟦2⟧!"
+  },
+  {
+   "key": "870ffd71300e",
+   "speaker_korean": "페이트",
+   "korean": "「네놈들,\n왜 아버지를!!"
+  },
+  {
+   "key": "ebb57945725e",
+   "speaker_korean": "비위그",
+   "korean": "『우리 요구는 하나다.\n그곳에 있는 라인갓의 아들과\n⟦1⟧록시 라인갓⟦2⟧의 교환이다."
+  },
+  {
+   "key": "aa70dd1afda4",
+   "speaker_korean": "페이트",
+   "korean": "「나와… 아버지를?"
+  },
+  {
+   "key": "d6115c6a43b5",
+   "speaker_korean": "마리아",
+   "korean": "「교환 방법은?\n서로의 함으로 전송해서는\n믿을 수 없겠지."
+  },
+  {
+   "key": "9af171da94e9",
+   "speaker_korean": "비위그",
+   "korean": "『당연하다.\n우리는 곧 몇 분 후 그쪽에 도착한다.\n그 후 새로 지시를 내리겠다.\n잠시 그 우주 공역에서 기다려라."
+  },
+  {
+   "key": "cae16631ea1c",
+   "speaker_korean": "마리아",
+   "korean": "「⟦1⟧마리에타⟦2⟧,\n재밍 부탁해."
+  },
+  {
+   "key": "2f1cc60a6724",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『이야기는 잘 들었네."
+  },
+  {
+   "key": "829050497cb2",
+   "speaker_korean": "마리아",
+   "korean": "「이런 거였군요."
+  },
+  {
+   "key": "346fe64c381f",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『그런 거지.\n우리로서도 박사의 신병은\n안전하게 확보하고 싶네.\n박사 일행의 신병이 저쪽에\n구속되어 있는 이상,\n이쪽에서 먼저 공격을 가할\n수는 없어서 말이네."
+  },
+  {
+   "key": "3a1e3702b582",
+   "speaker_korean": "마리아",
+   "korean": "「그렇겠죠.\n제독님, 당신들과 ⟦1⟧반데인⟦2⟧은\n어디까지 정보를 파악하고 있나요?"
+  }
+ ]
+}

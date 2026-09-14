@@ -1,0 +1,390 @@
+{
+ "batch_id": "batch_0091",
+ "translations": [
+  {
+   "key": "1a1473005e9f",
+   "speaker_korean": "넬",
+   "korean": "「하지만, 그게 일인걸.\n어쩔 수 없잖아."
+  },
+  {
+   "key": "cfa9445ca9b1",
+   "speaker_korean": "넬",
+   "korean": "「지금 막 왔어, ⟦1⟧클레어⟦2⟧.\n다녀왔어."
+  },
+  {
+   "key": "e2f4afa4c876",
+   "speaker_korean": "넬",
+   "korean": "「괜찮아.\n여전히 걱정도 많네, 너는."
+  },
+  {
+   "key": "858c8a853ce2",
+   "speaker_korean": "여성 지휘관",
+   "korean": "「다들 수고 많았어요.\n이제 물러가도 좋아요."
+  },
+  {
+   "key": "cc6eeb5b0f25",
+   "speaker_korean": "남성 시술사",
+   "korean": "「넷!"
+  },
+  {
+   "key": "40b184780ebe",
+   "speaker_korean": "여성 시술사",
+   "korean": "「예."
+  },
+  {
+   "key": "20c46a8e2b5e",
+   "speaker_korean": "클레어",
+   "korean": "「그건 그렇지만요."
+  },
+  {
+   "key": "7f1c3e3fe8c6",
+   "speaker_korean": "클레어",
+   "korean": "「이 사람들이 그 얘기하신 분들이에요?"
+  },
+  {
+   "key": "2161b6b5735a",
+   "speaker_korean": "넬",
+   "korean": "「아.\n⟦1⟧그리텐⟦2⟧의 기술자야."
+  },
+  {
+   "key": "450b235e92dd",
+   "speaker_korean": "넬",
+   "korean": "「그렇다고 해도… 아직 협조하길\n망설이고 있지만 말이야."
+  },
+  {
+   "key": "3b40c031b5e1",
+   "speaker_korean": "클레어",
+   "korean": "「…그렇군요."
+  },
+  {
+   "key": "5f26e5e08dac",
+   "speaker_korean": "클레어",
+   "korean": "「저는 시하츠 시술부대 대장을\n맡고 있는 ⟦1⟧클레어 라즈버드⟦2⟧입니다.\n잘 부탁드립니다."
+  },
+  {
+   "key": "1bce9a6624aa",
+   "speaker_korean": "클레어",
+   "korean": "「저희 사정만 내세워 강요한 점\n죄송했습니다.\n하지만… 저희 입장도\n이해해 주세요."
+  },
+  {
+   "key": "d93bc6390c7f",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧페이트 라인갓⟦2⟧입니다.\n잘 부탁드립니다."
+  },
+  {
+   "key": "6dd9db1c9fb1",
+   "speaker_korean": "클리프",
+   "korean": "「일단은 이해하고 있는 셈이다."
+  },
+  {
+   "key": "8aeddca7c344",
+   "speaker_korean": "페이트",
+   "korean": "「하지만 저는…"
+  },
+  {
+   "key": "ca91a362f12e",
+   "speaker_korean": "클레어",
+   "korean": "「여러분의 이야기도 듣고,\n저희도 제대로 된\n설명을 드리겠습니다.\n다만, 오늘은 많이 피곤하시죠?\n이어서는 내일 하도록 하죠.\n오늘은 푹 쉬시기 바랍니다."
+  },
+  {
+   "key": "aaafc6f8d8cf",
+   "speaker_korean": "넬",
+   "korean": "「그렇네… 지금은 괜찮을지 몰라도,\n⟦1⟧페이트⟦2⟧ 몸 상태도 완전친 않은\n것 같으니까."
+  },
+  {
+   "key": "04401ce23e4e",
+   "speaker_korean": "페이트",
+   "korean": "「저는 괜찮은데요."
+  },
+  {
+   "key": "a4c5b7931fa5",
+   "speaker_korean": "클리프",
+   "korean": "「뭐, 어때서 그러냐.\n호의는 감사히 받자고."
+  },
+  {
+   "key": "50f0bbef0c93",
+   "speaker_korean": "클리프",
+   "korean": "「산 넘는 것도 꽤 힘들었잖냐."
+  },
+  {
+   "key": "f427361834ec",
+   "speaker_korean": "클레어",
+   "korean": "「그럼 2층에 휴게실이 있습니다.\n그곳을 자유롭게 이용해 주세요.\n아, 당신은 남아 주세요.\n할 얘기가 좀 있으니까요."
+  },
+  {
+   "key": "1c2c4073233f",
+   "speaker_korean": "페이트",
+   "korean": "「알았어."
+  },
+  {
+   "key": "44f73d1fce19",
+   "speaker_korean": "시술사",
+   "korean": "「⟦1⟧시술병기⟦2⟧의 재배치 요청은\n이미 통보해 두었습니다."
+  },
+  {
+   "key": "6df56daad6c3",
+   "speaker_korean": "여성 시술사",
+   "korean": "「앞으로 3일이면 도착할 예정입니다."
+  },
+  {
+   "key": "2810039de760",
+   "speaker_korean": "여성 지휘관",
+   "korean": "「당신!? 언제 돌아온 거야?"
+  },
+  {
+   "key": "c573d883646a",
+   "speaker_korean": "여성 병사",
+   "korean": "「예."
+  },
+  {
+   "key": "ba1f56d54f7b",
+   "speaker_korean": "클레어",
+   "korean": "「⟦1⟧페이트 씨⟦2⟧,\n⟦3⟧클리프 씨⟦4⟧."
+  },
+  {
+   "key": "a235c400629d",
+   "speaker_korean": "클레어",
+   "korean": "「잘 주무셨나요?"
+  },
+  {
+   "key": "23c2d1913fad",
+   "speaker_korean": "클레어",
+   "korean": "「좋은 아침입니다."
+  },
+  {
+   "key": "9771c3d1df9d",
+   "speaker_korean": "클리프",
+   "korean": "「그래, 덕분에 잘 잤다."
+  },
+  {
+   "key": "e4a1fb9bdb4c",
+   "speaker_korean": "클레어",
+   "korean": "「그럼 교섭에 들어가죠."
+  },
+  {
+   "key": "77901004abc5",
+   "speaker_korean": "클레어",
+   "korean": "「그거 다행이네요."
+  },
+  {
+   "key": "a653e2bd7929",
+   "speaker_korean": "페이트",
+   "korean": "「예."
+  },
+  {
+   "key": "3f8014cd9434",
+   "speaker_korean": "클레어",
+   "korean": "「편한 곳에 앉아 주세요."
+  },
+  {
+   "key": "cbc559323e7a",
+   "speaker_korean": "페이트",
+   "korean": "「저기…\n⟦1⟧넬 씨⟦2⟧는요?"
+  },
+  {
+   "key": "81d7177ce06a",
+   "speaker_korean": "클레어",
+   "korean": "「어……아."
+  },
+  {
+   "key": "3fb7d1a66522",
+   "speaker_korean": "클레어",
+   "korean": "「그녀는 다른 임무를 맡았습니다."
+  },
+  {
+   "key": "68a3aaf622ad",
+   "speaker_korean": "클레어",
+   "korean": "「여러분 일은 제가 이어받을 테니,\n안심하세요."
+  },
+  {
+   "key": "b13066ba3d7b",
+   "speaker_korean": "페이트",
+   "korean": "「그건 상관없지만……"
+  },
+  {
+   "key": "858ba270feff",
+   "speaker_korean": "클레어",
+   "korean": "「자."
+  },
+  {
+   "key": "88fb5e109700",
+   "speaker_korean": "클리프",
+   "korean": "「제법 양보해 주는군.\n그 녀석하곤 완전 딴판이야."
+  },
+  {
+   "key": "f01b5eade4a9",
+   "speaker_korean": "클레어",
+   "korean": "「글쎄요, 그녀들이 무슨 얘기를\n나눴는지는 모르겠습니다.\n하지만, 여러분은 이미 시하츠 영내에\n계시니, 설령 협력을 거절하시더라도\n신변의 안전은 보장해 드리겠습니다.\n다만 저희 왕도인 ⟦1⟧시랜드⟦2⟧까지는,\n신병을 확보해 둘 필요는 있습니다만,\n답변은 그때 주셔도 괜찮습니다."
+  },
+  {
+   "key": "a368d398e2ea",
+   "speaker_korean": "클레어",
+   "korean": "「그녀는 성실한 사람이에요.\n보시다시피 실력은 뛰어나지만,\n다소 융통성이 없는 부분이\n문제라면 문제겠네요."
+  },
+  {
+   "key": "5233145f4178",
+   "speaker_korean": "여성 병사",
+   "korean": "「아… ⟦1⟧클레어 님⟦2⟧."
+  },
+  {
+   "key": "de650d57f442",
+   "speaker_korean": "클리프",
+   "korean": "「보면 알지. 임무, 임무 타령이라."
+  },
+  {
+   "key": "205adc9bc95c",
+   "speaker_korean": "클레어",
+   "korean": "「솔직히 말하면, 저도 가능하면\n도움을 받고 싶다고는 생각해요.\n하지만 실제로는 여러분과 직접\n관계없는 전쟁이니까요.\n누가 죽든, 나라가 망하든,\n여러분과는 상관없는 일이니,\n마음 아파하실 필요도 없고,\n그렇게까지 강요할 수도 없어요."
+  },
+  {
+   "key": "90383a87bd6d",
+   "speaker_korean": "클리프",
+   "korean": "「거참 얄궂게 말하는군."
+  },
+  {
+   "key": "f5cf3f0b1276",
+   "speaker_korean": "클레어",
+   "korean": "「하지만 사실이잖아요?\n그렇게 생각하면, 적어도\n⟦1⟧아리그리프⟦2⟧의 손에 여러분이\n넘어가지 않은 것만으로도 다행이죠."
+  },
+  {
+   "key": "e42918bc8f78",
+   "speaker_korean": "클리프",
+   "korean": "「어떻게 할래?\n어차피 ⟦1⟧시랜드⟦2⟧까지 가면\n풀어준다는 모양이던데."
+  },
+  {
+   "key": "b323a9647146",
+   "speaker_korean": "클레어",
+   "korean": "「무슨 일 있으신가요?"
+  },
+  {
+   "key": "b5eb0f90f181",
+   "speaker_korean": "페이트",
+   "korean": "「아뇨, 딱히… 아무것도 아니에요."
+  },
+  {
+   "key": "f56fcc20a58f",
+   "speaker_korean": "클레어",
+   "korean": "「뭔가 묻고 싶은 게 있으시다면,\n답할 수 있는 범위에서 답해 드릴게요."
+  },
+  {
+   "key": "e20568689ff8",
+   "speaker_korean": "페이트",
+   "korean": "「그럼, 여쭤볼게요.\n그 사람의 다음 임무란 게 뭔가요?"
+  },
+  {
+   "key": "814de690b73a",
+   "speaker_korean": "페이트",
+   "korean": "「그 사람은 저희를 왕도까지 데려다주는 게\n임무라고 했잖아요!!\n그런데 도중에———."
+  },
+  {
+   "key": "edb64f3d0aba",
+   "speaker_korean": "클레어",
+   "korean": "「어째서 그런 것을\n물으시는 거죠?\n그녀는 이제 여러분과는\n상관없어요."
+  },
+  {
+   "key": "a927d69e55e7",
+   "speaker_korean": "클레어",
+   "korean": "「임무를 포기한 것처럼\n보인다…는 거군요."
+  },
+  {
+   "key": "976899e09cf7",
+   "speaker_korean": "페이트",
+   "korean": "「예, 뭐… 그렇습니다.\n짧은 시간이었지만, 그녀는 그런 일에\n철저한 타입이라고 생각했으니까요."
+  },
+  {
+   "key": "29cbed62c529",
+   "speaker_korean": "클리프",
+   "korean": "「⟦1⟧타이네브들⟦2⟧을\n도우러 간 거겠지?"
+  },
+  {
+   "key": "a81d1a7951c0",
+   "speaker_korean": "여성 병사",
+   "korean": "「정말인가요, ⟦1⟧클레어 님⟦2⟧!?"
+  },
+  {
+   "key": "5db0fec8ec34",
+   "speaker_korean": "클레어",
+   "korean": "「왜 그렇게 생각하시죠?"
+  },
+  {
+   "key": "0ffebe773313",
+   "speaker_korean": "클리프",
+   "korean": "「어젯밤에 그 녀석…\n우리 방까지 찾아왔었어."
+  },
+  {
+   "key": "e8758618b597",
+   "speaker_korean": "페이트",
+   "korean": "「어? 그게 언제 얘기야?"
+  },
+  {
+   "key": "784143830fe7",
+   "speaker_korean": "클리프",
+   "korean": "「무슨 볼일인가 싶었는데 말이야,\n아무 말도 없이 고개만 숙이고\n나가 버리더라고."
+  },
+  {
+   "key": "0446f5216f67",
+   "speaker_korean": "클리프",
+   "korean": "「뭐, 상황을 보면 그것밖에 생각이 안 나.\n⟦1⟧컬소어⟦2⟧에서 그놈이 엿들은 얘기가\n어차피 그 건에 관한 보고겠지?"
+  },
+  {
+   "key": "0ab6a9047383",
+   "speaker_korean": "페이트",
+   "korean": "「그런…\n정말인가요, ⟦1⟧클레어 씨⟦2⟧!?"
+  },
+  {
+   "key": "2937cdeac182",
+   "speaker_korean": "클레어",
+   "korean": "「예. 확실히…… 그녀는\n⟦1⟧타이네브들⟦2⟧을 도우러 갔습니다."
+  },
+  {
+   "key": "cda82d7f2a9d",
+   "speaker_korean": "페이트",
+   "korean": "「너, 알고 있었으면\n왜 말리지 않은 거야!!"
+  },
+  {
+   "key": "0be7e081827d",
+   "speaker_korean": "클리프",
+   "korean": "「그 녀석에게 임무가 있듯이, 나는 너를\n리더에게 데려가는 게 임무야.\n그걸 포기할 순 없잖냐."
+  },
+  {
+   "key": "c56d934bb18c",
+   "speaker_korean": "페이트",
+   "korean": "「그렇다고 해도!!"
+  },
+  {
+   "key": "9e592afc37ed",
+   "speaker_korean": "클레어",
+   "korean": "「여러분이 ⟦1⟧컬소어⟦2⟧에 도착했을 무렵,\n⟦3⟧아리그리프⟦4⟧에서 포고가 있었어요.\n『두 소녀는 인질이다.\n무사히 돌려받고 싶다면,\n도망친 두 사람을 넘겨라』…라고요.\n여러분을 넘길 수는 없었어요.\n그래서 혼자 도우러 돌아간 거예요.\n두 사람을 구하려면 그 방법밖에는\n없었으니까요…"
+  },
+  {
+   "key": "842a2ab9fea2",
+   "speaker_korean": "페이트",
+   "korean": "「그런…그렇다고 혼자서……"
+  },
+  {
+   "key": "0d987a33f54b",
+   "speaker_korean": "클레어",
+   "korean": "「그녀는 그런 아이예요."
+  },
+  {
+   "key": "ce565be47547",
+   "speaker_korean": "클레어",
+   "korean": "「그러니까요.\n애초에 구출 확률은 거의 제로예요."
+  },
+  {
+   "key": "2fe6d900962d",
+   "speaker_korean": "클레어",
+   "korean": "「⟦1⟧아리그리프⟦2⟧도 함정을 파 놓고,\n단단히 벼르며 기다리고 있겠죠."
+  },
+  {
+   "key": "8f7225ca58a9",
+   "speaker_korean": "클레어",
+   "korean": "「저도 말렸어요. 하지만…… 소용없었죠.\n그 아이들은 그녀 직속 부하였으니,\n그냥 둘 수 없었던 거겠죠."
+  },
+  {
+   "key": "a751a40d9d48",
+   "speaker_korean": "여성 병사",
+   "korean": "「어째서 저희에게도 숨기신 거예요!\n알았다면 저도 함께……!!"
+  }
+ ]
+}

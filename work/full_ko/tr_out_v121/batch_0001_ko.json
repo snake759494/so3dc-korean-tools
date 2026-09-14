@@ -1,0 +1,390 @@
+{
+ "batch_id": "batch_0001",
+ "translations": [
+  {
+   "key": "9de782ba3371",
+   "speaker_korean": "페이트",
+   "korean": "「…그런데 짐이 가득 차서\n못 들 것 같네.\n원래대로 되돌려 놓자."
+  },
+  {
+   "key": "526302eab5b2",
+   "speaker_korean": "마리아",
+   "korean": "「뭘 원해?"
+  },
+  {
+   "key": "e90dc77bd013",
+   "speaker_korean": null,
+   "korean": "⟦1⟧오리하르콘⟦2⟧을 손에 넣었다."
+  },
+  {
+   "key": "d94cf27c50cc",
+   "speaker_korean": "마리에타",
+   "korean": "「이건 테스트입니다.\n텍스처 애니메이션 입일 경우에\n입 움직임을 느리게 하려고요♥"
+  },
+  {
+   "key": "124af1d10152",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・돈 잔뜩"
+  },
+  {
+   "key": "1dff77ea1898",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・배니시 봄 10회"
+  },
+  {
+   "key": "eaeff32286ff",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・해머 10회"
+  },
+  {
+   "key": "81facbd26f1f",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・배니시 링(사용 횟수 10)"
+  },
+  {
+   "key": "496b41417eed",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・배니시 링(사용 횟수 500)"
+  },
+  {
+   "key": "1bea6a6f95ec",
+   "speaker_korean": null,
+   "korean": "⟦1⟧배니시 봄⟦2⟧을 손에 넣었다."
+  },
+  {
+   "key": "7751d49891b4",
+   "speaker_korean": null,
+   "korean": "⟦1⟧배니시 해머⟦2⟧를 손에 넣었다."
+  },
+  {
+   "key": "a65fb886584c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧묘익천사의 보주⟦2⟧를 손에 넣었다."
+  },
+  {
+   "key": "ea01d4225fd8",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・묘익천사의 보주"
+  },
+  {
+   "key": "862ada198e1d",
+   "speaker_korean": "클리프",
+   "korean": "「무비 체크다."
+  },
+  {
+   "key": "b16f2c6c3c89",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・하이다 습격(ev_01)"
+  },
+  {
+   "key": "4ac96dcf330e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・헬아 워프 개시(ev_02)"
+  },
+  {
+   "key": "f0fe534b83aa",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・헬아 워프 중(ev_03.5)"
+  },
+  {
+   "key": "a9a0c782b995",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・헬아 탈출(ev_06)"
+  },
+  {
+   "key": "f1c877ddaab1",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・뱅가드에 추락(ev_07)"
+  },
+  {
+   "key": "3a8c93aa29a4",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・뱅가드에서 탈출(ev_07.5)"
+  },
+  {
+   "key": "35dba7b30a12",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・이글호(ev_08)"
+  },
+  {
+   "key": "8a379d8549bc",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・이글호 워프(ev_08.5)"
+  },
+  {
+   "key": "c251c1c101c2",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・에리클에 추락(ev_09)"
+  },
+  {
+   "key": "1879281a8756",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・복스의 죽음(ev_10A)"
+  },
+  {
+   "key": "1f71aadf07a3",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・반덴 함과의 전투 개시(ev_10B)"
+  },
+  {
+   "key": "9895cfdc5234",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・다음 페이지"
+  },
+  {
+   "key": "0dbb49d0a71e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・반덴 함과의 공중전(ev_10C)"
+  },
+  {
+   "key": "59af8c51ea3b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・페이트 각성(awaken_fate)"
+  },
+  {
+   "key": "4b04f4b4c8d4",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・반덴, 구름 속에서 등장(ev_11)"
+  },
+  {
+   "key": "4670a4b41e93",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・도그파이트(ev_12)"
+  },
+  {
+   "key": "9aa14df2fcb7",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・크리에이션 포를 회피하는 디플로(ev_13)"
+  },
+  {
+   "key": "913c3f070dd2",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・인비지블 접근(ev_14)"
+  },
+  {
+   "key": "81180621aa8b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・마리아 각성(ev_15)"
+  },
+  {
+   "key": "f88ea96da8e9",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・디플로 이륙(ev_15.5)"
+  },
+  {
+   "key": "f5be10e58e2d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・엑스큐셔너(ev_16)"
+  },
+  {
+   "key": "0c3726015fb6",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・방위 라인 돌파・지구 붕괴(ev_17-18)"
+  },
+  {
+   "key": "944c6d42c3fc",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・집행자VS아쿠아에리(ev_19)"
+  },
+  {
+   "key": "6bf34e06653a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・연방VS집행자(ev_20)"
+  },
+  {
+   "key": "6d533d980375",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・크로셀VS반덴 함"
+  },
+  {
+   "key": "76a82152d06e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・루시퍼의 방"
+  },
+  {
+   "key": "4f2ecdf2bf9a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・엔딩"
+  },
+  {
+   "key": "42c316487759",
+   "speaker_korean": null,
+   "korean": "없어졌습니다."
+  },
+  {
+   "key": "2cd6924e0d65",
+   "speaker_korean": null,
+   "korean": "⟦1⟧배니시 링⟦2⟧을 손에 넣었다."
+  },
+  {
+   "key": "43a731aeb726",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・웰치 시간 5시간"
+  },
+  {
+   "key": "631237fa7138",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・웰치 시간 10시간"
+  },
+  {
+   "key": "0483e2c0e531",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・웰치 시간 20시간"
+  },
+  {
+   "key": "c0cfe3eac742",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・웰치 시간 30시간"
+  },
+  {
+   "key": "936c483b20fd",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・웰치 시간 40시간"
+  },
+  {
+   "key": "d3f465778428",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・웰치 시간 50시간"
+  },
+  {
+   "key": "78216ed4823b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・웰치 시간 60시간"
+  },
+  {
+   "key": "648f67425383",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・웰치 시간 70시간"
+  },
+  {
+   "key": "51b87a8fa10f",
+   "speaker_korean": null,
+   "korean": "뭐, 뭐라고…!!"
+  },
+  {
+   "key": "45d2bc9f53d5",
+   "speaker_korean": null,
+   "korean": "리더, 반덴 함선 3척이 접근하고 있습니다!"
+  },
+  {
+   "key": "ab3f3d0a3e0a",
+   "speaker_korean": null,
+   "korean": "응전해. 이쪽에서도 엄호할 테니까."
+  },
+  {
+   "key": "7d18c9eae8cd",
+   "speaker_korean": null,
+   "korean": "엄호? 뭘로?"
+  },
+  {
+   "key": "abaeed4b8271",
+   "speaker_korean": null,
+   "korean": "자세히 설명할 시간은 없어.\n아무튼 버텨 줘."
+  },
+  {
+   "key": "9c68a4a36849",
+   "speaker_korean": null,
+   "korean": "알았어!"
+  },
+  {
+   "key": "072a99126cbe",
+   "speaker_korean": null,
+   "korean": "크로셀, 저 거대한 물체 쪽으로 날아!"
+  },
+  {
+   "key": "301ee6a67a3f",
+   "speaker_korean": null,
+   "korean": "오오!!"
+  },
+  {
+   "key": "59cd08119f2f",
+   "speaker_korean": null,
+   "korean": "좋아, 가까이 오면 쏴!"
+  },
+  {
+   "key": "6ffa163e3ed5",
+   "speaker_korean": null,
+   "korean": "맡겨 두라고!"
+  },
+  {
+   "key": "87553019a686",
+   "speaker_korean": null,
+   "korean": "뭐!?"
+  },
+  {
+   "key": "4cfe0ef0785a",
+   "speaker_korean": null,
+   "korean": "겁먹지 말고 계속 쏴!!"
+  },
+  {
+   "key": "d767eaf3df08",
+   "speaker_korean": null,
+   "korean": "그래, 알고 있다고!"
+  },
+  {
+   "key": "b7cf5c236423",
+   "speaker_korean": null,
+   "korean": "칫! 이제 좀 떨어지라고!!"
+  },
+  {
+   "key": "6ef71972ef50",
+   "speaker_korean": null,
+   "korean": "괜찮아, 안 먹히는 건 아냐!\n이 기세로―――"
+  },
+  {
+   "key": "6eca6046012b",
+   "speaker_korean": null,
+   "korean": "뭐? 설마!?"
+  },
+  {
+   "key": "d0edcad98ef3",
+   "speaker_korean": null,
+   "korean": "아니, 디플로가 아니야.\n그 아이들, 해냈구나!"
+  },
+  {
+   "key": "c63c49434ce8",
+   "speaker_korean": null,
+   "korean": "좋아. 이거면 될지도."
+  },
+  {
+   "key": "9a3e180836fc",
+   "speaker_korean": null,
+   "korean": "잠깐만. 놈이―――"
+  },
+  {
+   "key": "00e5dba5d5f8",
+   "speaker_korean": null,
+   "korean": "도망친다."
+  },
+  {
+   "key": "d7487f48a1e1",
+   "speaker_korean": null,
+   "korean": "리더, 이대로는 격침당하고 맙니다!!"
+  },
+  {
+   "key": "0b0169ade7c9",
+   "speaker_korean": null,
+   "korean": "일단 도망쳐! 지금 우리가 갈 테니까!!"
+  },
+  {
+   "key": "090771e9d2ac",
+   "speaker_korean": null,
+   "korean": "어이, 위험하다고!!"
+  },
+  {
+   "key": "168662021795",
+   "speaker_korean": null,
+   "korean": "크로셀, 서둘러!!"
+  },
+  {
+   "key": "bc737c8f8239",
+   "speaker_korean": null,
+   "korean": "하고 있다!!"
+  },
+  {
+   "key": "cf93a934d581",
+   "speaker_korean": null,
+   "korean": "다들!!"
+  }
+ ]
+}

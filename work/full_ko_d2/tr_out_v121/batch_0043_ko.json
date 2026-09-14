@@ -1,0 +1,310 @@
+{
+ "batch_id": "batch_0043",
+ "translations": [
+  {
+   "key": "2e11aa2095a7",
+   "speaker_korean": null,
+   "korean": "이 표시가 나왔을 경우,\n버그이므로 신고해 주십시오.\n⟦P⟧"
+  },
+  {
+   "key": "8e59f5508711",
+   "speaker_korean": "소피아",
+   "korean": "⟦1⟧「아~ 피곤해….\n⟦P⟧"
+  },
+  {
+   "key": "75cc8c1f5c3a",
+   "speaker_korean": null,
+   "korean": "있잖아, 왜 도망친 거야?\n⟦1⟧페이트⟦2⟧라면 진심으로 하면\n이길 수 있었을 텐데?\n⟦P⟧"
+  },
+  {
+   "key": "b464b43b0619",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「이번엔, ⟦2⟧소피아⟦3⟧가\n플레이하게 하는 게\n목적이었으니까.\n⟦P⟧나 혼자 할 거였으면,\n그거야말로 지금까지\n질릴 만큼 해 왔어.\n⟦P⟧"
+  },
+  {
+   "key": "7cfd6c3ba49b",
+   "speaker_korean": "소피아",
+   "korean": "⟦1⟧「미안.\n져 버렸네.\n⟦P⟧내가 발목을\n잡아 버려서….\n⟦P⟧"
+  },
+  {
+   "key": "fd68235c7795",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「이봐 이봐.\n이 나이 먹고, 게임 승패에\n시끄럽게 떠들 리가 없잖아.\n⟦P⟧⟦2⟧소피아⟦3⟧가 이 게임을\n플레이하고, 즐거웠는지\n즐겁지 않았는지, 그것뿐이야?\n⟦P⟧"
+  },
+  {
+   "key": "06c88b3be289",
+   "speaker_korean": null,
+   "korean": "근데, 재미없었다면 어쩔 수 없지.\n⟦1⟧소피아⟦2⟧랑 이걸로 노는 건\n이제 포기할게.\n⟦P⟧"
+  },
+  {
+   "key": "1590b1264904",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「⟦2⟧소피아⟦3⟧가 재미있다고 생각했다면\n언젠가 또 이어서 하자.\n조금만 연습하면 금방 잘하게 될 거야.\n⟦P⟧"
+  },
+  {
+   "key": "4c6d979a03b7",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「우왓!"
+  },
+  {
+   "key": "3e993144db05",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「자….\n그럼, 아버지 일행을 붙잡아서\n합류하자.\n⟦P⟧"
+  },
+  {
+   "key": "f9a81997666b",
+   "speaker_korean": "소피아",
+   "korean": "⟦1⟧「⟦2⟧페이트⟦3⟧….\n⟦P⟧"
+  },
+  {
+   "key": "0558cb2f8a9a",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「괜찮아, ⟦2⟧소피아⟦3⟧.\n내가 옆에 있어.\n⟦P⟧"
+  },
+  {
+   "key": "9fe688be9be8",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧(아니, 그보다\n일단 여기서 도망쳐야….\n⟦P⟧"
+  },
+  {
+   "key": "2e53e2bae14b",
+   "speaker_korean": null,
+   "korean": "여기서는 ⟦1⟧파이트 시뮬레이터⟦2⟧를\n플레이할 수 있습니다.\n⟦3⟧파이트 시뮬레이터⟦4⟧에서는\n튜토리얼을 플레이하거나,\n배틀 컬렉션 초기화나\n설명을 볼 수 있습니다.\n⟦P⟧"
+  },
+  {
+   "key": "ed88cc5359ab",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・배틀 컬렉션."
+  },
+  {
+   "key": "876638ecf964",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・기본조작 설명."
+  },
+  {
+   "key": "322b56dea2a8",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・공격방법 설명."
+  },
+  {
+   "key": "8009884d3362",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・캠프 커맨드."
+  },
+  {
+   "key": "3736b6f97933",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・기타."
+  },
+  {
+   "key": "3b9a6b034097",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・실제로 게임을 시작하기"
+  },
+  {
+   "key": "9cf3c54ad35d",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「좋~아, 배틀 속행이다.\n⟦P⟧"
+  },
+  {
+   "key": "f41d190b20d2",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「컴퓨터, 다음 대전을\n시작해 줘.\n⟦P⟧"
+  },
+  {
+   "key": "65c23d725774",
+   "speaker_korean": null,
+   "korean": "⟦1⟧MEMORY CARD 삽입구⟦2⟧에서\n″PlayStation 2″ 전용 메모리 카드(8MB)가\n빠졌습니다."
+  },
+  {
+   "key": "952373f3e675",
+   "speaker_korean": null,
+   "korean": "배틀 컬렉션에 대한\n항목을 선택해 주십시오."
+  },
+  {
+   "key": "505afa6aab9f",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・배틀 컬렉션에 대한 설명 읽기"
+  },
+  {
+   "key": "b47aa769498e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・초기화 시작하기"
+  },
+  {
+   "key": "bb91394c3657",
+   "speaker_korean": "Star Ocean Till the End of Time D.C.의",
+   "korean": "배틀 컬렉션 데이터가 없는 상태에서\n초기화나 로드를 하지 않은 경우,\n배틀 컬렉션을 실행할 수 없게 됩니다.\n⟦1⟧초기화나 로드를 하고 싶은 경우에는\n『처음부터 다시』를, 배틀 컬렉션을\n하지 않아도 될 경우에는『그래도 상관없음』을\n선택해 주십시오."
+  },
+  {
+   "key": "625d37dcb019",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・처음부터 다시"
+  },
+  {
+   "key": "316647d483f4",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・그래도 상관없음"
+  },
+  {
+   "key": "8d7bf7e3f9cc",
+   "speaker_korean": "MEMORY CARD 삽입구⟦문자열#1c⟧의",
+   "korean": "″PlayStation 2″ 전용 메모리 카드(8MB)는\n포맷되어 있지 않습니다.\n⟦1⟧포맷을 해도 괜찮겠습니까?"
+  },
+  {
+   "key": "3663f4cdd557",
+   "speaker_korean": "포맷 중입니다.",
+   "korean": "MEMORY CARD 삽입구⟦1⟧에서\n″PlayStation 2″ 전용 메모리 카드(8MB)를\n빼거나 꽂지 말아 주십시오."
+  },
+  {
+   "key": "7fd1fd272a1a",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구⟦1⟧의\n″PlayStation 2″ 전용 메모리 카드(8MB)\n포맷이 완료되었습니다."
+  },
+  {
+   "key": "a8fa81e76ad8",
+   "speaker_korean": null,
+   "korean": "⟦1⟧MEMORY CARD 삽입구⟦2⟧의\n″PlayStation 2″ 전용 메모리 카드(8MB)\n포맷에 실패했습니다.⟦3⟧"
+  },
+  {
+   "key": "91615f81fdfd",
+   "speaker_korean": "MEMORY CARD 삽입구⟦문자열#1c⟧의",
+   "korean": "″PlayStation 2″ 전용 메모리 카드(8MB)에\nStar Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터를 작성합니다.⟦1⟧\n괜찮겠습니까?"
+  },
+  {
+   "key": "03a4e3fadf9d",
+   "speaker_korean": "Star Ocean Till the End of Time D.C.의",
+   "korean": "배틀 컬렉션 데이터를 초기화하고 있습니다.⟦1⟧\nMEMORY CARD 삽입구⟦2⟧에서\n″PlayStation 2″ 전용 메모리 카드(8MB)를\n빼거나 꽂지 말아 주십시오."
+  },
+  {
+   "key": "8a90d86d2be4",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구⟦1⟧의\n″PlayStation 2″ 전용 메모리 카드(8MB)에\nStar Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터 초기화가\n무사히 완료되었습니다."
+  },
+  {
+   "key": "1fa0c4976424",
+   "speaker_korean": null,
+   "korean": "⟦1⟧MEMORY CARD 삽입구⟦2⟧의\n″PlayStation 2″ 전용 메모리 카드(8MB)에\nStar Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터 초기화에\n실패했습니다."
+  },
+  {
+   "key": "58e813a97eea",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터 초기화를 할\nMEMORY CARD 삽입구를 선택해 주십시오.\n(로 캔슬됩니다.)"
+  },
+  {
+   "key": "cc355277ef3f",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・MEMORY CARD 삽입구1"
+  },
+  {
+   "key": "3d4aea330398",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・MEMORY CARD 삽입구2"
+  },
+  {
+   "key": "25045a25c189",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구⟦1⟧의\n″PlayStation 2″ 전용 메모리 카드(8MB)를\n체크하고 있습니다.\n″PlayStation 2″ 전용 메모리 카드(8MB)를\n빼거나 꽂지 말아 주십시오."
+  },
+  {
+   "key": "11adae79a899",
+   "speaker_korean": null,
+   "korean": "⟦1⟧MEMORY CARD 삽입구⟦2⟧에\n″PlayStation 2″ 전용 메모리 카드(8MB)가\n꽂혀 있지 않습니다."
+  },
+  {
+   "key": "32516c0869d7",
+   "speaker_korean": null,
+   "korean": "⟦1⟧MEMORY CARD 삽입구⟦2⟧에 꽂혀 있는\n″PlayStation 2″ 전용 메모리 카드(8MB)는\n여유 공간이 부족합니다.⟦3⟧\nStar Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터를 작성하려면\n⟦4⟧1200ＫP 이상의 여유 공간⟦5⟧이 필요합니다."
+  },
+  {
+   "key": "597378815f03",
+   "speaker_korean": null,
+   "korean": "⟦1⟧MEMORY CARD 삽입구⟦2⟧의\n″PlayStation 2″ 전용 메모리 카드(8MB)\n체크에 실패했습니다"
+  },
+  {
+   "key": "783f2d5ff8ed",
+   "speaker_korean": "MEMORY CARD 삽입구⟦문자열#1c⟧에 있는",
+   "korean": "″PlayStation 2″ 전용 메모리 카드(8MB)에는\n이미 Star Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터가 존재합니다.⟦1⟧\n⟦2⟧초기화할 때,\n기존 데이터는 사라져 버립니다.⟦3⟧\n괜찮겠습니까?"
+  },
+  {
+   "key": "247fc24d42fa",
+   "speaker_korean": "배틀 컬렉션 데이터가 여러 개 존재합니다.",
+   "korean": "배틀 컬렉션 데이터는 기본적으로\n복사 금지입니다. 여러 데이터가 존재할 때의\n초기화는 지원하지 않습니다.\n처리를 중단합니다."
+  },
+  {
+   "key": "75c73b41441f",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・배틀 컬렉션 데이터 로드하기"
+  },
+  {
+   "key": "ed28f4d0a335",
+   "speaker_korean": null,
+   "korean": "\n\n\n⟦1⟧배틀 컬렉션에 대하여⟦2⟧\n⟦P⟧배틀 컬렉션이란, 전투에서\n어떤 조건을 만족하면 발생하는\n증명 같은 것입니다.\n이것을 모으면,\n뭔가 덤이 있을지도 모릅니다.\n⟦P⟧배틀 컬렉션을 하려면,\n⟦3⟧1200ＫP 이상⟦4⟧의 여유 공간이 있는\n″PlayStation 2″ 전용 메모리 카드(8MB)가\n필요합니다. 반드시 배틀 컬렉션\n초기화를 해 주십시오.\n⟦P⟧배틀 컬렉션을 하려면,\n게임 플레이 중 항상\n″PlayStation 2″ 전용 메모리 카드(8MB)를\n″PlayStation 2″ 본체 MEMORY CARD 삽입구에\n꽂아 둘 필요가 있습니다.\n⟦P⟧⟦5⟧・주의⟦6⟧\n・게임 중에 사용할 수 있는 배틀 컬렉션\n데이터는 고정됩니다.\n배틀 컬렉션 데이터가\n여러 개 존재해도, 데이터 작성 시 또는\n로드 시와 같은 배틀 컬렉션\n데이터에만 세이브할 수 있습니다.\n⟦P⟧r배틀 컬렉션 데이터를\n로드하고, 이 이벤트를 종료한\n이후에는 게임 도중에 새로\n작성할 수 없습니다.\n\np이 이벤트 이후에는, 게임 도중에\n배틀 컬렉션 초기화를\n할 수 없습니다.\n⟦P⟧W『The Earth Level』에서는 배틀 컬렉션을\n할 수 없습니다.\n\na배틀 컬렉션을 획득했을 때 일시를\n기록하므로, 취급설명서에 따라,\n″PlayStation 2″ 본체 시계를 맞춰 주십시오.\n⟦P⟧모은 배틀 컬렉션은 타이틀 화면에서\n『배틀 컬렉션』을 선택하면\n확인할 수 있습니다."
+  },
+  {
+   "key": "be90f3cc6154",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・하지 않음"
+  },
+  {
+   "key": "f8faafcc0d01",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터를 로드합니다.\nMEMORY CARD 삽입구를 선택해 주십시오.\n(로 캔슬됩니다.)"
+  },
+  {
+   "key": "1033b45f14f6",
+   "speaker_korean": null,
+   "korean": "⟦1⟧MEMORY CARD 삽입구⟦2⟧의\n″PlayStation 2″ 전용 메모리 카드(8MB)에\nStar Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터가 없습니다."
+  },
+  {
+   "key": "e9c5dd46d4d2",
+   "speaker_korean": null,
+   "korean": "⟦1⟧MEMORY CARD 삽입구⟦2⟧의\n″PlayStation 2″ 전용 메모리 카드(8MB)에 있는\nStar Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터는\n파손되었을 가능성이 있습니다.\n로드할 수 없습니다."
+  },
+  {
+   "key": "23244b163202",
+   "speaker_korean": "Star Ocean Till the End of Time D.C.의",
+   "korean": "배틀 컬렉션 데이터를 로드하고 있습니다.⟦1⟧\nMEMORY CARD 삽입구⟦2⟧에서\n″PlayStation 2″ 전용 메모리 카드(8MB)를\n빼거나 꽂지 말아 주십시오."
+  },
+  {
+   "key": "fc51f603ac67",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구⟦1⟧의\n″PlayStation 2″ 전용 메모리 카드(8MB)에서\nStar Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터 로드가\n무사히 완료되었습니다."
+  },
+  {
+   "key": "f7c6eb835fb4",
+   "speaker_korean": null,
+   "korean": "⟦1⟧MEMORY CARD 삽입구⟦2⟧의\n″PlayStation 2″ 전용 메모리 카드(8MB)에서\nStar Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터 로드 중에\n이상이 발생하여, 로드에 실패했습니다."
+  },
+  {
+   "key": "f00aa7b53db1",
+   "speaker_korean": null,
+   "korean": "⟦1⟧게임 난이도가 『The Earth Level』이므로,\n배틀 컬렉션을 할 수 없습니다."
+  },
+  {
+   "key": "688642f72798",
+   "speaker_korean": "MEMORY CARD 삽입구⟦문자열#1c⟧의",
+   "korean": "″PlayStation 2″ 전용 메모리 카드(8MB)에 있는\nStar Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터를 로드합니다.⟦1⟧\n괜찮겠습니까?"
+  },
+  {
+   "key": "9b8f5e4c8c29",
+   "speaker_korean": "Star Ocean Till the End of Time D.C.의",
+   "korean": "배틀 컬렉션 데이터를 작성하고 있습니다.⟦1⟧\nMEMORY CARD 삽입구⟦2⟧에서\n″PlayStation 2″ 전용 메모리 카드(8MB)를\n빼거나 꽂지 말아 주십시오."
+  },
+  {
+   "key": "9650814bbe12",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구⟦1⟧의\n″PlayStation 2″ 전용 메모리 카드(8MB)에\nStar Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터 작성이\n무사히 완료되었습니다."
+  },
+  {
+   "key": "6d683df08166",
+   "speaker_korean": null,
+   "korean": "⟦1⟧MEMORY CARD 삽입구⟦2⟧의\n″PlayStation 2″ 전용 메모리 카드(8MB)에\nStar Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터 작성에\n실패했습니다."
+  },
+  {
+   "key": "58b4c6ceed3a",
+   "speaker_korean": "MEMORY CARD 삽입구⟦문자열#1c⟧의",
+   "korean": "″PlayStation 2″ 전용 메모리 카드(8MB)에 있는\nStar Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터가 파손되었습니다.⟦1⟧\n⟦2⟧덮어써서 배틀 컬렉션 데이터를\n초기화합니다.⟦3⟧\n괜찮겠습니까?"
+  }
+ ]
+}

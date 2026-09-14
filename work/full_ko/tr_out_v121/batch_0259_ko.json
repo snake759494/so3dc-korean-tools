@@ -1,0 +1,570 @@
+{
+ "batch_id": "batch_0259",
+ "translations": [
+  {
+   "key": "75cda88a81b9",
+   "speaker_korean": null,
+   "korean": "불사계 특수공격 30% 무효화"
+  },
+  {
+   "key": "99f59a6590d3",
+   "speaker_korean": null,
+   "korean": "악마계 특수공격 50% 무효화"
+  },
+  {
+   "key": "0456ef23995e",
+   "speaker_korean": null,
+   "korean": "비행계 특수 공격 50% 무효화"
+  },
+  {
+   "key": "56b5fe3f8ce6",
+   "speaker_korean": null,
+   "korean": "전사계 특수공격 50% 무효화"
+  },
+  {
+   "key": "d21f62077f58",
+   "speaker_korean": null,
+   "korean": "마술사계 특수 공격 50% 무효화"
+  },
+  {
+   "key": "afca974ac1cc",
+   "speaker_korean": null,
+   "korean": "불사계 특수공격 50% 무효화"
+  },
+  {
+   "key": "9acf65ecd7d5",
+   "speaker_korean": null,
+   "korean": "적을 소멸시킨다 단 획득 경험치는 0"
+  },
+  {
+   "key": "4bc34f6e7cc9",
+   "speaker_korean": null,
+   "korean": "적을 소멸시킨다 단 획득 경험치는 1/10"
+  },
+  {
+   "key": "71dca729ace4",
+   "speaker_korean": null,
+   "korean": "적을 소멸시킨다 단 획득 경험치는 1/5"
+  },
+  {
+   "key": "caa977146118",
+   "speaker_korean": null,
+   "korean": "영창시간2/3"
+  },
+  {
+   "key": "96cd3dd6c17e",
+   "speaker_korean": null,
+   "korean": "영창시간1/2"
+  },
+  {
+   "key": "4bf9733f4e05",
+   "speaker_korean": null,
+   "korean": "영창시간0"
+  },
+  {
+   "key": "e06c97bab0ac",
+   "speaker_korean": null,
+   "korean": "여관에 묵으면 가끔 선물이…!"
+  },
+  {
+   "key": "832f88551eec",
+   "speaker_korean": null,
+   "korean": "미사용163"
+  },
+  {
+   "key": "2e8da5b84f59",
+   "speaker_korean": null,
+   "korean": "미사용164"
+  },
+  {
+   "key": "bec100ce6df4",
+   "speaker_korean": null,
+   "korean": "행동불능 시 Guts로 생존.성공률20%"
+  },
+  {
+   "key": "d5c3bcdcc94d",
+   "speaker_korean": null,
+   "korean": "행동불능 시 Guts로 생존.성공률30%"
+  },
+  {
+   "key": "0811fde8026f",
+   "speaker_korean": null,
+   "korean": "행동불능 시 Guts로 생존.성공률50%"
+  },
+  {
+   "key": "bb0e5c4452f8",
+   "speaker_korean": null,
+   "korean": "HP 데미지 10% 확률로 0"
+  },
+  {
+   "key": "8303c7521f06",
+   "speaker_korean": null,
+   "korean": "HP 데미지 20% 확률로 0"
+  },
+  {
+   "key": "b717ec24c22a",
+   "speaker_korean": null,
+   "korean": "HP 데미지 30% 확률로 0"
+  },
+  {
+   "key": "68499ea2af66",
+   "speaker_korean": null,
+   "korean": "10% 확률로 MP 데미지 0"
+  },
+  {
+   "key": "d6aeaee3bf40",
+   "speaker_korean": null,
+   "korean": "20% 확률로 MP 데미지 0"
+  },
+  {
+   "key": "5a22b56b7184",
+   "speaker_korean": null,
+   "korean": "30% 확률로 MP 데미지 0"
+  },
+  {
+   "key": "b3b5fdcd4af9",
+   "speaker_korean": null,
+   "korean": "기절 확률 10% 감소(CA엔 무효)"
+  },
+  {
+   "key": "086e43fd4b16",
+   "speaker_korean": null,
+   "korean": "기절 확률 30% 감소(CA엔 무효)"
+  },
+  {
+   "key": "04eae0ab75ca",
+   "speaker_korean": null,
+   "korean": "기절 확률 50% 감소(CA엔 무효)"
+  },
+  {
+   "key": "f481ad475cfa",
+   "speaker_korean": null,
+   "korean": "MAX HP 상승+10%"
+  },
+  {
+   "key": "428e8ad79c3b",
+   "speaker_korean": null,
+   "korean": "MAX HP 상승+20%"
+  },
+  {
+   "key": "cfc8f50ac8ed",
+   "speaker_korean": null,
+   "korean": "MAX HP 상승+30%"
+  },
+  {
+   "key": "56133d1d6d31",
+   "speaker_korean": null,
+   "korean": "MAX MP 상승+10%"
+  },
+  {
+   "key": "e12cd42b49d6",
+   "speaker_korean": null,
+   "korean": "MAX MP 상승+20%"
+  },
+  {
+   "key": "f1f63b876b8a",
+   "speaker_korean": null,
+   "korean": "MAX MP 상승+30%"
+  },
+  {
+   "key": "b1a8a7a43834",
+   "speaker_korean": null,
+   "korean": "독을 무효화한다"
+  },
+  {
+   "key": "62d42f12a9ef",
+   "speaker_korean": null,
+   "korean": "마비를 무효화한다"
+  },
+  {
+   "key": "b330ab6b0cc1",
+   "speaker_korean": null,
+   "korean": "석화를 무효화한다"
+  },
+  {
+   "key": "60a5df35f326",
+   "speaker_korean": null,
+   "korean": "동결을 무효화한다"
+  },
+  {
+   "key": "7378bfbb2ebc",
+   "speaker_korean": null,
+   "korean": "침묵을 무효화한다"
+  },
+  {
+   "key": "d84ddf4bb749",
+   "speaker_korean": null,
+   "korean": "기절 시간 1/2 단 CA에는 무효"
+  },
+  {
+   "key": "bb654e868a3c",
+   "speaker_korean": null,
+   "korean": "기절하지 않음 단 CA에는 무효"
+  },
+  {
+   "key": "af4fa4c5bfa6",
+   "speaker_korean": null,
+   "korean": "미사용190"
+  },
+  {
+   "key": "2a4b008cdea9",
+   "speaker_korean": null,
+   "korean": "미사용191"
+  },
+  {
+   "key": "f394a1271f65",
+   "speaker_korean": null,
+   "korean": "전투중 항상 분노 상태 단 방어력1/2"
+  },
+  {
+   "key": "63173fa4b883",
+   "speaker_korean": null,
+   "korean": "전투중 항상 분노 상태 단 방어력2/3"
+  },
+  {
+   "key": "4c000bd8ccd7",
+   "speaker_korean": null,
+   "korean": "문장술 데미지 1/5 파기 확률30%"
+  },
+  {
+   "key": "d056f60578b6",
+   "speaker_korean": null,
+   "korean": "문장술 데미지 1/10 파기 확률30%"
+  },
+  {
+   "key": "7829157da7a2",
+   "speaker_korean": null,
+   "korean": "문장술 데미지 1/10 파기 확률15%"
+  },
+  {
+   "key": "d752ff497b21",
+   "speaker_korean": null,
+   "korean": "물리 데미지 1/5 파기 확률30%"
+  },
+  {
+   "key": "33769091e68a",
+   "speaker_korean": null,
+   "korean": "물리 데미지 1/10 파기 확률30%"
+  },
+  {
+   "key": "e33e354efe41",
+   "speaker_korean": null,
+   "korean": "물리 데미지 1/10 파기 확률15%"
+  },
+  {
+   "key": "e8803a822f8c",
+   "speaker_korean": null,
+   "korean": "문장술 데미지만큼 HP회복 파기 확률30%"
+  },
+  {
+   "key": "4102ff2b2720",
+   "speaker_korean": null,
+   "korean": "문장술 데미지만큼 HP회복 파기 확률20%"
+  },
+  {
+   "key": "5cbff7447ff3",
+   "speaker_korean": null,
+   "korean": "문장술 데미지만큼 HP회복 파기 확률10%"
+  },
+  {
+   "key": "b098af3a96ab",
+   "speaker_korean": null,
+   "korean": "문장술 데미지만큼 MP회복 파기 확률30%"
+  },
+  {
+   "key": "b75038aabb35",
+   "speaker_korean": null,
+   "korean": "문장술 데미지만큼 MP회복 파기 확률20%"
+  },
+  {
+   "key": "67e88ea977ea",
+   "speaker_korean": null,
+   "korean": "문장술 데미지만큼 MP회복 파기 확률10%"
+  },
+  {
+   "key": "664d54d232ff",
+   "speaker_korean": null,
+   "korean": "화속성 공격시 데미지 1/20 HP회복"
+  },
+  {
+   "key": "dbd1bdb4371d",
+   "speaker_korean": null,
+   "korean": "수속성 공격시 데미지 1/20 HP회복"
+  },
+  {
+   "key": "977a4644651c",
+   "speaker_korean": null,
+   "korean": "지속성 공격시 데미지 1/20 HP회복"
+  },
+  {
+   "key": "6ad48addf7d4",
+   "speaker_korean": null,
+   "korean": "풍속성 공격시 데미지 1/20 HP회복"
+  },
+  {
+   "key": "d1dddfb24f4b",
+   "speaker_korean": null,
+   "korean": "화속성 공격시 데미지 1/10 MP회복"
+  },
+  {
+   "key": "b4d5df5cf51a",
+   "speaker_korean": null,
+   "korean": "수속성 공격시 데미지 1/10 MP회복"
+  },
+  {
+   "key": "bb4a69c2c73d",
+   "speaker_korean": null,
+   "korean": "지속성 공격시 데미지 1/10 MP회복"
+  },
+  {
+   "key": "f25874022657",
+   "speaker_korean": null,
+   "korean": "풍속성 공격시 데미지 1/10 MP회복"
+  },
+  {
+   "key": "d887daecbcb9",
+   "speaker_korean": null,
+   "korean": "ATK와 HIT 10% 상승"
+  },
+  {
+   "key": "48f7d8278ec2",
+   "speaker_korean": null,
+   "korean": "INT와 AGL 10% 상승"
+  },
+  {
+   "key": "020e588ea776",
+   "speaker_korean": null,
+   "korean": "ATK 10% 상승"
+  },
+  {
+   "key": "3ad5720e1f68",
+   "speaker_korean": null,
+   "korean": "HIT 10% 상승"
+  },
+  {
+   "key": "7394c286ea62",
+   "speaker_korean": null,
+   "korean": "AGL 10% 상승"
+  },
+  {
+   "key": "fa6b5a80845b",
+   "speaker_korean": null,
+   "korean": "DEF 10% 상승"
+  },
+  {
+   "key": "222efc380505",
+   "speaker_korean": null,
+   "korean": "INT 10% 상승"
+  },
+  {
+   "key": "5fee0daef118",
+   "speaker_korean": null,
+   "korean": "ATK 20% 상승"
+  },
+  {
+   "key": "656563202718",
+   "speaker_korean": null,
+   "korean": "HIT 20% 상승"
+  },
+  {
+   "key": "8a07d881a8f3",
+   "speaker_korean": null,
+   "korean": "AGL 20% 상승"
+  },
+  {
+   "key": "47c0c4cb36a2",
+   "speaker_korean": null,
+   "korean": "DEF 20% 상승"
+  },
+  {
+   "key": "482e85ea80d5",
+   "speaker_korean": null,
+   "korean": "INT 20% 상승"
+  },
+  {
+   "key": "19a7d10ee03a",
+   "speaker_korean": null,
+   "korean": "ATK 30% 상승"
+  },
+  {
+   "key": "79d3a3512976",
+   "speaker_korean": null,
+   "korean": "HIT 30% 상승"
+  },
+  {
+   "key": "67878d3da316",
+   "speaker_korean": null,
+   "korean": "AGL 30% 상승"
+  },
+  {
+   "key": "c17da1ee3f93",
+   "speaker_korean": null,
+   "korean": "DEF 30% 상승"
+  },
+  {
+   "key": "46c3ad6ebd16",
+   "speaker_korean": null,
+   "korean": "INT 30% 상승"
+  },
+  {
+   "key": "6ae6c17d7716",
+   "speaker_korean": null,
+   "korean": "미니맵에 보물상자 위치를 일정 시간 표시한다"
+  },
+  {
+   "key": "1ccac0e14da2",
+   "speaker_korean": null,
+   "korean": "미니맵에 적 위치를 일정 시간 표시한다"
+  },
+  {
+   "key": "afff30abb390",
+   "speaker_korean": null,
+   "korean": "필드의 적 움직임을 일정 시간 정지시킨다"
+  },
+  {
+   "key": "29d270eb645b",
+   "speaker_korean": null,
+   "korean": "한 번에 매핑 가능한 범위를 넓힌다"
+  },
+  {
+   "key": "04f3eceec033",
+   "speaker_korean": null,
+   "korean": "미니맵의 탐지 범위가 넓어진다"
+  },
+  {
+   "key": "42dcc89348ed",
+   "speaker_korean": null,
+   "korean": "미니맵의 적 표시가 적 크기에 따라 변화"
+  },
+  {
+   "key": "326f83708a91",
+   "speaker_korean": null,
+   "korean": "도주속도+20%"
+  },
+  {
+   "key": "0d0e74a686d8",
+   "speaker_korean": null,
+   "korean": "도주속도+30%"
+  },
+  {
+   "key": "7253f677bf1d",
+   "speaker_korean": null,
+   "korean": "100% 도주 가능 단 보스전 제외"
+  },
+  {
+   "key": "a50a95c4856b",
+   "speaker_korean": null,
+   "korean": "전투중 기절에서 회복"
+  },
+  {
+   "key": "2352a9a3d138",
+   "speaker_korean": null,
+   "korean": "전투중 독 무효화"
+  },
+  {
+   "key": "a5aa50fa66cf",
+   "speaker_korean": null,
+   "korean": "전투중 마비 무효화"
+  },
+  {
+   "key": "c8f00fad0db8",
+   "speaker_korean": null,
+   "korean": "전투중 석화 무효화"
+  },
+  {
+   "key": "98f0eb78b794",
+   "speaker_korean": null,
+   "korean": "전투중 동결 무효화"
+  },
+  {
+   "key": "11f19d03098e",
+   "speaker_korean": null,
+   "korean": "전투중 침묵 무효화"
+  },
+  {
+   "key": "25b84224fba9",
+   "speaker_korean": null,
+   "korean": "전투중 적에게 독 부여"
+  },
+  {
+   "key": "b79946a5f54d",
+   "speaker_korean": null,
+   "korean": "전투중 적에게 독 부여 광범위"
+  },
+  {
+   "key": "73e4aede1432",
+   "speaker_korean": null,
+   "korean": "전투중 적에게 독 부여 초광범위"
+  },
+  {
+   "key": "4540d7468fd6",
+   "speaker_korean": null,
+   "korean": "전투중 적을 기절시킴"
+  },
+  {
+   "key": "f4899b75e18d",
+   "speaker_korean": null,
+   "korean": "전투중 적을 기절시킴 광범위"
+  },
+  {
+   "key": "48d83b7b43af",
+   "speaker_korean": null,
+   "korean": "전투중 적을 기절시킴 초광범위"
+  },
+  {
+   "key": "bbe7aaaccbde",
+   "speaker_korean": null,
+   "korean": "전투중 30초간 MP소비0 문장술 사용가능"
+  },
+  {
+   "key": "7e9886d5675c",
+   "speaker_korean": null,
+   "korean": "전투중 60초간 MP소비0 문장술 사용가능"
+  },
+  {
+   "key": "6a8310548e5c",
+   "speaker_korean": null,
+   "korean": "전투중 120초간 MP소비0 문장술 사용가능"
+  },
+  {
+   "key": "28d6bab73104",
+   "speaker_korean": null,
+   "korean": "전투중 30초간 HP소비0 필살기 사용가능"
+  },
+  {
+   "key": "e92ac588b022",
+   "speaker_korean": null,
+   "korean": "전투중 60초간 HP소비0 필살기 사용가능"
+  },
+  {
+   "key": "67d230d24843",
+   "speaker_korean": null,
+   "korean": "전투중 120초간 HP소비0 필살기 사용가능"
+  },
+  {
+   "key": "bf0bc021cd91",
+   "speaker_korean": null,
+   "korean": "전투중 공격 문장술 데미지-30%"
+  },
+  {
+   "key": "b0c11089f86c",
+   "speaker_korean": null,
+   "korean": "전투중 공격 문장술 데미지-50%"
+  },
+  {
+   "key": "2d3ac6989207",
+   "speaker_korean": null,
+   "korean": "전투중 1분간 무적 효과가 끝나면 행동불능"
+  },
+  {
+   "key": "225b11ebb032",
+   "speaker_korean": null,
+   "korean": "전투중 2분간 무적 효과가 끝나면 행동불능"
+  },
+  {
+   "key": "6eb89fc4bc4f",
+   "speaker_korean": null,
+   "korean": "전투중 3분간 무적 효과가 끝나면 행동불능"
+  }
+ ]
+}

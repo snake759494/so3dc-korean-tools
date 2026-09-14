@@ -1,0 +1,650 @@
+{
+ "batch_id": "batch_0283",
+ "translations": [
+  {
+   "key": "4a3172a056fe",
+   "speaker_korean": null,
+   "korean": " 최강장비"
+  },
+  {
+   "key": "9af3c27f10b0",
+   "speaker_korean": null,
+   "korean": " 뒤로"
+  },
+  {
+   "key": "f5ca7edcaa82",
+   "speaker_korean": null,
+   "korean": "캔슬"
+  },
+  {
+   "key": "b285fc3d87d3",
+   "speaker_korean": null,
+   "korean": "전환"
+  },
+  {
+   "key": "1bba288cddad",
+   "speaker_korean": null,
+   "korean": "함"
+  },
+  {
+   "key": "00b475e0a313",
+   "speaker_korean": null,
+   "korean": "안 함"
+  },
+  {
+   "key": "d34b028faad6",
+   "speaker_korean": null,
+   "korean": "전투용"
+  },
+  {
+   "key": "ded2368fe090",
+   "speaker_korean": null,
+   "korean": "신규입수"
+  },
+  {
+   "key": "3ab856b575e2",
+   "speaker_korean": null,
+   "korean": "무기를 봅니다"
+  },
+  {
+   "key": "d04095057a92",
+   "speaker_korean": null,
+   "korean": "방어구를 봅니다"
+  },
+  {
+   "key": "a9d941b279bf",
+   "speaker_korean": null,
+   "korean": "액세서리를 봅니다"
+  },
+  {
+   "key": "f592fe3eab25",
+   "speaker_korean": null,
+   "korean": "사용 아이템을 봅니다"
+  },
+  {
+   "key": "ebe626ec973c",
+   "speaker_korean": null,
+   "korean": "음식을 봅니다"
+  },
+  {
+   "key": "bf80c12ab9fc",
+   "speaker_korean": null,
+   "korean": "어디에 속하지 않는 아이템을 봅니다"
+  },
+  {
+   "key": "8c6455990837",
+   "speaker_korean": null,
+   "korean": "소재를 봅니다"
+  },
+  {
+   "key": "f751f347dfa4",
+   "speaker_korean": null,
+   "korean": "귀중품을 봅니다"
+  },
+  {
+   "key": "469858b6a953",
+   "speaker_korean": null,
+   "korean": "전투용 아이템을 봅니다"
+  },
+  {
+   "key": "999e90635255",
+   "speaker_korean": null,
+   "korean": "새로 입수한 아이템을 봅니다"
+  },
+  {
+   "key": "76f390612ee1",
+   "speaker_korean": null,
+   "korean": "무기를 장착함"
+  },
+  {
+   "key": "0ac8a036125c",
+   "speaker_korean": null,
+   "korean": "방어구를 장착함"
+  },
+  {
+   "key": "e8973dd9c954",
+   "speaker_korean": null,
+   "korean": "액세서리1에 장착합니다 (으)로 위치 전환이 가능합니다"
+  },
+  {
+   "key": "6024abe7d1e2",
+   "speaker_korean": null,
+   "korean": "액세서리2에 장착합니다 (으)로 위치 전환이 가능합니다"
+  },
+  {
+   "key": "619c3ec24bdb",
+   "speaker_korean": null,
+   "korean": " 정보"
+  },
+  {
+   "key": "876b096566be",
+   "speaker_korean": null,
+   "korean": " 사용"
+  },
+  {
+   "key": "67d57c50146d",
+   "speaker_korean": null,
+   "korean": " 선택"
+  },
+  {
+   "key": "395f8b398d7b",
+   "speaker_korean": null,
+   "korean": " 정렬"
+  },
+  {
+   "key": "b5be1aea4bee",
+   "speaker_korean": null,
+   "korean": " 버림"
+  },
+  {
+   "key": "2e4e6355513e",
+   "speaker_korean": null,
+   "korean": "버림 전환"
+  },
+  {
+   "key": "f3287621c776",
+   "speaker_korean": null,
+   "korean": "뒤로 용"
+  },
+  {
+   "key": "24bf520f5c8a",
+   "speaker_korean": null,
+   "korean": "전환 복귀"
+  },
+  {
+   "key": "14de258741ad",
+   "speaker_korean": null,
+   "korean": "폐기확인"
+  },
+  {
+   "key": "d74db808634b",
+   "speaker_korean": null,
+   "korean": "이 아이템을 버립니다\n정말 버리시겠습니까?"
+  },
+  {
+   "key": "496fcfe7c215",
+   "speaker_korean": null,
+   "korean": "이벤트 스킵 메시지가 표시됩니다"
+  },
+  {
+   "key": "c121e40f8b97",
+   "speaker_korean": null,
+   "korean": "이벤트를 스킵하지 않습니다"
+  },
+  {
+   "key": "a7a2282b2580",
+   "speaker_korean": null,
+   "korean": "메시지 창과 음성이 모두 재생됩니다"
+  },
+  {
+   "key": "7b85b4f896e4",
+   "speaker_korean": null,
+   "korean": "메시지 창만 표시됩니다"
+  },
+  {
+   "key": "f4a477a254ec",
+   "speaker_korean": null,
+   "korean": "음성만 재생됩니다"
+  },
+  {
+   "key": "9b9548da95b9",
+   "speaker_korean": null,
+   "korean": "음성이 있을 때만 자동으로 대화창을 닫고 시나리오가 진행됩니다"
+  },
+  {
+   "key": "8ed27451a06e",
+   "speaker_korean": null,
+   "korean": "자동 타겟팅 모드로 설정합니다"
+  },
+  {
+   "key": "fc7fcec93f89",
+   "speaker_korean": null,
+   "korean": "수동 타겟팅 모드로 설정합니다"
+  },
+  {
+   "key": "b9565a4feaa1",
+   "speaker_korean": null,
+   "korean": "카메라 워크가 자동으로 전환되며 전투를 진행합니다"
+  },
+  {
+   "key": "b15192c269a6",
+   "speaker_korean": null,
+   "korean": "카메라를 고정한 채 전투를 진행합니다"
+  },
+  {
+   "key": "0d21aa539aa9",
+   "speaker_korean": null,
+   "korean": "높은 위치 카메라로 전투를 진행합니다"
+  },
+  {
+   "key": "eda9d3571ec1",
+   "speaker_korean": null,
+   "korean": "낮은 위치 카메라로 전투를 진행합니다"
+  },
+  {
+   "key": "242ea707087d",
+   "speaker_korean": null,
+   "korean": "전투 중 보이스가 재생됩니다"
+  },
+  {
+   "key": "9117f59a871e",
+   "speaker_korean": null,
+   "korean": "전투 중 보이스가 없습니다"
+  },
+  {
+   "key": "07444f1e52dd",
+   "speaker_korean": null,
+   "korean": "전투 스텝은 L2 버튼과 방향키 또는 왼쪽 스틱으로 진행합니다"
+  },
+  {
+   "key": "08003b01ee00",
+   "speaker_korean": null,
+   "korean": "전투 스텝은 방향키로만 진행합니다"
+  },
+  {
+   "key": "194625549a38",
+   "speaker_korean": null,
+   "korean": "진동을 켭니다"
+  },
+  {
+   "key": "ace3fe18b71e",
+   "speaker_korean": null,
+   "korean": "진동을 끕니다"
+  },
+  {
+   "key": "b9e68bd8bfd3",
+   "speaker_korean": null,
+   "korean": "사운드를 모노럴로 출력합니다"
+  },
+  {
+   "key": "c63c742786a9",
+   "speaker_korean": null,
+   "korean": "사운드를 스테레오로 출력합니다"
+  },
+  {
+   "key": "ee0397f94fe0",
+   "speaker_korean": null,
+   "korean": "사운드를 돌비 디지털 프로로직으로 출력합니다"
+  },
+  {
+   "key": "b6b1821dc174",
+   "speaker_korean": null,
+   "korean": "사운드를 헤드폰으로 출력할 때 최적의 효과를 발휘합니다"
+  },
+  {
+   "key": "93d99eb910e2",
+   "speaker_korean": null,
+   "korean": "버튼 위치를 초기화합니다 (으)로 결정"
+  },
+  {
+   "key": "45ef5364103a",
+   "speaker_korean": null,
+   "korean": "버튼 위치를 변경합니다 (으)로 결정"
+  },
+  {
+   "key": "da480ddc7a04",
+   "speaker_korean": null,
+   "korean": "윈도우 색을 초기화합니다 (으)로 결정"
+  },
+  {
+   "key": "c5460ff51830",
+   "speaker_korean": null,
+   "korean": "윈도우 색을 변경합니다 (으)로 결정"
+  },
+  {
+   "key": "6decde2970b6",
+   "speaker_korean": null,
+   "korean": "화면을 4:3으로 설정"
+  },
+  {
+   "key": "88fc4b840479",
+   "speaker_korean": null,
+   "korean": "화면을 16:9로 설정"
+  },
+  {
+   "key": "ff85cf9d6040",
+   "speaker_korean": null,
+   "korean": "전투 종료 후 전투 컬렉션을 수집합니다"
+  },
+  {
+   "key": "6203d51cae3b",
+   "speaker_korean": null,
+   "korean": "전투 종료 후 전투 컬렉션을 수집하지 않습니다"
+  },
+  {
+   "key": "c94718339392",
+   "speaker_korean": null,
+   "korean": "″PlayStation BB Unit″ 에서 불러옵니다"
+  },
+  {
+   "key": "e00111931275",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C.의 DVD-ROM에서 불러옵니다"
+  },
+  {
+   "key": "2432d959df4d",
+   "speaker_korean": null,
+   "korean": "전투 중 공격 버튼을 눌러도 타겟까지 달려가지 않는 모드로 설정합니다"
+  },
+  {
+   "key": "d357593fd9e1",
+   "speaker_korean": null,
+   "korean": "전투를 일반 모드로 설정"
+  },
+  {
+   "key": "dccf00cdb5ab",
+   "speaker_korean": null,
+   "korean": "버튼 배치를 변경합니다 변경할 버튼을 눌러 주세요"
+  },
+  {
+   "key": "6b121040c692",
+   "speaker_korean": null,
+   "korean": "결정"
+  },
+  {
+   "key": "b30df3f08173",
+   "speaker_korean": null,
+   "korean": "메뉴"
+  },
+  {
+   "key": "442f42290d57",
+   "speaker_korean": null,
+   "korean": "서브윈도우 개폐"
+  },
+  {
+   "key": "f5e9b1156a32",
+   "speaker_korean": null,
+   "korean": "미니맵 표시"
+  },
+  {
+   "key": "a66747e0bd0e",
+   "speaker_korean": null,
+   "korean": "블록 소거"
+  },
+  {
+   "key": "57bcafb40faa",
+   "speaker_korean": null,
+   "korean": "카메라 회전"
+  },
+  {
+   "key": "5c024c9a4ee5",
+   "speaker_korean": null,
+   "korean": "안 함 1"
+  },
+  {
+   "key": "ed5c96c3385b",
+   "speaker_korean": null,
+   "korean": "안 함 2"
+  },
+  {
+   "key": "34989f714d08",
+   "speaker_korean": null,
+   "korean": "필살기"
+  },
+  {
+   "key": "4c6b194a6b41",
+   "speaker_korean": null,
+   "korean": "마법"
+  },
+  {
+   "key": "dce55d3c5fa5",
+   "speaker_korean": null,
+   "korean": "강공격"
+  },
+  {
+   "key": "4e728587a51f",
+   "speaker_korean": null,
+   "korean": "약공격"
+  },
+  {
+   "key": "c7ab94a0d882",
+   "speaker_korean": null,
+   "korean": "공격대상변경"
+  },
+  {
+   "key": "0f1b9a242e14",
+   "speaker_korean": null,
+   "korean": "캐릭터 선택1"
+  },
+  {
+   "key": "7ed054905254",
+   "speaker_korean": null,
+   "korean": "캐릭터 선택2"
+  },
+  {
+   "key": "332ac7e2449e",
+   "speaker_korean": null,
+   "korean": "좌상"
+  },
+  {
+   "key": "17fe0ae09bb0",
+   "speaker_korean": null,
+   "korean": "좌하"
+  },
+  {
+   "key": "0ce0ba5edf8e",
+   "speaker_korean": null,
+   "korean": "종료"
+  },
+  {
+   "key": "2947dd62e5b8",
+   "speaker_korean": null,
+   "korean": "환경설정을 종료합니다\n종료하시겠습니까?"
+  },
+  {
+   "key": "48070447889a",
+   "speaker_korean": null,
+   "korean": "사용할 수 없는 기능입니다"
+  },
+  {
+   "key": "fbc5d02d4ad1",
+   "speaker_korean": null,
+   "korean": "이벤트 스킵"
+  },
+  {
+   "key": "54225eeae8bb",
+   "speaker_korean": null,
+   "korean": "음성"
+  },
+  {
+   "key": "3c3d3f7bf29a",
+   "speaker_korean": null,
+   "korean": "전투 타겟"
+  },
+  {
+   "key": "c2121f2644d3",
+   "speaker_korean": null,
+   "korean": "전투 카메라워크"
+  },
+  {
+   "key": "9b363afe5e3a",
+   "speaker_korean": null,
+   "korean": "전투 카메라모드"
+  },
+  {
+   "key": "c953dfcb79c8",
+   "speaker_korean": null,
+   "korean": "전투 보이스"
+  },
+  {
+   "key": "47ee8eb53ee2",
+   "speaker_korean": null,
+   "korean": "전투 스텝"
+  },
+  {
+   "key": "5decade2f5e5",
+   "speaker_korean": null,
+   "korean": "진동"
+  },
+  {
+   "key": "038eee24f62f",
+   "speaker_korean": null,
+   "korean": "사운드 환경"
+  },
+  {
+   "key": "347b4c1491b1",
+   "speaker_korean": null,
+   "korean": "키 커스터마이즈"
+  },
+  {
+   "key": "d3e4c9d7f6e7",
+   "speaker_korean": null,
+   "korean": "윈도우 컬러"
+  },
+  {
+   "key": "63109465c30d",
+   "speaker_korean": null,
+   "korean": "화면 크기"
+  },
+  {
+   "key": "44378a61fa2b",
+   "speaker_korean": null,
+   "korean": "전투 컬렉션"
+  },
+  {
+   "key": "21317e32cf3e",
+   "speaker_korean": null,
+   "korean": "불러오기"
+  },
+  {
+   "key": "25d0483d6c17",
+   "speaker_korean": null,
+   "korean": "풀액티브"
+  },
+  {
+   "key": "f8bf4c002b64",
+   "speaker_korean": null,
+   "korean": "양쪽"
+  },
+  {
+   "key": "dfc58ccf9f51",
+   "speaker_korean": null,
+   "korean": "자막만"
+  },
+  {
+   "key": "90bc4dc51859",
+   "speaker_korean": null,
+   "korean": "음성만"
+  },
+  {
+   "key": "5f66c1c62f88",
+   "speaker_korean": null,
+   "korean": "오토 진행"
+  },
+  {
+   "key": "0537c095a212",
+   "speaker_korean": null,
+   "korean": "오토"
+  },
+  {
+   "key": "a643330abe73",
+   "speaker_korean": null,
+   "korean": "매뉴얼"
+  },
+  {
+   "key": "039cddb042eb",
+   "speaker_korean": null,
+   "korean": "액티브"
+  },
+  {
+   "key": "8ccb28c9112b",
+   "speaker_korean": null,
+   "korean": "고정"
+  },
+  {
+   "key": "103ccd4fb257",
+   "speaker_korean": null,
+   "korean": "높음"
+  },
+  {
+   "key": "09586579a412",
+   "speaker_korean": null,
+   "korean": "낮음"
+  },
+  {
+   "key": "2535dda747d9",
+   "speaker_korean": null,
+   "korean": "+(또는좌스틱)"
+  },
+  {
+   "key": "bc8a7bacd0b2",
+   "speaker_korean": null,
+   "korean": "만"
+  },
+  {
+   "key": "9a863318037e",
+   "speaker_korean": null,
+   "korean": "모노럴"
+  },
+  {
+   "key": "009f946f294b",
+   "speaker_korean": null,
+   "korean": "스테레오"
+  },
+  {
+   "key": "28772d24bd56",
+   "speaker_korean": null,
+   "korean": "헤드폰"
+  },
+  {
+   "key": "8b2baae033b8",
+   "speaker_korean": null,
+   "korean": "노멀"
+  },
+  {
+   "key": "fe30a59cf306",
+   "speaker_korean": null,
+   "korean": "커스터마이즈"
+  },
+  {
+   "key": "cd765c4d11ae",
+   "speaker_korean": null,
+   "korean": "수집"
+  },
+  {
+   "key": "89189a97bf3b",
+   "speaker_korean": null,
+   "korean": "미수집"
+  },
+  {
+   "key": "ed560d5bdbba",
+   "speaker_korean": null,
+   "korean": "미사용 파일입니다"
+  },
+  {
+   "key": "587e43df1f2d",
+   "speaker_korean": null,
+   "korean": "메모리카드"
+  },
+  {
+   "key": "18eaace6c1d4",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구를 선택해 주세요"
+  },
+  {
+   "key": "ecc3a26dd266",
+   "speaker_korean": null,
+   "korean": "확인 중입니다"
+  },
+  {
+   "key": "82c897585300",
+   "speaker_korean": null,
+   "korean": "파일을 선택해 주세요"
+  },
+  {
+   "key": "c50263662c11",
+   "speaker_korean": null,
+   "korean": "파일에 저장하고 있습니다"
+  },
+  {
+   "key": "665d31bd3ce0",
+   "speaker_korean": null,
+   "korean": "파일에서 불러오고 있습니다"
+  },
+  {
+   "key": "3847b89a241e",
+   "speaker_korean": null,
+   "korean": " 눌러 주세요"
+  }
+ ]
+}

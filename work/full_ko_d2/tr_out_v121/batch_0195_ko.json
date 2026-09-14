@@ -1,0 +1,385 @@
+{
+ "batch_id": "batch_0195",
+ "translations": [
+  {
+   "key": "759a5429edc5",
+   "speaker_korean": "넬",
+   "korean": "「⟦1⟧시하츠⟦2⟧ 북서쪽 고원에 있는\n⟦3⟧아인⟦4⟧의 나라야."
+  },
+  {
+   "key": "9c7f6b478839",
+   "speaker_korean": "넬",
+   "korean": "「⟦1⟧페타니⟦2⟧에서도 ⟦3⟧아인⟦4⟧을\n많이 봤겠지만, 대부분이\n⟦5⟧선마이트⟦6⟧ 출신들이더라고."
+  },
+  {
+   "key": "1c46822e2760",
+   "speaker_korean": "넬",
+   "korean": "「그나저나 ⟦1⟧메노디쿠스족⟦2⟧이 이런 곳에\n있다니 신기하네. 좀처럼 아래로\n안 내려오는 종족으로 유명한데 말이야."
+  },
+  {
+   "key": "f222c59a4eb2",
+   "speaker_korean": "로저",
+   "korean": "「그게 말이죠, 여러 사정이\n있거든요, 누님."
+  },
+  {
+   "key": "f4c4851aeb35",
+   "speaker_korean": "클리프",
+   "korean": "「사정이라… 그렇군."
+  },
+  {
+   "key": "a0f37fa96b2f",
+   "speaker_korean": "페이트",
+   "korean": "「그건 그렇고, 왜 산적 따위한테\n붙잡혀 있는 거야?"
+  },
+  {
+   "key": "53e99e265895",
+   "speaker_korean": "로저",
+   "korean": "「그건 비밀이거든.\n남자한텐 애인한테도 말 못 할 게\n있는 법이라고."
+  },
+  {
+   "key": "97f636be59c6",
+   "speaker_korean": "클리프",
+   "korean": "「아앙?\n비밀은 무슨,\n도움까지 받아 놓고서."
+  },
+  {
+   "key": "71d02a63bdb7",
+   "speaker_korean": "넬",
+   "korean": "「정말, 이상한 녀석이네.\n뭐, 딱히 듣고 싶지도 않으니까\n상관없지만 말이야."
+  },
+  {
+   "key": "a211126142f4",
+   "speaker_korean": "로저",
+   "korean": "「어, 엥?"
+  },
+  {
+   "key": "f5e72f90a3c8",
+   "speaker_korean": "넬",
+   "korean": "「관심 없으니까."
+  },
+  {
+   "key": "a9bfb4e05af0",
+   "speaker_korean": "로저",
+   "korean": "「오, 누님한테는 꼭\n들려드리고 싶은데…\n라는 건 농담이고."
+  },
+  {
+   "key": "6a1f715d3c4b",
+   "speaker_korean": "클리프",
+   "korean": "「이 자식…\n진짜로 한 대 칠 거야."
+  },
+  {
+   "key": "4e9c1798bab7",
+   "speaker_korean": "페이트",
+   "korean": "「그래서?\n무슨 이유로 붙잡혀 있었던 거야?"
+  },
+  {
+   "key": "75f905ad5589",
+   "speaker_korean": "로저",
+   "korean": "「사나이의 승부라고."
+  },
+  {
+   "key": "efc38e401147",
+   "speaker_korean": "페이트",
+   "korean": "「사나이의 승부?"
+  },
+  {
+   "key": "8a1f59883bf1",
+   "speaker_korean": "로저",
+   "korean": "「그래, 맞아.\n⟦1⟧사페리오⟦2⟧에는 내 군단이랑 맞서는\n군단이 있는데, 거기 리더랑\n사나이의 승부를 벌이게 됐거든."
+  },
+  {
+   "key": "f95d388533f4",
+   "speaker_korean": "넬",
+   "korean": "「승부라…\n대체 뭘로 승부하는 건데?"
+  },
+  {
+   "key": "6ead1ed941f5",
+   "speaker_korean": "로저",
+   "korean": "「배짱 시험이야.\n⟦1⟧더글러스 숲⟦2⟧에서 위세 떨고 있는\n산적단 ⟦3⟧월영⟦4⟧의 아지트에 숨어들어서\n보물을 손에 넣고 오는\n엄청 배짱이 필요한 승부라고."
+  },
+  {
+   "key": "9eb236e809f0",
+   "speaker_korean": "로저",
+   "korean": "「이게 바로 사나이의 승부\n라는 거잖아!"
+  },
+  {
+   "key": "ea60501103cb",
+   "speaker_korean": "클리프",
+   "korean": "「그렇군… 그래서,\n실패해서 붙잡힌 거로군."
+  },
+  {
+   "key": "1b53f1f3ea3c",
+   "speaker_korean": "로저",
+   "korean": "「…말하지 마, 등신아."
+  },
+  {
+   "key": "e51e2007137c",
+   "speaker_korean": "페이트",
+   "korean": "「네가 붙잡혔던 이유는 알았어.\n그럼, 조심해서 돌아가.\n우리는 이만 갈 테니까."
+  },
+  {
+   "key": "5cc7440c5308",
+   "speaker_korean": "로저",
+   "korean": "「…형씨들은 뭐 하러 온 거야?\n산적 퇴치하러 온 것 같지도 않은데 말이야."
+  },
+  {
+   "key": "2abb6ab9ab20",
+   "speaker_korean": "페이트",
+   "korean": "「사람을 찾고 있어."
+  },
+  {
+   "key": "6a8dacd9846c",
+   "speaker_korean": "로저",
+   "korean": "「사람 찾기? 여자야?"
+  },
+  {
+   "key": "56b6b1c0b1b5",
+   "speaker_korean": "페이트",
+   "korean": "「어, 응."
+  },
+  {
+   "key": "5ba7e862f849",
+   "speaker_korean": "로저",
+   "korean": "「그렇군.\n좋아, 그럼 나도\n도와줄게."
+  },
+  {
+   "key": "378e8de2edb5",
+   "speaker_korean": "클리프",
+   "korean": "「뭐?"
+  },
+  {
+   "key": "cf43cfae4597",
+   "speaker_korean": "로저",
+   "korean": "「도와준다고 했잖아,\n덩치."
+  },
+  {
+   "key": "9c351baabd45",
+   "speaker_korean": null,
+   "korean": "형씨들보다 내가 이\n숲을 더 잘 아니까 말이지."
+  },
+  {
+   "key": "08341977581f",
+   "speaker_korean": "페이트",
+   "korean": "「마음은\n고맙지만…"
+  },
+  {
+   "key": "b122c4585815",
+   "speaker_korean": "로저",
+   "korean": "「뭐어, 이 ⟦1⟧로저님⟦2⟧이\n도와준다고 하잖아!\n그걸 거절하겠다는 거냐!?"
+  },
+  {
+   "key": "41909c31deb2",
+   "speaker_korean": "클리프",
+   "korean": "「…뭔가 꿍꿍이가 있는 것 같은데,\n너. 진짜로 도와주려는 거냐?"
+  },
+  {
+   "key": "3caca94d99bc",
+   "speaker_korean": "로저",
+   "korean": "「뜨끔!"
+  },
+  {
+   "key": "4f64f5514b9c",
+   "speaker_korean": "클리프",
+   "korean": "「뜨끔은 무슨."
+  },
+  {
+   "key": "53dfff1e3422",
+   "speaker_korean": "넬",
+   "korean": "「솔직하게 말해 봐.\n무슨 속셈인 거지?"
+  },
+  {
+   "key": "0f432e8a3d88",
+   "speaker_korean": "로저",
+   "korean": "「아… 누님,\n그게 말이죠… 저기… 그게요…"
+  },
+  {
+   "key": "f09032b9ffb3",
+   "speaker_korean": "페이트",
+   "korean": "「화 안 낼 테니까."
+  },
+  {
+   "key": "3a70e0a10f1e",
+   "speaker_korean": "로저",
+   "korean": "「실은 말이야, 아직 사나이의 승부 목적인\n보물을 손에 못 넣었거든,\n나."
+  },
+  {
+   "key": "578b2a50d3a5",
+   "speaker_korean": "클리프",
+   "korean": "「보물?"
+  },
+  {
+   "key": "e006696a2a26",
+   "speaker_korean": "로저",
+   "korean": "「그래, 등신아.\n금 조각상인데 말이야―."
+  },
+  {
+   "key": "196ae2005a7c",
+   "speaker_korean": "클리프",
+   "korean": "「그럼 얼른\n손에 넣어버려."
+  },
+  {
+   "key": "75933f5161b7",
+   "speaker_korean": "로저",
+   "korean": "「할 수 있으면 벌써 했지.\n그 조각상은 산적 두목이 갖고 있어.\n게다가 그놈이 이 숲 어딘가에 있다는 것\n밖에는 몰라."
+  },
+  {
+   "key": "e1671be4064d",
+   "speaker_korean": "페이트",
+   "korean": "「그렇구나."
+  },
+  {
+   "key": "d7c8008ccc20",
+   "speaker_korean": "클리프",
+   "korean": "「그러니까, 우리한테 붙어서\n운 좋으면 보물을 손에 넣겠다\n그런 속셈이냐?"
+  },
+  {
+   "key": "cd31a4045cb7",
+   "speaker_korean": "로저",
+   "korean": "「뭐, 솔직히 말하면\n그렇게 되려나."
+  },
+  {
+   "key": "1a12796e45ae",
+   "speaker_korean": "넬",
+   "korean": "「뭐, 괜찮지 않을까.\n확실히 도움을 받는 편이\n나을지도 몰라."
+  },
+  {
+   "key": "79205a82ec4e",
+   "speaker_korean": "클리프",
+   "korean": "「너, 제정신이야?"
+  },
+  {
+   "key": "bd67f1ea368d",
+   "speaker_korean": "넬",
+   "korean": "「⟦1⟧아미나⟦2⟧가 숲에서 쓰러진 뒤로\n제법 시간이 지났어.\n그러니까, 한시라도 빨리 그 애를 찾아서\n마을로 데려가야 해.\n그리고, 이 꼬마가 이 근방을\n잘 안다면, 같이 와\n달라고 하는 편이 낫지 않을까\n싶었을 뿐이야."
+  },
+  {
+   "key": "25853e58e3d9",
+   "speaker_korean": "로저",
+   "korean": "「그렇지, 그렇지!"
+  },
+  {
+   "key": "b553042becfe",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・로저의 협력을 받는다."
+  },
+  {
+   "key": "3c549ad893ef",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・협력 거절."
+  },
+  {
+   "key": "af81df547756",
+   "speaker_korean": "클리프",
+   "korean": "「…라는데. 어떡할래?"
+  },
+  {
+   "key": "3bfd1ee65831",
+   "speaker_korean": "페이트",
+   "korean": "「그래.\n⟦1⟧로저⟦2⟧라고 했나?\n도와줄 수 있을까?"
+  },
+  {
+   "key": "e7e3ebcef9dd",
+   "speaker_korean": "로저",
+   "korean": "「도움받은 은혜도 있고 말이지.\n헤헤헷, 맡겨두라고!"
+  },
+  {
+   "key": "bf3e590018fe",
+   "speaker_korean": "클리프",
+   "korean": "「근데, 그 사나이의 승부는 괜찮은 거냐?\n아직 안 끝났잖아?"
+  },
+  {
+   "key": "6240f5c21700",
+   "speaker_korean": "로저",
+   "korean": "「…아."
+  },
+  {
+   "key": "2e9c9f843dfa",
+   "speaker_korean": "넬",
+   "korean": "「어머어머,\n완전히 까먹었다는 얼굴이네."
+  },
+  {
+   "key": "45e7b7f05f90",
+   "speaker_korean": "로저",
+   "korean": "「뭐, 괜찮지 않겠어?"
+  },
+  {
+   "key": "5f7e019517fd",
+   "speaker_korean": "로저",
+   "korean": "「형씨들은 이 숲에서 사람 찾을 거잖아?\n그럼 내가 찾는 놈이랑\n마주칠 가능성도 높잖아.\n나는 그 누나 찾는 걸 도와줄게.\n형씨들은, 만약 내가 찾는\n산적 두목이랑 마주치면 같이 쓰러뜨린다.\n그러면 전부 다\n잘 풀리는 거잖아."
+  },
+  {
+   "key": "31801b6e8d24",
+   "speaker_korean": "페이트",
+   "korean": "「좋아.\n그럼 서두르자!"
+  },
+  {
+   "key": "03cef838651c",
+   "speaker_korean": "로저",
+   "korean": "「오―――!!"
+  },
+  {
+   "key": "0fc4c4b89096",
+   "speaker_korean": "페이트",
+   "korean": "「모처럼인데 말이야…"
+  },
+  {
+   "key": "5ed872161bde",
+   "speaker_korean": "로저",
+   "korean": "「뭐야,\n내가 도움이 안 된다는 거냐?"
+  },
+  {
+   "key": "78d5498f1c1c",
+   "speaker_korean": "페이트",
+   "korean": "「그런 게 아니야.\n가능하면 나도 도움을\n받고 싶다고 생각해. 근데,\n너는 사나이의 승부 도중이잖아?\n그거 매듭짓지 않고\n괜찮은 거야?"
+  },
+  {
+   "key": "6628ed14dd74",
+   "speaker_korean": "로저",
+   "korean": "「아――――――!?\n완전히 까먹고 있었잖아!"
+  },
+  {
+   "key": "1984483bbfa6",
+   "speaker_korean": "페이트",
+   "korean": "「그렇지?\n그러니까, 마음만\n고맙게 받아둘게."
+  },
+  {
+   "key": "683e7db86025",
+   "speaker_korean": "로저",
+   "korean": "「그런가… 그럼 어쩔 수 없나.\n⟦1⟧선마이트⟦2⟧에 오면\n우리 집에 들러라.\n군단을 총동원해서 대접할 테니까!"
+  },
+  {
+   "key": "c491bc4c4916",
+   "speaker_korean": "페이트",
+   "korean": "「응.\n꼭 들르도록 할게."
+  },
+  {
+   "key": "dfa292b7ba99",
+   "speaker_korean": "로저",
+   "korean": "「그래, 잘 가라!"
+  },
+  {
+   "key": "baa55009a491",
+   "speaker_korean": "넬",
+   "korean": "「안에 누가 있는 거야?"
+  },
+  {
+   "key": "d3fe036d443c",
+   "speaker_korean": "클리프",
+   "korean": "「하아…"
+  },
+  {
+   "key": "8285ec7f3445",
+   "speaker_korean": "클리프",
+   "korean": "「뭐… 그렇겠지."
+  },
+  {
+   "key": "e95523a327fe",
+   "speaker_korean": "로저",
+   "korean": "⟦1⟧「날 냉큼\n여기서 꺼내달란 말이야!\n⟦P⟧"
+  },
+  {
+   "key": "b30fa7cb6271",
+   "speaker_korean": "로저",
+   "korean": "⟦1⟧「안 되나…\n젠장~!\n난 절대로 포기하지\n않는다고~!!!\n⟦P⟧"
+  }
+ ]
+}

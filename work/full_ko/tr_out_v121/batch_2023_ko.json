@@ -1,0 +1,35 @@
+{
+ "batch_id": "batch_2023",
+ "translations": [
+  {
+   "key": "a2812e34d412",
+   "speaker_korean": null,
+   "korean": "비행충 3기가 각각 공격\n공격 버튼을 계속 눌러야 발동"
+  },
+  {
+   "key": "1892a2a38041",
+   "speaker_korean": null,
+   "korean": "오라가 날아 적에게 유도\n효과:데미지"
+  },
+  {
+   "key": "166bdea7b371",
+   "speaker_korean": null,
+   "korean": "오라가 확산돼 다수의 적에게 유도\n효과:데미지"
+  },
+  {
+   "key": "6b54a8e3b03b",
+   "speaker_korean": null,
+   "korean": "오라가 확산한 후 자신에게 흡수\n효과:HP・MP 회복"
+  },
+  {
+   "key": "9884b67bc56b",
+   "speaker_korean": null,
+   "korean": "오라가 무수한 별이 되어 방사됨\n효과:데미지"
+  },
+  {
+   "key": "867ce7dd7744",
+   "speaker_korean": null,
+   "korean": "오라가 날아 적에게 유도\n효과:기절"
+  }
+ ]
+}

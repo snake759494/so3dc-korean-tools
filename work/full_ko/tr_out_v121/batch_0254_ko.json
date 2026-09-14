@@ -1,0 +1,500 @@
+{
+ "batch_id": "batch_0254",
+ "translations": [
+  {
+   "key": "827cc4790c29",
+   "speaker_korean": null,
+   "korean": "현자 오스만"
+  },
+  {
+   "key": "09e3b5cf6755",
+   "speaker_korean": null,
+   "korean": "발명왕 데지슨"
+  },
+  {
+   "key": "752b1d990576",
+   "speaker_korean": null,
+   "korean": "점술사 루이도"
+  },
+  {
+   "key": "24b862820265",
+   "speaker_korean": "웰치",
+   "korean": "「잠깐,\n뭐 하는 거야!!"
+  },
+  {
+   "key": "2f936e266201",
+   "speaker_korean": "웰치",
+   "korean": "「정말이지 참…."
+  },
+  {
+   "key": "6b2d7faf334d",
+   "speaker_korean": "웰치",
+   "korean": "「…아."
+  },
+  {
+   "key": "9ec4b1e99f5d",
+   "speaker_korean": "웰치",
+   "korean": "「아하하하하!\n아, 아무것도 아니야.\n음… 뭐였더라?"
+  },
+  {
+   "key": "3437c696f922",
+   "speaker_korean": "웰치",
+   "korean": "「아, 보고!\n보고였지~."
+  },
+  {
+   "key": "fdb39a3ccf4f",
+   "speaker_korean": "웰치",
+   "korean": "「큼큼."
+  },
+  {
+   "key": "f8d2135355eb",
+   "speaker_korean": "길드마스터",
+   "korean": "「⟦1⟧웰치⟦2⟧는 어디 있느냐?\n뭐, 변소라고?\n좀 너무 오래\n걸리는 거 아니냐….\n⟦P⟧퍽!?"
+  },
+  {
+   "key": "516cebcd806b",
+   "speaker_korean": "웰치",
+   "korean": "「헉헉…."
+  },
+  {
+   "key": "3adb142090f1",
+   "speaker_korean": "웰치",
+   "korean": "「미안해요~!"
+  },
+  {
+   "key": "5d0f76246076",
+   "speaker_korean": "웰치",
+   "korean": "「후훗.\n그럼 보고, 시작할게요?"
+  },
+  {
+   "key": "fb0248f54999",
+   "speaker_korean": "웰치",
+   "korean": "「히엥!!"
+  },
+  {
+   "key": "e26bd23a5952",
+   "speaker_korean": "웰치",
+   "korean": "「아… 보고였죠?"
+  },
+  {
+   "key": "c932da6aaf73",
+   "speaker_korean": "길드마스터",
+   "korean": "「히갹!\n차차차차가워어어!!"
+  },
+  {
+   "key": "20ee7dea8e59",
+   "speaker_korean": "길드마스터",
+   "korean": "「어어어어,\n카메라, 카, 카메라!"
+  },
+  {
+   "key": "005cc9f9a1ac",
+   "speaker_korean": "웰치",
+   "korean": "「아핫♪"
+  },
+  {
+   "key": "4b34c47c4382",
+   "speaker_korean": "웰치",
+   "korean": "「나오고 있으면 말을 해줘.\n정말!!"
+  },
+  {
+   "key": "2b427616436b",
+   "speaker_korean": "길드마스터",
+   "korean": "「말했잖느냐!"
+  },
+  {
+   "key": "d336944258ab",
+   "speaker_korean": "웰치",
+   "korean": "「음….\n그럼\n보고인데…."
+  },
+  {
+   "key": "15de7f80adba",
+   "speaker_korean": "웰치",
+   "korean": "「응, 괜찮네♪\n⟦P⟧쪽♥"
+  },
+  {
+   "key": "fe78310f4abd",
+   "speaker_korean": "웰치",
+   "korean": "「⟦1⟧기술 국가 그리텐⟦2⟧?"
+  },
+  {
+   "key": "c26c3eaa265a",
+   "speaker_korean": "웰치",
+   "korean": "「…의 장인 베렌추레 씨가,\n최강의 검을 발명했대!"
+  },
+  {
+   "key": "482fbca5ce7b",
+   "speaker_korean": "웰치",
+   "korean": "「이름하여,\n성검 페어웰!"
+  },
+  {
+   "key": "9740849769d9",
+   "speaker_korean": "웰치",
+   "korean": "「그의 말로는 이게 사실상\n세계 최강의 검이라나!"
+  },
+  {
+   "key": "bbe453045ef4",
+   "speaker_korean": "웰치",
+   "korean": "「대단해~!"
+  },
+  {
+   "key": "0660d8222371",
+   "speaker_korean": "웰치",
+   "korean": "「다른 장인들,\n아쉽게 됐네요!"
+  },
+  {
+   "key": "6f7615945c91",
+   "speaker_korean": "웰치",
+   "korean": "「아무래도 이 최강의 검은\n딱 한 자루만 팔리는 것 같아."
+  },
+  {
+   "key": "004b7210e02a",
+   "speaker_korean": "길드마스터",
+   "korean": "「이봐,\n⟦1⟧웰치⟦2⟧, ⟦3⟧웰치⟦4⟧!"
+  },
+  {
+   "key": "ae3b30734584",
+   "speaker_korean": "웰치",
+   "korean": "「가격은… 일, 십…,\n무려 오천만 폴!!\n이런 걸 대체 누가\n사는 걸까요?"
+  },
+  {
+   "key": "adb0349f1fe6",
+   "speaker_korean": "웰치",
+   "korean": "「뭐야!!"
+  },
+  {
+   "key": "62dfd3ca74f2",
+   "speaker_korean": "웰치",
+   "korean": "「엥?\n…방금 거,\n다 틀렸어?"
+  },
+  {
+   "key": "c2527a07d1c0",
+   "speaker_korean": null,
+   "korean": "『잠시만 기다려 주세요』"
+  },
+  {
+   "key": "8319cf3b781d",
+   "speaker_korean": "웰치",
+   "korean": "「아~ 그게 있잖아요,\n요즘 좀 지쳐서요."
+  },
+  {
+   "key": "f1cd6fc7835e",
+   "speaker_korean": "길드마스터",
+   "korean": "(내가 더\n지쳤단 말이다!"
+  },
+  {
+   "key": "cb92963e66a2",
+   "speaker_korean": "웰치",
+   "korean": "「뭔가,\n좀 더 창의적인 일이\n저한테 더 어울리는 것\n같단 말이죠~."
+  },
+  {
+   "key": "8f996257f5e4",
+   "speaker_korean": "길드마스터",
+   "korean": "(무리무리.\n남의 떡이 커 보이는 것도\n정도가 있는 법이여!"
+  },
+  {
+   "key": "13fbb90d08ef",
+   "speaker_korean": "웰치",
+   "korean": "「어디 괜찮은 남자\n없으려나~.\n이 직장엔 없지만~."
+  },
+  {
+   "key": "ebca2327a557",
+   "speaker_korean": "길드마스터",
+   "korean": "(여자 그림자도\n없구먼. 허허허!"
+  },
+  {
+   "key": "2796fbb8badc",
+   "speaker_korean": "웰치",
+   "korean": "「할아버지 상대하는 것도\n지쳤단 말이야~."
+  },
+  {
+   "key": "c0f8af3b5bbd",
+   "speaker_korean": "길드마스터",
+   "korean": "(뒤치다꺼리하는 건\n이 몸이란 말이다!"
+  },
+  {
+   "key": "ca7b66ab7341",
+   "speaker_korean": "웰치",
+   "korean": "「오호?\n붙자는 거야!?"
+  },
+  {
+   "key": "846ecd48b543",
+   "speaker_korean": "웰치",
+   "korean": "「드르렁 드르렁."
+  },
+  {
+   "key": "0bd20ec7c345",
+   "speaker_korean": "웰치",
+   "korean": "「후우…\n우물우물."
+  },
+  {
+   "key": "c146cff31879",
+   "speaker_korean": "웰치",
+   "korean": "「우후훗♪"
+  },
+  {
+   "key": "2953a0723044",
+   "speaker_korean": "웰치",
+   "korean": "「새근새근."
+  },
+  {
+   "key": "1ce2202633b5",
+   "speaker_korean": "웰치",
+   "korean": "「뭐야~ 안 돼!"
+  },
+  {
+   "key": "353943cc9738",
+   "speaker_korean": "웰치",
+   "korean": "「진짜."
+  },
+  {
+   "key": "6003ac5e3f3d",
+   "speaker_korean": "웰치",
+   "korean": "「안 돼,\n이런 데서는~."
+  },
+  {
+   "key": "b1765a68b06c",
+   "speaker_korean": "웰치",
+   "korean": "「우후후후!"
+  },
+  {
+   "key": "a708943c0381",
+   "speaker_korean": "웰치",
+   "korean": "「으엥?"
+  },
+  {
+   "key": "56432b726344",
+   "speaker_korean": "웰치",
+   "korean": "「여긴, 어디?"
+  },
+  {
+   "key": "705522d2057c",
+   "speaker_korean": "웰치",
+   "korean": "「우훗!"
+  },
+  {
+   "key": "439c73060f17",
+   "speaker_korean": "웰치",
+   "korean": "「으응?"
+  },
+  {
+   "key": "b4be9c57b8da",
+   "speaker_korean": "웰치",
+   "korean": "「설마…."
+  },
+  {
+   "key": "6b8858fc3cec",
+   "speaker_korean": "웰치",
+   "korean": "「진짜, 카메라 끄라고\n말했잖아요!?"
+  },
+  {
+   "key": "37dfca73b968",
+   "speaker_korean": null,
+   "korean": "여기서는 처음 뵙는 거죠.\n⟦P⟧제 화면발이 이상하지 않나요?\n⟦P⟧아무튼 당분간 신세 좀 질게요.\n⟦P⟧서로 열심히 해봐요."
+  },
+  {
+   "key": "5bc163d8ac45",
+   "speaker_korean": null,
+   "korean": "안녕하세요, 신제품 개발은 잘 되고 있나요?\n⟦P⟧다른 크리에이터에게 지지 않도록\n⟦P⟧힘내 주세요."
+  },
+  {
+   "key": "370082dd32b5",
+   "speaker_korean": null,
+   "korean": "좋은 아침이에요. 일찍 일어나셨네요.\n⟦P⟧아침에 깜짝 놀랄 만한 영감이 더 잘 떠오르나요?"
+  },
+  {
+   "key": "858537ec062b",
+   "speaker_korean": null,
+   "korean": "안녕하세요. 너무 무리하지는 마세요.\n⟦P⟧저도 좀 졸리네요…."
+  },
+  {
+   "key": "96a97b712ddc",
+   "speaker_korean": null,
+   "korean": "오랜만이네요.\n⟦P⟧계속 개발에만 몰두하셨나요?\n⟦P⟧좋은 제품 부탁드릴게요."
+  },
+  {
+   "key": "24a2525b51e6",
+   "speaker_korean": null,
+   "korean": "오랜만이시네요.\n⟦P⟧한동안 연락이 없어서 걱정했어요.\n⟦P⟧아, 다행이에요."
+  },
+  {
+   "key": "b1bd9203d9e7",
+   "speaker_korean": null,
+   "korean": "연락이 없으면 요즘 제 컨디션도 흐트러지곤 해요.\n⟦P⟧용건이 없어도 괜찮으니까\n⟦P⟧가끔은 얼굴 좀 보여주세요!"
+  },
+  {
+   "key": "8514d8e425e9",
+   "speaker_korean": null,
+   "korean": "메리 크리스마스!\n⟦P⟧사실 오늘만 나타나는 아이템이 있어요.\n⟦P⟧산타 할아버지의 선물일까요?"
+  },
+  {
+   "key": "03b6b8be6b1c",
+   "speaker_korean": null,
+   "korean": "새해 복 많이 받으세요.\n⟦P⟧설날부터 플레이해 주시다니, 정말 감격이에요.\n⟦P⟧어쩌면 세뱃돈을 받을 수 있을지도 몰라요.\n⟦P⟧우후훗."
+  },
+  {
+   "key": "801414f4c7b7",
+   "speaker_korean": null,
+   "korean": "게임 클리어를 축하드려요!\n⟦P⟧아이템 크리에이션도 좀 더\n⟦P⟧힘내 주세요!\n⟦P⟧그럼 이렇게 부족한 사람이지만,\n⟦P⟧앞으로도 잘 부탁드릴게요."
+  },
+  {
+   "key": "3b0819430c7d",
+   "speaker_korean": null,
+   "korean": "내용에 변화가 있는 커맨드 옆에는\n⟦P⟧『NEW』표시가 나타납니다.\n⟦P⟧커맨드 선택의 기준으로 삼아 보세요."
+  },
+  {
+   "key": "62c6a670bf99",
+   "speaker_korean": null,
+   "korean": "커맨드에 커서를 맞추고 누르면\n⟦P⟧HELP 커맨드를 실행할 수 있습니다.\n⟦P⟧무엇이든 사양 말고 물어봐 주세요."
+  },
+  {
+   "key": "e57fdf97d887",
+   "speaker_korean": null,
+   "korean": "무엇을 할지 정하셨나요?"
+  },
+  {
+   "key": "3af6e90adf24",
+   "speaker_korean": null,
+   "korean": "가만히 있으면 긴장되네요."
+  },
+  {
+   "key": "053fe8034224",
+   "speaker_korean": null,
+   "korean": "뉴스 속보를 알고 싶다면\n⟦P⟧이 커맨드를 선택해 주세요.\n⟦P⟧특허 상황이나 상품 입고 정보 등\n⟦P⟧거의 모든 새 소식을 여기서 확인할 수 있어요."
+  },
+  {
+   "key": "b972ab848be8",
+   "speaker_korean": null,
+   "korean": "무언가 아이템을 발명했다면 잊지 말고\n⟦P⟧되도록 빨리 특허를 신청해 주세요.\n⟦P⟧다른 사람이 먼저 하면\n⟦P⟧권리는 남의 것이 되어버려요!"
+  },
+  {
+   "key": "267b3789a988",
+   "speaker_korean": null,
+   "korean": "아이템 리스트나 크리에이터 랭킹 등\n⟦P⟧잡다한 정보는 전부 여기서 확인할 수 있어요."
+  },
+  {
+   "key": "ea5c3083f7ce",
+   "speaker_korean": null,
+   "korean": "계약한 크리에이터의 작업 방침을 바꾸려면\n⟦P⟧이 커맨드를 선택해 주세요."
+  },
+  {
+   "key": "5f82c9bea994",
+   "speaker_korean": null,
+   "korean": "무언가 상황에 변화가 생겼을 때 캠프 화면을\n⟦P⟧열기 전에 자동으로 알려주는 기능입니다.\n⟦P⟧당신이 정한 조건에 따라\n⟦P⟧마을이나 던전을 이동할 때 작동합니다."
+  },
+  {
+   "key": "74cbecdb6027",
+   "speaker_korean": null,
+   "korean": "지금으로선 새로운 정보가 전혀 없네요."
+  },
+  {
+   "key": "a6dde6f315f4",
+   "speaker_korean": null,
+   "korean": "무언가 찾으세요?"
+  },
+  {
+   "key": "f82f599ea924",
+   "speaker_korean": null,
+   "korean": "유비무환이라고 하죠."
+  },
+  {
+   "key": "e530fa06a4e0",
+   "speaker_korean": null,
+   "korean": "신경 쓰이는 라이벌이라도 있었나요?"
+  },
+  {
+   "key": "9b68199feba3",
+   "speaker_korean": null,
+   "korean": "신제품이 발매되었습니다."
+  },
+  {
+   "key": "83c2a0b43737",
+   "speaker_korean": null,
+   "korean": "아수라장 같은 치열한 개발 전선에\n⟦P⟧새로운 도전자가 등장했습니다.\n⟦P⟧꼭 확인해 보세요!"
+  },
+  {
+   "key": "2b384e2a7b1c",
+   "speaker_korean": null,
+   "korean": "축하합니다!\n⟦P⟧당신이 제작한 아이템이\n⟦P⟧정식으로 매장 판매되었습니다."
+  },
+  {
+   "key": "f53b152a43a3",
+   "speaker_korean": null,
+   "korean": "길드 마스터로부터 특별 보수가 주어집니다."
+  },
+  {
+   "key": "4c6e5ac3db0e",
+   "speaker_korean": null,
+   "korean": "내용은 다음과 같습니다."
+  },
+  {
+   "key": "4bbb9661a1cd",
+   "speaker_korean": null,
+   "korean": "앞으로도 더 좋은 제품 개발, 기대하고 있을게요!"
+  },
+  {
+   "key": "05427c61c006",
+   "speaker_korean": null,
+   "korean": "지금은 신청할 수 있는 물건이 없네요."
+  },
+  {
+   "key": "afc5f9f17823",
+   "speaker_korean": null,
+   "korean": "특허 신청할 아이템을 선택해 주세요."
+  },
+  {
+   "key": "f49ae606aaed",
+   "speaker_korean": null,
+   "korean": "신청은 서둘러서.\n⟦P⟧선수를 뺏기면 노력이 헛수고가 돼요."
+  },
+  {
+   "key": "c025b86be752",
+   "speaker_korean": null,
+   "korean": "늘 수고 많으세요."
+  },
+  {
+   "key": "83f1b7a1dae0",
+   "speaker_korean": null,
+   "korean": "오늘은 뭘 보여주실 건가요?\n⟦P⟧개인적으로 정말 궁금하네요."
+  },
+  {
+   "key": "731107423960",
+   "speaker_korean": null,
+   "korean": "요즘 다들 컨디션이 안 좋나요?\n⟦P⟧기죽지 말아요!"
+  },
+  {
+   "key": "e6466163420e",
+   "speaker_korean": null,
+   "korean": "지금은 새로운 소식이 들어온 게 없네요."
+  },
+  {
+   "key": "cf2d4c760067",
+   "speaker_korean": null,
+   "korean": "귀가 솔깃한 소식이 들어오면 알려드릴게요."
+  },
+  {
+   "key": "dea64f637501",
+   "speaker_korean": null,
+   "korean": "크리에이터 정보가 갱신되었습니다."
+  },
+  {
+   "key": "7e836f42846c",
+   "speaker_korean": null,
+   "korean": "발명품 리스트가 갱신되었습니다."
+  },
+  {
+   "key": "3e8a46bf6a6c",
+   "speaker_korean": null,
+   "korean": "상점 정보가 갱신되었습니다."
+  },
+  {
+   "key": "de110126000f",
+   "speaker_korean": null,
+   "korean": "대륙 맵 정보가 갱신되었습니다."
+  },
+  {
+   "key": "c79bd56bf332",
+   "speaker_korean": null,
+   "korean": "크리에이터 랭킹에 변동이 있었습니다."
+  }
+ ]
+}

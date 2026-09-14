@@ -1,0 +1,290 @@
+{
+ "batch_id": "batch_0202",
+ "translations": [
+  {
+   "key": "7fdf7e28cf25",
+   "speaker_korean": "클리프",
+   "korean": "「지금밖에 없겠군"
+  },
+  {
+   "key": "e5364de6fc6d",
+   "speaker_korean": "페이트",
+   "korean": "「가자!!"
+  },
+  {
+   "key": "e723cff7be9b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧트래핑 카드 EX4⟦2⟧를 손에 넣었다"
+  },
+  {
+   "key": "5ceef310feab",
+   "speaker_korean": null,
+   "korean": "⟦1⟧스케일 아머⟦2⟧를 손에 넣었다"
+  },
+  {
+   "key": "69d9c0173710",
+   "speaker_korean": "페이트",
+   "korean": "「…잠겨 있다\n열릴 것 같지 않네"
+  },
+  {
+   "key": "798a93a4a079",
+   "speaker_korean": "페이트",
+   "korean": "「이미 게이트는 열려 있군"
+  },
+  {
+   "key": "29029165cdd3",
+   "speaker_korean": "페이트",
+   "korean": "「레버가 있네\n조작할 수 있을 것 같은데…"
+  },
+  {
+   "key": "3bea3b2bf74d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・레버를 내린다"
+  },
+  {
+   "key": "4a9ced09f968",
+   "speaker_korean": "넬",
+   "korean": "「여긴 예전엔 갱도였어\n근데 몇십 년 전부터 광물이\n안 나오게 됐거든"
+  },
+  {
+   "key": "f90d6802fa73",
+   "speaker_korean": "넬",
+   "korean": "「지금은 이동 통로로만 쓰이고 있어\n근데 낙반 사고가 많아서\n그것마저도 쉽지 않은 상태야"
+  },
+  {
+   "key": "469dc804e9af",
+   "speaker_korean": "페이트",
+   "korean": "「그렇구나"
+  },
+  {
+   "key": "5b6818ae5d5d",
+   "speaker_korean": "클리프",
+   "korean": "「그냥 지진이 아니잖아!!"
+  },
+  {
+   "key": "85074c78c1d0",
+   "speaker_korean": "페이트",
+   "korean": "「설마 저런 녀석이\n있을 줄이야…"
+  },
+  {
+   "key": "22b07645440b",
+   "speaker_korean": "클리프",
+   "korean": "「이제 와서 그런 기분도 들지만"
+  },
+  {
+   "key": "640aba15c257",
+   "speaker_korean": "클리프",
+   "korean": "「…혹시 낙반 사고 같은 것도,\n그 녀석 짓 아니냐?"
+  },
+  {
+   "key": "940fb01990bd",
+   "speaker_korean": "넬",
+   "korean": "「그럴 수도 있지만\n방심은 금물이야"
+  },
+  {
+   "key": "4adf2f39b4ce",
+   "speaker_korean": "페이트",
+   "korean": "「스위치가 5개 있네…\n각각 『착실』『태평』\n『변덕』『삐딱』『돌격』\n이라고 적혀 있어\n그리고, 설명서도 있네"
+  },
+  {
+   "key": "c29ed527bee6",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・저 트롤리를 탄다"
+  },
+  {
+   "key": "9a3677b2e4c4",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・다른 트롤리로 한다"
+  },
+  {
+   "key": "3eaad269f0c5",
+   "speaker_korean": "페이트",
+   "korean": "「저건…, ⟦1⟧트롤리⟦2⟧인가?\n저기 타라는\n소리인가…"
+  },
+  {
+   "key": "687c28c03508",
+   "speaker_korean": "페이트",
+   "korean": "「진짜 순식간에 도착했어…"
+  },
+  {
+   "key": "c50d601a479c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・설명서는 읽지 않는다"
+  },
+  {
+   "key": "5af291d4afe3",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・설명서를 읽는다"
+  },
+  {
+   "key": "a366e83d633a",
+   "speaker_korean": null,
+   "korean": "\n\n\n\n⟦1⟧⟦2⟧트롤리 몬스터⟦3⟧\n취급 설명서\n\n⟦4⟧아리그리프 왕국⟦5⟧・⟦6⟧컬소어 산 동굴⟦7⟧관리부⟦8⟧\n\n⟦P⟧여기서부터는 ⟦9⟧트롤리 몬스터⟦10⟧\n(이하 ⟦11⟧트롤리⟦12⟧)만 진입 가능합니다.\n보행, 및 지상생물・비행생물에 의한\n⟦13⟧트롤리⟦14⟧ 이외의 방법에 의한 진입은 처벌\n대상이 됩니다.\n⟦P⟧⟦15⟧트롤리⟦16⟧의 조작은,\n\n⟦17⟧가속・감속⟦18⟧\n컨트롤러의\n⟦19⟧분기⟦20⟧\n일정 속도 이하로 감속하고,\n컨트롤러로 조작\n⟦21⟧정차⟦22⟧\n일정 속도 이하로 감속\n⟦23⟧점프⟦24⟧\n일정 속도 이상으로 가속\n\n되어 있습니다.\n⟦P⟧⟦25⟧트롤리⟦26⟧에는 다음 종류가 있습니다.\n\n⟦27⟧착실⟦28⟧\n조작에 충실하지만, 가속・감속이 어렵게\n되어 있습니다.(내구력・중)\n\n⟦29⟧태평⟦30⟧\n조작은 우회전밖에 할 수 없습니다(일부 제외).\n가속이 서투릅니다.(내구력・대)\n\n⟦31⟧변덕⟦32⟧\n말을 듣지 않습니다. 점프력이\n다른 ⟦33⟧트롤리⟦34⟧보다 월등히 높습니다.(내구력・중)\n⟦P⟧⟦35⟧삐딱⟦36⟧\n조작과 반대 방향으로 꺾입니다.(내구력・소)\n\n⟦37⟧돌격⟦38⟧\n말을 잘 듣지 않습니다.\n또한 일정속도 이하로 감속 불가합니다.\n(내구력・대)\n⟦P⟧⟦39⟧트롤리⟦40⟧는 생물이므로 취급에는\n세심한 주의를 기울여주십시오.\n외부의 영향으로 스트레스를\n느끼는 경우가 있습니다.\n너무 강한 스트레스를 느끼면\n말을 듣지 않거나\n의식을 잃는 경우가 있습니다.\n⟦P⟧⟦41⟧주의⟦42⟧\n몬스터의 출현에 따라, 산굴 내는 산사태 등\n매우 위험한 상태입니다.\n⟦43⟧트롤리⟦44⟧를 다룰 때는 세심한 주의가 필요합니다."
+  },
+  {
+   "key": "aa249fa8681a",
+   "speaker_korean": "페이트",
+   "korean": "「안 되나…\n반응이 없네"
+  },
+  {
+   "key": "77148037d459",
+   "speaker_korean": "페이트",
+   "korean": "「문이 굳게 닫혀 있다\n열릴 것 같지 않네"
+  },
+  {
+   "key": "0ead746afc41",
+   "speaker_korean": null,
+   "korean": "이7서굴\n유암mL 산굴P\n오종7개성λ 합m\n그H조Hιθ 어떻게든mL 빛λ"
+  },
+  {
+   "key": "25559a249933",
+   "speaker_korean": null,
+   "korean": "⟦1⟧마기 시드⟦2⟧를 손에 넣었다"
+  },
+  {
+   "key": "d8ca400cd151",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・『착실』을 누른다"
+  },
+  {
+   "key": "0834a9486141",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・『태평』을 누른다"
+  },
+  {
+   "key": "af1bae969d21",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・『변덕』을 누른다"
+  },
+  {
+   "key": "c72d723a85a0",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・『삐딱』을 누른다"
+  },
+  {
+   "key": "2d206304a1d8",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・『돌격』을 누른다"
+  },
+  {
+   "key": "2527b54f3d5a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・안 누른다"
+  },
+  {
+   "key": "0a462df70555",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・자동 운전"
+  },
+  {
+   "key": "2d3a946460f7",
+   "speaker_korean": "노병",
+   "korean": "「자네, 이 ⟦1⟧트롤리⟦2⟧를 타고\n왔는가!?"
+  },
+  {
+   "key": "45aa0abf5423",
+   "speaker_korean": "페이트",
+   "korean": "「예, 그렇습니다만…"
+  },
+  {
+   "key": "6768e8b2239b",
+   "speaker_korean": "노병",
+   "korean": "「거참 놀랍구먼…!\n이 산굴은 괴물들이 떠돌아다녀서,\n엉망진창이라 도무지 쓸모가\n없었다네\n⟦P⟧게다가 낙반이 심해서 큰 구멍이\n나 있거나 길이 막혀 있거나\n말이 아니었는데…"
+  },
+  {
+   "key": "311179912305",
+   "speaker_korean": "페이트",
+   "korean": "「저기…,\n그런데 당신은?"
+  },
+  {
+   "key": "953aea59efd7",
+   "speaker_korean": "노병",
+   "korean": "「오, 이거 실례했군"
+  },
+  {
+   "key": "23374fdefe23",
+   "speaker_korean": "노병",
+   "korean": "「나는 이 산굴의 관리를 맡고 있는,\n⟦1⟧그레고리 폰 델마인로 세⟦2⟧라고\n하네, 아리그리프 군 소속일세"
+  },
+  {
+   "key": "1bec10ef4700",
+   "speaker_korean": "페이트",
+   "korean": "「그레…,\n어, 그러니까…"
+  },
+  {
+   "key": "1cf4eaaca56c",
+   "speaker_korean": "그레고리",
+   "korean": "「하하하, ⟦1⟧그레고리⟦2⟧라고 부르게\n군 소속이라고 해도 일반병,\n대단할 것도 없다네\n여기 관리도 나 같은 늙은이나\n할 수 있는 일이니까 말일세\n나이는 먹고 싶지 않구먼…"
+  },
+  {
+   "key": "deaa24835f09",
+   "speaker_korean": "페이트",
+   "korean": "「하아…"
+  },
+  {
+   "key": "fd2be830cfeb",
+   "speaker_korean": "그레고리",
+   "korean": "「오, 이런 이런\n그만 푸념을 늘어놓았구먼"
+  },
+  {
+   "key": "2acbd5be84d3",
+   "speaker_korean": "그레고리",
+   "korean": "「그런데 자네, 이 ⟦1⟧트롤리⟦2⟧로\n올 수 있었다는 건, 선로가\n이어져 있다는 뜻이겠지?"
+  },
+  {
+   "key": "cf39e2cfa92d",
+   "speaker_korean": "페이트",
+   "korean": "「예\n위험한 곳이 몇 군데 있었지만,\n여기까지 오는 데는 문제없습니다"
+  },
+  {
+   "key": "85f2688578eb",
+   "speaker_korean": "그레고리",
+   "korean": "「그런가\n그럼 돌아갈 때는 내가 조작하지\n나도 이래 봬도 예전에는\n이 ⟦1⟧트롤리⟦2⟧의 달인으로서\n실력을 뽐냈던 몸일세"
+  },
+  {
+   "key": "fcc99c424314",
+   "speaker_korean": "페이트",
+   "korean": "「감사합니다\n도움이 됩니다"
+  },
+  {
+   "key": "58942db59fd2",
+   "speaker_korean": "그레고리",
+   "korean": "「이 앞은 황야가 펼쳐져 있다네\n가는 길 조심하게나"
+  },
+  {
+   "key": "ec6bb943d81a",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧그레고리 씨⟦2⟧도\n무리하지 마세요"
+  },
+  {
+   "key": "ed135cf1620d",
+   "speaker_korean": "그레고리",
+   "korean": "「걱정 붙들어 매게\n아직 젊은이들한테는\n지지 않아"
+  },
+  {
+   "key": "fe0e21000360",
+   "speaker_korean": "그레고리",
+   "korean": "「오, 왔는가\n어떻게 하겠나?\n직접 조작하겠나?"
+  },
+  {
+   "key": "be27a05244bc",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・그레고리 씨에게 조작을 맡긴다"
+  },
+  {
+   "key": "5ab9fcbc403d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・직접 조작한다"
+  },
+  {
+   "key": "8e44fef590fe",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・산굴에서 나간다"
+  },
+  {
+   "key": "2f7b10a5c301",
+   "speaker_korean": "그레고리",
+   "korean": "「오, 그래야지\n팔이 근질거리는구먼\n보고 있게, 눈 깜짝할 사이에 도착할 테니"
+  }
+ ]
+}

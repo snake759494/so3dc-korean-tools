@@ -1,0 +1,205 @@
+{
+ "batch_id": "batch_0206",
+ "translations": [
+  {
+   "key": "3801212e95f6",
+   "speaker_korean": "클리프",
+   "korean": "⟦1⟧드래곤⟦2⟧이\n새 떼처럼 있잖아.\n이런 곳을,\n정말 지나갈 수 있는 거냐?"
+  },
+  {
+   "key": "cbc42437b601",
+   "speaker_korean": "넬",
+   "korean": "오래된 전설이긴 한데,\n이 산에 사람이 살았다는 이야기를\n들은 적이 있어."
+  },
+  {
+   "key": "345424d3f12c",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧드래곤⟦2⟧과 함께!?"
+  },
+  {
+   "key": "01c47a52de4d",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧드래곤⟦2⟧과 의사소통하는\n어떤 방법이 있었을지도 모르겠군."
+  },
+  {
+   "key": "f38dce441e00",
+   "speaker_korean": null,
+   "korean": "⟦1⟧바니1/1⟦2⟧을 얻었다."
+  },
+  {
+   "key": "a8dcc405ad09",
+   "speaker_korean": "페이트",
+   "korean": "거대한 부조가 있다.\n기뻐하는 ⟦1⟧드래곤⟦2⟧처럼 보인다."
+  },
+  {
+   "key": "d9bd9ad9c6ad",
+   "speaker_korean": "페이트",
+   "korean": "아야야…"
+  },
+  {
+   "key": "2a5bc91ec16c",
+   "speaker_korean": "페이트",
+   "korean": "후우…\n설마 구멍이 있을 줄이야…\n깜깜해서 아무것도 안 보였으니까."
+  },
+  {
+   "key": "99249a68be4f",
+   "speaker_korean": "페이트",
+   "korean": "…역시\n오를 수는 없을 것 같군."
+  },
+  {
+   "key": "693302430fb4",
+   "speaker_korean": "페이트",
+   "korean": "아야야…\n또 떨어지고\n말았어…"
+  },
+  {
+   "key": "26a4c169702d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧인챈트 북(바람・무효)⟦2⟧을 얻었다."
+  },
+  {
+   "key": "4f083cdbcb2e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧18100폴⟦2⟧을 얻었다."
+  },
+  {
+   "key": "fd16b5b838e5",
+   "speaker_korean": "페이트",
+   "korean": "여긴 공방 터군.\n도구들이 널브러져 있다.\n…여기서 손에 넣은\n용의 공명강을 개조하면…"
+  },
+  {
+   "key": "fd1edb2f39cf",
+   "speaker_korean": null,
+   "korean": "이 피리는 불 수 있습니다.\n누르는 방식에 따라\n멜로디를 바꿀 수 있습니다.\n세게, 길게 등 다양하게\n눌러보세요."
+  },
+  {
+   "key": "abb5016c6565",
+   "speaker_korean": "페이트",
+   "korean": "…한번 불어볼까."
+  },
+  {
+   "key": "d9fdbd521227",
+   "speaker_korean": "페이트",
+   "korean": "어라?\n안 불리네…"
+  },
+  {
+   "key": "23607395e0fa",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧드래곤⟦2⟧과 무언가 관계가 있는\n지역에서만 불 수 있는 걸까…?"
+  },
+  {
+   "key": "6d834920b82a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧용골 피리⟦2⟧를 얻었다."
+  },
+  {
+   "key": "a31a590d2c7f",
+   "speaker_korean": "주의",
+   "korean": "피리는 이곳 실내서만 불 수 있습니다."
+  },
+  {
+   "key": "de673010ea92",
+   "speaker_korean": null,
+   "korean": "⟦1⟧용의 공명강⟦2⟧을 얻었다."
+  },
+  {
+   "key": "478160af6c4b",
+   "speaker_korean": "미스티・리어",
+   "korean": "⟦1⟧「과연 죽은 자의 영혼을 구할\n방법이 있을까요?\n⟦P⟧"
+  },
+  {
+   "key": "b9fc77b61dea",
+   "speaker_korean": null,
+   "korean": "⟦1⟧혼옥석⟦2⟧을 보여드릴까요?\n⟦P⟧"
+  },
+  {
+   "key": "fe91fae3aecc",
+   "speaker_korean": null,
+   "korean": "⟦1⟧혼옥석⟦2⟧을 건넬까요?\n⟦P⟧"
+  },
+  {
+   "key": "cad51e560344",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・부디 사용해 주세요."
+  },
+  {
+   "key": "b908a7bf3eb6",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・이런 귀중한 걸 줄 수는 없어."
+  },
+  {
+   "key": "abe4ee29edbe",
+   "speaker_korean": "미스티・리어",
+   "korean": "⟦1⟧「아무리 괴로워하고 고민해도,\n저에게는 그것을 만들 수가 없었습니다.\n아아…\n만약 그것을 만들 수 있었다면…\n⟦P⟧"
+  },
+  {
+   "key": "89e799c304ab",
+   "speaker_korean": "미스티・리어",
+   "korean": "⟦1⟧「잃어버린 육신, 산산이 부서진 영혼…\n제가 할 수 있는 일은, 그저 제 죄를\n뉘우치는 것뿐입니다.\n⟦P⟧"
+  },
+  {
+   "key": "0c7520f6073c",
+   "speaker_korean": null,
+   "korean": "크리에이터 미스티・리어와 계약을 했다.\n⟦P⟧"
+  },
+  {
+   "key": "6568883e4e97",
+   "speaker_korean": "미스티・리어",
+   "korean": "⟦1⟧「감사합니다.\n이걸로 딸의 영혼도 구원받겠지요.\n⟦P⟧그렇군요…\n앞으로는, 저를 자유롭게 쓰셔도\n상관없습니다.\n그것이 제 최소한의 보답입니다.\n⟦P⟧"
+  },
+  {
+   "key": "8b6dde48542c",
+   "speaker_korean": "미스티・리어",
+   "korean": "⟦1⟧「나라를 위한다는 명목으로 자행된 살육.\n전쟁이란 이름 아래 죽은 무고한 이들.\n남은 것은 악마에게 홀린 자들이 벌인\n잔치의 흔적뿐…\n⟦P⟧"
+  },
+  {
+   "key": "c470612d904c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧강도”암통”⟦2⟧을 얻었다."
+  },
+  {
+   "key": "ea5b1e7b05f7",
+   "speaker_korean": "페이트",
+   "korean": "이건…!"
+  },
+  {
+   "key": "bf2d85247b76",
+   "speaker_korean": "마리아",
+   "korean": "이건…,\n⟦1⟧드래곤⟦2⟧의 백골 시체…"
+  },
+  {
+   "key": "51b8964e2663",
+   "speaker_korean": "클리프",
+   "korean": "이거,\n용의 무덤이란 데잖아."
+  },
+  {
+   "key": "013590524d35",
+   "speaker_korean": "클리프",
+   "korean": "⟦1⟧에어드래곤⟦2⟧이냐!?\n대체 어디야?"
+  },
+  {
+   "key": "c4edfba92d5e",
+   "speaker_korean": "넬",
+   "korean": "당황할 필요는\n없어."
+  },
+  {
+   "key": "8ee54bb9f4cb",
+   "speaker_korean": "넬",
+   "korean": "이게 바람에\n공명하고 있는 거야."
+  },
+  {
+   "key": "7ca17e933afe",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧드래곤⟦2⟧의 목피리인가."
+  },
+  {
+   "key": "6a3a3a8beb07",
+   "speaker_korean": "알벨",
+   "korean": "멍청한 놈…"
+  },
+  {
+   "key": "b8d972a90b9d",
+   "speaker_korean": "넬",
+   "korean": "⟦1⟧드래곤⟦2⟧의 목피리는 꽤 귀중한 물건이야.\n이걸로 만든 피리는 특수한 진동파를\n발생시킨다고 들은 적이 있어."
+  }
+ ]
+}

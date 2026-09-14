@@ -1,0 +1,625 @@
+{
+ "batch_id": "batch_0268",
+ "translations": [
+  {
+   "key": "1040901270f0",
+   "speaker_korean": null,
+   "korean": "요컨대 값싼 와인\n하지만 사내(어디?) 연소비량은 2위"
+  },
+  {
+   "key": "ae0f514dfdc9",
+   "speaker_korean": null,
+   "korean": "긴조・다이긴조 모두 목넘김도 향도 좋아\n만인에게 권하는 술"
+  },
+  {
+   "key": "a1743941f053",
+   "speaker_korean": null,
+   "korean": "모든 게 갖춰진 균형 잡힌 명주\n마시는 이에게 청량한 인상을 주는 건\n물 탓일까"
+  },
+  {
+   "key": "fa05887e3864",
+   "speaker_korean": null,
+   "korean": "거칠고 앳된 햇술을 1년 숙성시키면\n모난 데 없는 어른스러운 맛이 된다\n그런 술이다"
+  },
+  {
+   "key": "a24a68ae7f69",
+   "speaker_korean": null,
+   "korean": "사용하면 전원의 HP를 60% 회복시킬 수 있다\n단 한 번 쓰면 한동안 사용 불가"
+  },
+  {
+   "key": "243aa5c14dfe",
+   "speaker_korean": null,
+   "korean": "사용하면 전원의 MP를 60% 회복시킬 수 있다\n단 한 번 쓰면 한동안 사용 불가"
+  },
+  {
+   "key": "b899c1df5f36",
+   "speaker_korean": null,
+   "korean": "사용하면 전원을 행동불능에서 복귀시키는\n것이 가능하다\n단, 한 번 쓰면 한동안 사용 불가"
+  },
+  {
+   "key": "f190a8cf2032",
+   "speaker_korean": null,
+   "korean": "리에루우도리하고오토이"
+  },
+  {
+   "key": "ba7e4a0dd473",
+   "speaker_korean": null,
+   "korean": "츠응나카우사응메카니로"
+  },
+  {
+   "key": "d035ad516f27",
+   "speaker_korean": null,
+   "korean": "기나라츠시테세응케메이"
+  },
+  {
+   "key": "7ce6c48187ef",
+   "speaker_korean": null,
+   "korean": "하이나기테츠이나마이로"
+  },
+  {
+   "key": "cd7ecd426153",
+   "speaker_korean": null,
+   "korean": "아타우가야기오사시와나"
+  },
+  {
+   "key": "f1ada33d0ea6",
+   "speaker_korean": null,
+   "korean": "레후에아로하와이타쿠히"
+  },
+  {
+   "key": "0ed3bd2a7872",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「디바인 웨폰」 습득서"
+  },
+  {
+   "key": "508b39b96bd1",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「이세리얼 블래스트」 습득서"
+  },
+  {
+   "key": "890cd65b6f3e",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「매지컬 댄스」 습득서"
+  },
+  {
+   "key": "0c2fd7d5e392",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「드림 콤보」 습득서"
+  },
+  {
+   "key": "f365cc8ea777",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「무한쌍파참」 습득서"
+  },
+  {
+   "key": "46ccc93e3f9c",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「무한공파참」 습득서"
+  },
+  {
+   "key": "f7c576e94617",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「인피니티 아츠」 습득서"
+  },
+  {
+   "key": "6f2f68961025",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「맥스 익스텐션」 습득서"
+  },
+  {
+   "key": "2dd5465b8e86",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「버스트 에미션」 습득 두루마리"
+  },
+  {
+   "key": "da5dcbed5e2f",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「레디에이션 디바이스」 습득 두루마리"
+  },
+  {
+   "key": "b279e1ae3443",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「트라이퍼널」 습득 두루마리"
+  },
+  {
+   "key": "2d16ba6a9cbf",
+   "speaker_korean": null,
+   "korean": "병아리(오리?) 모양을 한 사람 놀리는 폭탄"
+  },
+  {
+   "key": "65a1cc471fb7",
+   "speaker_korean": null,
+   "korean": "어린이용 스테이크\n하지만 너무 호화로운 처지라 할 수밖에"
+  },
+  {
+   "key": "1fd96f3f7d8f",
+   "speaker_korean": null,
+   "korean": "아이가 손뼉 치며 기뻐할 모습이 눈에 선한 요리"
+  },
+  {
+   "key": "12b38c7702d4",
+   "speaker_korean": null,
+   "korean": "재료를 너무 많이 넣어 정작 떡이 파묻힌 웃긴 요리\n그래도 재료가 좋아 맛있다\n먹기 힘들지만"
+  },
+  {
+   "key": "7a8ea8575897",
+   "speaker_korean": null,
+   "korean": "간 돼지고기 조리해\n밀가루 반죽에 싸서 쪄낸\n중화풍 만두"
+  },
+  {
+   "key": "414868361d4e",
+   "speaker_korean": null,
+   "korean": "매실을 소금에 절이고 햇볕에 말린 뒤 다시 담근\n아이에겐 좀 매운 음식"
+  },
+  {
+   "key": "fd300c4e6b63",
+   "speaker_korean": null,
+   "korean": "고급 킹크랩을 통째로 소금물에 삶은 음식\n다음 기회 위해 가장 맛있는 다리가\n어딘지는 기억해 두고픈 것"
+  },
+  {
+   "key": "3c802e48b5b2",
+   "speaker_korean": null,
+   "korean": "고기・야채 볶은 것에 향신료・밀가루 섞어 만든\n루를 밥에 끼얹은 요리"
+  },
+  {
+   "key": "dfeb726b03a5",
+   "speaker_korean": null,
+   "korean": "스펀지를 두꺼운 초콜릿 층으로\n코팅한 케이크. 노포 호텔\n이름에서 따왔다고 한다"
+  },
+  {
+   "key": "d6520bb59349",
+   "speaker_korean": null,
+   "korean": "살구씨를 갈아 유상액으로 만든 것을\n한천 넣어 굳힌 것. 달콤쌉싸름해 좋다"
+  },
+  {
+   "key": "05c835363cd3",
+   "speaker_korean": null,
+   "korean": "홋카이도 북부 일반 가정에서 만드는 절임\n김치와 매우 비슷하다. 아니, 그냥 김치다"
+  },
+  {
+   "key": "332d1e97ba15",
+   "speaker_korean": null,
+   "korean": "잘 익은 단 바나나에 초콜릿 끼얹은 디저트\n제멋대로 상상이지만 비터초콜릿도 괜찮지 않을까\n해본 적은 없지만"
+  },
+  {
+   "key": "05276127abb5",
+   "speaker_korean": null,
+   "korean": "타르트 반죽에 아몬드크림을 채워 넣고\n그 위에 배 반쪽을 깔아 구워낸 과자"
+  },
+  {
+   "key": "5eb96ecbb628",
+   "speaker_korean": null,
+   "korean": "매머드로 보이는 동물 고기를\n거칠게 구운 것\n일단 맛없진 않을 듯"
+  },
+  {
+   "key": "ee23c020b3ff",
+   "speaker_korean": null,
+   "korean": "비계 많은 부위 한입 썰어 꼬치에 꿰어\n구워낸 음식"
+  },
+  {
+   "key": "473470e5b5d6",
+   "speaker_korean": null,
+   "korean": "야채 섞은 쇼트파스타 위에 적당한 크기로\n찢은 생햄을 얹은 샐러드. 생햄의 짠맛과\n샐러드와 궁합이 좋다"
+  },
+  {
+   "key": "01d6fb6c87ec",
+   "speaker_korean": null,
+   "korean": "소형 곡도\n다루기 쉬워 도적이나 암살자가 즐겨 쓴다"
+  },
+  {
+   "key": "883413e58793",
+   "speaker_korean": null,
+   "korean": "어느 여신이 걸쳤다고도\n벗고 갔다고도 전해지는 전설 방어구\n아쉽게도 여성용"
+  },
+  {
+   "key": "ac030b42f498",
+   "speaker_korean": null,
+   "korean": "강철 반신갑옷"
+  },
+  {
+   "key": "d94995dbcf03",
+   "speaker_korean": null,
+   "korean": "미스릴제 갑옷"
+  },
+  {
+   "key": "c0124d1dcf3a",
+   "speaker_korean": null,
+   "korean": "마법으로 강화된 플레이트 아머\n주문 공격 고확률 무효화"
+  },
+  {
+   "key": "242fbe275b16",
+   "speaker_korean": null,
+   "korean": "레더 아머 요소에 금속판을 덧대 보강한 방어구"
+  },
+  {
+   "key": "2c4971a1a7a5",
+   "speaker_korean": null,
+   "korean": "오리하르콘으로 만든 체인 메일\n원소재 흔적이 남은 색"
+  },
+  {
+   "key": "d767f4093dfe",
+   "speaker_korean": null,
+   "korean": "마법금속 미스릴로 만든 퀴르보일"
+  },
+  {
+   "key": "18f35d9b25fe",
+   "speaker_korean": null,
+   "korean": "특수 코팅을 한 레더 아머\n검게 빛나는 독특한 외관"
+  },
+  {
+   "key": "9a0292baa390",
+   "speaker_korean": null,
+   "korean": "매우 견고한 체인 메일\n금속판도 사용되어 플레이트 아머를\n연상시키지만 매우 민첩성이 뛰어나다"
+  },
+  {
+   "key": "1660c3e875a6",
+   "speaker_korean": null,
+   "korean": "숲의 요정족 엘프가 만들었다는\n마법방어 높은 방어구"
+  },
+  {
+   "key": "263f2e7bf169",
+   "speaker_korean": null,
+   "korean": "부정적 감정을 벤다는 활인의 명도"
+  },
+  {
+   "key": "6e3c39da0523",
+   "speaker_korean": null,
+   "korean": "근육 순발력을 증폭한다는 건틀릿(수갑)"
+  },
+  {
+   "key": "c1ef75d86865",
+   "speaker_korean": null,
+   "korean": "반작용의 힘으로 운동능력을 배가하는 건틀릿"
+  },
+  {
+   "key": "abd2c317dc7e",
+   "speaker_korean": null,
+   "korean": "날카로운 발톱 가면"
+  },
+  {
+   "key": "13b0856ce2bb",
+   "speaker_korean": null,
+   "korean": "영혼이 속박된 삼사신 탈을 본뜬 가면"
+  },
+  {
+   "key": "c0b9ebca0d9d",
+   "speaker_korean": null,
+   "korean": "한냐 탈을 본뜬 가면"
+  },
+  {
+   "key": "2b7ec0496e17",
+   "speaker_korean": null,
+   "korean": "죽은 자의 영혼을 탐한다는 마신 탈을 본뜬 가면"
+  },
+  {
+   "key": "e4cfe40d7ca7",
+   "speaker_korean": null,
+   "korean": "죽음을 관장하는 이형신 탈을 본뜬 가면"
+  },
+  {
+   "key": "3e2dcf6e5ff1",
+   "speaker_korean": null,
+   "korean": "다마스커스제 구슬 달린 케이프"
+  },
+  {
+   "key": "3d2c476f7b2e",
+   "speaker_korean": null,
+   "korean": "보기만 해도 힘이 빠지는 물건"
+  },
+  {
+   "key": "8d97a7a9dd8e",
+   "speaker_korean": null,
+   "korean": "회사라면 도산, 직원이면 성희롱\n디버거라면 정보유출\n굳이 비유하면 그런 느낌일까"
+  },
+  {
+   "key": "c6348740bc41",
+   "speaker_korean": null,
+   "korean": "약간의 뒤틀림을 고치려다\n초래해버린 참사\n돌이킬 수 없다"
+  },
+  {
+   "key": "c3343768c940",
+   "speaker_korean": null,
+   "korean": "나도 모르게 태클 걸고 싶어지는 물건\n허점투성이"
+  },
+  {
+   "key": "42fb3885e64f",
+   "speaker_korean": null,
+   "korean": "이미 십자가조차 아니다"
+  },
+  {
+   "key": "593ce812c60f",
+   "speaker_korean": null,
+   "korean": "착용자 본인은 눈물난다"
+  },
+  {
+   "key": "752ae5047ecc",
+   "speaker_korean": null,
+   "korean": "점수로 치면 3점 맞은 듯한\n반성문 같은 부적"
+  },
+  {
+   "key": "6dce34c64845",
+   "speaker_korean": null,
+   "korean": "제작자의 화풀이를 당한\n불쌍한 물건"
+  },
+  {
+   "key": "614a2e4d8f9f",
+   "speaker_korean": null,
+   "korean": "아무도 가치 인정 안 해주는\n불쌍한 물건"
+  },
+  {
+   "key": "7d59c2437479",
+   "speaker_korean": null,
+   "korean": "사소한 부주의로 그 프로젝트는\n실패하고 말았다"
+  },
+  {
+   "key": "cd09ef89add3",
+   "speaker_korean": null,
+   "korean": "안일하게 거친 줄로 갈아서\n죽은 생선눈처럼 되어버린\n인형의 눈"
+  },
+  {
+   "key": "1c5c373f7a58",
+   "speaker_korean": null,
+   "korean": "늘 위험이 따르지만\n쓸 가치 있을지 모를 약"
+  },
+  {
+   "key": "5950ed3ad6ee",
+   "speaker_korean": null,
+   "korean": "장착하면 손가락 꼬인다\n너무 휨"
+  },
+  {
+   "key": "f7f4616e8e9e",
+   "speaker_korean": null,
+   "korean": "맛없어!하고 무심코 무릎 치게\n되는 모순된 행동을\n하게 되어버리는 그런 물건"
+  },
+  {
+   "key": "e667d3e8d9d1",
+   "speaker_korean": null,
+   "korean": "MAXHP 오르는 씨앗"
+  },
+  {
+   "key": "5e3e171619d3",
+   "speaker_korean": null,
+   "korean": "MAXMP 오르는 씨앗"
+  },
+  {
+   "key": "c41051390025",
+   "speaker_korean": null,
+   "korean": "사대정령인 불의 정령 봉인 보주\n어떤 목적에 쓰이는지 불명"
+  },
+  {
+   "key": "b0de943094da",
+   "speaker_korean": null,
+   "korean": "사대정령인 물의 정령 봉인 보주\n어떤 목적에 쓰이는지 불명"
+  },
+  {
+   "key": "af46b57aab62",
+   "speaker_korean": null,
+   "korean": "사대정령인 바람의 정령 봉인 보주\n어떤 목적에 쓰이는지 불명"
+  },
+  {
+   "key": "5a5015bd9999",
+   "speaker_korean": null,
+   "korean": "사대정령인 땅의 정령 봉인 보주\n어떤 목적에 쓰이는지 불명"
+  },
+  {
+   "key": "d8127d4a21e0",
+   "speaker_korean": null,
+   "korean": "사나운 무지개 본뜬 불길한 반지\n지닌 자에게 결과를\n좋게 해줄 것 같진 않지만…"
+  },
+  {
+   "key": "5db12a23a76e",
+   "speaker_korean": null,
+   "korean": "사나운 무지개 본뜬 불길한 팔찌\n지닌 자에게 결과를\n좋게 해줄 것 같진 않지만…"
+  },
+  {
+   "key": "f10e73d2740e",
+   "speaker_korean": null,
+   "korean": "사나운 무지개꼴 불길한 머리장식\n지닌 자에게 결과를\n좋게 해줄 것 같진 않지만…"
+  },
+  {
+   "key": "211ccb41f6b9",
+   "speaker_korean": null,
+   "korean": "나보다 적이 더 좋아할 십자가\n얼른 버리는 게 낫다"
+  },
+  {
+   "key": "4036b8283356",
+   "speaker_korean": null,
+   "korean": "사나운 무지개꼴 불길한 문장\n지닌 자에게 결과를\n좋게 해줄 것 같진 않지만…"
+  },
+  {
+   "key": "60b96002131c",
+   "speaker_korean": null,
+   "korean": "연구에 몰두한 끝에\n광기에 빠진 자가\n적었다는 두루마리"
+  },
+  {
+   "key": "c22a11c84c5a",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「스타폴」을\n습득서"
+  },
+  {
+   "key": "06c3b966931d",
+   "speaker_korean": null,
+   "korean": "버니 레이스 우승자가 얻는\n우승 트로피\n축하합니다!"
+  },
+  {
+   "key": "791a894f1f33",
+   "speaker_korean": null,
+   "korean": "마계 바다의 수수께끼 멍게. 독성이\n매우 강해도 삶고 굽고 찌면\n맛있다는 듯"
+  },
+  {
+   "key": "0d855b9f60fb",
+   "speaker_korean": null,
+   "korean": "사치에 사치, 맛에 맛을 더해\n완성된 궁극의 떡국\n돈의 힘이 소박함을 날린다"
+  },
+  {
+   "key": "3cec7843b25c",
+   "speaker_korean": null,
+   "korean": "만 알 중 하나뿐인 금 알을\n모아 만든 희귀 낫토\n형언 못할 감칠맛이 입에 퍼진다는"
+  },
+  {
+   "key": "fa66b078523f",
+   "speaker_korean": null,
+   "korean": "통통히 살찐 신선한 굴을 듬뿍\n이 역시 신선한 버터로 구워낸\n단순한 요리"
+  },
+  {
+   "key": "c6a89fbb2db4",
+   "speaker_korean": null,
+   "korean": "교회의 축복이 깃든 은제 장검"
+  },
+  {
+   "key": "30284bc4fcb7",
+   "speaker_korean": null,
+   "korean": "특수금속 미스릴로 만든 장검"
+  },
+  {
+   "key": "3bdab6748e31",
+   "speaker_korean": null,
+   "korean": "교회의 축복이 깃든 은제 창"
+  },
+  {
+   "key": "51bff2463a72",
+   "speaker_korean": null,
+   "korean": "아득한 옛날 아펠스의 사자에게\n받았다는 전설의 마검"
+  },
+  {
+   "key": "426ea5b686b6",
+   "speaker_korean": null,
+   "korean": "광대가 신을 법한 우스꽝스러운 신발\n하지만 그 끝은 겉보기와 달리\n진짜 무기"
+  },
+  {
+   "key": "47494383be1d",
+   "speaker_korean": null,
+   "korean": "발끝에 날카로운 가시가 달린 신발\n신고 춤추면 훌륭한 무예가 되리라"
+  },
+  {
+   "key": "cbd9f464d21b",
+   "speaker_korean": null,
+   "korean": "주문의 달인다운 장식성과\n기능성 갖춘 지팡이\n들면 한 사람 몫"
+  },
+  {
+   "key": "b8ee6d7066bb",
+   "speaker_korean": null,
+   "korean": "무두질 가죽과 금속판 이어붙인 갑옷"
+  },
+  {
+   "key": "6f67282c9fc3",
+   "speaker_korean": null,
+   "korean": "특수한 고대 문자 수놓인 로브\n강한 마력이 뚜렷이 느껴진다"
+  },
+  {
+   "key": "dacaccc0069a",
+   "speaker_korean": null,
+   "korean": "현자가 걸치기에 어울리는\n위엄 넘치는 로브"
+  },
+  {
+   "key": "9a19bfbce240",
+   "speaker_korean": null,
+   "korean": "영혼 소생 성분이 봉인됐다는\n전설의 광석\n슬픔에 빠진 그 사람에게"
+  },
+  {
+   "key": "a2f68224a017",
+   "speaker_korean": null,
+   "korean": "연금술사가 얻고 싶어 하고\n동경하는 비보. 있으면 위대한\n현자도 인정해 줄지 모른다"
+  },
+  {
+   "key": "c0b870b8a2cd",
+   "speaker_korean": null,
+   "korean": "한때는 수많은 강적을 쓰러뜨렸을\n명검의 말로\n명장이라면 혹시…?"
+  },
+  {
+   "key": "7deba133e671",
+   "speaker_korean": null,
+   "korean": "왠지 낡아 보이는 보석\n괴팍한 세공사면 이 가치를\n알아볼지도 모른다"
+  },
+  {
+   "key": "caf0a0def8de",
+   "speaker_korean": null,
+   "korean": "기계적 장정 수수께끼 사전\n일반인에겐 쓸모없는 내용이 상세히\n빼곡히 담겨 있다"
+  },
+  {
+   "key": "d79b04edd3a4",
+   "speaker_korean": null,
+   "korean": "은반지\n손질 게을리하면 광택이 흐려진다"
+  },
+  {
+   "key": "dbe26b3c6451",
+   "speaker_korean": null,
+   "korean": "고출력 레이저를 이용한 방어구"
+  },
+  {
+   "key": "97911953ad10",
+   "speaker_korean": null,
+   "korean": "폭발해 적에게 피해 주는 특수한 돌"
+  },
+  {
+   "key": "46b472ae8e7a",
+   "speaker_korean": null,
+   "korean": "방어속성을 담은 책\n합성으로 무기에 부여할 수 있다\n땅속성 공격에 HP 회복"
+  },
+  {
+   "key": "eeb9528c85db",
+   "speaker_korean": null,
+   "korean": "방어속성을 담은 책\n합성으로 무기에 부여할 수 있다\n땅속성 공격 무효화"
+  },
+  {
+   "key": "664f5337a380",
+   "speaker_korean": null,
+   "korean": "방어속성을 담은 책\n합성으로 무기에 부여할 수 있다\n땅속성 공격 반감"
+  },
+  {
+   "key": "38cf641bf9f7",
+   "speaker_korean": null,
+   "korean": "방어속성을 담은 책\n합성으로 무기에 부여할 수 있다\n물속성 공격에 HP 회복"
+  },
+  {
+   "key": "163ff41ef4ac",
+   "speaker_korean": null,
+   "korean": "방어속성을 담은 책\n합성으로 무기에 부여할 수 있다\n물속성 공격 무효화"
+  },
+  {
+   "key": "2ce454f705a0",
+   "speaker_korean": null,
+   "korean": "방어속성을 담은 책\n합성으로 무기에 부여할 수 있다\n물속성 공격 반감"
+  },
+  {
+   "key": "2effbf3b6284",
+   "speaker_korean": null,
+   "korean": "방어속성을 담은 책\n합성으로 무기에 부여할 수 있다\n불속성 공격에 HP 회복"
+  },
+  {
+   "key": "179d6bd524a3",
+   "speaker_korean": null,
+   "korean": "방어속성을 담은 책\n합성으로 무기에 부여할 수 있다\n불속성 공격 무효화"
+  },
+  {
+   "key": "6ae247fe851c",
+   "speaker_korean": null,
+   "korean": "방어속성을 담은 책\n합성으로 무기에 부여할 수 있다\n불속성 공격 반감"
+  },
+  {
+   "key": "6b22b3377d1d",
+   "speaker_korean": null,
+   "korean": "방어속성을 담은 책\n합성으로 무기에 부여할 수 있다\n풍속성 공격에 HP 회복"
+  },
+  {
+   "key": "4a0ae9865b83",
+   "speaker_korean": null,
+   "korean": "방어속성을 담은 책\n합성으로 무기에 부여할 수 있다\n풍속성 공격 무효화"
+  },
+  {
+   "key": "16c9b6db14e5",
+   "speaker_korean": null,
+   "korean": "공격속성을 담은 책\n합성으로 무기에 부여할 수 있다\n풍속성 공격 반감"
+  },
+  {
+   "key": "c32f41f9e2fc",
+   "speaker_korean": null,
+   "korean": "주문 「메테오스웜」 습득 두루마리\n스킬 세트업하면 사용 가능"
+  },
+  {
+   "key": "aafaea6e752a",
+   "speaker_korean": null,
+   "korean": "전투 중 배틀 스피어를 발사한다"
+  }
+ ]
+}

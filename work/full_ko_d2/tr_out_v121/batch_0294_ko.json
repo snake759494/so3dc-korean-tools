@@ -1,0 +1,630 @@
+{
+ "batch_id": "batch_0294",
+ "translations": [
+  {
+   "key": "3804c1aec38b",
+   "speaker_korean": null,
+   "korean": "팔미라의 천송이꽃"
+  },
+  {
+   "key": "a3da8119d5c9",
+   "speaker_korean": null,
+   "korean": "철광"
+  },
+  {
+   "key": "e025f2aa25fa",
+   "speaker_korean": null,
+   "korean": "쿼드 스캐너"
+  },
+  {
+   "key": "ae6b76cc308d",
+   "speaker_korean": null,
+   "korean": "세피라"
+  },
+  {
+   "key": "b234fce152db",
+   "speaker_korean": null,
+   "korean": "언인스톨러"
+  },
+  {
+   "key": "d593be99506c",
+   "speaker_korean": null,
+   "korean": "커뮤니케이터"
+  },
+  {
+   "key": "49a1a1057380",
+   "speaker_korean": null,
+   "korean": "문장술사의 대성을 기원하는 현자의 십자가"
+  },
+  {
+   "key": "896b347dd0ab",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「디바인・웨폰」을 익힐 수 있는 책"
+  },
+  {
+   "key": "91dc92e21818",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「이세리얼・블래스트」를 익힐 수 있는 책"
+  },
+  {
+   "key": "1abbdeecdc6d",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「매지컬・댄스」를 익힐 수 있는 책"
+  },
+  {
+   "key": "fa3e6cce1aad",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「드림・콤보」를 익힐 수 있는 책"
+  },
+  {
+   "key": "3159c72cb1ba",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「무한・쌍파참」을 익힐 수 있는 책"
+  },
+  {
+   "key": "16827358d4e3",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「무한・공파참」을 익힐 수 있는 책"
+  },
+  {
+   "key": "f5112da9782e",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「인피니티・아츠」를 익힐 수 있는 책"
+  },
+  {
+   "key": "887dd3d81059",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「맥스・익스텐션」을 익힐 수 있는 책"
+  },
+  {
+   "key": "5250e20555de",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「버스트・에미션」을 익힐 수 있는 두루마리"
+  },
+  {
+   "key": "85b19c7b1310",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「레디에이션・디바이스」를 익힐 수 있는 두루마리"
+  },
+  {
+   "key": "abba13b41cb7",
+   "speaker_korean": null,
+   "korean": "배틀스킬 「트라이・퍼널」을 익힐 수 있는 두루마리"
+  },
+  {
+   "key": "c901ea4bb60f",
+   "speaker_korean": null,
+   "korean": "반작용의 힘으로 운동 능력이 배가되는 건틀릿"
+  },
+  {
+   "key": "b7ec16cae6ff",
+   "speaker_korean": null,
+   "korean": "영혼이 속박된 삼사신의 가면을 본뜬 광갑"
+  },
+  {
+   "key": "795308ea9c97",
+   "speaker_korean": null,
+   "korean": "폭발로 적에게 피해를 주는 특수한 돌"
+  },
+  {
+   "key": "84ba7ff1aab8",
+   "speaker_korean": null,
+   "korean": "아리그리프 왕의 편지"
+  },
+  {
+   "key": "0b07581f8757",
+   "speaker_korean": null,
+   "korean": "로세티 극단 공연 티켓"
+  },
+  {
+   "key": "541b4afeec07",
+   "speaker_korean": null,
+   "korean": "적강 열쇠"
+  },
+  {
+   "key": "4b969ceb82b7",
+   "speaker_korean": null,
+   "korean": "금 조각상"
+  },
+  {
+   "key": "23f87fdd144c",
+   "speaker_korean": null,
+   "korean": "인증 디스크"
+  },
+  {
+   "key": "5fbebba5af67",
+   "speaker_korean": null,
+   "korean": "용골적"
+  },
+  {
+   "key": "6df3e57d138c",
+   "speaker_korean": null,
+   "korean": "비밀의 방 열쇠"
+  },
+  {
+   "key": "b0c27cb4f360",
+   "speaker_korean": null,
+   "korean": "용의 공명강"
+  },
+  {
+   "key": "abe72ab31360",
+   "speaker_korean": null,
+   "korean": "용두개골"
+  },
+  {
+   "key": "dc391401807d",
+   "speaker_korean": null,
+   "korean": "묘익천사의 보주"
+  },
+  {
+   "key": "09087e3e6a91",
+   "speaker_korean": null,
+   "korean": "아쿠아베일"
+  },
+  {
+   "key": "e91dbdff09cc",
+   "speaker_korean": null,
+   "korean": "모젤 사구의 지도"
+  },
+  {
+   "key": "132f26ddfcfd",
+   "speaker_korean": null,
+   "korean": "토끼 귀 열쇠"
+  },
+  {
+   "key": "5bab6ce3cb44",
+   "speaker_korean": null,
+   "korean": "오르골 부품"
+  },
+  {
+   "key": "16b434301daf",
+   "speaker_korean": null,
+   "korean": "텔레그래프"
+  },
+  {
+   "key": "f9cc69c60e33",
+   "speaker_korean": null,
+   "korean": "태고의 서적1"
+  },
+  {
+   "key": "58802f0bbfa1",
+   "speaker_korean": null,
+   "korean": "태고의 서적2"
+  },
+  {
+   "key": "cc445b48ad38",
+   "speaker_korean": null,
+   "korean": "태고의 서적3"
+  },
+  {
+   "key": "37ae85741ff2",
+   "speaker_korean": null,
+   "korean": "태고의 서적4"
+  },
+  {
+   "key": "781d1119cfe7",
+   "speaker_korean": null,
+   "korean": "태고의 서적5"
+  },
+  {
+   "key": "a8da34e5fc09",
+   "speaker_korean": null,
+   "korean": "태고의 서적6"
+  },
+  {
+   "key": "65605b242dab",
+   "speaker_korean": null,
+   "korean": "태고의 서적7"
+  },
+  {
+   "key": "31efab43490c",
+   "speaker_korean": null,
+   "korean": "설계도"
+  },
+  {
+   "key": "0667515326cf",
+   "speaker_korean": null,
+   "korean": "AI 프로그램"
+  },
+  {
+   "key": "346fcebd2ced",
+   "speaker_korean": null,
+   "korean": "쇠창살 열쇠"
+  },
+  {
+   "key": "478757ef67a6",
+   "speaker_korean": null,
+   "korean": "파라켈수스의 원탁"
+  },
+  {
+   "key": "03bd8342381a",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 1"
+  },
+  {
+   "key": "d5ea24da047f",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 2"
+  },
+  {
+   "key": "53d11ce30181",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 3"
+  },
+  {
+   "key": "6ff016f33173",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 4"
+  },
+  {
+   "key": "037b20dd8e10",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX1"
+  },
+  {
+   "key": "662538def3bd",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX2"
+  },
+  {
+   "key": "be6fb3fe38db",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX3"
+  },
+  {
+   "key": "6936dbfb9f29",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX4"
+  },
+  {
+   "key": "7c6d0b6196a0",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX5"
+  },
+  {
+   "key": "638caf23777c",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX6"
+  },
+  {
+   "key": "088e710ba711",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX7"
+  },
+  {
+   "key": "ff8307c83862",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX8"
+  },
+  {
+   "key": "feb7e386e524",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX9"
+  },
+  {
+   "key": "2445e7a83adc",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX10"
+  },
+  {
+   "key": "1e7531de63ee",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX11"
+  },
+  {
+   "key": "3556a7a7b494",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX12"
+  },
+  {
+   "key": "bf6fd524d8ac",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX13"
+  },
+  {
+   "key": "5c83cfaba30e",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX14"
+  },
+  {
+   "key": "602778223a45",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX15"
+  },
+  {
+   "key": "1d6bcfc99c71",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX16"
+  },
+  {
+   "key": "7e44634105e9",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX17"
+  },
+  {
+   "key": "7704025882cb",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX18"
+  },
+  {
+   "key": "22ebd2419e45",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX19"
+  },
+  {
+   "key": "b5094971ccd5",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX20"
+  },
+  {
+   "key": "ff0138cb14cc",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX21"
+  },
+  {
+   "key": "01f892f26312",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX22"
+  },
+  {
+   "key": "2af0a4f4672e",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX23"
+  },
+  {
+   "key": "1905fcba19de",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX24"
+  },
+  {
+   "key": "c53d7228aeb3",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX25"
+  },
+  {
+   "key": "7bcab0f70f79",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX26"
+  },
+  {
+   "key": "c0c40542a626",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX27"
+  },
+  {
+   "key": "fff252949f3e",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX28"
+  },
+  {
+   "key": "fef8bdcd5386",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX29"
+  },
+  {
+   "key": "0be792e60bb7",
+   "speaker_korean": null,
+   "korean": "트래핑 카드 EX30"
+  },
+  {
+   "key": "a252fa60d059",
+   "speaker_korean": null,
+   "korean": "페이트의 손에\n쏙 들어오는 사이즈의 스캐너"
+  },
+  {
+   "key": "c65cff491b4f",
+   "speaker_korean": null,
+   "korean": "아리그리프 왕이 시하츠의 엘레나 여사에게 보낸 편지"
+  },
+  {
+   "key": "039bf4495913",
+   "speaker_korean": null,
+   "korean": "스프레가 준 티켓"
+  },
+  {
+   "key": "47116ae80b37",
+   "speaker_korean": null,
+   "korean": "컬소어 수련장의 굳게 닫힌 문을\n여는 열쇠"
+  },
+  {
+   "key": "a3402b1695e6",
+   "speaker_korean": null,
+   "korean": "신들의 산에서만 핀다는 특별한 꽃을\n한 송이씩 실로 엮은 것으로\n천송이를 모으면 소원이 이뤄진다고 전해진다"
+  },
+  {
+   "key": "3216aded9385",
+   "speaker_korean": null,
+   "korean": "로저가\n도적단 '월영'과 승부해 빼앗은 물건"
+  },
+  {
+   "key": "4e570ac53e9f",
+   "speaker_korean": null,
+   "korean": "은하 구획에 풀려난\n엑스큐셔너를 소멸시키기 위한\n프로그램"
+  },
+  {
+   "key": "2971f3e45f85",
+   "speaker_korean": null,
+   "korean": "은하 연방의 표준 통신기로, 1천문단위의\n거리까지 중력 통신과, 미지 언어의\n번역이 가능하다"
+  },
+  {
+   "key": "18cfcda453f3",
+   "speaker_korean": null,
+   "korean": "플러드가 페이트에게\n건넨 CD 사이즈의 디스크"
+  },
+  {
+   "key": "42972a1336cc",
+   "speaker_korean": null,
+   "korean": "용의 공명강으로 만든 피리\n버튼을 누르는 길이와 강약으로\n4종류의 음색을 낼 수 있다"
+  },
+  {
+   "key": "2f163116cbc4",
+   "speaker_korean": null,
+   "korean": "파피가 자빠지며(예상대로) 흘린 의문의 열쇠\n어디에 쓰는지는 불명"
+  },
+  {
+   "key": "907cef79983b",
+   "speaker_korean": null,
+   "korean": "던전의 특정 지형이나 사물을 지울 수\n있게 되는 반지\n버튼으로 작동한다"
+  },
+  {
+   "key": "87bc2e844918",
+   "speaker_korean": null,
+   "korean": "드래곤의 숨통에 해당하는 뼈"
+  },
+  {
+   "key": "3b9ddf30a223",
+   "speaker_korean": null,
+   "korean": "드래곤의 두개골"
+  },
+  {
+   "key": "b723d2ee121f",
+   "speaker_korean": null,
+   "korean": "고귀한 용의 거처에, 하늘서 쏟아지는 빛,\n이 구슬의 봉인을 풀어내니,\n그것이 곧 재앙의 열쇠가 되리라"
+  },
+  {
+   "key": "5816c283351c",
+   "speaker_korean": null,
+   "korean": "성전 카난에 안치되어 있는 강대한 힘을\n품은 보주"
+  },
+  {
+   "key": "481c5256f1cf",
+   "speaker_korean": null,
+   "korean": "모젤 사구의 맹렬한 열파를\n견딜 수 있게 해주는 특수한 아이템"
+  },
+  {
+   "key": "b976933ba94c",
+   "speaker_korean": null,
+   "korean": "모젤 사구의 광활한 지형을 자세히 담은 지도"
+  },
+  {
+   "key": "4d16b719e686",
+   "speaker_korean": null,
+   "korean": "토끼 귀를 본떠 만든 오브제\n아무래도 어딘가의 열쇠인 듯하다"
+  },
+  {
+   "key": "8f9d88ac3d75",
+   "speaker_korean": null,
+   "korean": "오르골을 울리기 위해 필요한\n중요한 부품"
+  },
+  {
+   "key": "17dc010e95fa",
+   "speaker_korean": null,
+   "korean": "장인 길드와 원거리에서 연락을 주고받기\n위한 필수품. 상당히 높은 수준의 기술로\n보이지만 자세한 내용은 불명"
+  },
+  {
+   "key": "df29fa3ebb75",
+   "speaker_korean": null,
+   "korean": "하얗게 안개 서린\n무해에 숨은 은자의 샘\n지키는 부자는 무슨 생각을 할까…"
+  },
+  {
+   "key": "91ec3a64e72e",
+   "speaker_korean": null,
+   "korean": "그윽하고 어두운 산굴\n다섯 속성이 서로 다투니\n비추는 빛은 무엇인가…"
+  },
+  {
+   "key": "40b8835e29dc",
+   "speaker_korean": null,
+   "korean": "신들의 궁병이 지키는 낡아버린 회랑\n관 속에 잠든 것은 태양왕\n말없는 주검은 무엇을 말하는가…"
+  },
+  {
+   "key": "82a419002ad2",
+   "speaker_korean": null,
+   "korean": "세 종류 병사가 모이는 곳의\n주인 없는 옥좌엔 누가 앉을까…"
+  },
+  {
+   "key": "674a3dd05cf1",
+   "speaker_korean": null,
+   "korean": "날개 달린 신의 사자, 제물이\n바라보는 곳은 희망인가 절망인가…"
+  },
+  {
+   "key": "113361e7c776",
+   "speaker_korean": null,
+   "korean": "붉은 구리가 잠든 동굴의 끝\n호숫가를 바라보는 최북단의 현자\n뿌리내린 지하에 봉인된 것은 태고의 힘인가…"
+  },
+  {
+   "key": "d1b4a50e7b68",
+   "speaker_korean": null,
+   "korean": "작열지옥\n장이족 거인이 굽어보는 붉은 쌍둥이\n감춰진 힘을 풀어놓는 자는 누구인가…"
+  },
+  {
+   "key": "376910aafd2d",
+   "speaker_korean": null,
+   "korean": "320년 전 종교전쟁 당시 시포트\n성왕국을 침공해 그 나라를 멸망시킨\n기술 국가 그리텐의 기공병 설계도"
+  },
+  {
+   "key": "757a0626f34a",
+   "speaker_korean": null,
+   "korean": "기공병을 기동・작동시키는 데\n필요한 프로그램. 이것이 내장되지 않은\n기공병은 그저 고철이나 다름없다"
+  },
+  {
+   "key": "784ea1c2cf4b",
+   "speaker_korean": null,
+   "korean": "신형 시술 병기를 완성시키는 데 필요한 소재"
+  },
+  {
+   "key": "c01b1a89de8d",
+   "speaker_korean": null,
+   "korean": "베크렐 광산의 쇠창살을 여는 열쇠"
+  },
+  {
+   "key": "73db74f72722",
+   "speaker_korean": null,
+   "korean": "수수께끼의 문양이 복잡하게 새겨진 작은 원탁\n여러 물건을 봐온 이에게 보이면 뭔가 알 수 있을지도…"
+  },
+  {
+   "key": "4e2546bbe71b",
+   "speaker_korean": null,
+   "korean": "가시의 혼을 지닌 고고한 전사의 모습을 담은 카드"
+  },
+  {
+   "key": "7a579e22887c",
+   "speaker_korean": null,
+   "korean": "지극한 은혜의 혼을 지닌 기행의 전사 모습을 담은 카드"
+  },
+  {
+   "key": "08cd5d99bcae",
+   "speaker_korean": null,
+   "korean": "강철 광석의 혼을 지닌 사랑의 술사 모습을 담은 카드"
+  },
+  {
+   "key": "4d90fd2677f0",
+   "speaker_korean": null,
+   "korean": "호수의 혼을 지닌 지조의 투사 모습을 담은 카드"
+  },
+  {
+   "key": "3a392bdb5cae",
+   "speaker_korean": null,
+   "korean": "상쾌한 빛의 용사 모습을 담은 카드"
+  },
+  {
+   "key": "e116629ab7a6",
+   "speaker_korean": null,
+   "korean": "비일상 속에 존재하는 일상의 모습을 담은 카드"
+  },
+  {
+   "key": "4828f855f63a",
+   "speaker_korean": null,
+   "korean": "발돋움해 본 사수의 모습을 담은 카드"
+  },
+  {
+   "key": "f42543058431",
+   "speaker_korean": null,
+   "korean": "억센 팔의 투사 모습을 담은 카드"
+  },
+  {
+   "key": "50c04627513e",
+   "speaker_korean": null,
+   "korean": "황야에 빛나는 잔광의 모습을 담은 카드"
+  },
+  {
+   "key": "e6ed4ff904f8",
+   "speaker_korean": null,
+   "korean": "노출을 줄인 전사의 모습을 담은 카드"
+  },
+  {
+   "key": "b7bae85bc533",
+   "speaker_korean": null,
+   "korean": "지성의 빛을 눈에 품은 소년의 모습을 담은 카드"
+  }
+ ]
+}

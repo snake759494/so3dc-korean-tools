@@ -1,0 +1,40 @@
+{
+ "batch_id": "batch_2015",
+ "translations": [
+  {
+   "key": "1d2366a1a265",
+   "speaker_korean": null,
+   "korean": "럭키스타 10개 획득"
+  },
+  {
+   "key": "5ca7c37d6f2c",
+   "speaker_korean": null,
+   "korean": "럭키스타 30개 획득"
+  },
+  {
+   "key": "f02c2badbb22",
+   "speaker_korean": null,
+   "korean": "오라가 확산된 후 자신에게 흡수\n효과:HP・MP 회복"
+  },
+  {
+   "key": "fd0cb9879651",
+   "speaker_korean": null,
+   "korean": "오리 로스트"
+  },
+  {
+   "key": "49d0bbca848e",
+   "speaker_korean": null,
+   "korean": "퍼펙트 오리"
+  },
+  {
+   "key": "e840e08f9aeb",
+   "speaker_korean": null,
+   "korean": "아리그리프“일반병”"
+  },
+  {
+   "key": "03f865dc3681",
+   "speaker_korean": null,
+   "korean": "FD공간병사“보안부원”"
+  }
+ ]
+}

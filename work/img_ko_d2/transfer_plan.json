@@ -197,7 +197,7 @@
    "d2_iso_offset": 457594096,
    "d2_path": "decoded/0047/s000056_d0_o00106CF0_strtj.fis",
    "d2_allocation": 169492,
-   "d2_allocation_source": "chain_end(16+compressed)",
+   "d2_allocation_source": "16+compressed",
    "d2_next_rel": 0,
    "d2_compressed": 169476,
    "d2_unpacked": 199936,
@@ -239,5 +239,5 @@
    "verdict": "English minigame graphic - no repaint needed (typo 'Frech' is original art)"
   }
  ],
- "notes": "All 8 disc-1 repainted members transfer byte-identically to disc 2; every patched .slz fits its disc-2 allocation with next_rel unchanged (no re-stamping). The John atlas has 3 identical disc-2 copies (2254/2255/2256), mirroring disc 1 where only 2254:38031 was patched."
+ "notes": "All 8 disc-1 repainted members transfer byte-identically to disc 2; every patched .slz fits its disc-2 allocation with next_rel unchanged (no re-stamping). The John atlas has 3 identical disc-2 copies (2254/2255/2256), mirroring disc 1 where only 2254:38031 was patched. v1.2.1: the two remaining John copies (2255:36469, 2256:36476) are transferred too (10 extents). Rebuilt 2026-09-14 from regenerated texture catalogs."
 }

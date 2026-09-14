@@ -1,0 +1,350 @@
+{
+ "batch_id": "batch_0169",
+ "translations": [
+  {
+   "key": "6594b16e82e1",
+   "speaker_korean": "페이트",
+   "korean": "「제독님…\n부탁드릴 게 있는데요."
+  },
+  {
+   "key": "1a66e816a9b1",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『무슨 일인가?"
+  },
+  {
+   "key": "8a63ad66fcca",
+   "speaker_korean": "페이트",
+   "korean": "「우리는 ⟦1⟧제5우주기지⟦2⟧…\n⟦3⟧문베이스⟦4⟧에 가고 싶습니다.\n이 ⟦5⟧디플로⟦6⟧는 클라우스트로 선적선입니다.\n아무래도 ⟦7⟧문베이스⟦8⟧에 순순히\n들여보내 주지 않겠지요.\n그래서 ⟦9⟧아쿠아엘리⟦10⟧로 데려가\n주셨으면… 하고 생각하고 있는데요."
+  },
+  {
+   "key": "6869745a8610",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『⟦1⟧문베이스⟦2⟧라면\n박사의 연구실이 있는 곳이군."
+  },
+  {
+   "key": "c16002680789",
+   "speaker_korean": "페이트",
+   "korean": "「예… 아버지가 마지막으로\n남긴 말이\n『⟦1⟧문베이스⟦2⟧로 가라』였어요.\n그래서 그곳에 가면 진실을\n알 수 있지 않을까 해서…"
+  },
+  {
+   "key": "d88c105c2366",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『음, 하지만 우리도 박사를 나포당한 후\n연구실 데이터베이스를 조사해봤지만\n유용한 정보는 얻지 못했다."
+  },
+  {
+   "key": "fae38590defa",
+   "speaker_korean": "페이트",
+   "korean": "「그래도 조사해 보고 싶어요.\n뭔가 놓친 게 있을지도 모르니까요.\n그리고 당신들과 저희는\n알고 싶은 정보가 다를 테니까요."
+  },
+  {
+   "key": "b52c0a201a7c",
+   "speaker_korean": "마리아",
+   "korean": "「그래요, 게다가 저희가 아니면\n모르는 것이\n있을지도 모르잖아요."
+  },
+  {
+   "key": "a7d4ee7402c6",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『그렇군, 알겠다.\n유도 비콘을 띄우지.\n그 후 필요 인원만\n⟦1⟧아쿠아엘리⟦2⟧에 탑승해라."
+  },
+  {
+   "key": "172592397c98",
+   "speaker_korean": "페이트",
+   "korean": "「부탁드립니다."
+  },
+  {
+   "key": "4dd1c189fe5d",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『그래도 괜찮겠나?"
+  },
+  {
+   "key": "6af47cd7fc79",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『그리고… 지금 ⟦1⟧지구⟦2⟧는\n큰일이 벌어지고 있다.\n각오해 두게."
+  },
+  {
+   "key": "bf747ed6ea27",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『…"
+  },
+  {
+   "key": "f05f732bc7a7",
+   "speaker_korean": "소피아",
+   "korean": "「⟦1⟧지구⟦2⟧가\n큰일이라니…?"
+  },
+  {
+   "key": "235ef5622f6a",
+   "speaker_korean": "페이트",
+   "korean": "「무슨 뜻일까?"
+  },
+  {
+   "key": "b2122ee116c3",
+   "speaker_korean": "클리프",
+   "korean": "「뭐, 가보면 알겠지."
+  },
+  {
+   "key": "17f6d7933f88",
+   "speaker_korean": "마리아",
+   "korean": "「⟦1⟧아쿠아엘리⟦2⟧에는\n우리끼리만 갈 거야.\n⟦3⟧디플로⟦4⟧는 무장 봉인 후,\n연락이 있을 때까지 대기.\n⟦5⟧미라쥬⟦6⟧, ⟦7⟧마리에타⟦8⟧,\n나머지는 부탁할게."
+  },
+  {
+   "key": "8e382ed7ced0",
+   "speaker_korean": "마리에타",
+   "korean": "「리더… 아니,\n⟦1⟧마리아⟦2⟧…"
+  },
+  {
+   "key": "44528997eddb",
+   "speaker_korean": "마리에타",
+   "korean": "「나중 일은 걱정하지 마.\n괜찮으니까.\n⟦1⟧랭커들⟦2⟧도 있고…\n조심해."
+  },
+  {
+   "key": "dd35f94e7641",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「이걸로 이 배와도 이별이네.\n생각해 보면 내 싸움의 나날은\n이 배에서 시작해 이 배에서 끝났어…\n⟦P⟧"
+  },
+  {
+   "key": "059634c66d01",
+   "speaker_korean": null,
+   "korean": "다시 돌이켜 보면 그렇게\n긴 시간은 아니었지만,\n그래도 떠오르는 일은 많네.\n⟦P⟧"
+  },
+  {
+   "key": "cbc14db9e7bf",
+   "speaker_korean": "리벨",
+   "korean": "⟦1⟧「아! 저기, 리더!\n저기, 드릴 말씀이 있는데\n괜찮을까요?\n⟦P⟧"
+  },
+  {
+   "key": "d6bb11f068a6",
+   "speaker_korean": null,
+   "korean": "그래, 할 말이 뭔데?\n⟦P⟧"
+  },
+  {
+   "key": "ee47a5f41ea5",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「너한테도 정말 신세 많이 졌어.\n내가 여기까지 버텨온 건 너희들 덕분이야.\n고마워, 리벨.\n⟦P⟧"
+  },
+  {
+   "key": "c521bd9ec65e",
+   "speaker_korean": "스팅",
+   "korean": "⟦1⟧「어이구, 어이구.\n가는군, 가.\n⟦P⟧자, 성공할지\n아니면 옥쇄할지…\n구경거리이긴 하군.\n⟦P⟧"
+  },
+  {
+   "key": "5b3a8eb7d92e",
+   "speaker_korean": "리벨",
+   "korean": "⟦1⟧「아~…\n리더… 아니, 마리아 씨.\n그게, 저, 그러니까…\n⟦P⟧"
+  },
+  {
+   "key": "fdcacf42f938",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「뭐야, 새삼스럽게?\n내가 힘이 될 수 있는 일이라면 뭐든지\n해줄게.\n⟦P⟧"
+  },
+  {
+   "key": "47d96d027710",
+   "speaker_korean": "스팅",
+   "korean": "⟦1⟧「괜찮겠나? 이대로 놔둬도.\n나중에 후회하는 거 아니냐?\n⟦P⟧이것저것 고민할 바에야\n자기 마음에 솔직하게 행동하는 편이\n낫다고 보는데 말이야.\n⟦P⟧"
+  },
+  {
+   "key": "6290c37cbb1d",
+   "speaker_korean": "마리에타",
+   "korean": "⟦1⟧「음… 괜찮아.\n마음 정리는 이미 끝났으니까.\n⟦P⟧"
+  },
+  {
+   "key": "17902776613a",
+   "speaker_korean": "리벨",
+   "korean": "⟦1⟧「이게 마지막 기회야…\n좋아! 간다!\n⟦P⟧"
+  },
+  {
+   "key": "04de83c152cf",
+   "speaker_korean": null,
+   "korean": "우리는 우리 나름의 새로운 인생을\n시작해야 하니까.\n⟦P⟧"
+  },
+  {
+   "key": "0e8e33e1b17a",
+   "speaker_korean": "마리에타",
+   "korean": "⟦1⟧「언제까지고 보상받지 못할 노력을\n계속할 수는 없잖아.\n⟦P⟧그런 걸 견딜 수 있는 건\n리벨 같은 어지간한\n바보뿐이야.\n⟦P⟧"
+  },
+  {
+   "key": "8b4447b437bd",
+   "speaker_korean": null,
+   "korean": "자, 우리는 우리가 있어야 할 곳으로\n돌아가자.\n⟦P⟧"
+  },
+  {
+   "key": "ea93950aa117",
+   "speaker_korean": "마리에타",
+   "korean": "「함장님, 본함은 행성 리온을 향해\n순조롭게 항해 중입니다.\n목적지까지는 13시간입니다."
+  },
+  {
+   "key": "65d1723ebd0c",
+   "speaker_korean": "클리프",
+   "korean": "「⟦1⟧마리아⟦2⟧가 연방의\n연구 데이터베이스에\n접속하고 있다고?"
+  },
+  {
+   "key": "fc5c82f48f46",
+   "speaker_korean": "클리프",
+   "korean": "「그런 데를 건드리고 있는 거냐?\n그 녀석이 컴퓨터 공부하는 건\n알고 있었지만…"
+  },
+  {
+   "key": "b880c92198b6",
+   "speaker_korean": "마리에타",
+   "korean": "「지금은 연방에 들키지 않아서 괜찮지만,\n들켰을 때를 생각하면…\n제가 말렸는데도 그 애가\n전혀 그만두질 않아서…"
+  },
+  {
+   "key": "b068c9eeda89",
+   "speaker_korean": "미라쥬",
+   "korean": "「알려줘서 고마워요, ⟦1⟧마리에타⟦2⟧.\n나머지는 이쪽에서 알아서 할게요."
+  },
+  {
+   "key": "4fc267b05d48",
+   "speaker_korean": "마리에타",
+   "korean": "「네, 잘 부탁드립니다.\n아, 저기――――――"
+  },
+  {
+   "key": "73ef5e830743",
+   "speaker_korean": "클리프",
+   "korean": "「응? 왜 그래?\n아직 뭐 더 있냐?"
+  },
+  {
+   "key": "9d7eae99625e",
+   "speaker_korean": "마리에타",
+   "korean": "「그게 아니라요. 저기, 너무\n화내지는 말아주세요. 분명 뭔가 이유가\n있을 거예요. 그 애는 생각 없이\n그런 일을 할 아이가 아니니까요."
+  },
+  {
+   "key": "4ac2af88003d",
+   "speaker_korean": "클리프",
+   "korean": "「그런 거였냐.\n알고 있어. 화 안 낸다."
+  },
+  {
+   "key": "51de1d1dd9e3",
+   "speaker_korean": "미라쥬",
+   "korean": "「네.\n…돌아가도 좋아요."
+  },
+  {
+   "key": "b4e22a0b2a4f",
+   "speaker_korean": "미라쥬",
+   "korean": "「어떻게 할까요?\n⟦1⟧마리아⟦2⟧를\n호출할까요?"
+  },
+  {
+   "key": "6b8ef3a67aa7",
+   "speaker_korean": "클리프",
+   "korean": "「아니, 됐어."
+  },
+  {
+   "key": "08b0680c80cb",
+   "speaker_korean": "미라쥬",
+   "korean": "「…방치, 하시는 거군요?"
+  },
+  {
+   "key": "8f27cbbe0b8e",
+   "speaker_korean": "클리프",
+   "korean": "「그래. ⟦1⟧마리에타⟦2⟧도 말했지만,\n생각 없이 하는 짓은 아니겠지.\n그럼 말려도 소용없어."
+  },
+  {
+   "key": "a4f1a55f7b06",
+   "speaker_korean": "클리프",
+   "korean": "「게다가 그 녀석이 그렇게까지 해서\n조사하는 내용에도 흥미가 있고 말이야."
+  },
+  {
+   "key": "124545e69fe0",
+   "speaker_korean": "미라쥬",
+   "korean": "「…그게 본심이죠?"
+  },
+  {
+   "key": "a632b01c304d",
+   "speaker_korean": "클리프",
+   "korean": "「뭐, 그렇지.\n아무튼 은근슬쩍 도와는\n줘라."
+  },
+  {
+   "key": "d7f35118a3c2",
+   "speaker_korean": "마리에타",
+   "korean": "「함장님."
+  },
+  {
+   "key": "05050a297619",
+   "speaker_korean": "클리프",
+   "korean": "「무슨 일이야?"
+  },
+  {
+   "key": "cb9d02b65247",
+   "speaker_korean": "미라쥬",
+   "korean": "「음성 구조 신호가 들어오고 있습니다.\n본함의 진행 방향에서입니다.\n거리 12분."
+  },
+  {
+   "key": "b1ca6a1d4106",
+   "speaker_korean": "클리프",
+   "korean": "「가깝군.\n스피커로 연결해."
+  },
+  {
+   "key": "921a42831888",
+   "speaker_korean": "클리프",
+   "korean": "「…"
+  },
+  {
+   "key": "7f0a6e2f48d4",
+   "speaker_korean": "클리프",
+   "korean": "「어디 소속이지?"
+  },
+  {
+   "key": "4da3ee2c8757",
+   "speaker_korean": "마리아",
+   "korean": "「데이터 조회 중.\n현재로선 해당 선적 불명."
+  },
+  {
+   "key": "b43dfd19bc5d",
+   "speaker_korean": "클리프",
+   "korean": "(…선적 불명이라. 느낌이 안 좋군.\n하지만 못 본 척할\n수는 없나."
+  },
+  {
+   "key": "d8fcaf267e5c",
+   "speaker_korean": "클리프",
+   "korean": "「어쩔 수 없군. 구조하러 간다.\n최대 워프로 해당 지점으로 급행.\n발신 지점 5만 킬로 앞에 붙여라."
+  },
+  {
+   "key": "f0a9bdc77ba1",
+   "speaker_korean": "미라쥬",
+   "korean": "「5만 킬로 말입니까?"
+  },
+  {
+   "key": "f317347715ee",
+   "speaker_korean": "클리프",
+   "korean": "「만약을 위해서다.\n접근해서 상황을 본다."
+  },
+  {
+   "key": "c212efc4a10d",
+   "speaker_korean": "미라쥬",
+   "korean": "「목표 지점 도착. 통상 공간입니다.\n…발신원에 함정은 존재하지 않네요."
+  },
+  {
+   "key": "8932715d4055",
+   "speaker_korean": "클리프",
+   "korean": "「존재하지 않는다고?\n…이상하군,\n어떻게 된 거지?"
+  },
+  {
+   "key": "37f7c5ea22dd",
+   "speaker_korean": "마리에타",
+   "korean": "「⟦1⟧크리에이션 에너지⟦2⟧ 반응!\n전방 5만 킬로미터입니다!!"
+  },
+  {
+   "key": "e84a7182ba73",
+   "speaker_korean": "클리프",
+   "korean": "「칫!\n측면 엔진 전속력!\n⟦P⟧긴급 회피다!"
+  },
+  {
+   "key": "b36f9426e9ca",
+   "speaker_korean": "미라쥬",
+   "korean": "「⟦1⟧클리프⟦2⟧."
+  },
+  {
+   "key": "051147e9f315",
+   "speaker_korean": "마리에타",
+   "korean": "「회피… 성공했습니다."
+  },
+  {
+   "key": "a51f52f2a27c",
+   "speaker_korean": "클리프",
+   "korean": "「첫 발이 ⟦1⟧페이즈 캐논⟦2⟧이었다면\n피하지 못했을지도 모르지."
+  },
+  {
+   "key": "151d939bd42a",
+   "speaker_korean": "마리에타",
+   "korean": "「적함 확인.\n스크린에 띄우겠습니다."
+  }
+ ]
+}

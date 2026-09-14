@@ -1,0 +1,355 @@
+{
+ "batch_id": "batch_0223",
+ "translations": [
+  {
+   "key": "11fa371f5567",
+   "speaker_korean": "페이트",
+   "korean": "「어디선가\n문 열리는 소리가 났어"
+  },
+  {
+   "key": "68b99d1b3b0a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧이프리트의 결정체⟦2⟧를 손에 넣었다"
+  },
+  {
+   "key": "d3a1dc31eebe",
+   "speaker_korean": "페이트",
+   "korean": "「거대한 크리스탈이 있군\n배니시 링으로 반응할지도…"
+  },
+  {
+   "key": "59430c24c51d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧펜리르의 결정체⟦2⟧를 손에 넣었다"
+  },
+  {
+   "key": "48ab765a5836",
+   "speaker_korean": "페이트",
+   "korean": "「열쇠 구멍도 아무것도 없군\n열릴 것 같지 않은데…"
+  },
+  {
+   "key": "608f878b34af",
+   "speaker_korean": null,
+   "korean": "⟦1⟧카운터 오라 습득서5⟦2⟧를 손에 넣었다"
+  },
+  {
+   "key": "b821827a86d9",
+   "speaker_korean": "페이트",
+   "korean": "「가까이서\n문 열리는 소리가 났어"
+  },
+  {
+   "key": "c301d03990cb",
+   "speaker_korean": null,
+   "korean": "⟦1⟧62700폴⟦2⟧ 손에 넣었다"
+  },
+  {
+   "key": "83abe5b1c4d5",
+   "speaker_korean": "페이트",
+   "korean": "「열쇠 구멍도 아무것도 없군\n열리지 않을 것 같군"
+  },
+  {
+   "key": "71198c0e3c37",
+   "speaker_korean": null,
+   "korean": "나선의 탑 6층"
+  },
+  {
+   "key": "f94af5bbed52",
+   "speaker_korean": null,
+   "korean": "⟦1⟧인챈트 북(불・흡수)⟦2⟧ 손에 넣었다"
+  },
+  {
+   "key": "e222c9a95879",
+   "speaker_korean": null,
+   "korean": "나선의 탑 10층"
+  },
+  {
+   "key": "56b1d3b1c403",
+   "speaker_korean": "바니",
+   "korean": "「안녕하냥\n내가 여기 있다는 건\n네가 이 게임을 클리어했다는 거다냥\n축하한다냥!!"
+  },
+  {
+   "key": "85eff17d04da",
+   "speaker_korean": "바니",
+   "korean": "「왜 내가 여기 있냐면…\n사실 오라클이 내려와서\n전할 말을 부탁받았다냥\n전할 말 내용은\n『광산 마을, 아니면\n용암 동굴로 향해라』였다냥\n무슨 소린지 하나도 모르겠다냥\n아무튼 가 보는 거다냥\n그런데… 여기서 탈출시켜\n줄 수 있다냥\n어떻게 할 거냥?"
+  },
+  {
+   "key": "55a21a96b56f",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・수몰도시 서페리오에 가고 싶다"
+  },
+  {
+   "key": "81d261cc1f71",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・모젤의 고대 유적 입구에 가고 싶다"
+  },
+  {
+   "key": "e9e495e4d84a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・파이어월 입구에 가고 싶다"
+  },
+  {
+   "key": "d696aaeebb63",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・걸어간다"
+  },
+  {
+   "key": "b09804de7095",
+   "speaker_korean": "바니",
+   "korean": "「그럼 주문을 외운다냥\n냥냥냥~냥냥냥~\n냥냥, 냥냥냥~!!"
+  },
+  {
+   "key": "72c4544ec481",
+   "speaker_korean": "블레어",
+   "korean": "「그들이 우리와 같은 마음을 가진 지금\n우리와 그들 사이에 대체 무슨 차이가 있어?\n오라버니\n⟦P⟧그 증거로, 지금까지처럼 우리 세계에서\n⟦1⟧이터널 스피어⟦2⟧에 일방적으로 간섭하는 건\n이제 할 수 없게 됐잖아\n그게 바로, 그들이 우리와 같은 존재로\n성장했다는 증거 아니겠어?"
+  },
+  {
+   "key": "6a1cf7ca5d95",
+   "speaker_korean": "블레어",
+   "korean": "「오너… 아니, 오라버니\n이걸로 아셨겠죠\n이제, 그만두세요!"
+  },
+  {
+   "key": "1ad0c19cc42a",
+   "speaker_korean": "블레어",
+   "korean": "「⟦1⟧이터널 스피어⟦2⟧ 안에서 태어난 생명체들은\n우리와 비교해도 손색없는 사고를 지닐 만큼\n성장했어요\n이제 그들은, 우리 손을 떠난 거예요"
+  },
+  {
+   "key": "b641aa221db1",
+   "speaker_korean": "블레어",
+   "korean": "「그들이 우리 세계에 나타난 건\n애초에 오라버니가 그들의 세계를\n없애려 했기 때문이에요\n그들 자신은, 아무 잘못도 없어요"
+  },
+  {
+   "key": "171c2e5bc7c9",
+   "speaker_korean": "블레어",
+   "korean": "「오라버니! 아직도 모르시겠어요!?"
+  },
+  {
+   "key": "bef07cafcc1e",
+   "speaker_korean": "루시퍼",
+   "korean": "「무슨 소리냐! 이것들의 존재 자체가\n⟦1⟧이터널 스피어⟦2⟧ 자체에 중대한 버그를 발생시킨다\n그런 악질 바이러스를 지운다고, 뭐가 나쁘냐"
+  },
+  {
+   "key": "2c4a662507b7",
+   "speaker_korean": "루시퍼",
+   "korean": "「왜냐, 왜 이런 일이…"
+  },
+  {
+   "key": "55b0deae56e0",
+   "speaker_korean": "루시퍼",
+   "korean": "「⟦1⟧블레어⟦2⟧냐!?\n네가 여기까지 뒤에서 조종한 거였군?\n그렇군, 그렇게까지 거역하다니, 동생아"
+  },
+  {
+   "key": "90fbac2ead96",
+   "speaker_korean": "루시퍼",
+   "korean": "「바보 같은 소리를…\n이것들은, 어차피 데이터에 불과한 존재다\n⟦1⟧이터널 스피어⟦2⟧라는 세계 그 자체가\n완전한 허구에 지나지 않는단 말이다!"
+  },
+  {
+   "key": "fb31b44e8c35",
+   "speaker_korean": "루시퍼",
+   "korean": "「크윽, 하지만 이것들은 우릴 해치려\n공간을 넘는 힘까지 손에 넣었잖느냐?\n그런 위험한 존재를 방치해 둘 수는…"
+  },
+  {
+   "key": "dba871e77623",
+   "speaker_korean": "루시퍼",
+   "korean": "「말도 안 되는……\n0과 1의 집합체에 불과한 주제에…"
+  },
+  {
+   "key": "c74de05bb3d3",
+   "speaker_korean": "루시퍼",
+   "korean": "「무슨 마음이냐, 헛소리를\n네놈들이 말하는 마음이라는 건\n어차피 우리 감정을 흉내 낸 가짜에\n지나지 않는다"
+  },
+  {
+   "key": "03bdee245180",
+   "speaker_korean": "루시퍼",
+   "korean": "「닥쳐라, ⟦1⟧블레어⟦2⟧!\n모르는 건, 바로 네놈 쪽이다"
+  },
+  {
+   "key": "ecb8ea46bda4",
+   "speaker_korean": "루시퍼",
+   "korean": "「제아무리 고도한 존재가 되려 해도\n이것들은 어디까지나 가짜에 불과하다\n데이터는 데이터답게\n얌전히 소거되는 게 좋을 거다!"
+  },
+  {
+   "key": "f8bc9de263f9",
+   "speaker_korean": "마리아",
+   "korean": "「⟦1⟧블레어⟦2⟧는 오너의 여동생이었구나…"
+  },
+  {
+   "key": "39afb275f69f",
+   "speaker_korean": "알벨",
+   "korean": "「흥, 그런 거였나"
+  },
+  {
+   "key": "cfd964197b40",
+   "speaker_korean": "넬",
+   "korean": "「오라버니라고!?"
+  },
+  {
+   "key": "ab328274cb6f",
+   "speaker_korean": "로저",
+   "korean": "「엥? 누나 오빠가 이 녀석이고\n이 녀석이 오빠인데 누나?\n안 되겠다… 하나도 모르겠어"
+  },
+  {
+   "key": "2145a4b6654c",
+   "speaker_korean": "스프레",
+   "korean": "「오빠!? 오너가\n⟦1⟧블레어 언니⟦2⟧의 오빠였어!?"
+  },
+  {
+   "key": "73c4c1960728",
+   "speaker_korean": "로저",
+   "korean": "「그렇잖아, 어차피 우리는\n너 따위한테 폐 끼친 적 없다고"
+  },
+  {
+   "key": "e1b51b97bea9",
+   "speaker_korean": "스프레",
+   "korean": "「맞아! 우리는\n아무 나쁜 짓도 안 했다구!"
+  },
+  {
+   "key": "6fa6323ebf6b",
+   "speaker_korean": "페이트",
+   "korean": "「바이러스라고?\n확실히 우리는, 네 손에\n의해 만들어진 존재일지도 몰라\n하지만, 그렇다고 해서\n네게 모든 걸 정할 권리는 없어!"
+  },
+  {
+   "key": "baae0e4d3891",
+   "speaker_korean": "페이트",
+   "korean": "「우리가 멸망하는 그 순간만큼은\n우리 손으로 결정하겠어!"
+  },
+  {
+   "key": "69f3da0bed1a",
+   "speaker_korean": "마리아",
+   "korean": "「바이러스라니?\n확실히 우리는, 네 손에\n의해 만들어진 존재일지도 몰라"
+  },
+  {
+   "key": "27b46f9a1093",
+   "speaker_korean": "마리아",
+   "korean": "「하지만… 그렇다고 해서 모든 걸\n네 마음대로 휘둘릴 이유는 없어\n우리가 멸망하는 그 순간만큼은\n우리 손으로 결정하겠어"
+  },
+  {
+   "key": "1c821b1d81b0",
+   "speaker_korean": "소피아",
+   "korean": "「설령 사실이 어떻든\n저희에게는 마음이 있어요\n모두를 돕고, 세상을 구하겠다는 마음이"
+  },
+  {
+   "key": "04e6ee866e69",
+   "speaker_korean": "페이트",
+   "korean": "「맞아! 우리는 지금까지\n그런 수많은 사람들의 마음에\n힘입어 여행을 계속해 왔어\n그 마음을 배신하지 않기 위해서라도\n이 세상을 사라지게 두지 않겠어!!"
+  },
+  {
+   "key": "bc56c43f2c3a",
+   "speaker_korean": "스프레",
+   "korean": "「가짜, 가짜라고 하지 말라구!\n나는 너 따위한테 만들어진 기억\n없다구!"
+  },
+  {
+   "key": "6870117a56a2",
+   "speaker_korean": "로저",
+   "korean": "「가짜, 가짜라고 하지 마!\n등신아!!"
+  },
+  {
+   "key": "3fb96e9ddb6e",
+   "speaker_korean": "소피아",
+   "korean": "「안 질 거야!!"
+  },
+  {
+   "key": "88699098f997",
+   "speaker_korean": "마리아",
+   "korean": "「얕보지 마!!"
+  },
+  {
+   "key": "45022f153cc8",
+   "speaker_korean": "클리프",
+   "korean": "「까불지 마라!"
+  },
+  {
+   "key": "ecf9d5fe5a46",
+   "speaker_korean": "넬",
+   "korean": "「얕보지 말라고!"
+  },
+  {
+   "key": "a54300af8b5c",
+   "speaker_korean": "알벨",
+   "korean": "「그렇게 놔둘 것 같냐!!"
+  },
+  {
+   "key": "4d1ef691a1a4",
+   "speaker_korean": "페이트",
+   "korean": "「모든 걸 네 맘대로 하려 들지 마!\n우리는, 네 장난감이 아니야!!!!"
+  },
+  {
+   "key": "54eb156c96d5",
+   "speaker_korean": "루시퍼",
+   "korean": "「말도 안 돼…\n창조왕인, 이 몸이…어째서…!!"
+  },
+  {
+   "key": "81dd493e016f",
+   "speaker_korean": "블레어",
+   "korean": "「오라버니……\n이제, 이걸로 끝내요"
+  },
+  {
+   "key": "4e3ddf436358",
+   "speaker_korean": "블레어",
+   "korean": "「자, 다들\n⟦1⟧이터널 스피어⟦2⟧의 백업을 꺼내\n내가, 할 수 있는 한 보완할 테니까"
+  },
+  {
+   "key": "fdd5c4d23821",
+   "speaker_korean": "루시퍼",
+   "korean": "「이런 일이, 있을 리가 없다…\n이 몸이 이런 꼴이 되다니…\n창조물이, 나를 뛰어넘는다는 것이…"
+  },
+  {
+   "key": "d173300eb17e",
+   "speaker_korean": "블레어",
+   "korean": "「⟦1⟧루…루시퍼 오라버니⟦2⟧?"
+  },
+  {
+   "key": "b986e3449ea2",
+   "speaker_korean": "루시퍼",
+   "korean": "「그런가… 문제가 되는 데이터를 지운다는\n안일한 생각을 했으니 이렇게 된 거다\n바이러스끼리 해당 데이터를 보완하는\n게 있다면, 전부 무로 돌려버리면 된다!"
+  },
+  {
+   "key": "8dabca6892df",
+   "speaker_korean": "루시퍼",
+   "korean": "「그러면, 이것들도 완전 소멸시킬 수 있다\n큭큭큭… 이런 간단한 걸\n왜 눈치채지 못했을까…"
+  },
+  {
+   "key": "d78f1cf32ea7",
+   "speaker_korean": "루시퍼",
+   "korean": "「이런저런 잔재주를 부린 모양이다만\n이걸로 끝이다\n모조리 사라져버려라!!"
+  },
+  {
+   "key": "3b0667fa03f3",
+   "speaker_korean": "블레어",
+   "korean": "「어떻게 그런 짓을!"
+  },
+  {
+   "key": "3e9dab93db55",
+   "speaker_korean": "루시퍼",
+   "korean": "「하앗, 하하하하…!!!!"
+  },
+  {
+   "key": "2c5887fb47c3",
+   "speaker_korean": "루시퍼",
+   "korean": "「멸해! 멸해! 멸해! 멸해! 멸해! 멸해!\n모조리 사라져버려라!!"
+  },
+  {
+   "key": "4866b9a7e468",
+   "speaker_korean": null,
+   "korean": "⟦1⟧이터널 스피어⟦2⟧에 정신을\n투영한 채로 그런 짓을 하면\n오라버니도 무사하지 못할 텐데!"
+  },
+  {
+   "key": "fb470bf3f361",
+   "speaker_korean": "루시퍼",
+   "korean": "「정의는, 반드시 이긴다니까아!!!!"
+  },
+  {
+   "key": "4eff57182fcc",
+   "speaker_korean": "루시퍼",
+   "korean": "「하하하하하… 그래! 은하계 따위 말고\n⟦1⟧이터널 스피어⟦2⟧에 연결된\n모든 데이터를 완전히 지워버리면 되는 거다"
+  },
+  {
+   "key": "5580013efc59",
+   "speaker_korean": "루시퍼",
+   "korean": "「핫하하하하하…"
+  },
+  {
+   "key": "f739fb305606",
+   "speaker_korean": null,
+   "korean": "멈춰 오라버니!!"
+  }
+ ]
+}

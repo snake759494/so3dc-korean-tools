@@ -1,0 +1,650 @@
+{
+ "batch_id": "batch_0275",
+ "translations": [
+  {
+   "key": "cfe60a3330a8",
+   "speaker_korean": null,
+   "korean": "예"
+  },
+  {
+   "key": "1c1203d5da3b",
+   "speaker_korean": null,
+   "korean": "아니오"
+  },
+  {
+   "key": "d7ce1f339824",
+   "speaker_korean": null,
+   "korean": "없음"
+  },
+  {
+   "key": "e15a6f8151f6",
+   "speaker_korean": null,
+   "korean": "뒤로"
+  },
+  {
+   "key": "6649e24ed64a",
+   "speaker_korean": null,
+   "korean": "(없음)"
+  },
+  {
+   "key": "a50b1047659f",
+   "speaker_korean": null,
+   "korean": "무기"
+  },
+  {
+   "key": "7de57426c72f",
+   "speaker_korean": null,
+   "korean": "갑옷"
+  },
+  {
+   "key": "bab9d7adc257",
+   "speaker_korean": null,
+   "korean": "액세서리"
+  },
+  {
+   "key": "bba088a98443",
+   "speaker_korean": null,
+   "korean": "소모품"
+  },
+  {
+   "key": "8d86dc66a652",
+   "speaker_korean": null,
+   "korean": "음식"
+  },
+  {
+   "key": "568762de256e",
+   "speaker_korean": null,
+   "korean": "기타"
+  },
+  {
+   "key": "c7362967bfdf",
+   "speaker_korean": null,
+   "korean": "소재"
+  },
+  {
+   "key": "561ce439529c",
+   "speaker_korean": null,
+   "korean": "귀중품"
+  },
+  {
+   "key": "d1922c36213a",
+   "speaker_korean": null,
+   "korean": "메인 메뉴"
+  },
+  {
+   "key": "662cb8d0f290",
+   "speaker_korean": null,
+   "korean": "문장술을 사용합니다"
+  },
+  {
+   "key": "d37a33b44073",
+   "speaker_korean": null,
+   "korean": "스킬을 설정합니다"
+  },
+  {
+   "key": "b41ba91ef0da",
+   "speaker_korean": null,
+   "korean": "아이템을 사용합니다"
+  },
+  {
+   "key": "b9311fcf1862",
+   "speaker_korean": null,
+   "korean": "장비를 변경합니다"
+  },
+  {
+   "key": "5ea8760fd5d8",
+   "speaker_korean": null,
+   "korean": "개인정보를 참조합니다"
+  },
+  {
+   "key": "31fcfd0f835b",
+   "speaker_korean": null,
+   "korean": "조작법을 설정합니다"
+  },
+  {
+   "key": "4d461e3addff",
+   "speaker_korean": null,
+   "korean": "전투 명령, 배틀 멤버, 대형을 변경합니다"
+  },
+  {
+   "key": "2ec1196b42b4",
+   "speaker_korean": null,
+   "korean": "모험 중 용어를 해설합니다"
+  },
+  {
+   "key": "4c96594cab2c",
+   "speaker_korean": null,
+   "korean": "장인 길드에 연락합니다"
+  },
+  {
+   "key": "70dd8e33306c",
+   "speaker_korean": null,
+   "korean": "″PlayStation 2″ 전용 메모리 카드(8MB)에 게임 데이터를 만듭니다"
+  },
+  {
+   "key": "a453d89003db",
+   "speaker_korean": null,
+   "korean": "문장술 사용"
+  },
+  {
+   "key": "f116fb5f772d",
+   "speaker_korean": null,
+   "korean": "스킬 설정"
+  },
+  {
+   "key": "c345b0293d77",
+   "speaker_korean": null,
+   "korean": "아이템"
+  },
+  {
+   "key": "4b1b2e24acd3",
+   "speaker_korean": null,
+   "korean": "장비"
+  },
+  {
+   "key": "b14efd1de9b7",
+   "speaker_korean": null,
+   "korean": "스테이터스"
+  },
+  {
+   "key": "fce5c0a9756d",
+   "speaker_korean": null,
+   "korean": "환경설정"
+  },
+  {
+   "key": "02e8c2ac8938",
+   "speaker_korean": null,
+   "korean": "작전"
+  },
+  {
+   "key": "37cb570453a9",
+   "speaker_korean": null,
+   "korean": "사전"
+  },
+  {
+   "key": "68b56c863b76",
+   "speaker_korean": null,
+   "korean": "발명 정보"
+  },
+  {
+   "key": "bc242193eeaf",
+   "speaker_korean": null,
+   "korean": "카드"
+  },
+  {
+   "key": "725ef96bbc4c",
+   "speaker_korean": null,
+   "korean": "요№"
+  },
+  {
+   "key": "86d537c5a122",
+   "speaker_korean": null,
+   "korean": "코오"
+  },
+  {
+   "key": "077eb2b4becd",
+   "speaker_korean": null,
+   "korean": "유하"
+  },
+  {
+   "key": "677e99467b16",
+   "speaker_korean": null,
+   "korean": "에p:오O"
+  },
+  {
+   "key": "80f7d50cf9e2",
+   "speaker_korean": null,
+   "korean": "이 명령은 선택할 수 없습니다"
+  },
+  {
+   "key": "51e57510844e",
+   "speaker_korean": null,
+   "korean": "세이브"
+  },
+  {
+   "key": "c87efd634b8d",
+   "speaker_korean": null,
+   "korean": "로드"
+  },
+  {
+   "key": "2ef459f3a9c4",
+   "speaker_korean": null,
+   "korean": "교체"
+  },
+  {
+   "key": "625273cd5451",
+   "speaker_korean": null,
+   "korean": "대형"
+  },
+  {
+   "key": "fb1fb6b7cee4",
+   "speaker_korean": null,
+   "korean": "최신단어"
+  },
+  {
+   "key": "637736f5e7e1",
+   "speaker_korean": null,
+   "korean": "국가세력・지명"
+  },
+  {
+   "key": "eeb8dd6e40a1",
+   "speaker_korean": null,
+   "korean": "인명"
+  },
+  {
+   "key": "5ab7743b1547",
+   "speaker_korean": null,
+   "korean": "종족"
+  },
+  {
+   "key": "d30cf22b1e91",
+   "speaker_korean": null,
+   "korean": "텔레그래프는 파이어월의 방벽으로\n사용할 수 없습니다.\nOK"
+  },
+  {
+   "key": "d36d6b89efa0",
+   "speaker_korean": null,
+   "korean": "아루디온인"
+  },
+  {
+   "key": "58833b86f18d",
+   "speaker_korean": null,
+   "korean": "반덴"
+  },
+  {
+   "key": "13bd6cfe2540",
+   "speaker_korean": null,
+   "korean": "레제르브"
+  },
+  {
+   "key": "194c621cf57e",
+   "speaker_korean": null,
+   "korean": "클라우스트로인"
+  },
+  {
+   "key": "bfcadf505f84",
+   "speaker_korean": null,
+   "korean": "블루돌핀"
+  },
+  {
+   "key": "7f74e2108270",
+   "speaker_korean": null,
+   "korean": "폭스테일"
+  },
+  {
+   "key": "79bedea811e4",
+   "speaker_korean": null,
+   "korean": "론도・루키아인"
+  },
+  {
+   "key": "124459680bac",
+   "speaker_korean": null,
+   "korean": "뱅가드"
+  },
+  {
+   "key": "fad8b2c5e0b5",
+   "speaker_korean": null,
+   "korean": "벨베이즈인"
+  },
+  {
+   "key": "82e3af5a995a",
+   "speaker_korean": null,
+   "korean": "트롯코 몬스터"
+  },
+  {
+   "key": "d6e052077d4c",
+   "speaker_korean": null,
+   "korean": "에어드래곤"
+  },
+  {
+   "key": "3399a122cb1f",
+   "speaker_korean": null,
+   "korean": "비룡"
+  },
+  {
+   "key": "f64e6c384134",
+   "speaker_korean": null,
+   "korean": "룸"
+  },
+  {
+   "key": "c40a217f63cd",
+   "speaker_korean": null,
+   "korean": "바니"
+  },
+  {
+   "key": "8f612d70559d",
+   "speaker_korean": null,
+   "korean": "메노딕스"
+  },
+  {
+   "key": "33284f0b0bbf",
+   "speaker_korean": null,
+   "korean": "프라우"
+  },
+  {
+   "key": "59a954b44489",
+   "speaker_korean": null,
+   "korean": "비글"
+  },
+  {
+   "key": "317e8703b945",
+   "speaker_korean": null,
+   "korean": "안프록"
+  },
+  {
+   "key": "22ae79a1c50c",
+   "speaker_korean": null,
+   "korean": "샬로우그림"
+  },
+  {
+   "key": "081ec9076824",
+   "speaker_korean": null,
+   "korean": "샌드몰"
+  },
+  {
+   "key": "75e4166b8b4c",
+   "speaker_korean": null,
+   "korean": "마치래빗"
+  },
+  {
+   "key": "11000e6bf7e4",
+   "speaker_korean": null,
+   "korean": "드로우그린"
+  },
+  {
+   "key": "07ed90b546d8",
+   "speaker_korean": null,
+   "korean": "버블하츠"
+  },
+  {
+   "key": "c0b6051faf9a",
+   "speaker_korean": null,
+   "korean": "페이스리스하운드"
+  },
+  {
+   "key": "e1477f907a97",
+   "speaker_korean": null,
+   "korean": "아인"
+  },
+  {
+   "key": "b902fbb01590",
+   "speaker_korean": null,
+   "korean": "4D인 〔포디멘션인〕"
+  },
+  {
+   "key": "9a14ef9682e4",
+   "speaker_korean": null,
+   "korean": "엑스큐셔너"
+  },
+  {
+   "key": "412967c76304",
+   "speaker_korean": null,
+   "korean": "대변자"
+  },
+  {
+   "key": "8cc555d063bf",
+   "speaker_korean": null,
+   "korean": "집행자"
+  },
+  {
+   "key": "e58dbc04803c",
+   "speaker_korean": null,
+   "korean": "단죄자"
+  },
+  {
+   "key": "e4ae1d0954ae",
+   "speaker_korean": null,
+   "korean": "제미티 시"
+  },
+  {
+   "key": "e420a9ad0dc0",
+   "speaker_korean": null,
+   "korean": "스피어211"
+  },
+  {
+   "key": "b4cc460046b7",
+   "speaker_korean": null,
+   "korean": "4D공간 〔포디멘션 공간〕"
+  },
+  {
+   "key": "f9886b1dd2b0",
+   "speaker_korean": null,
+   "korean": "로스트시티"
+  },
+  {
+   "key": "c94516bd7175",
+   "speaker_korean": null,
+   "korean": "아루디온 제국 <2>"
+  },
+  {
+   "key": "dba906be43ca",
+   "speaker_korean": null,
+   "korean": "아라크"
+  },
+  {
+   "key": "a4eefe29c6fe",
+   "speaker_korean": null,
+   "korean": "제17 우주기지 <2>"
+  },
+  {
+   "key": "d5510bd9103e",
+   "speaker_korean": null,
+   "korean": "섹터γ 〔섹터감마〕"
+  },
+  {
+   "key": "fc2f17d1f9f5",
+   "speaker_korean": null,
+   "korean": "문베이스 <2>"
+  },
+  {
+   "key": "15e1b61bb8bc",
+   "speaker_korean": null,
+   "korean": "페터니 마을"
+  },
+  {
+   "key": "65824eef9b89",
+   "speaker_korean": null,
+   "korean": "마계"
+  },
+  {
+   "key": "d8eed5bb74f4",
+   "speaker_korean": null,
+   "korean": "스트림 <2>"
+  },
+  {
+   "key": "4ad404080910",
+   "speaker_korean": null,
+   "korean": "스트림"
+  },
+  {
+   "key": "6efabd58968b",
+   "speaker_korean": null,
+   "korean": "반덴 <3>"
+  },
+  {
+   "key": "4d9ac1933da1",
+   "speaker_korean": null,
+   "korean": "섹터η 〔섹터에타〕"
+  },
+  {
+   "key": "e0310c839228",
+   "speaker_korean": null,
+   "korean": "아루디온 제국"
+  },
+  {
+   "key": "c42691d65395",
+   "speaker_korean": null,
+   "korean": "제17 우주기지"
+  },
+  {
+   "key": "b678c1dc249f",
+   "speaker_korean": null,
+   "korean": "클라우스트로 3호"
+  },
+  {
+   "key": "eb63bf9efdfa",
+   "speaker_korean": null,
+   "korean": "반덴 <2>"
+  },
+  {
+   "key": "0c8f8b404885",
+   "speaker_korean": null,
+   "korean": "태양계"
+  },
+  {
+   "key": "3ffa6c23c274",
+   "speaker_korean": null,
+   "korean": "제6 심우주기지"
+  },
+  {
+   "key": "520fc3f12dfe",
+   "speaker_korean": null,
+   "korean": "섹터λ 〔섹터람다〕"
+  },
+  {
+   "key": "771bdc3931dc",
+   "speaker_korean": null,
+   "korean": "섹터ζ 〔섹터제타〕"
+  },
+  {
+   "key": "924ab13ca7ee",
+   "speaker_korean": null,
+   "korean": "뱅가드 3호"
+  },
+  {
+   "key": "9588203c4800",
+   "speaker_korean": null,
+   "korean": "제7 심우주기지"
+  },
+  {
+   "key": "cf9544c838dc",
+   "speaker_korean": null,
+   "korean": "엘리쿠르"
+  },
+  {
+   "key": "4695e68a0b99",
+   "speaker_korean": null,
+   "korean": "엘리쿠르 2호"
+  },
+  {
+   "key": "e4f313335f57",
+   "speaker_korean": null,
+   "korean": "섹터θ 〔섹터세타〕"
+  },
+  {
+   "key": "f0a3ec438155",
+   "speaker_korean": null,
+   "korean": "아리그리프 왕국"
+  },
+  {
+   "key": "fbf6dfdfbb68",
+   "speaker_korean": null,
+   "korean": "시하츠 왕국"
+  },
+  {
+   "key": "e0e7a44f13ad",
+   "speaker_korean": null,
+   "korean": "게이트대륙"
+  },
+  {
+   "key": "2187f1f00d8b",
+   "speaker_korean": null,
+   "korean": "고대왕국 시포트"
+  },
+  {
+   "key": "754cd00d919e",
+   "speaker_korean": null,
+   "korean": "서페리오 거리"
+  },
+  {
+   "key": "4d2997cb4171",
+   "speaker_korean": null,
+   "korean": "그리텐 왕국"
+  },
+  {
+   "key": "a2a82f442d7c",
+   "speaker_korean": null,
+   "korean": "컬소어 마을"
+  },
+  {
+   "key": "77aa33c6a70c",
+   "speaker_korean": null,
+   "korean": "컬소어 수련장"
+  },
+  {
+   "key": "e0db2123f7dd",
+   "speaker_korean": null,
+   "korean": "아리아스 마을"
+  },
+  {
+   "key": "4431d7e32b10",
+   "speaker_korean": null,
+   "korean": "아리그리프"
+  },
+  {
+   "key": "6457262e3d42",
+   "speaker_korean": null,
+   "korean": "트라옴 산악지대"
+  },
+  {
+   "key": "8477d734f1e1",
+   "speaker_korean": null,
+   "korean": "산마이트 공화국"
+  },
+  {
+   "key": "c97d61677f34",
+   "speaker_korean": null,
+   "korean": "시랜드 거리"
+  },
+  {
+   "key": "28831f12007e",
+   "speaker_korean": null,
+   "korean": "카난"
+  },
+  {
+   "key": "df645fc3a9aa",
+   "speaker_korean": null,
+   "korean": "문리트"
+  },
+  {
+   "key": "4e67c8c62f5e",
+   "speaker_korean": null,
+   "korean": "컬소어 구릉"
+  },
+  {
+   "key": "70eb34945289",
+   "speaker_korean": null,
+   "korean": "아이레언덕"
+  },
+  {
+   "key": "3bf1f234f09f",
+   "speaker_korean": null,
+   "korean": "팔미라 평원"
+  },
+  {
+   "key": "fa9d8e25fdf0",
+   "speaker_korean": null,
+   "korean": "이리스 들판"
+  },
+  {
+   "key": "ea0a48f2e9cb",
+   "speaker_korean": null,
+   "korean": "모젤 사구"
+  },
+  {
+   "key": "4414bd76aa85",
+   "speaker_korean": null,
+   "korean": "산마이트 초원"
+  },
+  {
+   "key": "b26d89ec8920",
+   "speaker_korean": null,
+   "korean": "베크렐 산길"
+  },
+  {
+   "key": "25e533078020",
+   "speaker_korean": null,
+   "korean": "그라나 구릉"
+  }
+ ]
+}

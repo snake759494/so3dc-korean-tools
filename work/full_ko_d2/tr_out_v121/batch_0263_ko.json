@@ -1,0 +1,650 @@
+{
+ "batch_id": "batch_0263",
+ "translations": [
+  {
+   "key": "8c28aa7c6b0b",
+   "speaker_korean": null,
+   "korean": "중력을 차단하는 특수 금속"
+  },
+  {
+   "key": "6e734e90c711",
+   "speaker_korean": null,
+   "korean": "녹주석의 일종. 녹색을 띠는 보석.\n운모·석영맥에서 산출된다"
+  },
+  {
+   "key": "b92784f1c868",
+   "speaker_korean": null,
+   "korean": "강옥의 일종으로, 붉게 보이는 것은\n함유된 크롬 성분 때문"
+  },
+  {
+   "key": "b32c979cbe50",
+   "speaker_korean": null,
+   "korean": "강옥의 일종으로, 주로 푸른 것을 뜻함"
+  },
+  {
+   "key": "9ca399dfe397",
+   "speaker_korean": null,
+   "korean": "전이 원소 중 하나. 원소기호 Fe"
+  },
+  {
+   "key": "63ceb7e2cdb8",
+   "speaker_korean": null,
+   "korean": "독특한 물결무늬가 표면에\n떠오르는 특수 금속.\n강성과 인성이 모두 뛰어난 특성을 보인다"
+  },
+  {
+   "key": "fe204e09edc5",
+   "speaker_korean": null,
+   "korean": "탄소의 동소체 중 하나. 매우 높은 경도가 특징"
+  },
+  {
+   "key": "7eb10e10c8a9",
+   "speaker_korean": null,
+   "korean": "석영의 결정체. 보통은 투명하지만\n불순물이 섞이면 노란색이나\n보라색도 산출된다"
+  },
+  {
+   "key": "51fb77e37495",
+   "speaker_korean": null,
+   "korean": "빛의 각도에 따라 중앙에 별빛이 보이는\n희귀한 보석"
+  },
+  {
+   "key": "7c648403cd9a",
+   "speaker_korean": null,
+   "korean": "흔히 마력이 결정화되어 생긴 광물이라\n하지만, 자세한 건 불명.\n하나 이걸로 만든 무구는 명품이 되는 게 확실하다"
+  },
+  {
+   "key": "189d0313710b",
+   "speaker_korean": null,
+   "korean": "탄소의 동소체이면서도 칠색으로 빛나는\n불가사의한 광물.\n실로 다양한 힘이 깃들어 있다는 듯하다"
+  },
+  {
+   "key": "e3b63d9516bf",
+   "speaker_korean": null,
+   "korean": "어둠의 심연, 죽음, 영원한 정적을 다스리는\n마성의 보석. 숨겨진 힘을 끌어내면\n무서운 파괴력이 될 것이다"
+  },
+  {
+   "key": "13c5b26733cb",
+   "speaker_korean": null,
+   "korean": "사파이어와 화석화된 태고의 조개가\n융합한 것인지, 조개가 사파이어로\n변한 것인지는 알 수 없지만 촉매 효과는 높은 듯하다"
+  },
+  {
+   "key": "a4c187970d1e",
+   "speaker_korean": null,
+   "korean": "포도처럼 단맛과 신맛의 균형이\n좋은 야생 열매"
+  },
+  {
+   "key": "b7dd28deff77",
+   "speaker_korean": null,
+   "korean": "민트 같은 청량감이 있는 야생 열매"
+  },
+  {
+   "key": "09f69ff62e20",
+   "speaker_korean": null,
+   "korean": "타닌으로 인한 쓴맛이 강한 야생 열매.\n정신 피로를 덜어주는 효과가 있다"
+  },
+  {
+   "key": "97d435aafc68",
+   "speaker_korean": null,
+   "korean": "돼지, 소, 닭 등 각종 육류.\n아이템 크리에이션 '요리'의 레시피 지정에\n필요한 아이템"
+  },
+  {
+   "key": "56927f2097f2",
+   "speaker_korean": null,
+   "korean": "흔한 자갈 등.\n아이템 크리에이션 '연금'의 레시피 지정에\n필요한 아이템"
+  },
+  {
+   "key": "be81dbc68822",
+   "speaker_korean": null,
+   "korean": "갓 딴 세이지"
+  },
+  {
+   "key": "b25ada53e7c2",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 '집필'의 레시피 지정에\n필요한 아이템"
+  },
+  {
+   "key": "872922fad47b",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 '기계'의 레시피 지정에\n필요한 아이템"
+  },
+  {
+   "key": "5eb6c706186b",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 '합성'에\n필요한 아이템"
+  },
+  {
+   "key": "94f48275c3b7",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 '단조'의 레시피 지정에\n필요한 아이템"
+  },
+  {
+   "key": "73ae00ab8dbb",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 '요리'의 성공률을\n올리는 아이템"
+  },
+  {
+   "key": "720da2985ab7",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 '연금'의 성공률을\n올리는 아이템"
+  },
+  {
+   "key": "40439bc41d1b",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 '세공'의 레시피 지정에\n필요한 아이템"
+  },
+  {
+   "key": "9d6fe0786f05",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 '조합'의 레시피 지정에\n필요한 아이템"
+  },
+  {
+   "key": "d9ccf15b9fbc",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 '조합'의 성공률을\n올리는 아이템"
+  },
+  {
+   "key": "e47397aedd38",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 '단조'의 성공률을\n올리는 아이템"
+  },
+  {
+   "key": "9d65351fc0dd",
+   "speaker_korean": null,
+   "korean": "칼집에서 뽑아도 예리함은 그대로"
+  },
+  {
+   "key": "6c01f6862a27",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 '집필'의 성공률을\n올리는 아이템"
+  },
+  {
+   "key": "4572d0c60cf9",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 '기계'의 성공률을\n올리는 아이템"
+  },
+  {
+   "key": "28959634a239",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 '세공'의 성공률을\n올리는 아이템"
+  },
+  {
+   "key": "fe1900f51396",
+   "speaker_korean": null,
+   "korean": "바다에 서식하며 바위에 붙어사는 구형 생물.\n표피는 매우 단단하고 몹시 그로테스크.\n식용은 가능하나 즐겨 먹는 사람은 적다"
+  },
+  {
+   "key": "cb6e53a90dbc",
+   "speaker_korean": null,
+   "korean": "한마디로 두리안의 왕.\n맛, 크기, 가격, 희소성 모두 왕에 걸맞다.\n물론 향, 아니 냄새도"
+  },
+  {
+   "key": "552bee888c85",
+   "speaker_korean": null,
+   "korean": "하늘색 보석이 장식된 반지"
+  },
+  {
+   "key": "dd2362f06d18",
+   "speaker_korean": null,
+   "korean": "하얗게 빛나는 보석이 장식된 반지"
+  },
+  {
+   "key": "6f10c80edced",
+   "speaker_korean": null,
+   "korean": "요정의 힘이 봉인되어 있다는 반지"
+  },
+  {
+   "key": "99361008d7ae",
+   "speaker_korean": null,
+   "korean": "심플한 은제 반지"
+  },
+  {
+   "key": "6a59ba90c4e4",
+   "speaker_korean": null,
+   "korean": "황금빛 반지"
+  },
+  {
+   "key": "407d5614800c",
+   "speaker_korean": null,
+   "korean": "이따금 문자 같은 문양이 떠오르는 의미심장한 반지"
+  },
+  {
+   "key": "9e665e480e24",
+   "speaker_korean": null,
+   "korean": "붉은 보석이 장식된 반지"
+  },
+  {
+   "key": "22af02a5ed95",
+   "speaker_korean": null,
+   "korean": "은빛 반지"
+  },
+  {
+   "key": "d0cefd65272f",
+   "speaker_korean": null,
+   "korean": "요정의 힘이 봉인됐다는 귀걸이"
+  },
+  {
+   "key": "9c04377ce0dc",
+   "speaker_korean": null,
+   "korean": "진홍 보주가 인상적인 귀걸이"
+  },
+  {
+   "key": "ba50cfe9f0e0",
+   "speaker_korean": null,
+   "korean": "에메랄드로 장식된 귀걸이"
+  },
+  {
+   "key": "ee7b0ead3bfb",
+   "speaker_korean": null,
+   "korean": "에메랄드로 장식된 반지"
+  },
+  {
+   "key": "cd49b95f8b02",
+   "speaker_korean": null,
+   "korean": "붉은 보석으로 장식된 강철 팔찌"
+  },
+  {
+   "key": "14b748695148",
+   "speaker_korean": null,
+   "korean": "푸른 보석으로 장식된 강철 팔찌"
+  },
+  {
+   "key": "824a06b156b9",
+   "speaker_korean": null,
+   "korean": "'이마노 츠루기'\n어느 고명한 무예가가 평생 지녔다는 도"
+  },
+  {
+   "key": "9e670a992cc6",
+   "speaker_korean": null,
+   "korean": "'비젠 오사후네 나가미츠'\n칼날이 긴 장도\n다루려면 수련이 필요하다"
+  },
+  {
+   "key": "d66ba3490263",
+   "speaker_korean": null,
+   "korean": "명도 '우스미도리'\n착용자의 움직임을 방해하지 않도록 균형 있게 만든 도"
+  },
+  {
+   "key": "e24981b0b771",
+   "speaker_korean": null,
+   "korean": "강도 '이와토오시'\n쓰는 이에 따라 바위도 뚫는다는 강도"
+  },
+  {
+   "key": "f57710e89e87",
+   "speaker_korean": null,
+   "korean": "창공을 나는 새를 형상화한 문장.\n중앙에 푸른 보석이 빛난다"
+  },
+  {
+   "key": "9629834d7b67",
+   "speaker_korean": null,
+   "korean": "행동 불능 상태의 소유자를 대신하는 신비한 인형.\n소유자의 HP·MP를 20%까지 회복시킨다"
+  },
+  {
+   "key": "5e28b919de2e",
+   "speaker_korean": null,
+   "korean": "왠지 보호받는 기분이 들 듯하면서도\n들지 않는 신비한 인형"
+  },
+  {
+   "key": "f7a4c4bdf314",
+   "speaker_korean": null,
+   "korean": "바라보거나 콕콕 찔러보면 왠지 마음이 편안해지는 인형"
+  },
+  {
+   "key": "c04946cc961a",
+   "speaker_korean": null,
+   "korean": "버니의 3D 모형. 깎아 만든 고정밀 절삭품.\n미니어처 사이즈로 부담 없는 가격"
+  },
+  {
+   "key": "c755826663d3",
+   "speaker_korean": null,
+   "korean": "버니의 3D 모형. 깎아 만든 고정밀 절삭품.\n세부에 대한 정성이 돋보인다"
+  },
+  {
+   "key": "4d9164a019ad",
+   "speaker_korean": null,
+   "korean": "버니의 3D 모형. 깎아 만든 고정밀 절삭품.\n일부 마니아용 주문 제작품"
+  },
+  {
+   "key": "56e4f6f234aa",
+   "speaker_korean": null,
+   "korean": "악마의 십자가.\n본래 성스러운 상징이어야 할 십자가가\n불길한 형상으로 디자인되었다"
+  },
+  {
+   "key": "633140de4568",
+   "speaker_korean": null,
+   "korean": "죽음을 관장하는 흑조를 본뜬 십자가"
+  },
+  {
+   "key": "d97a588412c4",
+   "speaker_korean": null,
+   "korean": "전사의 승리를 기원하며 만든 전신의 십자가"
+  },
+  {
+   "key": "72b875f0edf9",
+   "speaker_korean": null,
+   "korean": "은을 녹여 주형으로 만든 십자가"
+  },
+  {
+   "key": "dd9bcbf5339f",
+   "speaker_korean": null,
+   "korean": "퇴마 효과가 있다는 성스러운 십자가"
+  },
+  {
+   "key": "9556919ad4a3",
+   "speaker_korean": null,
+   "korean": "사파이어를 기본으로 금과 은 세공을 조화시킨\n목걸이"
+  },
+  {
+   "key": "0f4f36e00833",
+   "speaker_korean": null,
+   "korean": "'도지기리 야스츠나'\n사악한 도깨비를 베었다는 전설이 남은 명도"
+  },
+  {
+   "key": "cf666c0cad74",
+   "speaker_korean": null,
+   "korean": "신검 '후츠노미타마'\n죽음을 물리치는 힘을 지닌 검 중의 검.\n대지에 처음 강림한 신이 지녔다고 전해진다"
+  },
+  {
+   "key": "84af681c61ca",
+   "speaker_korean": null,
+   "korean": "성검 '아마노무라쿠모노츠루기'\n신의 축복을 받은 성검.\n머리 여덟 달린 사룡의 꼬리에서 태어났다고 전해진다"
+  },
+  {
+   "key": "73085bb36c31",
+   "speaker_korean": null,
+   "korean": "천검 '아마노오하바리'\n위대한 신의 검이자\n스스로도 신이라 여겨지는 신살의 검"
+  },
+  {
+   "key": "727179ccc9f4",
+   "speaker_korean": null,
+   "korean": "여행의 안전을 기원하는\n매우 희귀한 부적"
+  },
+  {
+   "key": "06dc8bcc6a6c",
+   "speaker_korean": null,
+   "korean": "버니의 발을 본떠 만든 부츠.\n조금 볼품없는 건 애교로 봐주길"
+  },
+  {
+   "key": "9fe57f4e3ae8",
+   "speaker_korean": null,
+   "korean": "숲의 수호 요정 엘프처럼 가볍게 움직일 수\n있다는 부츠"
+  },
+  {
+   "key": "90a64e8b8ed6",
+   "speaker_korean": null,
+   "korean": "노련한 도적처럼 조용히 걸어 다닐 수\n있다는 부츠"
+  },
+  {
+   "key": "798f926e97a9",
+   "speaker_korean": null,
+   "korean": "전사를 위해 만든 부츠.\n내구성과 운동성 모두 뛰어나다"
+  },
+  {
+   "key": "4c25d90d3d3a",
+   "speaker_korean": null,
+   "korean": "떠돌이 상인 잔타가 킬러 타이틀로 내놓았던\n고가의 부츠.\n여관에 묵으면 좋은 일이 있을지도"
+  },
+  {
+   "key": "71522dda29d0",
+   "speaker_korean": null,
+   "korean": "녹색 보석이 장식된 부적"
+  },
+  {
+   "key": "2299acf5b722",
+   "speaker_korean": null,
+   "korean": "푸른 보석이 장식된 부적"
+  },
+  {
+   "key": "8d65a7dedb8f",
+   "speaker_korean": null,
+   "korean": "붉은 보석이 장식된 부적"
+  },
+  {
+   "key": "bc4ddb37cb98",
+   "speaker_korean": null,
+   "korean": "노란 보석이 장식된 부적"
+  },
+  {
+   "key": "46239c2a17d6",
+   "speaker_korean": null,
+   "korean": "달처럼 은은한 빛을 내는 환상적인 부적"
+  },
+  {
+   "key": "966debb59f13",
+   "speaker_korean": null,
+   "korean": "별빛을 모아놓은 듯한 아름다움을 품은 부적"
+  },
+  {
+   "key": "b5f2f5e01826",
+   "speaker_korean": null,
+   "korean": "창공을 나는 새를 형상화한 문장.\n중앙에 붉은 보석이 빛난다"
+  },
+  {
+   "key": "68d79dc54fe4",
+   "speaker_korean": null,
+   "korean": "창공을 나는 새를 형상화한 문장.\n중앙에 검은 보석이 빛난다"
+  },
+  {
+   "key": "bbe4857bac0a",
+   "speaker_korean": null,
+   "korean": "창공을 나는 새를 형상화한 문장.\n중앙에 보라색 보석이 빛난다"
+  },
+  {
+   "key": "3887ee83af4e",
+   "speaker_korean": null,
+   "korean": "요술 방망이 같은 작은 부적"
+  },
+  {
+   "key": "7045573c5f11",
+   "speaker_korean": null,
+   "korean": "어느 신의 문장처럼 보인다"
+  },
+  {
+   "key": "ad57a6b04853",
+   "speaker_korean": null,
+   "korean": "어느 신의 문장"
+  },
+  {
+   "key": "4b78db18328c",
+   "speaker_korean": null,
+   "korean": "검고 사악한 인상의 새를 본뜬 문장"
+  },
+  {
+   "key": "874e0a791ed6",
+   "speaker_korean": null,
+   "korean": "보주를 든 드래곤을 본뜬 금빛 문장"
+  },
+  {
+   "key": "8da166a8ebf3",
+   "speaker_korean": null,
+   "korean": "보주를 든 드래곤을 본뜬 청강제 문장"
+  },
+  {
+   "key": "179fe5c0d50c",
+   "speaker_korean": null,
+   "korean": "불사조를 모티브로 한 문장"
+  },
+  {
+   "key": "72da97a8a0f2",
+   "speaker_korean": null,
+   "korean": "황수정으로 만든 커다란 보주"
+  },
+  {
+   "key": "e4f93b96129f",
+   "speaker_korean": null,
+   "korean": "자수정으로 만든 커다란 보주"
+  },
+  {
+   "key": "715b1eb28ae6",
+   "speaker_korean": null,
+   "korean": "수정으로 만든 큰 보주"
+  },
+  {
+   "key": "b10e43bdb4aa",
+   "speaker_korean": null,
+   "korean": "흑수정으로 만든 커다란 보주"
+  },
+  {
+   "key": "d834f4eff64c",
+   "speaker_korean": null,
+   "korean": "과일에서 추출한 엑기스로 만든\n붉은 액체약"
+  },
+  {
+   "key": "275c63af3b03",
+   "speaker_korean": null,
+   "korean": "과일에서 추출한 엑기스로 만든\n하늘색 액체약"
+  },
+  {
+   "key": "7b32a1772836",
+   "speaker_korean": null,
+   "korean": "청량한 향이 기분 좋은 약"
+  },
+  {
+   "key": "0a603ef2becc",
+   "speaker_korean": null,
+   "korean": "향초의 일종.\n차조기과 한해살이풀. 페이스트로 만들면 요리에 좋다"
+  },
+  {
+   "key": "809907428a65",
+   "speaker_korean": null,
+   "korean": "향초의 일종.\n차조기과 다년초. 약용으로 쓰임"
+  },
+  {
+   "key": "28f60b7db11b",
+   "speaker_korean": null,
+   "korean": "향초의 일종.\n차조기과 반목본성 식물. 꽃에서 기름을 채취해\n향료로 쓰인다"
+  },
+  {
+   "key": "34fa596d2229",
+   "speaker_korean": null,
+   "korean": "보글보글 쉼 없이 거품이 이는 노란\n액체가 든 유리병"
+  },
+  {
+   "key": "2a9009c22342",
+   "speaker_korean": null,
+   "korean": "보글보글 쉼 없이 거품이 이는 붉은\n액체가 든 유리병"
+  },
+  {
+   "key": "e81dcc047ff7",
+   "speaker_korean": null,
+   "korean": "검게 빛나는 항아리라 속은 안 보이지만 냄새가 고약하다"
+  },
+  {
+   "key": "18305aebd88f",
+   "speaker_korean": null,
+   "korean": "보라색 액체가 든 유리병"
+  },
+  {
+   "key": "2fd143798959",
+   "speaker_korean": null,
+   "korean": "붉은 액체가 든 유리병"
+  },
+  {
+   "key": "fb5832f48961",
+   "speaker_korean": null,
+   "korean": "녹색 액체가 든 유리병"
+  },
+  {
+   "key": "034646879701",
+   "speaker_korean": null,
+   "korean": "반짝반짝 물에 흐르는 사금처럼\n빛나는 액체가 든 유리병"
+  },
+  {
+   "key": "ad8112fbb370",
+   "speaker_korean": null,
+   "korean": "흰 도자기 항아리에 든 약.\n속은 안 보이나 우뭇가사리 향이 난다"
+  },
+  {
+   "key": "5ec744d6efdd",
+   "speaker_korean": null,
+   "korean": "은빛 액체가 든 유리병"
+  },
+  {
+   "key": "614e6998a8fd",
+   "speaker_korean": null,
+   "korean": "새까만 액체가 든 유리병"
+  },
+  {
+   "key": "65bbcb3df81d",
+   "speaker_korean": null,
+   "korean": "달콤한 향이 좋은 약"
+  },
+  {
+   "key": "6f3820fd814a",
+   "speaker_korean": null,
+   "korean": "분홍색 알약"
+  },
+  {
+   "key": "fa7f81796085",
+   "speaker_korean": null,
+   "korean": "붉은 알약"
+  },
+  {
+   "key": "f8476df6b330",
+   "speaker_korean": null,
+   "korean": "연두색 알약"
+  },
+  {
+   "key": "2c13e3a37333",
+   "speaker_korean": null,
+   "korean": "존재 자체가 신격화된 와인.\n브랜드가 홀로 커져 투기 대상이 되기도 한다.\n가격은 늘 오름세"
+  },
+  {
+   "key": "84680f7ee7ff",
+   "speaker_korean": null,
+   "korean": "마담 르루아가 만든 최고의 한 병.\n황송해서 오히려 마실 엄두가 안 난다"
+  },
+  {
+   "key": "9f7ade0c362c",
+   "speaker_korean": null,
+   "korean": "정확한 명칭은\n'산타뒤크 프레스티지 오트가리크'\n일반 시장에는 거의 안 나온다"
+  },
+  {
+   "key": "bca6a564930b",
+   "speaker_korean": null,
+   "korean": "이번 선택은 '파이어브레이크'\n깊은 맛은 전형적인 요즘 스타일.\n하지만 좋은 건 역시 좋다"
+  },
+  {
+   "key": "6a26ee64902c",
+   "speaker_korean": null,
+   "korean": "스페인산 걸작 와인.\n최하급 크리안사조차 그 대단함을 충분히 느낄 수 있다"
+  },
+  {
+   "key": "9b78e2cc628c",
+   "speaker_korean": null,
+   "korean": "저렴한 와인.\n하나 사내(어디?) 연간 소비량 1위를 자랑한다"
+  },
+  {
+   "key": "d2ee1eeea76a",
+   "speaker_korean": null,
+   "korean": "DRC가 만든 고급 화이트 와인.\n매장에선 좀처럼 보기 힘들다"
+  },
+  {
+   "key": "6c692f27708d",
+   "speaker_korean": null,
+   "korean": "진하면서도 부드럽고, 무거우면서도 질리지 않는다.\n모순된 요소를 양립시킨 걸작"
+  },
+  {
+   "key": "6c941a4672a5",
+   "speaker_korean": null,
+   "korean": "이 생산자의 리슬링과 피노 그리 모두\n올해 가장 감동한 와인 중 하나.\n게다가 가격도 착하다"
+  },
+  {
+   "key": "193e81da3f1b",
+   "speaker_korean": null,
+   "korean": "갈로는 대량 소비형 저가 와인을 만드는 한편\n단일 밭의 고품질 와인도 소량 생산한다.\n이건 후자"
+  },
+  {
+   "key": "e7351be5c930",
+   "speaker_korean": null,
+   "korean": "저렴한 와인.\n하나 사내(어디?) 연간 소비량 2위를 자랑한다"
+  },
+  {
+   "key": "851417916663",
+   "speaker_korean": null,
+   "korean": "감귤류의 상쾌한 향이 마시는 이에게\n아주 좋은 첫인상을 주는 와인.\n더운 여름엔 레드보다 이걸 고르고 싶다"
+  },
+  {
+   "key": "d1f62098b08c",
+   "speaker_korean": null,
+   "korean": "긴조, 다이긴조 모두 목 넘김이 좋고 향이 짙다.\n술 경험이 적은 사람에게도 추천할 만한 술"
+  }
+ ]
+}

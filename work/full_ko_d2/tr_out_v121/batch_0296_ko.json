@@ -1,0 +1,630 @@
+{
+ "batch_id": "batch_0296",
+ "translations": [
+  {
+   "key": "6ad7adb13c03",
+   "speaker_korean": null,
+   "korean": "매실을 소금에 절여 볕에 말린 뒤 담근, 아이에겐 조금 매운 음식"
+  },
+  {
+   "key": "4cfe5c975256",
+   "speaker_korean": null,
+   "korean": "생야채를 드레싱 등에 버무린 것에 익힌 참치살을 곁들인 음식. 묘하게 잘 어울린다"
+  },
+  {
+   "key": "686181ed0f8a",
+   "speaker_korean": null,
+   "korean": "고급 대게를 통째로 소금물에 삶은 음식. 다음 기회를 위해 어느 다리가 제일 맛있는지 정도는 기억해 두고 싶다"
+  },
+  {
+   "key": "eecf29f22e1a",
+   "speaker_korean": null,
+   "korean": "갓 딴 옥수수에 간장을 발라 구운 음식. 노릇하게 구운 간장 향이 일품이다. 옥수수 신선도는 심의 색으로 판별할 수 있습니다"
+  },
+  {
+   "key": "e34de604c264",
+   "speaker_korean": null,
+   "korean": "어릴 적 동경한 경험이 있는 이가 적지 않은, 그런 일품"
+  },
+  {
+   "key": "8c6f6b26a9de",
+   "speaker_korean": null,
+   "korean": "고기, 야채를 볶은 것을 향신료와 밀가루를 섞어 만든 루로 끓여, 지은 밥에 끼얹은 요리"
+  },
+  {
+   "key": "2aca0f103265",
+   "speaker_korean": null,
+   "korean": "정식 명칭은 충칭 라오훠궈. 다량의 고추 등을 기름과 섞어 페이스트로 만든 것을 국물 베이스로 한 매운 훠궈. 위가 확실히 망가지지만 중독된다"
+  },
+  {
+   "key": "d93eaf89de89",
+   "speaker_korean": null,
+   "korean": "메밀 열매를 갈아 물로 반죽해 얇게 편 뒤, 가늘고 길게 썰어 삶아낸 음식. 반죽 재료가 있든 없든 맛있는 건 맛있다"
+  },
+  {
+   "key": "f0aae7bb027c",
+   "speaker_korean": null,
+   "korean": "콩에 낫토균을 번식시켜 발효시킨 끈적끈적한 음식. 간장은 당연하고 다진 파와 날달걀이 토핑의 정석일까"
+  },
+  {
+   "key": "36360e26477e",
+   "speaker_korean": null,
+   "korean": "스펀지를 두꺼운 초콜릿 층으로 코팅한 케이크. 오래된 호텔 이름에서 따왔다고 한다"
+  },
+  {
+   "key": "349960b4ca16",
+   "speaker_korean": null,
+   "korean": "푸른곰팡이가 단백질을 감칠맛 성분으로 분해한 치즈. 그것을 통째로 한 덩이"
+  },
+  {
+   "key": "a9b2974d4d92",
+   "speaker_korean": null,
+   "korean": "생크림을 듬뿍 사용한 초콜릿 스펀지케이크. 카카오와 크림의 조화에 카카오 특유의 향까지 더해져, 일품"
+  },
+  {
+   "key": "f80e696259ce",
+   "speaker_korean": null,
+   "korean": "살구씨를 갈아 우유빛 액체로 만든 것에 한천을 더해 굳힌 것. 달콤쌉싸름한 맛이 기분 좋다"
+  },
+  {
+   "key": "78f4d7755667",
+   "speaker_korean": null,
+   "korean": "적당한 크기로 썬 순무를 기름에 볶아, 가쓰오부시를 뿌린 요리. 담백해서 밥반찬으로 최고"
+  },
+  {
+   "key": "ea5e6f6c6da2",
+   "speaker_korean": null,
+   "korean": "배추 간장절임에 고춧가루와 마늘을 듬뿍 뿌린 것"
+  },
+  {
+   "key": "05bc7f5a112f",
+   "speaker_korean": null,
+   "korean": "파이 반죽 속에, 레몬즙, 설탕, 시나몬을 더해 손질한 사과를 넣어 구워낸 과자"
+  },
+  {
+   "key": "ea703346e989",
+   "speaker_korean": null,
+   "korean": "달콤한 바나나에 더욱 달콤한 초콜릿을 끼얹은 디저트. 제멋대로의 상상이지만 비터초콜릿도 괜찮지 않을까. 시도해 본 적은 없지만"
+  },
+  {
+   "key": "e3d2a7583153",
+   "speaker_korean": null,
+   "korean": "타르트 반죽에 아몬드크림을 부어, 그 위에 반으로 자른 배를 깔아 구워낸 과자"
+  },
+  {
+   "key": "f360e2a94679",
+   "speaker_korean": null,
+   "korean": "자라를 기름에 튀긴 요리. 통째로 튀기면 좀 먹기 힘들 것 같다"
+  },
+  {
+   "key": "b6ad55e6bf59",
+   "speaker_korean": null,
+   "korean": "매머드로 보이는 동물의 고기를 거칠게 구운 것. 일단 맛없어 보이지는 않는다"
+  },
+  {
+   "key": "78becac2b9ce",
+   "speaker_korean": null,
+   "korean": "돼지의 기름진 부위를 한입 크기로 썰어 꼬치에 꿰어 구워낸 음식"
+  },
+  {
+   "key": "cdf6ba41d023",
+   "speaker_korean": null,
+   "korean": "새우와 상추, 돼지고기 등을 라이스페이퍼로 싼 요리. 땅콩소스 등에 찍어 먹는 것이 일반적"
+  },
+  {
+   "key": "7e7e847c19a8",
+   "speaker_korean": null,
+   "korean": "일단 화려한 과일 모둠. 확실히 화려하긴 한데..."
+  },
+  {
+   "key": "24679c569310",
+   "speaker_korean": null,
+   "korean": "야채를 섞은 쇼트파스타 위에 적당한 크기로 찢은 생햄을 곁들인 샐러드. 생햄의 짠맛과 야채가 아주 잘 어울린다"
+  },
+  {
+   "key": "5c9f3699ac25",
+   "speaker_korean": null,
+   "korean": "스펀지 위에 휘핑크림을 올리고, 마롱크림을 더 짜올린 케이크. 알프스산맥의 최고봉과 관련이 있을까?"
+  },
+  {
+   "key": "86cdfe7eef2b",
+   "speaker_korean": null,
+   "korean": "그라탱 접시에 마카로니와 닭고기 등의 재료와 화이트소스를 넣고, 치즈를 뿌려 익힌 요리"
+  },
+  {
+   "key": "9ea79409db46",
+   "speaker_korean": null,
+   "korean": "복숭아 생주스에 다진 백도를 넣은 냉제 수프. 스푼으로 떠서 우아하게 드십시오"
+  },
+  {
+   "key": "d2be720ce2f9",
+   "speaker_korean": null,
+   "korean": "수박맛 아이스크림. 모양도 수박을 본뜬 것이 얄미울 정도. 참고로 씨는 초콜릿"
+  },
+  {
+   "key": "fca251d360e6",
+   "speaker_korean": null,
+   "korean": "땅의 요정. 무기에 깃들면 특별한 힘을 낸다"
+  },
+  {
+   "key": "34d95f98b835",
+   "speaker_korean": null,
+   "korean": "물의 요정. 무기에 깃들면 특별한 힘을 낸다"
+  },
+  {
+   "key": "dacb5dd50522",
+   "speaker_korean": null,
+   "korean": "불의 요정. 무기에 깃들면 특별한 힘을 낸다"
+  },
+  {
+   "key": "4e5f144e66bb",
+   "speaker_korean": null,
+   "korean": "바람의 요정. 무기에 깃들면 특별한 힘을 낸다"
+  },
+  {
+   "key": "324c4574dc62",
+   "speaker_korean": null,
+   "korean": "양의 요정. 무기에 깃들면 특별한 힘을 낸다"
+  },
+  {
+   "key": "d90496776841",
+   "speaker_korean": null,
+   "korean": "광물로 만든 장검. 무게와 원심력으로 억지로 베어내는 것을 목적으로 한 무기"
+  },
+  {
+   "key": "d60cb1ca16c5",
+   "speaker_korean": null,
+   "korean": "소형 곡도. 다루기 쉬워, 도적이나 암살자가 즐겨 사용한다"
+  },
+  {
+   "key": "41c51a60a528",
+   "speaker_korean": null,
+   "korean": "지팡이. 주문 영창의 촉매인 동시에, 때려도 충분히 쓰러뜨리는 물건"
+  },
+  {
+   "key": "0fca39e5e3fe",
+   "speaker_korean": null,
+   "korean": "팔 보호용 광물제 방어구. 이걸로 때리는 격투가도 있다"
+  },
+  {
+   "key": "1bad13cf17ec",
+   "speaker_korean": null,
+   "korean": "큰 방울이 달린 귀여운 신발. 아파 보이는 가시가 달린 건 애교일까?"
+  },
+  {
+   "key": "6ce4d1a8b7c8",
+   "speaker_korean": null,
+   "korean": "어느 여신이 걸쳤다고도, 벗어던지고 갔다고도 전해지는 전설의 방어구. 아쉽게도 여성 전용"
+  },
+  {
+   "key": "278632efb0dd",
+   "speaker_korean": null,
+   "korean": "이 세상에 판치는 하찮은 자들을 일격필살로 매장하는 하찮은 리설웨폰"
+  },
+  {
+   "key": "2f258c186a85",
+   "speaker_korean": null,
+   "korean": "이른바 판금 갑옷. 본래는 본인에게 맞춰 만드는 완전 맞춤 제작품"
+  },
+  {
+   "key": "e3735600cad3",
+   "speaker_korean": null,
+   "korean": "플레이트 아머의 일종. 용감한 전사에게 어울리는, 성능과 디자인을 겸비한 일품"
+  },
+  {
+   "key": "3097d9f58c7b",
+   "speaker_korean": null,
+   "korean": "특수 코팅을 입혀 강도를 대폭 높인 플레이트 아머"
+  },
+  {
+   "key": "fc9d62ad68df",
+   "speaker_korean": null,
+   "korean": "마법으로 강화된 플레이트 아머. 주문 공격을 높은 확률로 무효화한다"
+  },
+  {
+   "key": "eb1bae29ec1f",
+   "speaker_korean": null,
+   "korean": "쇄자갑(사슬 갑옷). 작은 사슬을 엮어 만든 단순한 방어구"
+  },
+  {
+   "key": "0e0f257c6aaa",
+   "speaker_korean": null,
+   "korean": "오리하르콘으로 만들어진 체인메일. 원래 소재의 흔적이 남은 색감"
+  },
+  {
+   "key": "27c5ad87fee5",
+   "speaker_korean": null,
+   "korean": "용의 비늘을 소재로 만든 방어구. 디자인도 드래곤을 모티프로 하고 있다"
+  },
+  {
+   "key": "f3a626f06833",
+   "speaker_korean": null,
+   "korean": "특수 코팅을 입힌 레더 아머. 검게 빛나는 독특한 외관이 특징적"
+  },
+  {
+   "key": "eb19ebef7c44",
+   "speaker_korean": null,
+   "korean": "매우 견고한 구조의 체인메일. 금속판도 사용되어 플레이트 아머를 연상케 하지만, 민첩성이 매우 뛰어나다"
+  },
+  {
+   "key": "9b5f4fc3f057",
+   "speaker_korean": null,
+   "korean": "숲의 요정족 엘프가 만들었다는 마법 방어 효과가 높은 방어구"
+  },
+  {
+   "key": "f22a6dd98804",
+   "speaker_korean": null,
+   "korean": "검으로서 최소한의 기능만 갖춘 무기. 가벼워서 초보자도 다루기 쉽다"
+  },
+  {
+   "key": "f62876178868",
+   "speaker_korean": null,
+   "korean": "종말의 업화로 강철을 벼리고, 흘러내리는 망자의 피로 식혀 물들였다는 전설의 마검"
+  },
+  {
+   "key": "f89a899b5495",
+   "speaker_korean": null,
+   "korean": "마신의 영혼이 봉인되어 있다는 마검. 분노의 감정이 칼날을 새빨갛게 불태운다"
+  },
+  {
+   "key": "f97a25a8db81",
+   "speaker_korean": null,
+   "korean": "빛나는 칼날이 모든 사악한 자들을 몰아낸다는 명검"
+  },
+  {
+   "key": "addcf0e9989e",
+   "speaker_korean": null,
+   "korean": "광물제 파이프 조각. 무기로 충분하다"
+  },
+  {
+   "key": "9da9395e10ae",
+   "speaker_korean": null,
+   "korean": "칠흑빛 새의 깃털처럼 빛나는 금속으로 만든 건틀릿"
+  },
+  {
+   "key": "bed11e6b3443",
+   "speaker_korean": null,
+   "korean": "강력한 타격을 연속으로 날릴 수 있게 되는 건틀릿"
+  },
+  {
+   "key": "3fec5976dd31",
+   "speaker_korean": null,
+   "korean": "약자를 희롱하고 죽음을 축제라 부르는 사신 얼굴을 본뜬 광갑"
+  },
+  {
+   "key": "4b27a2106841",
+   "speaker_korean": null,
+   "korean": "이 세상의 존재뿐 아니라, 신과 악마의 죽음마저 다스리는 만물의 대제 얼굴 모티프의 광갑"
+  },
+  {
+   "key": "19654db58e51",
+   "speaker_korean": null,
+   "korean": "겉보기엔 조금 미덥지 않지만, 민첩함이 오르는 헬멧"
+  },
+  {
+   "key": "cc99b4666ebb",
+   "speaker_korean": null,
+   "korean": "견고하고 아름답게 만든 헬멧. 그에게는 조금 안 어울릴지도"
+  },
+  {
+   "key": "d4ebfaacad3b",
+   "speaker_korean": null,
+   "korean": "특수 마법 금속을 재료로 최고의 기술로 만들어낸 최강의 헬멧"
+  },
+  {
+   "key": "7f21160b5019",
+   "speaker_korean": null,
+   "korean": "위력, 정밀도 모든 균형이 고차원적으로 조정된 페이즈건"
+  },
+  {
+   "key": "5226b99e14fe",
+   "speaker_korean": null,
+   "korean": "뭐라 말할 수 없는 균형 위에 성립된 듯하면서도 성립되지 않은 반지"
+  },
+  {
+   "key": "5102aafe8bca",
+   "speaker_korean": null,
+   "korean": "당신의 마음에 떠오른 사람은 누구? 아니, 사람은 맞나? 캐묻고 싶어지는 반지"
+  },
+  {
+   "key": "d6f06baa306b",
+   "speaker_korean": null,
+   "korean": "어디를 고쳐야 나아질지, 생각할 틈조차 없는 완성도 높은 진품. 다시 만드는 편이 낫다"
+  },
+  {
+   "key": "de1edd2a2e04",
+   "speaker_korean": null,
+   "korean": "태어난 것을 사과하고 싶어지는, 그런 애처로움을 온몸으로 표현한 물건"
+  },
+  {
+   "key": "c617f48b5c7f",
+   "speaker_korean": null,
+   "korean": "처음 만난 사람에게 선물하면 단번에 얼굴을 기억해 줄 것이다"
+  },
+  {
+   "key": "564455443d3c",
+   "speaker_korean": null,
+   "korean": "나도 모르게 웃게 되는 팔찌. 참아도 소용없다는 걸 깨닫게 되는, 그런 물건"
+  },
+  {
+   "key": "56b5b13f9562",
+   "speaker_korean": null,
+   "korean": "부끄러움에 귀를 새빨갛게 물들이는, 그녀의 그런 모습이 보고 싶다면 이것. 분노의 빨강일지도 모르지만"
+  },
+  {
+   "key": "8cc2e9218ede",
+   "speaker_korean": null,
+   "korean": "회사라면 도산, 사원이라면 성희롱 발각, 디버거라면 정보 유출. 굳이 비유하자면 그런 느낌일까"
+  },
+  {
+   "key": "12171e89adff",
+   "speaker_korean": null,
+   "korean": "문득 떠올라, 눈물로 베개를 적실 때가 있다면, 그건 바로 지금 말고는 없다"
+  },
+  {
+   "key": "dfd79f78bf97",
+   "speaker_korean": null,
+   "korean": "얼굴을 붉히며 고개를 돌리는 몸짓. 그녀의 그런 얄미운 일면을 보고 싶다면 이것. 두 번 다시 돌아봐 주지 않겠지만"
+  },
+  {
+   "key": "31cccfebde02",
+   "speaker_korean": null,
+   "korean": "약간의 뒤틀림을 고치려다 초래하고 만 참사. 이제 돌이킬 수 없다"
+  },
+  {
+   "key": "cf3ad0e173a9",
+   "speaker_korean": null,
+   "korean": "이형이라는 표현이 어울리는 피규어. 절로 눈을 돌리고 싶어진다"
+  },
+  {
+   "key": "5835eda80a59",
+   "speaker_korean": null,
+   "korean": "이것은 대체 무엇인가. 긍정적으로 판단하자면, 이건 아마 제작자의 머릿속을 표현한 것이리라"
+  },
+  {
+   "key": "fc97d9f873ad",
+   "speaker_korean": null,
+   "korean": "나도 모르게 없었던 일로 하고 싶어지는, 그런 물건"
+  },
+  {
+   "key": "ec09c5d27465",
+   "speaker_korean": null,
+   "korean": "나도 모르게 태클을 걸고 싶어지는 물건. 허점투성이"
+  },
+  {
+   "key": "65fe4ce9d991",
+   "speaker_korean": null,
+   "korean": "착각이 쌓이고 쌓여 태어난 물건. 마이너스 방향으로 폭주한 기적"
+  },
+  {
+   "key": "84184c251ea5",
+   "speaker_korean": null,
+   "korean": "드라큘라 백작도 나도 모르게 움찔할 십자가. 단, 다른 의미로지만"
+  },
+  {
+   "key": "a80b88a11dac",
+   "speaker_korean": null,
+   "korean": "엄지발가락은커녕 모든 발가락이 드러나는 부츠"
+  },
+  {
+   "key": "943292954431",
+   "speaker_korean": null,
+   "korean": "제대로 걷지도 못하게 만드는 불쾌한 부츠"
+  },
+  {
+   "key": "427948e92c3d",
+   "speaker_korean": null,
+   "korean": "작은 착각에 착각이 겹쳐 만들어진 기적. 그런 기적은 필요 없지만"
+  },
+  {
+   "key": "33fede1289f9",
+   "speaker_korean": null,
+   "korean": "점수로 치면 3점을 받았을 때 같은, 시말서? 같은 부적"
+  },
+  {
+   "key": "6df20f1049e4",
+   "speaker_korean": null,
+   "korean": "이걸 본 사람 모두가 나도 모르게 얼굴을 붉히는 부적"
+  },
+  {
+   "key": "3dd448b36792",
+   "speaker_korean": null,
+   "korean": "제작자의 화풀이를 당한 불쌍한 물건"
+  },
+  {
+   "key": "4e8339ee6244",
+   "speaker_korean": null,
+   "korean": "누구에게도 가치를 인정받지 못하는 불쌍한 물건"
+  },
+  {
+   "key": "1a80141ae2c2",
+   "speaker_korean": null,
+   "korean": "작은 부주의로 그 프로젝트는 실패하고 말았다"
+  },
+  {
+   "key": "d919f0a42865",
+   "speaker_korean": null,
+   "korean": "안에서 무언가 꿈틀꿈틀 움직이는 수정구. 왠지 불길하다"
+  },
+  {
+   "key": "ba1ebd6e4f29",
+   "speaker_korean": null,
+   "korean": "손쉽게 거친 줄로 갈다가 죽은 생선 눈처럼 되어버린 인형의 눈동자"
+  },
+  {
+   "key": "e8c19034ea94",
+   "speaker_korean": null,
+   "korean": "쓸 가치는 있을지도 모르는 약. 직접 마시고 싶진 않지만"
+  },
+  {
+   "key": "0cb990ca4161",
+   "speaker_korean": null,
+   "korean": "그 정도 가치밖에 없는, 길다는 것만이 장점인 종이쓰레기"
+  },
+  {
+   "key": "09097ab971cd",
+   "speaker_korean": null,
+   "korean": "아마 쓰던 본인이 싫증나서 구깃구깃 뭉쳐버린 것이리라 짐작되는 두루마리. 그 심정은 짐작하고도 남는다"
+  },
+  {
+   "key": "31caed20eed0",
+   "speaker_korean": null,
+   "korean": "쓴 본인만이 비전이라 여기고 적은 두루마리. 아무도 전수받고 싶어하지 않습니다"
+  },
+  {
+   "key": "e12a9cf19d83",
+   "speaker_korean": null,
+   "korean": "쓴 본인만이 오의라 여기고 적은 두루마리. 누가 좀 말려주세요"
+  },
+  {
+   "key": "0acb1a3c7887",
+   "speaker_korean": null,
+   "korean": "일단 부수고 싶을 뿐이라면 이걸로도 충분할지 모른다"
+  },
+  {
+   "key": "285a66878270",
+   "speaker_korean": null,
+   "korean": "맛, 향, 목넘김, 뒷맛까지 모두 나쁜 술. 이래서는 마시는 의미가 없다"
+  },
+  {
+   "key": "c0750bd248ce",
+   "speaker_korean": null,
+   "korean": "완전히 산화해버린 와인. 숙성과 산화는 한 끗 차이"
+  },
+  {
+   "key": "796050bd26d4",
+   "speaker_korean": null,
+   "korean": "와인의 장점을 죄다 포기한 어리석은 산물"
+  },
+  {
+   "key": "3ba9e127e23d",
+   "speaker_korean": null,
+   "korean": "쩍쩍 들러붙어 속을 읽을 수 없게 된 책"
+  },
+  {
+   "key": "e781689011d8",
+   "speaker_korean": null,
+   "korean": "보존 상태가 나빠 무엇이 적혀 있었는지 판독 불가한, 그저 종이 뭉치가 되어버린 책"
+  },
+  {
+   "key": "a8518f92d4be",
+   "speaker_korean": null,
+   "korean": "끔찍할 정도의 악필로 적힌 책. 우주어일 가능성이 희박하게나마 남아 있다"
+  },
+  {
+   "key": "5e759e521278",
+   "speaker_korean": null,
+   "korean": "복부에 큰 구멍이 뚫려 방어구 구실을 전혀 못 하는 갑옷"
+  },
+  {
+   "key": "9c131b6cc3fc",
+   "speaker_korean": null,
+   "korean": "너무 얇게 늘인 갑옷. 덜그럭 소리가 난다"
+  },
+  {
+   "key": "146b039211f4",
+   "speaker_korean": null,
+   "korean": "만듦새가 엉성한 갑옷. 확실히 없는 것보단 낫지만..."
+  },
+  {
+   "key": "6447b04985f7",
+   "speaker_korean": null,
+   "korean": "왼쪽으로 휜 검. 똑바로 내리치면 적에게 맞지 않는다"
+  },
+  {
+   "key": "68622cb2178d",
+   "speaker_korean": null,
+   "korean": "이것과 어울리는 옷은 뭘까 생각하면 사고의 무한 루프에 빠질 것 같은 지팡이"
+  },
+  {
+   "key": "b94ad458bac4",
+   "speaker_korean": null,
+   "korean": "장비하면 손가락이 꼬인다. 너무 뒤틀림"
+  },
+  {
+   "key": "9bd68c9bc1ab",
+   "speaker_korean": null,
+   "korean": "무가동이라 작동은 안 합니다. 보고 만지며 즐기는 물건입니다. 합법입니다"
+  },
+  {
+   "key": "d34c5b2d16df",
+   "speaker_korean": null,
+   "korean": "끈적하고 신선도 낮은, 맛이 빠진 회. 이제 간장으로 맛을 속이는 수밖에 없다"
+  },
+  {
+   "key": "d5c9ab00ae3f",
+   "speaker_korean": null,
+   "korean": "카레를 맛없게 만드는 것도 어떤 의미로는 재능 아닐까. 부질없는 생각에 잠기게 되는, 그런 물건"
+  },
+  {
+   "key": "3e14cc0d10bb",
+   "speaker_korean": null,
+   "korean": "스튜를 맛없게 만드는 것도 어떤 의미로는 재능 아닐까. 부질없는 생각에 잠기게 되는, 그런 물건"
+  },
+  {
+   "key": "05624208b4c6",
+   "speaker_korean": null,
+   "korean": "고무를 입에 넣었을 때 같은, 뭐라 말할 수 없는 불쾌감을 주는 스테이크"
+  },
+  {
+   "key": "7ee3192db1ca",
+   "speaker_korean": null,
+   "korean": "맛없어!하며 나도 모르게 무릎을 치게 되는, 그런 모순된 행동을 하게 만드는, 그런 물건"
+  },
+  {
+   "key": "8234e823ef4f",
+   "speaker_korean": null,
+   "korean": "말 그대로, 매운 케이크. 이제 디저트라고 부를 수 없다"
+  },
+  {
+   "key": "fffc61d88a6a",
+   "speaker_korean": null,
+   "korean": "의문의 정령. 무기에 깃들면 힘을 낸다"
+  },
+  {
+   "key": "d28afeba4927",
+   "speaker_korean": null,
+   "korean": "사대정령인 불의 정령을 봉인한 보주. 어떤 목적으로 사용될지는 불명"
+  },
+  {
+   "key": "cba0c36dcaca",
+   "speaker_korean": null,
+   "korean": "사대정령인 물의 정령을 봉인한 보주. 어떤 목적으로 사용될지는 불명"
+  },
+  {
+   "key": "e492cbc1db59",
+   "speaker_korean": null,
+   "korean": "사대정령인 바람의 정령을 봉인한 보주. 어떤 목적으로 사용될지는 불명"
+  },
+  {
+   "key": "b890e229ee49",
+   "speaker_korean": null,
+   "korean": "사대정령인 땅의 정령을 봉인한 보주. 어떤 목적으로 사용될지는 불명"
+  },
+  {
+   "key": "61eb3a0b3a61",
+   "speaker_korean": null,
+   "korean": "가지고 있으면 별로 좋을 일 없는 저주받은 돌. 얼른 버리는 것이 상책"
+  },
+  {
+   "key": "be1d75add38c",
+   "speaker_korean": null,
+   "korean": "흉포한 무지개를 본뜬 불길한 반지. 주인에게 그다지 좋은 결과를 가져다줄 것 같지는 않지만..."
+  },
+  {
+   "key": "eac2cbc0c589",
+   "speaker_korean": null,
+   "korean": "소코뚜레와 꼭 닮은 굵은 코피어싱. 착용하면 참으로 굴욕적일 것이다"
+  },
+  {
+   "key": "0eaf5d6b0556",
+   "speaker_korean": null,
+   "korean": "흉포한 무지개를 본뜬 불길한 팔찌. 주인에게 그다지 좋은 결과를 가져다줄 것 같지는 않지만..."
+  },
+  {
+   "key": "f872803f1901",
+   "speaker_korean": null,
+   "korean": "흉포한 무지개를 본뜬 불길한 머리 장식. 주인에게 그다지 좋은 결과를 가져다줄 것 같지는 않지만..."
+  }
+ ]
+}

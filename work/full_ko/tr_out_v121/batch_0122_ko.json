@@ -1,0 +1,250 @@
+{
+ "batch_id": "batch_0122",
+ "translations": [
+  {
+   "key": "a8d668b876a5",
+   "speaker_korean": "넬",
+   "korean": "「아, 잘 잤어?"
+  },
+  {
+   "key": "d02bbda139fe",
+   "speaker_korean": "페이트",
+   "korean": "「네, 뭐."
+  },
+  {
+   "key": "d6469dd97dad",
+   "speaker_korean": "넬",
+   "korean": "「오늘은 ⟦1⟧시술병기연구소⟦2⟧에\n갈 거야."
+  },
+  {
+   "key": "625705ae0c17",
+   "speaker_korean": "클리프",
+   "korean": "「예의 그 무기를 만드는\n곳이란 거지?"
+  },
+  {
+   "key": "5023073f48ea",
+   "speaker_korean": "넬",
+   "korean": "「아…드디어 본격적으로 시작이야.\n너희들 지식 좀 빌려야겠어."
+  },
+  {
+   "key": "fa1c77884f6c",
+   "speaker_korean": "넬",
+   "korean": "「그야 당연하지."
+  },
+  {
+   "key": "5af3887c4f06",
+   "speaker_korean": "넬",
+   "korean": "「우선 담당 책임자를 만나 봐.\n그녀의 연구소는 성 서쪽에 있어.\n…가 볼까."
+  },
+  {
+   "key": "0239d0f9f6f8",
+   "speaker_korean": "페이트",
+   "korean": "「실제로 물건을 보지 않고서는\n뭐라 말씀드리기 어렵지만요."
+  },
+  {
+   "key": "07c3f98dcafd",
+   "speaker_korean": "클리프",
+   "korean": "「꼭 만나. 내가 만나게 해줄게.\n그러니까 그때까지 기다려."
+  },
+  {
+   "key": "1973e08573c6",
+   "speaker_korean": "넬",
+   "korean": "「⟦1⟧디온⟦2⟧의 상태는 어때?"
+  },
+  {
+   "key": "e35c13614619",
+   "speaker_korean": "남성 병사",
+   "korean": "「좋지 않습니다…"
+  },
+  {
+   "key": "a3c3160946fd",
+   "speaker_korean": "남성 병사",
+   "korean": "「⟦1⟧넬 님⟦2⟧."
+  },
+  {
+   "key": "77f26b971804",
+   "speaker_korean": "페이트",
+   "korean": "「으음……"
+  },
+  {
+   "key": "6f91c4d8bbdb",
+   "speaker_korean": "넬",
+   "korean": "「다행이다.\n다시는 못 깨어나는 줄 알았어."
+  },
+  {
+   "key": "33f3418c47d3",
+   "speaker_korean": "페이트",
+   "korean": "「다들………여긴 어디지?"
+  },
+  {
+   "key": "794f0df877ae",
+   "speaker_korean": "클리프",
+   "korean": "「⟦1⟧시랜드 성⟦2⟧이야.\n돌아온 거지.\n⟦3⟧아리그리프⟦4⟧ 놈들도\n본국으로 돌아간 모양이더군.\n이제 전쟁이고 뭐고 없어."
+  },
+  {
+   "key": "b30328635ba9",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧반데인⟦2⟧은……"
+  },
+  {
+   "key": "094d5d55ad89",
+   "speaker_korean": "넬",
+   "korean": "「그것보다, 몸은 괜찮아?"
+  },
+  {
+   "key": "e4d0da643b5d",
+   "speaker_korean": "페이트",
+   "korean": "「괜찮…… 윽……\n왠지 온몸이 다 아파."
+  },
+  {
+   "key": "1fc2802c9d42",
+   "speaker_korean": "페이트",
+   "korean": "「…맞다, ⟦1⟧디온⟦2⟧,\n⟦3⟧디온⟦4⟧은 괜찮은 건가요?"
+  },
+  {
+   "key": "0c11443ba15d",
+   "speaker_korean": "넬",
+   "korean": "「중상이야.\n숨은 붙어 있지만…\n매우 위험한 상태야."
+  },
+  {
+   "key": "fa2a2ccb339b",
+   "speaker_korean": "페이트",
+   "korean": "「그럴 수가… ⟦1⟧아미나⟦2⟧와 약속했는데.\n무사히 데려가겠다고 약속했는데!!"
+  },
+  {
+   "key": "2fa650b0c68b",
+   "speaker_korean": "넬",
+   "korean": "「아직 누워 있는 게 좋아."
+  },
+  {
+   "key": "9df4ccd34477",
+   "speaker_korean": "클리프",
+   "korean": "「그래, 너도\n멀쩡한 건 아니잖냐."
+  },
+  {
+   "key": "c641f050c3c9",
+   "speaker_korean": "페이트",
+   "korean": "「그보다 ⟦1⟧디온⟦2⟧이 걱정돼.\n⟦3⟧디온⟦4⟧은 어디 있어요?"
+  },
+  {
+   "key": "b4c3a41a7e6c",
+   "speaker_korean": "넬",
+   "korean": "「생산실 맞은편에 있는\n자기 방이야."
+  },
+  {
+   "key": "c590a96e065e",
+   "speaker_korean": "넬",
+   "korean": "「아…… 정신이 들었구나."
+  },
+  {
+   "key": "f09e391ce769",
+   "speaker_korean": "페이트",
+   "korean": "「아니야?"
+  },
+  {
+   "key": "a1bf87aa068e",
+   "speaker_korean": "페이트",
+   "korean": "「난 도대체 뭐냐고?\n왜 ⟦1⟧반데인⟦2⟧이\n나한테 이렇게 집착하는 거냐고!!"
+  },
+  {
+   "key": "2f82eaf19c03",
+   "speaker_korean": "넬",
+   "korean": "「대체 무슨 소린지 모르겠지만,\n그놈들, ⟦1⟧반데인⟦2⟧이라고 하는 거야?\n그 ⟦3⟧반데인⟦4⟧이 뭐 하는 놈들인지,\n알고 있으면 좀 가르쳐 줬으면 하는데."
+  },
+  {
+   "key": "4aaff290f530",
+   "speaker_korean": "남성 병사",
+   "korean": "「큰일입니다!\n아까 병기가 하늘에 또 나타났습니다!"
+  },
+  {
+   "key": "506c01fe636a",
+   "speaker_korean": "넬",
+   "korean": "「뭐라고!?"
+  },
+  {
+   "key": "83f419db5beb",
+   "speaker_korean": "시하토 27세",
+   "korean": "「그것보다, 그대는 저것이 무엇인지\n알고 있는 것이 아니오?"
+  },
+  {
+   "key": "0818a6d279e1",
+   "speaker_korean": "시하토 27세",
+   "korean": "「역시 저것은\n⟦1⟧구리텐⟦2⟧의 병기인 것이오?"
+  },
+  {
+   "key": "49a0e372bb30",
+   "speaker_korean": "페이트",
+   "korean": "「그건… 아닙니다."
+  },
+  {
+   "key": "2bda1c3b1025",
+   "speaker_korean": "넬",
+   "korean": "「그럼 대체 뭐라는 거야!\n⟦1⟧반데인⟦2⟧이 대체 뭔데!?"
+  },
+  {
+   "key": "d6635e80d1b9",
+   "speaker_korean": "페이트",
+   "korean": "(⟦1⟧반데인⟦2⟧이 노리는 건 바로 나…\n내가 붙잡히면, 모든 게……"
+  },
+  {
+   "key": "9932bc5a0e81",
+   "speaker_korean": "페이트",
+   "korean": "「내 탓이야… 내가 오지 않았더라면!!"
+  },
+  {
+   "key": "c47ca18e3d1b",
+   "speaker_korean": "클리프",
+   "korean": "「아니야… 그게 아니야."
+  },
+  {
+   "key": "18a25d6648e9",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧반데인⟦2⟧은 날 잡으러 온 거잖아?\n그럼 맞는 거 아니냐고!!"
+  },
+  {
+   "key": "988108dd2a42",
+   "speaker_korean": "페이트",
+   "korean": "「너, 뭔가 알고 있는 거지?"
+  },
+  {
+   "key": "f689b2a4259a",
+   "speaker_korean": "클리프",
+   "korean": "「그놈들, ⟦1⟧반데인⟦2⟧은―――"
+  },
+  {
+   "key": "0e419ad05e83",
+   "speaker_korean": "클리프",
+   "korean": "「젠장!!"
+  },
+  {
+   "key": "389203b3ecdd",
+   "speaker_korean": "시하토 27세",
+   "korean": "「저것도 ⟦1⟧아페리스의 화살⟦2⟧인 것입니까?"
+  },
+  {
+   "key": "67781ae64f85",
+   "speaker_korean": "넬",
+   "korean": "「폐하, 아직 이런 곳에 계시다니요!?\n어서 안전한 곳으로 피하십시오!!"
+  },
+  {
+   "key": "1165ee6d3289",
+   "speaker_korean": "페이트",
+   "korean": "「말씀드리겠습니다, 폐하.\n⟦1⟧반데인⟦2⟧은―――"
+  },
+  {
+   "key": "18bfd80b7a77",
+   "speaker_korean": "시하토 27세",
+   "korean": "「이제 어디 숨어도 소용없을 것이오.\n어디에 안전한 곳이 있다는 것이오?"
+  },
+  {
+   "key": "db753222440a",
+   "speaker_korean": "클리프",
+   "korean": "「그렇군. 이제 너희들도\n남 일이 아니게 됐으니 말이야."
+  },
+  {
+   "key": "ada6c8c48b9a",
+   "speaker_korean": "클리프",
+   "korean": "「이봐, 잠깐 이리 와 봐!!"
+  }
+ ]
+}

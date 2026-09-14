@@ -1,0 +1,205 @@
+{
+ "batch_id": "batch_0185",
+ "translations": [
+  {
+   "key": "dd9c21fd357b",
+   "speaker_korean": "래디시 함장",
+   "korean": "「…알겠습니다."
+  },
+  {
+   "key": "01e9a81b6377",
+   "speaker_korean": "래디시 함장",
+   "korean": "「⟦1⟧아르디온⟦2⟧의 ⟦3⟧전투함⟦4⟧은\n어떻게 되어 있나?"
+  },
+  {
+   "key": "a1b2c4f4dd13",
+   "speaker_korean": "남성 오퍼레이터",
+   "korean": "「⟦1⟧제17우주기지⟦2⟧ 격파 후,\n본함처럼 ⟦3⟧행성 아라크⟦4⟧로 진공 중입니다.\n따라잡히는 건 시간문제로 보입니다."
+  },
+  {
+   "key": "70859a658d6c",
+   "speaker_korean": "래디시 함장",
+   "korean": "「그런가…\n사령부에 연락을."
+  },
+  {
+   "key": "0e87a04c8480",
+   "speaker_korean": "남성 오퍼레이터",
+   "korean": "「알겠습니다…\n스크린, 띄우겠습니다."
+  },
+  {
+   "key": "5fe101caacc5",
+   "speaker_korean": "사령관",
+   "korean": "『무슨 일인가,\n⟦1⟧래디시⟦2⟧?"
+  },
+  {
+   "key": "405527c3a974",
+   "speaker_korean": "래디시 함장",
+   "korean": "「목적지 변경을 요청합니다.\n현재 본함은 민간인을 태우고 ⟦1⟧행성 아라크⟦2⟧로\n항행 중입니다만, 지금 상황으로 볼 때\n⟦3⟧아라크⟦4⟧로 향하는 건 상책이 아닌 것 같습니다."
+  },
+  {
+   "key": "a2d3e1468a83",
+   "speaker_korean": "사령관",
+   "korean": "『그 요청은 지금 당장은 허가할 수 없다.\n이쪽에서 검토한 결과, 통보하겠다.\n지금은 ⟦1⟧아라크⟦2⟧로 향해 주게."
+  },
+  {
+   "key": "825d67e249ec",
+   "speaker_korean": "마리아",
+   "korean": "「엄마! 엄마―――!!"
+  },
+  {
+   "key": "5577bcc71a5a",
+   "speaker_korean": "함내 방송",
+   "korean": "『⟦1⟧워프 엔진 코어⟦2⟧ 붕괴까지,\n앞으로 10초입니다."
+  },
+  {
+   "key": "3b8978d7c58f",
+   "speaker_korean": "제시",
+   "korean": "「이제 다시 못 만날지도 모르니까\n해두고 싶은 말이 있어."
+  },
+  {
+   "key": "1a05a2b943d7",
+   "speaker_korean": "제시",
+   "korean": "「사랑해,\n사랑하는 아가."
+  },
+  {
+   "key": "fc37609642af",
+   "speaker_korean": "마리아",
+   "korean": "「그렇지 않아!\n그런 말 하지 마!\n엄마도 얼른 ⟦1⟧포드⟦2⟧에 타!"
+  },
+  {
+   "key": "c8031a9ea936",
+   "speaker_korean": "함내 방송",
+   "korean": "『⟦1⟧워프 엔진 코어⟦2⟧ 붕괴까지,\n앞으로 1분입니다."
+  },
+  {
+   "key": "ba8d151853dc",
+   "speaker_korean": "제시",
+   "korean": "「아니, 지금 말하지 않으면 평생 후회할 거야…\n그러니까 지금 말할게."
+  },
+  {
+   "key": "4a2e24253fc6",
+   "speaker_korean": "제시",
+   "korean": "「…우리는 너의\n진짜 부모가 아니야."
+  },
+  {
+   "key": "1740f2478917",
+   "speaker_korean": "마리아",
+   "korean": "「어…뭐야,\n엄마…그게 무슨 말이야?"
+  },
+  {
+   "key": "9589a7127877",
+   "speaker_korean": "제시",
+   "korean": "「우리는 너를 사랑해.\n그건 친자식과 다름없어…\n아니, 그 이상으로 사랑을 쏟아왔다고 생각해.\n하지만, 너의 진짜 부모는\n다른 곳에 있단다."
+  },
+  {
+   "key": "6c7d86d075c9",
+   "speaker_korean": "마리아",
+   "korean": "「모르겠어, 엄마.\n대체 무슨―――."
+  },
+  {
+   "key": "4280907d50f0",
+   "speaker_korean": "제시",
+   "korean": "「지금은 몰라도 괜찮아.\n언젠가 때가 되면 너도 진실을 알게 될 거야."
+  },
+  {
+   "key": "55a92ac68157",
+   "speaker_korean": "함내 방송",
+   "korean": "『⟦1⟧워프 엔진 코어⟦2⟧ 붕괴까지,\n앞으로 30초입니다."
+  },
+  {
+   "key": "305d295c0a5e",
+   "speaker_korean": "제시",
+   "korean": "「너는 소중한 아이야.\n결코 포기하지 마. 끝까지 살아남아.\n너에겐 그럴 힘이 있으니까."
+  },
+  {
+   "key": "5134525ec1f2",
+   "speaker_korean": "함내 방송",
+   "korean": "『⟦1⟧워프 엔진 코어⟦2⟧ 붕괴까지,\n앞으로 15초입니다."
+  },
+  {
+   "key": "febf55aca4fb",
+   "speaker_korean": "함내 방송",
+   "korean": "『⟦1⟧워프 엔진 코어⟦2⟧ 붕괴까지,\n앞으로 5, 4, 3, 2, 1, 0…."
+  },
+  {
+   "key": "627b7eafbcaf",
+   "speaker_korean": "제시",
+   "korean": "「살아야 해…."
+  },
+  {
+   "key": "84bf351c782e",
+   "speaker_korean": null,
+   "korean": "소형 셔틀 칼나스"
+  },
+  {
+   "key": "3eef5c3ae5e3",
+   "speaker_korean": "마리아",
+   "korean": "「⟦1⟧아쿠아에리⟦2⟧의 반응이\n사라졌어."
+  },
+  {
+   "key": "96d7b98fb8cf",
+   "speaker_korean": "클리프",
+   "korean": "「우리한텐 슬퍼하기 전에 할 일이 있잖냐!?\n⟦1⟧타임게이트⟦2⟧에서 1은 I지점에 착륙한다.\n가자!"
+  },
+  {
+   "key": "6737081170be",
+   "speaker_korean": "MEMORY CARD 삽입구⟦문자열#1c⟧의",
+   "korean": "″PlayStation 2″ 전용 메모리 카드(8MB)를\n체크하고 있습니다.\n⟦1⟧″PlayStation 2″ 전용 메모리 카드(8MB)를\n빼거나 꽂지 말아 주십시오."
+  },
+  {
+   "key": "4920293d3eeb",
+   "speaker_korean": null,
+   "korean": "⟦1⟧MEMORY CARD 삽입구⟦2⟧에 꽂혀 있는\n″PlayStation 2″ 전용 메모리 카드(8MB)에\nStar Ocean Till the End of Time D.C.의\n게임 데이터가 없었습니다."
+  },
+  {
+   "key": "a9265318cb5d",
+   "speaker_korean": "MEMORY CARD 삽입구⟦문자열#1c⟧의",
+   "korean": "″PlayStation 2″ 전용 메모리 카드(8MB)에 있는\nStar Ocean Till the End of Time D.C.의\n게임 데이터에 클리어 정보를 세이브합니다.⟦1⟧\n괜찮겠습니까?"
+  },
+  {
+   "key": "6c4388e09183",
+   "speaker_korean": "Star Ocean Till the End of Time D.C.의",
+   "korean": "게임 데이터에 클리어 정보를 세이브하고 있습니다.⟦1⟧\nMEMORY CARD 삽입구⟦2⟧에서\n″PlayStation 2″ 전용 메모리 카드(8MB)를\n빼거나 꽂지 말아 주십시오."
+  },
+  {
+   "key": "f65f6f5befde",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구⟦1⟧의\n″PlayStation 2″ 전용 메모리 카드(8MB)에 있는\nStar Ocean Till the End of Time D.C.의\n게임 데이터에 클리어 정보를 정상적으로\n세이브할 수 있었습니다."
+  },
+  {
+   "key": "2bd1a59053d4",
+   "speaker_korean": null,
+   "korean": "⟦1⟧MEMORY CARD 삽입구⟦2⟧의\n″PlayStation 2″ 전용 메모리 카드(8MB)에\nStar Ocean Till the End of Time D.C.의\n클리어 정보 세이브에 실패했습니다."
+  },
+  {
+   "key": "ef40d5190340",
+   "speaker_korean": "이대로 종료하면 클리어 정보가",
+   "korean": "Star Ocean Till the End of Time D.C.의\n게임 데이터에 세이브되지 않게 됩니다.⟦1⟧\n괜찮겠습니까?"
+  },
+  {
+   "key": "9d55d743e75d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧MEMORY CARD 삽입구⟦2⟧의\n″PlayStation 2″ 전용 메모리 카드(8MB)\n체크에 실패했습니다."
+  },
+  {
+   "key": "e6248ebb2b98",
+   "speaker_korean": null,
+   "korean": "⟦1⟧MEMORY CARD 삽입구⟦2⟧의\n″PlayStation 2″ 전용 메모리 카드(8MB)에는\nStar Ocean Till the End of Time D.C.의\n게임 데이터가 없습니다."
+  },
+  {
+   "key": "9d99b69e4ebb",
+   "speaker_korean": "Star Ocean Till the End of Time D.C.의",
+   "korean": "게임 데이터로의 클리어 정보 세이브를\n할 수 없었습니다.\n⟦1⟧마지막으로 세이브 또는 로드를 한\nStar Ocean Till the End of Time D.C.의\n게임 데이터에 클리어 정보를 세이브합니다.\nMEMORY CARD 삽입구를 선택해 주십시오.\n(로 캔슬됩니다.)"
+  },
+  {
+   "key": "cc1c7b62979a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧MEMORY CARD 삽입구⟦2⟧의\n″PlayStation 2″ 전용 메모리 카드(8MB)에는\n마지막으로 세이브 또는 로드한\nStar Ocean Till the End of Time D.C.의\n게임 데이터가 없습니다."
+  },
+  {
+   "key": "cfef8cd3dac1",
+   "speaker_korean": null,
+   "korean": "⟦1⟧MEMORY CARD 삽입구⟦2⟧의\n″PlayStation 2″ 전용 메모리 카드(8MB)는\n포맷되어 있지 않습니다.\n클리어 정보를 세이브할 수 없습니다."
+  }
+ ]
+}

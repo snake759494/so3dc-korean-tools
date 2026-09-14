@@ -1,0 +1,235 @@
+{
+ "batch_id": "batch_0160",
+ "translations": [
+  {
+   "key": "2cdaed2c70ec",
+   "speaker_korean": null,
+   "korean": "전송실"
+  },
+  {
+   "key": "a65c27c930c3",
+   "speaker_korean": null,
+   "korean": "지금 이 ⟦1⟧트랜스포터⟦2⟧는\n사용할 수 없게 되어 있다.\n⟦P⟧"
+  },
+  {
+   "key": "07911e9ed3de",
+   "speaker_korean": "남성 병사",
+   "korean": "⟦1⟧「여러분에게 배정된 방은\n506호실입니다.\n착오 없으시기 바랍니다.\n⟦P⟧"
+  },
+  {
+   "key": "261121613843",
+   "speaker_korean": "남성 병사",
+   "korean": "⟦1⟧「당신에게 배정된 방은\n506호실입니다.\n착오 없으시기 바랍니다.\n⟦P⟧"
+  },
+  {
+   "key": "431cc0e5e24b",
+   "speaker_korean": "남성 병사",
+   "korean": "⟦1⟧「이 ⟦2⟧트랜스포터⟦3⟧에서\n⟦4⟧수송선⟦5⟧으로 전송합니다.\n탑승해 주십시오.\n⟦P⟧"
+  },
+  {
+   "key": "c7a66096bf4b",
+   "speaker_korean": "남성 병사",
+   "korean": "「여기는 ⟦1⟧하이다 4호성⟦2⟧ 지하에 있는\n⟦3⟧긴급 대피용 쉘터⟦4⟧입니다.\n구조함이 도착할 때까지\n각자 배정된 방에서\n기다려 주십시오.\n시설 내 이동은 원칙적으로 자유이나,\n일부 출입이 불가능한 곳도 있습니다.\n그 밖에 자세한 주의사항 등은\n비치된 콘솔,\n그리고 담당자의 안내에 따라 주십시오."
+  },
+  {
+   "key": "e321c1ce70b2",
+   "speaker_korean": "페이트",
+   "korean": "「…갈까?\n여기 있어 봤자 별수 없으니까."
+  },
+  {
+   "key": "9ac781d447f7",
+   "speaker_korean": "소피아",
+   "korean": "「으, 응."
+  },
+  {
+   "key": "b308d13e5206",
+   "speaker_korean": "소피아",
+   "korean": "「아저씨들은 분명 무사할 거야.\n괜찮을 거니까… 응."
+  },
+  {
+   "key": "89e313cd6ef7",
+   "speaker_korean": "페이트",
+   "korean": "「…아, 알고 있어.\n가자."
+  },
+  {
+   "key": "f7341d44796f",
+   "speaker_korean": "남성 병사",
+   "korean": "「아, 잠시 기다려 주십시오."
+  },
+  {
+   "key": "93094f041219",
+   "speaker_korean": "남성 병사",
+   "korean": "「여러분에게 배정된 방은\n『506』으로 되어 있습니다.\n착오 없으시기 바랍니다."
+  },
+  {
+   "key": "d68b664753a5",
+   "speaker_korean": "페이트",
+   "korean": "「알겠습니다.\n『506』이군요."
+  },
+  {
+   "key": "c2f18410f676",
+   "speaker_korean": "스프레",
+   "korean": "「그럼, 우리는 갈게."
+  },
+  {
+   "key": "1cc93342305f",
+   "speaker_korean": "스프레",
+   "korean": "「기운…내야 해!"
+  },
+  {
+   "key": "aa95e2dca55e",
+   "speaker_korean": "남성 병사",
+   "korean": "「괜찮습니다, 곧 구조대가 올 겁니다.\n안심하고 기다려 주십시오."
+  },
+  {
+   "key": "48203b073425",
+   "speaker_korean": "소피아",
+   "korean": "「예."
+  },
+  {
+   "key": "37611962d3ac",
+   "speaker_korean": "남성 병사",
+   "korean": "「어서 오세요, 이루하 제5쉘터입니다."
+  },
+  {
+   "key": "44ff3a435e3b",
+   "speaker_korean": "스프레",
+   "korean": "「자, 그럼…."
+  },
+  {
+   "key": "01f7907a8c9a",
+   "speaker_korean": "여성 병사",
+   "korean": "⟦1⟧「여러분에게 배정된 방은\n506호실이에요.\n착오 없으시길 바라요.\n⟦P⟧"
+  },
+  {
+   "key": "656ca8dd6132",
+   "speaker_korean": "여성 병사",
+   "korean": "⟦1⟧「당신에게 배정된 방은\n506호실입니다.\n착오 없으시길 바라요.\n⟦P⟧"
+  },
+  {
+   "key": "c1a15e5f5973",
+   "speaker_korean": "여성 병사",
+   "korean": "⟦1⟧「이 방의 ⟦2⟧트랜스포터⟦3⟧에서\n⟦4⟧수송선⟦5⟧으로 직접 전송합니다.\n⟦P⟧"
+  },
+  {
+   "key": "dd3d6bfee6dd",
+   "speaker_korean": "페이트",
+   "korean": "「알았다."
+  },
+  {
+   "key": "6bbc47c3b04f",
+   "speaker_korean": "COM",
+   "korean": "『구조 신호 설정을 완료했습니다."
+  },
+  {
+   "key": "501eb4cb69db",
+   "speaker_korean": "COM",
+   "korean": "『또한 휴머노이드가 서식 가능한\n행성 검색도 완료했습니다."
+  },
+  {
+   "key": "78a53d8246da",
+   "speaker_korean": "페이트",
+   "korean": "「어디지?"
+  },
+  {
+   "key": "15d885ae51b7",
+   "speaker_korean": "COM",
+   "korean": "『여기서 약 0.5광년 떨어진\n있는 ⟦1⟧뱅가드 3호성⟦2⟧입니다.\n⟦P⟧지축 기울기는 35도입니다.\n이 때문에, 계절 변화에 따른\n기온 차가 심한 행성입니다.\n⟦P⟧휴머노이드형 생명체의\n존재도 확인되었습니다.\n⟦P⟧연방 구분으로는 ⟦3⟧미개행성⟦4⟧에 해당하며,\n확인된 문명 수준은\n⟦5⟧지구⟦6⟧ 16세기 정도로 되어 있습니다."
+  },
+  {
+   "key": "92431fea1ce3",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・확인해 둘까…⟦2⟧"
+  },
+  {
+   "key": "2946a33fd6f2",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・아니, 됐어⟦2⟧"
+  },
+  {
+   "key": "5d7cf8b44c06",
+   "speaker_korean": "COM",
+   "korean": "『⟦1⟧미개행성 보호조약⟦2⟧은 아직 문명이\n발달하지 않은 행성을 보호하기 위해\n만들어진 조약입니다.\n일정 수준 이상에 도달하지 못한 문명에\n대한 접촉을 연방법으로 엄격히\n제한하고 있습니다.\n이는 고레벨 문명의 접촉이,\n그 별의 역사 그 자체에,\n크게 간섭할 가능성이\n높기 때문이며,\n⟦3⟧은하연방⟦4⟧에 소속된 인물 및 세력은,\n그 누구라 하더라도,\n명백한 생명의 위기에 처한 경우를 제외하고,\n이 조약을 준수할 의무가 있습니다.\n이 조약은 ⟦5⟧은하연방⟦6⟧ 내에서\n가장 중요한 규정 중 하나이며,\n긴급 시 일반인의 행동 지침이\n되기도 합니다.\n위반자는 누구든, 연방 평의회의\n재판을 받게 됩니다."
+  },
+  {
+   "key": "c85fa553bc04",
+   "speaker_korean": "페이트",
+   "korean": "「아니, 됐어. 이미 알고 있으니까."
+  },
+  {
+   "key": "fffac1521cbe",
+   "speaker_korean": "COM",
+   "korean": "『알겠습니다."
+  },
+  {
+   "key": "1c8e7d434fed",
+   "speaker_korean": "페이트",
+   "korean": "「그런데, 얼마나 있으면 도착하지?"
+  },
+  {
+   "key": "71f6070b841f",
+   "speaker_korean": "COM",
+   "korean": "『현재 속도, 즉 ⟦1⟧워프6⟦2⟧으로 이동할 경우,\n144시간 후 도착할 것으로 추정됩니다."
+  },
+  {
+   "key": "5c85db70e3a2",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧뱅가드 3호성⟦2⟧으로 향하는 데 있어서\n무슨 문제는 없나? 에너지 잔량은?"
+  },
+  {
+   "key": "98e2aaa9db6d",
+   "speaker_korean": "COM",
+   "korean": "『문제없습니다.\n에너지 및 승무원의 식량에 관해서도\n충분한 양이 탑재되어 있습니다."
+  },
+  {
+   "key": "307273bc290a",
+   "speaker_korean": "페이트",
+   "korean": "「알았다. 잠깐 쉬겠다.\n무슨 일 있으면 알려줘."
+  },
+  {
+   "key": "e9a91e080825",
+   "speaker_korean": "COM",
+   "korean": "『잘 알겠습니다."
+  },
+  {
+   "key": "b796c2fda77f",
+   "speaker_korean": "COM",
+   "korean": "『⟦1⟧뱅가드 3호성⟦2⟧ 중력권에 진입합니다.\n승무원은 충격에 대비해 주십시오."
+  },
+  {
+   "key": "8ebc07705fee",
+   "speaker_korean": "COM",
+   "korean": "『⟦1⟧미개행성 보호조약⟦2⟧을 확인하시겠습니까?"
+  },
+  {
+   "key": "2515acdc59de",
+   "speaker_korean": "COM",
+   "korean": "『기동 완료…\n10초 후 이함합니다."
+  },
+  {
+   "key": "2a96091c2487",
+   "speaker_korean": "마리아",
+   "korean": "「엄마…아빠….\n다른 사람들은 어떻게 됐을까?\n아직 ⟦1⟧아라쿠⟦2⟧에 도착하지 못한 걸까…."
+  },
+  {
+   "key": "d416c24c15bd",
+   "speaker_korean": null,
+   "korean": "10일후――――"
+  },
+  {
+   "key": "2afcf7a26535",
+   "speaker_korean": "COM",
+   "korean": "『⟦1⟧포드⟦2⟧에 국적 불명의\n함선이 접근하고 있습니다."
+  },
+  {
+   "key": "84bd36175b17",
+   "speaker_korean": "마리아",
+   "korean": "「엇…\n어디…배야?"
+  },
+  {
+   "key": "8dbde1cb60c7",
+   "speaker_korean": "COM",
+   "korean": "『확인 불가.\n식별 신호는 확인되지 않고 있습니다."
+  }
+ ]
+}

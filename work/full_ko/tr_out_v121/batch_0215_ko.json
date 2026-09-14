@@ -1,0 +1,225 @@
+{
+ "batch_id": "batch_0215",
+ "translations": [
+  {
+   "key": "9d3676a954e6",
+   "speaker_korean": "페이트",
+   "korean": "「이쪽에서는\n열리지 않는 모양이군."
+  },
+  {
+   "key": "9004c8c967e9",
+   "speaker_korean": null,
+   "korean": "⟦1⟧트래핑 카드 4⟦2⟧ 획득!"
+  },
+  {
+   "key": "14fc23254752",
+   "speaker_korean": "???",
+   "korean": "「호오!\n이곳까지 올 수 있는 자가 나타나다니\n생각지도 못했느니라."
+  },
+  {
+   "key": "c696be354097",
+   "speaker_korean": "???",
+   "korean": "「나는 수백 년간 이곳에서\n유적의 수호를 맡고 있는 자로,\n⟦1⟧마타린 백작⟦2⟧이라 하느니라."
+  },
+  {
+   "key": "375e98e2b856",
+   "speaker_korean": "페이트",
+   "korean": "「에!?\n수, 수백 년…?"
+  },
+  {
+   "key": "fde696558905",
+   "speaker_korean": "마타린 백작",
+   "korean": "「흥!\n네놈의 속셈 따위 훤히 보인다.\n내가 수백 살 치고는 젊다고\n생각하고 있겠지!"
+  },
+  {
+   "key": "981caeedf244",
+   "speaker_korean": "페이트",
+   "korean": "「에, 아니, 그게…"
+  },
+  {
+   "key": "24779b4000d4",
+   "speaker_korean": "마타린 백작",
+   "korean": "「후후, 말하지 않아도 안다.\n뭐니뭐니해도 나는 특별한 존재니라!\n사람 마음 읽는 것쯤 일도 아니지!"
+  },
+  {
+   "key": "a3608793a597",
+   "speaker_korean": "마타린 백작",
+   "korean": "「나는 말이다, 유령이니라!\n⟦P⟧어떠냐?\n놀랐지 않느냐!!\n깜짝 놀랐으렷다!!"
+  },
+  {
+   "key": "55d4d3e08577",
+   "speaker_korean": "페이트",
+   "korean": "「…허풍이 심하네…"
+  },
+  {
+   "key": "9b1f64276aba",
+   "speaker_korean": "마타린 백작",
+   "korean": "「뭐라고?"
+  },
+  {
+   "key": "119ae5adfd93",
+   "speaker_korean": "페이트",
+   "korean": "「아, 아뇨,\n아무것도 아니에요."
+  },
+  {
+   "key": "2938a6a1e818",
+   "speaker_korean": "마타린 백작",
+   "korean": "「뭔가 걸리는 게 있다만…,\n뭐 됐다."
+  },
+  {
+   "key": "f23301316ed1",
+   "speaker_korean": "페이트",
+   "korean": "「그런데,\n이 방은 대체…?"
+  },
+  {
+   "key": "4b195ea86d18",
+   "speaker_korean": "마타린 백작",
+   "korean": "「용케 알아챘구나,\n칭찬해 주마!"
+  },
+  {
+   "key": "70b9492f9437",
+   "speaker_korean": "마타린 백작",
+   "korean": "「네놈은 이 유적의 입구에서\n조각상 몇 개가 있던 것을 알아챘느냐?"
+  },
+  {
+   "key": "ccbd4685f6b1",
+   "speaker_korean": "페이트",
+   "korean": "「아, 네.\n뭔가 문을 여는 장치로도\n되어 있던 것 같더군요."
+  },
+  {
+   "key": "9d27d1641c2e",
+   "speaker_korean": "마타린 백작",
+   "korean": "「단도직입적으로 말하자면 이곳은\n그 조각상을 말 삼아, 뒤의 판을 써서\n게임을 하는 방이니라!"
+  },
+  {
+   "key": "06884ab827bf",
+   "speaker_korean": "마타린 백작",
+   "korean": "「오오, 또 왔구나.\n도전 정신 아주 좋다!\n헛된 노력도 아주 좋고!"
+  },
+  {
+   "key": "996bcb54d2ea",
+   "speaker_korean": "마타린 백작",
+   "korean": "「그럼, 좀 더 자세한 설명을\n듣고 싶으냐?"
+  },
+  {
+   "key": "79840b895cde",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・설명 듣지 않기"
+  },
+  {
+   "key": "c3910e3abda7",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・설명 듣기"
+  },
+  {
+   "key": "d7b92f872e6a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・더 듣고 싶지 않음"
+  },
+  {
+   "key": "de38fea69a1d",
+   "speaker_korean": "마타린 백작",
+   "korean": "「뭐라고!?\n그만두겠다는 게냐!?\n이거 참…,\n요즘 젊은것들은\n근성이 없구나…"
+  },
+  {
+   "key": "8b8e90ee8b45",
+   "speaker_korean": "페이트",
+   "korean": "(근성의 문제인가…?"
+  },
+  {
+   "key": "d1f630eb74c1",
+   "speaker_korean": "마타린 백작",
+   "korean": "「그럼 설명해 주겠노라."
+  },
+  {
+   "key": "4037fe9fc120",
+   "speaker_korean": "마타린 백작",
+   "korean": "「말의 종류는 전부 3종류다.\n아군은 백, 적은 흑으로 구분된다.\n⟦P⟧진행은 기본적으로 턴제니라.\n아군부터 시작해, 아군 전원이\n행동을 마치면 적의 턴이 된다.\n⟦P⟧각 말에는 속도가 있어,\n빠른 것부터 움직일 수 있다."
+  },
+  {
+   "key": "21bc413fc713",
+   "speaker_korean": "마타린 백작",
+   "korean": "「먼저 적이 말을 배치하는데,\n그것을 보고 아군의 말을 배치한다.\n빨간 테두리가 아군의 배치 범위,\n파란 테두리가 적의 배치 범위니라.\n여기가 중요한데, 게임이 시작되면\n말 조작은 불가, 전부 자동 진행.\n즉, 최초의 말 배치로 승패가\n정해진다고 봐도 좋다.\n말의 행동 속도, 배치, 이동·공격의\n판단까지 고려해서 배치할 필요가 있다.\n당연히 예측 불가능한 요소는 없고,\n유일한 무작위 요소는 적 배치 장소뿐.\n적이 배치하는 말의 종류에 관해서는\n난이도에 따라 달라진다.\n이것도 예측 불가능하지는 않다.\n뭐 여기서는 난이도를 고르고 하는\n번거로운 일은 하지 않는다."
+  },
+  {
+   "key": "6f755ec3cd1b",
+   "speaker_korean": "마타린 백작",
+   "korean": "「3종류 중에서는,\n⟦P⟧도적이 가장 빠르게\n움직일 수 있다.\n⟦P⟧다음으로 문장사가 빠르고,\n⟦P⟧그리고 전사가 가장 느리다."
+  },
+  {
+   "key": "886fb8aef1f3",
+   "speaker_korean": "마타린 백작",
+   "korean": "「뭐, 나머지는 경험으로 배우는 게지.\n여기서는 졌다고 해서 딱히\n페널티가 있는 것도 아니니라."
+  },
+  {
+   "key": "6c1e811ae4ad",
+   "speaker_korean": "마타린 백작",
+   "korean": "「그럼, 게임 시작이니라!!"
+  },
+  {
+   "key": "5cd0b5637908",
+   "speaker_korean": "마타린 백작",
+   "korean": "「그럼, 게임을 시작해도\n괜찮겠느냐?"
+  },
+  {
+   "key": "42ae70b15d61",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・게임을 시작한다"
+  },
+  {
+   "key": "41074a88052c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・일단 후퇴한다"
+  },
+  {
+   "key": "5f43eec5a501",
+   "speaker_korean": "마타린 백작",
+   "korean": "「호호오!!\n이 게임에서 승리하다니…,\n제법이구나!\n그럼 상을 주마.\n지나가도 좋다!"
+  },
+  {
+   "key": "c12c8f515d9b",
+   "speaker_korean": "페이트",
+   "korean": "「에…,\n지나가라니 어딜요?"
+  },
+  {
+   "key": "04ac12d33811",
+   "speaker_korean": "페이트",
+   "korean": "「어라?\n사라졌다…"
+  },
+  {
+   "key": "a6dfd77d26a7",
+   "speaker_korean": "마타린 백작",
+   "korean": "「그대는 제법 가능성이 있구나.\n그대라면 『그곳』도\n찾아낼 수…\n있을지도 모르고,\n찾아내지 못할지도 모르지."
+  },
+  {
+   "key": "727218bd926b",
+   "speaker_korean": "페이트",
+   "korean": "「『그곳』이 뭔가요?\n제가 찾아내지 못한다는 건\n무슨 뜻이에요!?"
+  },
+  {
+   "key": "f0ce9c0ed0cf",
+   "speaker_korean": "마타린 백작",
+   "korean": "「나한테 물어봐도 모르지~"
+  },
+  {
+   "key": "d03506980ab6",
+   "speaker_korean": "페이트",
+   "korean": "「자, 잠깐…!"
+  },
+  {
+   "key": "7fbaf1fd8e8c",
+   "speaker_korean": "페이트",
+   "korean": "「…앞으로 나아갈 수밖에 없나."
+  },
+  {
+   "key": "c6e0023d819c",
+   "speaker_korean": null,
+   "korean": "사7서루\n삼종7병7집m장7\n주무＝옥좌P수°좌L"
+  },
+  {
+   "key": "e6e4641760ee",
+   "speaker_korean": null,
+   "korean": "⟦1⟧스트레 시드⟦2⟧ 획득!"
+  }
+ ]
+}

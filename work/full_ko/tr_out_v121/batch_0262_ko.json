@@ -1,0 +1,565 @@
+{
+ "batch_id": "batch_0262",
+ "translations": [
+  {
+   "key": "a54e48a447d9",
+   "speaker_korean": null,
+   "korean": "배틀스킬「블러드 스큘러」 습득"
+  },
+  {
+   "key": "33a1b8dd2a30",
+   "speaker_korean": null,
+   "korean": "배틀스킬「서던크로스」 습득"
+  },
+  {
+   "key": "9cf9d776a8d6",
+   "speaker_korean": null,
+   "korean": "하찮은 놈들을 순살한다"
+  },
+  {
+   "key": "46aea67784e5",
+   "speaker_korean": null,
+   "korean": "적에게 HP 범위 데미지 아군도 주의"
+  },
+  {
+   "key": "908f6db99e3b",
+   "speaker_korean": null,
+   "korean": "적에게 HP 광범위 데미지 아군도 주의"
+  },
+  {
+   "key": "10933b9fd9ad",
+   "speaker_korean": null,
+   "korean": "적에게 HP 초광범위 데미지 아군도 주의"
+  },
+  {
+   "key": "7523dcbee003",
+   "speaker_korean": null,
+   "korean": "적에게 MP 범위 데미지 아군도 주의"
+  },
+  {
+   "key": "e2a079ac68ed",
+   "speaker_korean": null,
+   "korean": "적에게 MP 광범위 데미지 아군도 주의"
+  },
+  {
+   "key": "4c1cf83b1d42",
+   "speaker_korean": null,
+   "korean": "적에게 MP 초광범위 데미지 아군도 주의"
+  },
+  {
+   "key": "abf018dee558",
+   "speaker_korean": null,
+   "korean": "적에게 HP&MP 데미지 아군도 주의"
+  },
+  {
+   "key": "f83978f4805b",
+   "speaker_korean": null,
+   "korean": "적에게 HP&MP 데미지"
+  },
+  {
+   "key": "8e77e1a20468",
+   "speaker_korean": null,
+   "korean": "적에게 HP&MP 데미지 광범위"
+  },
+  {
+   "key": "3b29b6b5e81a",
+   "speaker_korean": null,
+   "korean": "적에게 HP&MP 데미지 초광범위"
+  },
+  {
+   "key": "963899083f33",
+   "speaker_korean": null,
+   "korean": "HP회복30% 전체"
+  },
+  {
+   "key": "699c23cd63b0",
+   "speaker_korean": null,
+   "korean": "HP회복60% 전체"
+  },
+  {
+   "key": "efd1cda3b11f",
+   "speaker_korean": null,
+   "korean": "HP회복90% 전체"
+  },
+  {
+   "key": "954799835c60",
+   "speaker_korean": null,
+   "korean": "적의 DEF를 30% 낮춘다"
+  },
+  {
+   "key": "e89f46f388cf",
+   "speaker_korean": null,
+   "korean": "적 전원의 DEF를 30% 낮춘다"
+  },
+  {
+   "key": "f7145340aac9",
+   "speaker_korean": null,
+   "korean": "배틀 스피어를 발사한다"
+  },
+  {
+   "key": "14e0eb477fec",
+   "speaker_korean": null,
+   "korean": "공격효과「독」"
+  },
+  {
+   "key": "14c8f9e32ebf",
+   "speaker_korean": null,
+   "korean": "공격 효과「마비」"
+  },
+  {
+   "key": "5d1f45764423",
+   "speaker_korean": null,
+   "korean": "공격 효과「석화」"
+  },
+  {
+   "key": "3774428c6f44",
+   "speaker_korean": null,
+   "korean": "공격 효과「혼란」"
+  },
+  {
+   "key": "72a0feb18c40",
+   "speaker_korean": null,
+   "korean": "공격 효과「동결」"
+  },
+  {
+   "key": "95e359eeccfc",
+   "speaker_korean": null,
+   "korean": "[없음]"
+  },
+  {
+   "key": "53e3c7d6efae",
+   "speaker_korean": null,
+   "korean": "공격 효과「침묵」"
+  },
+  {
+   "key": "90667ce6e388",
+   "speaker_korean": null,
+   "korean": "「혼란」100% 방지"
+  },
+  {
+   "key": "a28b7165ff7f",
+   "speaker_korean": null,
+   "korean": "「즉사」100% 방지"
+  },
+  {
+   "key": "de46f3df95a2",
+   "speaker_korean": null,
+   "korean": "HP MP회복30%"
+  },
+  {
+   "key": "3f1408a5738c",
+   "speaker_korean": null,
+   "korean": "HP MP회복50%"
+  },
+  {
+   "key": "6a071d7a6b57",
+   "speaker_korean": null,
+   "korean": "HP MP회복70%"
+  },
+  {
+   "key": "e4444fed672e",
+   "speaker_korean": null,
+   "korean": "HP MP회복90%"
+  },
+  {
+   "key": "c1d82e0a7b08",
+   "speaker_korean": null,
+   "korean": "HP MP회복100%"
+  },
+  {
+   "key": "3e759aaaebd9",
+   "speaker_korean": null,
+   "korean": "배틀스킬 HP 소비량-1"
+  },
+  {
+   "key": "23ab9d4d6466",
+   "speaker_korean": null,
+   "korean": "배틀스킬 HP 소비량-2"
+  },
+  {
+   "key": "3a42d5622025",
+   "speaker_korean": null,
+   "korean": "배틀스킬 HP 소비량-3"
+  },
+  {
+   "key": "02290eb3a961",
+   "speaker_korean": null,
+   "korean": "배틀스킬 HP 소비량-4"
+  },
+  {
+   "key": "8ba4527e9778",
+   "speaker_korean": null,
+   "korean": "배틀스킬 MP 소비량-1"
+  },
+  {
+   "key": "b4be1f5ddf80",
+   "speaker_korean": null,
+   "korean": "배틀스킬 MP 소비량-2"
+  },
+  {
+   "key": "bcd534eb7467",
+   "speaker_korean": null,
+   "korean": "배틀스킬 MP 소비량-3"
+  },
+  {
+   "key": "a7092154c98f",
+   "speaker_korean": null,
+   "korean": "배틀스킬 MP 소비량-4"
+  },
+  {
+   "key": "531e66e63964",
+   "speaker_korean": null,
+   "korean": "물속성 주문 데미지+30%"
+  },
+  {
+   "key": "b75cccc6d5a4",
+   "speaker_korean": null,
+   "korean": "물속성 주문 데미지+50%"
+  },
+  {
+   "key": "6acbf0c4db9d",
+   "speaker_korean": null,
+   "korean": "불속성 주문 데미지+30%"
+  },
+  {
+   "key": "323c5f76b7a3",
+   "speaker_korean": null,
+   "korean": "불속성 주문 데미지+50%"
+  },
+  {
+   "key": "e3e1633542bc",
+   "speaker_korean": null,
+   "korean": "땅속성 주문 데미지+30%"
+  },
+  {
+   "key": "f1be82834832",
+   "speaker_korean": null,
+   "korean": "땅속성 주문 데미지+50%"
+  },
+  {
+   "key": "6916807c40ff",
+   "speaker_korean": null,
+   "korean": "바람 속성 주문 데미지+30%"
+  },
+  {
+   "key": "e0dee83836cd",
+   "speaker_korean": null,
+   "korean": "바람 속성 주문 데미지+50%"
+  },
+  {
+   "key": "7c0c5773355c",
+   "speaker_korean": null,
+   "korean": "무적 상태가 되나 항상 기절해 있다"
+  },
+  {
+   "key": "573a73500e5c",
+   "speaker_korean": null,
+   "korean": "무적으로 기절하나 가끔 행동 가능해짐"
+  },
+  {
+   "key": "756297766129",
+   "speaker_korean": null,
+   "korean": "마술사계 특수 공격 30% 무효화"
+  },
+  {
+   "key": "2d39bcfbd49e",
+   "speaker_korean": null,
+   "korean": "마술사계 특수 공격 50% 무효화"
+  },
+  {
+   "key": "a44701cb2886",
+   "speaker_korean": null,
+   "korean": "주문 데미지 1/5 파의 확률 30%"
+  },
+  {
+   "key": "0fa5c6255241",
+   "speaker_korean": null,
+   "korean": "주문 데미지 1/10 파의 확률 30%"
+  },
+  {
+   "key": "ba4e772e30ff",
+   "speaker_korean": null,
+   "korean": "주문 데미지 1/10 파의 확률 15%"
+  },
+  {
+   "key": "ffcabed959fa",
+   "speaker_korean": null,
+   "korean": "주문 데미지만큼 HP 회복 파의 확률 30%"
+  },
+  {
+   "key": "d0e8254badd7",
+   "speaker_korean": null,
+   "korean": "주문 데미지만큼 HP 회복 파의 확률 20%"
+  },
+  {
+   "key": "10ac0534bd5b",
+   "speaker_korean": null,
+   "korean": "주문 데미지만큼 HP 회복 파의 확률 10%"
+  },
+  {
+   "key": "f64b6d517c31",
+   "speaker_korean": null,
+   "korean": "주문 데미지만큼 MP 회복 파의 확률 30%"
+  },
+  {
+   "key": "01e90b1a2d77",
+   "speaker_korean": null,
+   "korean": "주문 데미지만큼 MP 회복 파의 확률 20%"
+  },
+  {
+   "key": "00fee0d48143",
+   "speaker_korean": null,
+   "korean": "주문 데미지만큼 MP 회복 파의 확률 10%"
+  },
+  {
+   "key": "ae3b25441a80",
+   "speaker_korean": null,
+   "korean": "미니맵 탐지 범위가 넓어진다"
+  },
+  {
+   "key": "90c54600c416",
+   "speaker_korean": null,
+   "korean": "전투중 30초간 MP소비0 주문사용가능"
+  },
+  {
+   "key": "f93fef48a87b",
+   "speaker_korean": null,
+   "korean": "전투중 60초간 MP소비0 주문사용가능"
+  },
+  {
+   "key": "869ae4f1d486",
+   "speaker_korean": null,
+   "korean": "전투중 120초간 MP소비0 주문사용가능"
+  },
+  {
+   "key": "c0be4732f76b",
+   "speaker_korean": null,
+   "korean": "전투 중 공격 주문 데미지-30%"
+  },
+  {
+   "key": "185fa46c2aa6",
+   "speaker_korean": null,
+   "korean": "전투 중 공격 주문 데미지-50%"
+  },
+  {
+   "key": "48ad15e2b622",
+   "speaker_korean": null,
+   "korean": "전원에게 감정치 -1"
+  },
+  {
+   "key": "eb2f68b35b1f",
+   "speaker_korean": null,
+   "korean": "적 DEF×5 보상 있음"
+  },
+  {
+   "key": "32ff09994d6c",
+   "speaker_korean": null,
+   "korean": "적 DEF×10 보상 있음"
+  },
+  {
+   "key": "93a2f32a84ec",
+   "speaker_korean": null,
+   "korean": "적과 아군 HP데미지(광범위)"
+  },
+  {
+   "key": "16934361ebac",
+   "speaker_korean": null,
+   "korean": "적과 아군 HP데미지(초광범위)"
+  },
+  {
+   "key": "dd047aef8f77",
+   "speaker_korean": null,
+   "korean": "적과 아군 MP데미지(광범위)"
+  },
+  {
+   "key": "13f5b65f024e",
+   "speaker_korean": null,
+   "korean": "적과 아군 MP데미지(초광범위)"
+  },
+  {
+   "key": "762214c49c87",
+   "speaker_korean": null,
+   "korean": "마시면 왠지 불길하다"
+  },
+  {
+   "key": "bd5f0bfc7619",
+   "speaker_korean": null,
+   "korean": "마시는 건 위험할 것 같다"
+  },
+  {
+   "key": "5284abcd0799",
+   "speaker_korean": null,
+   "korean": "절대로 마시지 말자"
+  },
+  {
+   "key": "e6bfc3f90148",
+   "speaker_korean": null,
+   "korean": "마시면 기분이 나빠질 것 같다"
+  },
+  {
+   "key": "0c8cdd96c869",
+   "speaker_korean": null,
+   "korean": "마시면 치명적일 것 같다"
+  },
+  {
+   "key": "60c90fc0235d",
+   "speaker_korean": null,
+   "korean": "배틀스킬「메테오스오무」 습득"
+  },
+  {
+   "key": "69a30689a0c0",
+   "speaker_korean": null,
+   "korean": "미사용390"
+  },
+  {
+   "key": "5e6dda7172b6",
+   "speaker_korean": null,
+   "korean": "미사용391"
+  },
+  {
+   "key": "32887073c6d4",
+   "speaker_korean": null,
+   "korean": "미사용392"
+  },
+  {
+   "key": "462088bcaf3d",
+   "speaker_korean": null,
+   "korean": "미사용393"
+  },
+  {
+   "key": "323ffa0c7b08",
+   "speaker_korean": null,
+   "korean": "미사용394"
+  },
+  {
+   "key": "39f84392ec90",
+   "speaker_korean": null,
+   "korean": "미사용395"
+  },
+  {
+   "key": "f4cd5bead523",
+   "speaker_korean": null,
+   "korean": "미사용396"
+  },
+  {
+   "key": "72953108a1a1",
+   "speaker_korean": null,
+   "korean": "미사용397"
+  },
+  {
+   "key": "eda4f687ca54",
+   "speaker_korean": null,
+   "korean": "공격시 광탄 발사"
+  },
+  {
+   "key": "a30414262329",
+   "speaker_korean": null,
+   "korean": "공격시 화염탄 발사"
+  },
+  {
+   "key": "c9ca62f8acdb",
+   "speaker_korean": null,
+   "korean": "공격시 뇌탄 발사"
+  },
+  {
+   "key": "e2f29d5c4942",
+   "speaker_korean": null,
+   "korean": "공격시 빙탄 발사"
+  },
+  {
+   "key": "f18c5b9553b7",
+   "speaker_korean": null,
+   "korean": "방어 시 광탄 발사"
+  },
+  {
+   "key": "24e649aa2edb",
+   "speaker_korean": null,
+   "korean": "미사용441"
+  },
+  {
+   "key": "600533976a6d",
+   "speaker_korean": null,
+   "korean": "미사용442"
+  },
+  {
+   "key": "32641d225e5a",
+   "speaker_korean": null,
+   "korean": "미사용443"
+  },
+  {
+   "key": "25433b907338",
+   "speaker_korean": null,
+   "korean": "배틀스킬「디바인 웨폰」 습득"
+  },
+  {
+   "key": "29007ee1dac7",
+   "speaker_korean": null,
+   "korean": "배틀스킬「이세리얼 블래스트」 습득"
+  },
+  {
+   "key": "3048092848c3",
+   "speaker_korean": null,
+   "korean": "배틀스킬「매지컬 댄스」 습득"
+  },
+  {
+   "key": "df769fa21a1a",
+   "speaker_korean": null,
+   "korean": "배틀스킬「드림 콤보」 습득"
+  },
+  {
+   "key": "a5d6800f97cd",
+   "speaker_korean": null,
+   "korean": "배틀스킬「무한쌍파참」 습득"
+  },
+  {
+   "key": "3657ae80f4e6",
+   "speaker_korean": null,
+   "korean": "배틀스킬「무한공파참」 습득"
+  },
+  {
+   "key": "89bb36757583",
+   "speaker_korean": null,
+   "korean": "배틀스킬「인피니티 아츠」 습득"
+  },
+  {
+   "key": "eb612542bc60",
+   "speaker_korean": null,
+   "korean": "배틀스킬「맥스 익스텐션」 습득"
+  },
+  {
+   "key": "685481857227",
+   "speaker_korean": null,
+   "korean": "배틀스킬「버스트 에미션」 습득"
+  },
+  {
+   "key": "e30771aeb610",
+   "speaker_korean": null,
+   "korean": "배틀스킬「레디에이션 디바이스」 습득"
+  },
+  {
+   "key": "383f7d0849dd",
+   "speaker_korean": null,
+   "korean": "배틀스킬「트라이 퍼넬」 습득"
+  },
+  {
+   "key": "183d9948b8fd",
+   "speaker_korean": null,
+   "korean": "배틀스킬「스타폴」 습득"
+  },
+  {
+   "key": "3c05ef042c9f",
+   "speaker_korean": null,
+   "korean": "적에게 HP&MP 데미지(광범위)"
+  },
+  {
+   "key": "2b8e9a3a0116",
+   "speaker_korean": null,
+   "korean": "적에게 HP&MP 데미지(초광범위)"
+  },
+  {
+   "key": "2f1bcb6ce6d0",
+   "speaker_korean": null,
+   "korean": "공격 효과「마비」"
+  }
+ ]
+}

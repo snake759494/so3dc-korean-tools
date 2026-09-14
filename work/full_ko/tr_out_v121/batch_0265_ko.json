@@ -1,0 +1,650 @@
+{
+ "batch_id": "batch_0265",
+ "translations": [
+  {
+   "key": "a25f11e35ec1",
+   "speaker_korean": null,
+   "korean": "고급 비단으로 만든 로브"
+  },
+  {
+   "key": "0143911cc3ea",
+   "speaker_korean": null,
+   "korean": "숲의 요정족 엘프가 만들었다는\n마법 방어 효과가 높은 방어구"
+  },
+  {
+   "key": "247bb14f5f03",
+   "speaker_korean": null,
+   "korean": "마법 금속 미스릴을 은실처럼 엮어 만든 방어구"
+  },
+  {
+   "key": "8668cc73faa8",
+   "speaker_korean": null,
+   "korean": "깃털과 날개를 본뜬 고급 방어구"
+  },
+  {
+   "key": "85e7a75fed83",
+   "speaker_korean": null,
+   "korean": "천상계에서 바친 공물이라는 사연 있는 방어구"
+  },
+  {
+   "key": "1fa9105f7480",
+   "speaker_korean": null,
+   "korean": "가끔 별빛처럼 반짝이는 신비로운 방어구"
+  },
+  {
+   "key": "279ef73bdda5",
+   "speaker_korean": null,
+   "korean": "본체의 환영을 두르고 여러 겹으로 흐려 보이는 불가사의한 로브"
+  },
+  {
+   "key": "f20fd5c6bed0",
+   "speaker_korean": null,
+   "korean": "특수 코팅을 적용한 로브. 수정처럼 반짝이는 외관"
+  },
+  {
+   "key": "ccaa1b275152",
+   "speaker_korean": null,
+   "korean": "검으로서 필요 최소한의 기능을 갖춘 정도의 무기.\n가벼워서 초보자도 다루기 쉽다"
+  },
+  {
+   "key": "df8ede64c86d",
+   "speaker_korean": null,
+   "korean": "종말의 업화로 강철을 벼리고, 흐르는 망자의 피로\n강철을 식혀 물들였다는 전설의 마검"
+  },
+  {
+   "key": "6f8d9bdcc443",
+   "speaker_korean": null,
+   "korean": "신들의 축복을 받았다는 파마의 검"
+  },
+  {
+   "key": "7559ae9feedd",
+   "speaker_korean": null,
+   "korean": "강력한 마력을 품은 문자가 칼날에 새겨진 장검"
+  },
+  {
+   "key": "8923ff018a4a",
+   "speaker_korean": null,
+   "korean": "마법 금속 미스릴로 만든 백은색으로 빛나는 검"
+  },
+  {
+   "key": "a8bd81986411",
+   "speaker_korean": null,
+   "korean": "사람의 부정적인 감정을 베어낸다는 활인의 명검"
+  },
+  {
+   "key": "fc9afda68dfd",
+   "speaker_korean": null,
+   "korean": "마신의 영혼이 봉인되어 있다는 마검.\n분노의 감정이 칼날을 새빨갛게 불태운다"
+  },
+  {
+   "key": "183aef690ae3",
+   "speaker_korean": null,
+   "korean": "\"이별을 고하는 자\"라는 뜻을 담은 마단, 단죄의 검"
+  },
+  {
+   "key": "f5abfb3acfce",
+   "speaker_korean": null,
+   "korean": "빛나는 칼날이 온갖 사악한 자들을\n몰아낸다는 명검"
+  },
+  {
+   "key": "63dbcdcf7f70",
+   "speaker_korean": null,
+   "korean": "금속제 파이프 파편.\n충분히 무기가 됩니다"
+  },
+  {
+   "key": "cf77e144320c",
+   "speaker_korean": null,
+   "korean": "근육의 순발력을 증폭한다는 건틀릿"
+  },
+  {
+   "key": "fe9e6d7e7511",
+   "speaker_korean": null,
+   "korean": "광속에 가까운 움직임을 착용자에게 준다는 건틀릿"
+  },
+  {
+   "key": "8e8041ec9c05",
+   "speaker_korean": null,
+   "korean": "용사의 이름을 딴 고품질 건틀릿"
+  },
+  {
+   "key": "87dd07e6ed94",
+   "speaker_korean": null,
+   "korean": "특수 금속 다마스커스로 만든 건틀릿"
+  },
+  {
+   "key": "b0638c744c95",
+   "speaker_korean": null,
+   "korean": "칠흑빛 새의 깃털처럼 빛나는 금속으로\n만든 건틀릿"
+  },
+  {
+   "key": "b3b80c925822",
+   "speaker_korean": null,
+   "korean": "강력한 타격을 연속으로 날릴 수\n있게 되는 건틀릿"
+  },
+  {
+   "key": "1d8f0e83dbe3",
+   "speaker_korean": null,
+   "korean": "변칙적인 움직임과 강력한 타격을 양립하는 건틀릿"
+  },
+  {
+   "key": "03526fa9aff8",
+   "speaker_korean": null,
+   "korean": "마법 금속 미스릴로 만든 건틀릿"
+  },
+  {
+   "key": "3087b32164a3",
+   "speaker_korean": null,
+   "korean": "밀정이 즐겨 쓰는 단검"
+  },
+  {
+   "key": "3d559c0b49e0",
+   "speaker_korean": null,
+   "korean": "붉은 칼날이 특징인 단검"
+  },
+  {
+   "key": "a27eb57de04e",
+   "speaker_korean": null,
+   "korean": "물결치는 칼날이 특징인 단도"
+  },
+  {
+   "key": "403f767e4670",
+   "speaker_korean": null,
+   "korean": "특이한 형상으로 공격과 방어를 양립시키는 암살자의 단도"
+  },
+  {
+   "key": "d4db7a391047",
+   "speaker_korean": null,
+   "korean": "상식 밖 전술이 가능한 암살자의 단도"
+  },
+  {
+   "key": "9ffeaded1b32",
+   "speaker_korean": null,
+   "korean": "용의 이빨을 깎아 만든 매우 단단한 단도"
+  },
+  {
+   "key": "ac628535ea7e",
+   "speaker_korean": null,
+   "korean": "\"위대한 바람\"이란 뜻의 명도"
+  },
+  {
+   "key": "a4e559fd0ba1",
+   "speaker_korean": null,
+   "korean": "정령의 가호를 받은 신성한 단검"
+  },
+  {
+   "key": "47366132a811",
+   "speaker_korean": null,
+   "korean": "\"죽음을 부르는 자\"라는 뜻을 지닌 칠흑의 단검"
+  },
+  {
+   "key": "0e17c2d0c0d7",
+   "speaker_korean": null,
+   "korean": "예리한 갈퀴발톱 건틀릿"
+  },
+  {
+   "key": "5f99d510ab59",
+   "speaker_korean": null,
+   "korean": "반야의 탈을 본뜬 건틀릿"
+  },
+  {
+   "key": "3d5fdd3bb8fc",
+   "speaker_korean": null,
+   "korean": "망자의 영혼을 탐한다는 마신의 탈을 본뜬 건틀릿"
+  },
+  {
+   "key": "656a13a5f7bb",
+   "speaker_korean": null,
+   "korean": "죽음을 다스리는 이형의 신의 탈을 본뜬 건틀릿"
+  },
+  {
+   "key": "b1c24b3ad101",
+   "speaker_korean": null,
+   "korean": "마계 황제의 탈을 본뜬 건틀릿"
+  },
+  {
+   "key": "dbfcbaedd840",
+   "speaker_korean": null,
+   "korean": "약자를 희롱해 죽음을 환희연이라 이르는 사신의\n탈을 본뜬 건틀릿"
+  },
+  {
+   "key": "63a2043134da",
+   "speaker_korean": null,
+   "korean": "이 세상 존재뿐 아니라 신과 악마의 죽음마저 다스리는\n만물의 대제 탈을 본뜬 건틀릿"
+  },
+  {
+   "key": "37bed90c45db",
+   "speaker_korean": null,
+   "korean": "암흑 주술을 다스리는 신의 탈을 본뜬 건틀릿"
+  },
+  {
+   "key": "8d3bfb1de0bf",
+   "speaker_korean": null,
+   "korean": "해골을 본뜬 본인 애용 헬멧"
+  },
+  {
+   "key": "765f14e3b2b7",
+   "speaker_korean": null,
+   "korean": "시야는 다소 나쁘지만 공격력이 오르는 헬멧"
+  },
+  {
+   "key": "2cf67e8b4ba6",
+   "speaker_korean": null,
+   "korean": "바이저 문양이 적을 혼란시키는 헬멧"
+  },
+  {
+   "key": "ce2d292deb54",
+   "speaker_korean": null,
+   "korean": "드릴로 적을 위협한다는 콘셉트의 헬멧"
+  },
+  {
+   "key": "03c002a6d849",
+   "speaker_korean": null,
+   "korean": "겉보기엔 다소 미덥지 않지만,\n민첩함이 오르는 헬멧"
+  },
+  {
+   "key": "73d4146f46f3",
+   "speaker_korean": null,
+   "korean": "물고기 모양을 본뜬 헬멧"
+  },
+  {
+   "key": "49484a1c25f9",
+   "speaker_korean": null,
+   "korean": "튼튼하고 아름답게 만든 헬멧.\n그에겐 조금 안 어울릴지도"
+  },
+  {
+   "key": "6ce9f34cf713",
+   "speaker_korean": null,
+   "korean": "공격력이 대폭 상승하는 헬멧"
+  },
+  {
+   "key": "d028ff7ed89c",
+   "speaker_korean": null,
+   "korean": "특수한 마법 금속을 재료로 최고의 기술로\n만들어낸 최강의 헬멧"
+  },
+  {
+   "key": "588ebcde8c7a",
+   "speaker_korean": null,
+   "korean": "명중률이 뛰어난 소형 페이즈 건"
+  },
+  {
+   "key": "fcf579710261",
+   "speaker_korean": null,
+   "korean": "속사성이 뛰어난 소형 페이즈건"
+  },
+  {
+   "key": "03d77b952b33",
+   "speaker_korean": null,
+   "korean": "레이저 수렴률을 높여 위력을 늘린 페이즈건"
+  },
+  {
+   "key": "fdf3add3ea5b",
+   "speaker_korean": null,
+   "korean": "파괴력에 특화된 페이즈건"
+  },
+  {
+   "key": "437e7c7a2533",
+   "speaker_korean": null,
+   "korean": "마비 효과를 부여한 페이즈 건"
+  },
+  {
+   "key": "7d8b0dfee9e3",
+   "speaker_korean": null,
+   "korean": "명중률이 뛰어난 페이즈건"
+  },
+  {
+   "key": "7743b2604f5a",
+   "speaker_korean": null,
+   "korean": "수제로 만든 커스텀 페이즈건"
+  },
+  {
+   "key": "74071992dc84",
+   "speaker_korean": null,
+   "korean": "위력, 정밀도 등 모든 균형이 고차원적으로\n조정된 페이즈건"
+  },
+  {
+   "key": "8ef4b527f0ca",
+   "speaker_korean": null,
+   "korean": "끝에 달의 문장을 단 지팡이"
+  },
+  {
+   "key": "b24dfb79e49c",
+   "speaker_korean": null,
+   "korean": "끝에 수호의 보주를 단 지팡이"
+  },
+  {
+   "key": "9e496978f73b",
+   "speaker_korean": null,
+   "korean": "끝에 정령 펌킨레이스의 조각상을 단 지팡이"
+  },
+  {
+   "key": "ca3797b6c218",
+   "speaker_korean": null,
+   "korean": "끝에 고양이 눈 같은 보석을 단 지팡이"
+  },
+  {
+   "key": "8fd3e5b88b51",
+   "speaker_korean": null,
+   "korean": "끝에 몽마의 문장을 단 지팡이"
+  },
+  {
+   "key": "b0e3b82b701c",
+   "speaker_korean": null,
+   "korean": "끝에 거대한 마력 결정을 단 지팡이"
+  },
+  {
+   "key": "bebedc6533fa",
+   "speaker_korean": null,
+   "korean": "끝에 천사의 문장을 단 지팡이"
+  },
+  {
+   "key": "28228a414afa",
+   "speaker_korean": null,
+   "korean": "끝에 바니의 문장을 단 지팡이"
+  },
+  {
+   "key": "a8a517493034",
+   "speaker_korean": null,
+   "korean": "끝에 고양이 신의 문장을 단 지팡이"
+  },
+  {
+   "key": "a0146bb1e675",
+   "speaker_korean": null,
+   "korean": "켄다마 같은 붉고 큰 구슬이 달린 케이프"
+  },
+  {
+   "key": "edebff9e7acb",
+   "speaker_korean": null,
+   "korean": "아파 보이는 가시가 달린 구슬이 붙은 케이프"
+  },
+  {
+   "key": "0dc60b941a9c",
+   "speaker_korean": null,
+   "korean": "타오르는 불꽃 구슬이 달린 케이프"
+  },
+  {
+   "key": "056fd915e1dd",
+   "speaker_korean": null,
+   "korean": "특수 금속 다마스커스 구슬이 달린 케이프"
+  },
+  {
+   "key": "5d4916880971",
+   "speaker_korean": null,
+   "korean": "천사와 악마의 인형이 좌우에 달린 케이프"
+  },
+  {
+   "key": "7cae1960eb96",
+   "speaker_korean": null,
+   "korean": "얄미운 표정을 한 금색 구슬이 달린 케이프"
+  },
+  {
+   "key": "d1827f654ecd",
+   "speaker_korean": null,
+   "korean": "분노의 포즈가 달린 케이프"
+  },
+  {
+   "key": "3f9216135749",
+   "speaker_korean": null,
+   "korean": "탄식의 포즈가 달린 케이프"
+  },
+  {
+   "key": "9236a76cdeca",
+   "speaker_korean": null,
+   "korean": "바다의 왕자 크라켄의 인형이 달린 케이프"
+  },
+  {
+   "key": "004dbfae417a",
+   "speaker_korean": null,
+   "korean": "뭐라 말할 수 없는 균형 위에\n성립되어 있는 듯하면서 성립되지\n않은 반지"
+  },
+  {
+   "key": "3cd4c1eedafd",
+   "speaker_korean": null,
+   "korean": "손가락이 안 올라가"
+  },
+  {
+   "key": "6bcf872e1468",
+   "speaker_korean": null,
+   "korean": "당신 마음에 떠올랐던 사람은 누구?\n라기보다 인간?\n묻고 싶어지는 반지"
+  },
+  {
+   "key": "c88e28f01675",
+   "speaker_korean": null,
+   "korean": "어딜 고쳐야 나아질지\n생각할 틈조차 없는\n완성도 높은 희귀품. 다시 만드는 게 낫다"
+  },
+  {
+   "key": "8b695916f577",
+   "speaker_korean": null,
+   "korean": "태어난 것을 사죄하고 싶어지는,\n그런 슬픔을 온몸 가득\n표현한 물건"
+  },
+  {
+   "key": "02f184e0061e",
+   "speaker_korean": null,
+   "korean": "보기만 해도 힘이 빠지는 물건"
+  },
+  {
+   "key": "4ef200116223",
+   "speaker_korean": null,
+   "korean": "달면 몸이 부들부들 떨립니다"
+  },
+  {
+   "key": "39de40253d9b",
+   "speaker_korean": null,
+   "korean": "처음 만난 사람에게 선물하면 단번에\n얼굴을 기억해 줄 것이다"
+  },
+  {
+   "key": "7ab0ae56fcfe",
+   "speaker_korean": null,
+   "korean": "나도 모르게 웃는 팔찌.\n참아도 소용없다는 걸 깨닫게 되는,\n그런 물건"
+  },
+  {
+   "key": "65fd30e576de",
+   "speaker_korean": null,
+   "korean": "부끄러움에 귀를 새빨갛게 물들이는,\n그녀의 그런 모습이 보고 싶다면 이것.\n분노의 빨강일지도 모르지만"
+  },
+  {
+   "key": "371fdabb77ae",
+   "speaker_korean": null,
+   "korean": "회사라면 도산, 사원이라면 성희롱 발각,\n디버거라면 정보 유출.\n굳이 비유하자면 그런 느낌일까"
+  },
+  {
+   "key": "391cc3844c7e",
+   "speaker_korean": null,
+   "korean": "문득 떠올리며,\n눈물로 베개를 적실 때가 있다면,\n지금 말고는 없으리라"
+  },
+  {
+   "key": "48d0d445f619",
+   "speaker_korean": null,
+   "korean": "얼굴 붉히며 고개 돌리는 모습. 그녀의\n그런 얄미운 모습을 보고 싶다면 이것.\n다시는 돌아봐 주지 않겠지만"
+  },
+  {
+   "key": "15a77f842913",
+   "speaker_korean": null,
+   "korean": "약간의 뒤틀림을 바로잡으려던\n결과 초래한 참사.\n돌이킬 수 없다"
+  },
+  {
+   "key": "c5f143ccc7fd",
+   "speaker_korean": null,
+   "korean": "이형이라는 표현이 어울리는 피규어.\n무심코 눈을 돌리게 된다"
+  },
+  {
+   "key": "1d2c3aa6c1b1",
+   "speaker_korean": null,
+   "korean": "이건 대체 뭘까. 긍정적으로 판단하자\n면, 이건 아마 제작자의\n머릿속을 표현한 물건이리라"
+  },
+  {
+   "key": "2a511402e3c3",
+   "speaker_korean": null,
+   "korean": "나도 모르게 없던 일로 하고 싶어\n지는 그런 물건"
+  },
+  {
+   "key": "b117f8e14a3a",
+   "speaker_korean": null,
+   "korean": "나도 모르게 태클 걸고 싶어지는 물건.\n허점투성이"
+  },
+  {
+   "key": "24acb07363d2",
+   "speaker_korean": null,
+   "korean": "착각이 쌓이고 쌓여 태어난 물건.\n음의 방향으로 폭주한 기적"
+  },
+  {
+   "key": "7eab5732e622",
+   "speaker_korean": null,
+   "korean": "어떤 머리에도 안 어울립니다"
+  },
+  {
+   "key": "85fba6fcbb28",
+   "speaker_korean": null,
+   "korean": "머리 장식으로 기능하지 않습니다"
+  },
+  {
+   "key": "a537c9ee40d6",
+   "speaker_korean": null,
+   "korean": "드라큘라 백작도 나도 모르게 움찔\n하는 십자가.\n단, 다른 의미로지만"
+  },
+  {
+   "key": "30520c6a7b6c",
+   "speaker_korean": null,
+   "korean": "끊어져서 착용할 수 없습니다"
+  },
+  {
+   "key": "1e7263799696",
+   "speaker_korean": null,
+   "korean": "진짜 이상해요"
+  },
+  {
+   "key": "6f64dd4ceaf8",
+   "speaker_korean": null,
+   "korean": "착용한 본인은 눈물 난다"
+  },
+  {
+   "key": "debe746215eb",
+   "speaker_korean": null,
+   "korean": "발 엄지는 물론 모든 발가락이\n드러나는 부츠"
+  },
+  {
+   "key": "8a7621b9117b",
+   "speaker_korean": null,
+   "korean": "제대로 걷지도 못하는\n불쾌한 부츠"
+  },
+  {
+   "key": "2667c2b46a2f",
+   "speaker_korean": null,
+   "korean": "안쪽이 미끈미끈한 부츠"
+  },
+  {
+   "key": "0d4a5736d5e6",
+   "speaker_korean": null,
+   "korean": "작은 착각에 착각이 겹쳐진 결과\n태어난 기적.\n그런 기적은 필요 없지만"
+  },
+  {
+   "key": "b0395649cc83",
+   "speaker_korean": null,
+   "korean": "점수로 치면 3점 받았을 때 같은,\n사고경위서? 같은 부적"
+  },
+  {
+   "key": "95300f405220",
+   "speaker_korean": null,
+   "korean": "이걸 본 사람 모두가 나도 모르게\n얼굴 붉히는 부적"
+  },
+  {
+   "key": "2e9e597eeffc",
+   "speaker_korean": null,
+   "korean": "제작자의 화풀이를 당한\n불쌍한 물건"
+  },
+  {
+   "key": "0d12cc331231",
+   "speaker_korean": null,
+   "korean": "난로 근처에 놔뒀던 모양이다"
+  },
+  {
+   "key": "92642dc757d8",
+   "speaker_korean": null,
+   "korean": "누구에게도 가치를 인정받지 못하는\n불쌍한 물건"
+  },
+  {
+   "key": "595e0a74541f",
+   "speaker_korean": null,
+   "korean": "약간의 부주의로 그 프로젝트는\n실패하고 말았다"
+  },
+  {
+   "key": "236c478de2a5",
+   "speaker_korean": null,
+   "korean": "안에서 뭔가 꼼지락꼼지락 움직이는\n수정구슬. 왠지 불길하다"
+  },
+  {
+   "key": "2d1638aff133",
+   "speaker_korean": null,
+   "korean": "안일하게 거친 줄로 갈아서\n죽은 물고기 눈처럼 되어버린\n인형의 눈"
+  },
+  {
+   "key": "bc06e9116646",
+   "speaker_korean": null,
+   "korean": "쓸 가치는 있을지도 모르는 약.\n직접 마시고 싶진 않지만"
+  },
+  {
+   "key": "a05893747fa9",
+   "speaker_korean": null,
+   "korean": "그 정도 이용 가치밖에 없는\n길기만 한 게 장점인 휴지"
+  },
+  {
+   "key": "005de2f4827a",
+   "speaker_korean": null,
+   "korean": "아마 쓰던 본인이 싫어져서\n구깃구깃 구겨버렸을\n법한 두루마리. 심경은 충분히 짐작된다"
+  },
+  {
+   "key": "81fdc31abb6c",
+   "speaker_korean": null,
+   "korean": "쓴 본인만 비전이라 여기며 쓴\n두루마리.\n누구에게도 전하고 싶지 않다"
+  },
+  {
+   "key": "d114d910283d",
+   "speaker_korean": null,
+   "korean": "쓴 본인만 오의라 여기며 쓴\n두루마리.\n누가 좀 말려주세요"
+  },
+  {
+   "key": "63efafb3d9a8",
+   "speaker_korean": null,
+   "korean": "일단 부수기만 할 거라면 이걸로도\n될지도 모른다"
+  },
+  {
+   "key": "e2017181443d",
+   "speaker_korean": null,
+   "korean": "맛, 향, 목넘김, 뒷맛까지 나쁨이 사박자\n갖춰진 술.\n이래서야 술 마실 의미가 없다"
+  },
+  {
+   "key": "ca037244f75c",
+   "speaker_korean": null,
+   "korean": "완전히 산화해버린 와인.\n숙성과 산화는 한 끗 차이"
+  },
+  {
+   "key": "c1d0327413c4",
+   "speaker_korean": null,
+   "korean": "와인의 장점을 죄다 포기한\n멍청한 산물"
+  },
+  {
+   "key": "cb08b87ca731",
+   "speaker_korean": null,
+   "korean": "쩍쩍 들러붙어서 안이\n안 읽히는 책"
+  },
+  {
+   "key": "ede538e9ddc4",
+   "speaker_korean": null,
+   "korean": "보존 상태가 나빠 뭐라 쓰였는지\n판독 불가한 그냥 종이 뭉치로\n전락한 책"
+  },
+  {
+   "key": "27f5f66a2ff9",
+   "speaker_korean": null,
+   "korean": "무서울 정도의 악필로 적힌 책.\n우주어일 가능성도 조금은\n남아있다"
+  },
+  {
+   "key": "36dd0e15f43f",
+   "speaker_korean": null,
+   "korean": "배때기에 큰 구멍이 뚫려\n방어구 구실을 못 하는 갑옷"
+  },
+  {
+   "key": "9e9c1d149f1c",
+   "speaker_korean": null,
+   "korean": "얇게 너무 늘린 갑옷.\n덜그럭 소리가 난다"
+  }
+ ]
+}

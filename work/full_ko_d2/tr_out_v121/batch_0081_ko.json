@@ -1,0 +1,240 @@
+{
+ "batch_id": "batch_0081",
+ "translations": [
+  {
+   "key": "2592bc5e9dcf",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・남쪽이야, 몰라?"
+  },
+  {
+   "key": "a4febc1c8e4c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・서쪽이야, 확실해."
+  },
+  {
+   "key": "21c3f712388a",
+   "speaker_korean": "여행자 라돌",
+   "korean": "⟦1⟧「감사합니다.\n이걸로 여행을 계속할 수 있겠네요.\n⟦P⟧"
+  },
+  {
+   "key": "dedecf3a8068",
+   "speaker_korean": "말괄량이 루미나",
+   "korean": "⟦1⟧「무사히 ⟦2⟧칼사아⟦3⟧에 도착하면,\n도구를 좀 팔아서\n용돈이나 벌어볼까 싶어.\n⟦P⟧괜찮으면 사러 와.\n조금이면 덤도 줄 테니까.\n⟦P⟧"
+  },
+  {
+   "key": "fdbb444694f3",
+   "speaker_korean": "옷이 살짝 해진 남자",
+   "korean": "⟦1⟧「뭐야?\n나 같은 가난뱅이가 이런 번듯한 숙소에\n묵는 게 그렇게 우스운 거냐!?\n⟦P⟧우리 같은 서민도 말이야,\n가끔은 사치 좀 부려보고 싶다고!\n⟦P⟧"
+  },
+  {
+   "key": "832f4dde9edd",
+   "speaker_korean": "골드카드를 든 소년",
+   "korean": "⟦1⟧「참 나…\n부모라는 인간들은 왜 이렇게\n예의범절에 공부까지 잔소리인 걸까.\n⟦P⟧난 바람처럼 자유롭게 살고\n싶다고!\n그러니까 잘 좀 부탁한다!\n⟦P⟧"
+  },
+  {
+   "key": "03ef26bfd08c",
+   "speaker_korean": "골드카드를 든 소년",
+   "korean": "⟦1⟧「어차피 인간이란 건 혼자\n살아가는 법이지.\n⟦P⟧난 고독을 사랑해!\n무리 짓는 건 딱 질색이야!\n⟦P⟧"
+  },
+  {
+   "key": "3ed7d2612bec",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧(이 부근 지도인가 보군.\n⟦P⟧"
+  },
+  {
+   "key": "a0f29707da48",
+   "speaker_korean": "칠흑의 청년",
+   "korean": "⟦1⟧「흠…\n제법이군, 나쁘지 않아.\n⟦P⟧"
+  },
+  {
+   "key": "cc95c814cf5c",
+   "speaker_korean": null,
+   "korean": "하지만 무기가 없으니\n왠지 불안하군.\n⟦P⟧"
+  },
+  {
+   "key": "3ee5c9ad7a3f",
+   "speaker_korean": "말괄량이 루미나",
+   "korean": "⟦1⟧「저기, 너 말이야…\n지금까지 용케 무사히\n여행할 수 있었네…\n⟦P⟧행성의 자전면이라든가 위도라든가,\n그런 걸 제대로\n알고 하는 소리야?\n⟦P⟧"
+  },
+  {
+   "key": "8b95ae6fd9cc",
+   "speaker_korean": "여행자 라돌",
+   "korean": "⟦1⟧「무, 무시하지 마세요.\n지축의 기울기는 32.6°,\n위도는 남위 30.4°잖아요.\n⟦P⟧그 정도는 외우고 있다고요.\n실례네요.\n⟦P⟧"
+  },
+  {
+   "key": "9d89db29923e",
+   "speaker_korean": "말괄량이 루미나",
+   "korean": "⟦1⟧「아, 그래…\n그럼 물어볼게, 이 계절에 이곳에서\n해가 뜨는 방향은 어느 쪽이야?\n⟦P⟧"
+  },
+  {
+   "key": "dd1443d5edd4",
+   "speaker_korean": "여행자 라돌",
+   "korean": "⟦1⟧「음… 북쪽?\n⟦P⟧"
+  },
+  {
+   "key": "b7ec4681a56b",
+   "speaker_korean": "말괄량이 루미나",
+   "korean": "⟦1⟧「됐어…\n너는 이제 지도 안 봐도 돼.\n나 아직 죽고 싶지 않으니까…\n⟦P⟧"
+  },
+  {
+   "key": "a8e5f0096390",
+   "speaker_korean": "여행자 라돌",
+   "korean": "⟦1⟧「어랏!? 틀렸나요?\n아이참, 농담이에요,\n농・담・이・라・구요.\n⟦P⟧사실은 서쪽이죠?\n⟦P⟧"
+  },
+  {
+   "key": "ba70e2d69e7b",
+   "speaker_korean": "말괄량이 루미나",
+   "korean": "⟦1⟧「아, 현지인!\n⟦P⟧"
+  },
+  {
+   "key": "3d1b03898292",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「네!? 현지…?\n⟦P⟧"
+  },
+  {
+   "key": "ce622247ef93",
+   "speaker_korean": "말괄량이 루미나",
+   "korean": "⟦1⟧「사소한 데서 까다롭게 구네!\n천지인이라고 했잖아, 천・지・인!\n⟦P⟧"
+  },
+  {
+   "key": "f8811941febc",
+   "speaker_korean": "말괄량이 루미나",
+   "korean": "⟦1⟧「마침 잘됐네, 이 사람한테 물어보자.\n현지인이라면 안 틀릴 테니까…\n⟦P⟧"
+  },
+  {
+   "key": "d9559ff34c6b",
+   "speaker_korean": "여행자 라돌",
+   "korean": "⟦1⟧「아, 그러네요.\n그렇게 할까요.\n⟦P⟧"
+  },
+  {
+   "key": "994ef01bd268",
+   "speaker_korean": "말괄량이 루미나",
+   "korean": "⟦1⟧「좋아, 그걸로 정했어!\n⟦P⟧"
+  },
+  {
+   "key": "483e538b8d38",
+   "speaker_korean": "말괄량이 루미나",
+   "korean": "⟦1⟧「즉, 이런 얘기야.\n⟦P⟧우리는 ⟦2⟧칼사아⟦3⟧라는 마을에\n가고 싶은데,\n이 근처 지리는 잘 몰라.\n⟦P⟧그래서 현지인인 너한테 물어볼까 하고,\n그런 거야.\n알겠어?\n⟦P⟧"
+  },
+  {
+   "key": "0409ae3ecb8d",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「그건 알겠는데…\n나도 그다지 잘 몰라.\n⟦P⟧"
+  },
+  {
+   "key": "7ded6529549d",
+   "speaker_korean": "말괄량이 루미나",
+   "korean": "⟦1⟧「됐어, 됐어.\n아무리 잘 모른다고 해도\n우리보단 잘 알 거 아니야.\n⟦P⟧결국은 비교의 문제라고.\n그래서 다시 물어보고 싶은데…\n⟦2⟧칼사아⟦3⟧는 어느 쪽이야?\n어느 문으로 나가면 돼?\n⟦P⟧"
+  },
+  {
+   "key": "1f3b3afa7c29",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「⟦2⟧칼사아⟦3⟧라…\n⟦P⟧"
+  },
+  {
+   "key": "ec62fb6f3a37",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「북쪽으로 나가면 가까워.\n자세힌 모르지만…\n⟦P⟧"
+  },
+  {
+   "key": "f8c71c59179b",
+   "speaker_korean": "말괄량이 루미나",
+   "korean": "⟦1⟧「엣!? 북쪽?\n⟦P⟧"
+  },
+  {
+   "key": "c78749e958a4",
+   "speaker_korean": null,
+   "korean": "다행이다…\n우리 완전히 엉뚱한 방향으로\n갈 뻔했어.\n⟦P⟧"
+  },
+  {
+   "key": "7df5611c3c27",
+   "speaker_korean": null,
+   "korean": "저기, ⟦1⟧라돌⟦2⟧!\n왠지 첫걸음부터 잘못된 것\n같은데!?\n⟦P⟧"
+  },
+  {
+   "key": "5c6da2937f08",
+   "speaker_korean": "여행자 라돌",
+   "korean": "⟦1⟧「이거 참, 그런가요…\n뭐가 잘못됐던 걸까요…\n⟦P⟧"
+  },
+  {
+   "key": "3734ba601318",
+   "speaker_korean": "말괄량이 루미나",
+   "korean": "⟦1⟧「이 기회에 확실히 말해두는데…\n네 존재 자체가 잘못의\n근원이라고 생각해, 난.\n⟦P⟧"
+  },
+  {
+   "key": "f7b4465ec15a",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「동쪽이 확실해.\n틀림없어.\n⟦P⟧"
+  },
+  {
+   "key": "b74e283888dc",
+   "speaker_korean": "말괄량이 루미나",
+   "korean": "⟦1⟧「동쪽? 동쪽이라…\n왠지 예상 밖의 방향인데,\n어디서 잘못된 걸까?\n⟦P⟧"
+  },
+  {
+   "key": "d52b4ccac7c3",
+   "speaker_korean": null,
+   "korean": "뭐, 됐어.\n그럼 바로 동쪽으로 가자.\n준비 됐어?\n⟦P⟧"
+  },
+  {
+   "key": "884b1f4109ea",
+   "speaker_korean": "여행자 라돌",
+   "korean": "⟦1⟧「자, 잠깐 기다려 주세요.\n맨몸인 ⟦2⟧루미나 님⟦3⟧과 달리,\n저는 준비가 필요하다고요.\n⟦P⟧"
+  },
+  {
+   "key": "b729c99898a8",
+   "speaker_korean": "말괄량이 루미나",
+   "korean": "⟦1⟧「어쩔 수 없네…\n그래도 최대한 빨리 해!\n⟦P⟧"
+  },
+  {
+   "key": "376f3e9db504",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「남쪽이야.\n모르는 거야?\n⟦P⟧"
+  },
+  {
+   "key": "ed1b7febd298",
+   "speaker_korean": "말괄량이 루미나",
+   "korean": "⟦1⟧「거 봐!\n내 말이 맞잖아.\n⟦P⟧"
+  },
+  {
+   "key": "d9a625172894",
+   "speaker_korean": null,
+   "korean": "참 나…\n너한테 맡겼으면 큰코다칠\n뻔했다니까.\n⟦P⟧"
+  },
+  {
+   "key": "36b48b59f108",
+   "speaker_korean": "여행자 라돌",
+   "korean": "⟦1⟧「어라? 이상하네…\n어디서 틀렸던 걸까?\n⟦P⟧"
+  },
+  {
+   "key": "fab8d53ad01d",
+   "speaker_korean": "말괄량이 루미나",
+   "korean": "⟦1⟧「굳이 말하자면,\n너한테 길안내를 맡긴 게\n애초에 잘못이었던 거야.\n⟦P⟧"
+  },
+  {
+   "key": "e4eb91f844e6",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「서쪽이야.\n확실해.\n⟦P⟧"
+  },
+  {
+   "key": "29a79908c49a",
+   "speaker_korean": "말괄량이 루미나",
+   "korean": "⟦1⟧「엣!? 그런 거야?\n⟦P⟧"
+  },
+  {
+   "key": "eb1675407d06",
+   "speaker_korean": "여행자 라돌",
+   "korean": "⟦1⟧「거 보세요, 그러니까 제가\n말했잖아요.\n⟦P⟧아가씨와는 달리,\n저는 여행에 익숙하다고요.\n⟦P⟧전부 맡겨만 주시면\n아무 문제 없을 거예요.\n⟦P⟧"
+  },
+  {
+   "key": "a007be313c9b",
+   "speaker_korean": "말괄량이 루미나",
+   "korean": "⟦1⟧「여행에 익숙한 사람이라면 애초에\n여행 도중에 이상한 모험에\n휘말리지도 않을 거 같은데…\n⟦P⟧"
+  },
+  {
+   "key": "b3d1d8e14f1f",
+   "speaker_korean": "여행자 라돌",
+   "korean": "⟦1⟧「…그러니까, 목적지 마을이 있는 건\n여기서 보면 남서쪽이잖아요?\n⟦P⟧그렇다면 해가 지는 쪽으로 가면\n되는 거 아닐까요?\n⟦P⟧"
+  }
+ ]
+}

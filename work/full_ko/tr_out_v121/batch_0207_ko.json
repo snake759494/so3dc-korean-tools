@@ -1,0 +1,215 @@
+{
+ "batch_id": "batch_0207",
+ "translations": [
+  {
+   "key": "f9e9375c2d9d",
+   "speaker_korean": "페이트",
+   "korean": "「거대한 부조가 있다.\n화가 난 ⟦1⟧드래곤⟦2⟧처럼 보인다."
+  },
+  {
+   "key": "cef29d691034",
+   "speaker_korean": "클리프",
+   "korean": "「⟦1⟧드래곤⟦2⟧이랑 공존이라고?\n이게?"
+  },
+  {
+   "key": "190deb185f94",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧드래곤⟦2⟧의 소굴에 숨어들어서,\n⟦3⟧드래곤⟦4⟧을 사냥하고,\n수많은 실험을 해왔다…."
+  },
+  {
+   "key": "5bd715d7cb23",
+   "speaker_korean": "클리프",
+   "korean": "「그렇겠지.\n공존하고 있었다면,\n괜히 우릴 덮칠 리가\n없잖냐."
+  },
+  {
+   "key": "94f44ed3e4f4",
+   "speaker_korean": "넬",
+   "korean": "「끔찍한 짓이네."
+  },
+  {
+   "key": "72be80bdb1b2",
+   "speaker_korean": "넬",
+   "korean": "「뭐가 우습다는 거야?"
+  },
+  {
+   "key": "7e68fd7ce38d",
+   "speaker_korean": "알벨",
+   "korean": "「우리가 지금까지,\n대체 몇 마리의 ⟦1⟧드래곤⟦2⟧을\n죽여왔다고 생각하는 거냐?"
+  },
+  {
+   "key": "6f82827c2307",
+   "speaker_korean": "넬",
+   "korean": "「그건…!"
+  },
+  {
+   "key": "43ad0036767a",
+   "speaker_korean": "알벨",
+   "korean": "「『어쩔 수 없었다.』\n라는 거냐?"
+  },
+  {
+   "key": "e08e4a65d789",
+   "speaker_korean": "알벨",
+   "korean": "「남이 보기엔, 하는 짓이\n별반 다를 거 없잖냐."
+  },
+  {
+   "key": "40f4f8e07e21",
+   "speaker_korean": "페이트",
+   "korean": "「…."
+  },
+  {
+   "key": "d7ea69ff6254",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧드래곤⟦2⟧의 표본이 진열되어 있다.\n기분 나쁜 광경이군."
+  },
+  {
+   "key": "5a0cd124fd9c",
+   "speaker_korean": "페이트",
+   "korean": "「용의 두개골이라니,\n설마…."
+  },
+  {
+   "key": "06b9e8e0b260",
+   "speaker_korean": "페이트",
+   "korean": "「여러 가지 약품이며 기구들이\n놓여 있지만,\n쓸모 있는 건 없어 보이는군."
+  },
+  {
+   "key": "f4cc282d58ac",
+   "speaker_korean": "페이트",
+   "korean": "「서류가 어질러져 있다.\n최근까지 사람이 있었던 모양이군."
+  },
+  {
+   "key": "a54ac7c67700",
+   "speaker_korean": "페이트",
+   "korean": "「전문서적이 가득하다.\n여기 적힌 내용을 이해하기는\n어려울 것 같군."
+  },
+  {
+   "key": "609e4a36ce3c",
+   "speaker_korean": "페이트",
+   "korean": "「약품이며 기구들이\n놓여 있다.\n쓸모 있어 보이는 건…\n⟦P⟧이, 이건!\n예상대로 야한 책이잖아!?\n⟦P⟧보, 보지 않은 걸로\n해두자…."
+  },
+  {
+   "key": "ed94d6c348cb",
+   "speaker_korean": "페이트",
+   "korean": "(이제, 이 선반은\n조사하지 않아도 될 것 같다."
+  },
+  {
+   "key": "e932e0987eb6",
+   "speaker_korean": null,
+   "korean": "⟦1⟧용의 두개골⟦2⟧을 얻었다."
+  },
+  {
+   "key": "3eff8fee2cd1",
+   "speaker_korean": "클리프",
+   "korean": "「딱 그럴싸한\n부조로군."
+  },
+  {
+   "key": "d934d9c7ef62",
+   "speaker_korean": "넬",
+   "korean": "「문자가 쓰여 있네.\n이건…, ⟦1⟧드래곤로어⟦2⟧인 것 같네."
+  },
+  {
+   "key": "8dd6143fddf0",
+   "speaker_korean": "넬",
+   "korean": "「『십자의 중심에\n용의 두개골을 바쳐라』\n⟦P⟧『용의 부조는 예외 없이\n벗의 목소리를 원하는 것이라』\n⟦P⟧자, 이것이 무엇을 의미하는\n것인지…."
+  },
+  {
+   "key": "b8a4535edf86",
+   "speaker_korean": "페이트",
+   "korean": "「용의 두개골을\n바치자."
+  },
+  {
+   "key": "40944b4d9d01",
+   "speaker_korean": "페이트",
+   "korean": "「저 멀리서 뭔가가\n움직인 것 같군."
+  },
+  {
+   "key": "7ad5284cbda6",
+   "speaker_korean": "페이트",
+   "korean": "「음, 그러니까,\n⟦P⟧『십자의 중심에\n용의 두개골을 바쳐라』\n⟦P⟧『용의 부조는 예외 없이\n벗의 목소리를 원하는 것이라』\n⟦P⟧였던가.\n⟦P⟧그나저나 거대한 부조로군.\n화가 난 ⟦1⟧드래곤⟦2⟧처럼 보인다."
+  },
+  {
+   "key": "5b303cd2384b",
+   "speaker_korean": "페이트",
+   "korean": "「거대한 부조가 있다.\n즐거워하는 ⟦1⟧드래곤⟦2⟧처럼 보인다."
+  },
+  {
+   "key": "d008e444712c",
+   "speaker_korean": "페이트",
+   "korean": "「거대한 부조가 있다.\n슬퍼 보이는 ⟦1⟧드래곤⟦2⟧처럼 보인다."
+  },
+  {
+   "key": "7d6f550fd2bc",
+   "speaker_korean": null,
+   "korean": "⟦1⟧바람의 부적⟦2⟧을 얻었다."
+  },
+  {
+   "key": "d46cbca22f5e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧혼옥석⟦2⟧을 손에 넣었다."
+  },
+  {
+   "key": "537a109e8b0e",
+   "speaker_korean": "페이트",
+   "korean": "「문에 ⟦1⟧드래곤⟦2⟧의 형상이\n떠올라 있다.\n슬픔, 분노의 순서로\n변하고 있군."
+  },
+  {
+   "key": "8a0b7f04239a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧슈트 아머⟦2⟧를 손에 넣었다."
+  },
+  {
+   "key": "fb64c8435d5c",
+   "speaker_korean": "페이트",
+   "korean": "「문에 ⟦1⟧드래곤⟦2⟧의 형상이\n떠올라 있다.\n기쁨, 슬픔, 분노의 순서로\n변하고 있군."
+  },
+  {
+   "key": "99f8f2eeea7a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧다마스커스 플레이트⟦2⟧를 손에 넣었다."
+  },
+  {
+   "key": "31bef81a12d1",
+   "speaker_korean": "페이트",
+   "korean": "「으악!!"
+  },
+  {
+   "key": "15c33bfdf354",
+   "speaker_korean": "페이트",
+   "korean": "「뭐, 뭐야 이놈은!?"
+  },
+  {
+   "key": "9d43ea566423",
+   "speaker_korean": "???",
+   "korean": "「허어!\n이런 곳에 사람이 오다니\n오랜만이잖아!!"
+  },
+  {
+   "key": "4d7c1edb1ed0",
+   "speaker_korean": "???",
+   "korean": "「오랜만에\n좀 괴롭혀볼까나!!"
+  },
+  {
+   "key": "64f5f82763f9",
+   "speaker_korean": "페이트",
+   "korean": "「젠장…,\n방심했군."
+  },
+  {
+   "key": "3bcdfdb87a1d",
+   "speaker_korean": "페이트",
+   "korean": "「뭔가 위험해 보이는데….\n어딘가로 피하는 게\n좋을 것 같다."
+  },
+  {
+   "key": "ba5ef6bc044d",
+   "speaker_korean": "페이트",
+   "korean": "「아야야….\n또 붙잡히고\n말았다…."
+  },
+  {
+   "key": "2fb9e137897c",
+   "speaker_korean": null,
+   "korean": "오7서루\n익유L신7사〒7생지7\n견t오L선P유Lθ\n과⟦G:41bbefcd⟧／∴희망λ절망λ"
+  },
+  {
+   "key": "36a7dbf05d50",
+   "speaker_korean": null,
+   "korean": "⟦1⟧엘븐 부츠⟦2⟧를 손에 넣었다."
+  }
+ ]
+}

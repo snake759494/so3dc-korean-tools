@@ -1,0 +1,600 @@
+{
+ "batch_id": "batch_0287",
+ "translations": [
+  {
+   "key": "bfa3c9c08dce",
+   "speaker_korean": null,
+   "korean": "레코다"
+  },
+  {
+   "key": "47f8df054080",
+   "speaker_korean": null,
+   "korean": "더글러스 숲"
+  },
+  {
+   "key": "51331a84dc69",
+   "speaker_korean": null,
+   "korean": "긴급 피난시설"
+  },
+  {
+   "key": "b3046574cd67",
+   "speaker_korean": null,
+   "korean": "위플 마을"
+  },
+  {
+   "key": "d62f790bbfb4",
+   "speaker_korean": null,
+   "korean": "문베이스"
+  },
+  {
+   "key": "1e8fef52d000",
+   "speaker_korean": null,
+   "korean": "코파의 유적"
+  },
+  {
+   "key": "9bdb0367c4de",
+   "speaker_korean": null,
+   "korean": "페소토 숲"
+  },
+  {
+   "key": "43f2ea6dc005",
+   "speaker_korean": null,
+   "korean": "베크렐 광산"
+  },
+  {
+   "key": "8e3f67a92322",
+   "speaker_korean": null,
+   "korean": "컬소어 산 동굴"
+  },
+  {
+   "key": "6f2f0c7bd061",
+   "speaker_korean": null,
+   "korean": "바르 산맥"
+  },
+  {
+   "key": "9a4616b0f2dc",
+   "speaker_korean": null,
+   "korean": "우르자 용암굴"
+  },
+  {
+   "key": "57de3ac53eff",
+   "speaker_korean": null,
+   "korean": "시랜드 성"
+  },
+  {
+   "key": "00e2ba90c594",
+   "speaker_korean": null,
+   "korean": "모젤의 고대 유적"
+  },
+  {
+   "key": "db9cf8d21096",
+   "speaker_korean": null,
+   "korean": "아리그리프 지하수로"
+  },
+  {
+   "key": "51718c7f09c2",
+   "speaker_korean": null,
+   "korean": "탈출 포드"
+  },
+  {
+   "key": "24b1ad979ce1",
+   "speaker_korean": null,
+   "korean": "파이어월"
+  },
+  {
+   "key": "e02f38a807ca",
+   "speaker_korean": null,
+   "korean": "나선의 탑"
+  },
+  {
+   "key": "b247d14b3410",
+   "speaker_korean": null,
+   "korean": "시련의 유적"
+  },
+  {
+   "key": "02cefab2958a",
+   "speaker_korean": null,
+   "korean": "서페리오 수중정원"
+  },
+  {
+   "key": "7f9e8ebc5118",
+   "speaker_korean": null,
+   "korean": "아리그리프 성"
+  },
+  {
+   "key": "28fe67635aab",
+   "speaker_korean": null,
+   "korean": "바르 산동굴"
+  },
+  {
+   "key": "5f9d282aaca1",
+   "speaker_korean": null,
+   "korean": "바르 유적"
+  },
+  {
+   "key": "e8bd5dbc9737",
+   "speaker_korean": null,
+   "korean": "봉인굴"
+  },
+  {
+   "key": "ca8331b8b9c6",
+   "speaker_korean": null,
+   "korean": "스피어사"
+  },
+  {
+   "key": "3b2ad04f28c3",
+   "speaker_korean": null,
+   "korean": "갈증과 윤기를 잇는 회랑"
+  },
+  {
+   "key": "d9f2c9cf9113",
+   "speaker_korean": null,
+   "korean": "성전 카난"
+  },
+  {
+   "key": "5b7780d4ee55",
+   "speaker_korean": null,
+   "korean": "선두 맵"
+  },
+  {
+   "key": "08cd44142ba8",
+   "speaker_korean": null,
+   "korean": "광산 마을 컬소어"
+  },
+  {
+   "key": "829ef42afc38",
+   "speaker_korean": null,
+   "korean": "홀로 빌딩"
+  },
+  {
+   "key": "375f76154e36",
+   "speaker_korean": null,
+   "korean": "왕도 아리그리프"
+  },
+  {
+   "key": "c5542fbb08af",
+   "speaker_korean": null,
+   "korean": "성왕도 시랜드"
+  },
+  {
+   "key": "a3ecc5ca386a",
+   "speaker_korean": null,
+   "korean": "교역도시 페터니"
+  },
+  {
+   "key": "08ec077f0061",
+   "speaker_korean": null,
+   "korean": "강변 마을 아리아스"
+  },
+  {
+   "key": "de1ffa9f03e4",
+   "speaker_korean": null,
+   "korean": "수몰도시 서페리오"
+  },
+  {
+   "key": "9fd9cc33db8a",
+   "speaker_korean": null,
+   "korean": "제미티"
+  },
+  {
+   "key": "260b77092207",
+   "speaker_korean": null,
+   "korean": "지역 맵"
+  },
+  {
+   "key": "50ac6c1ccee7",
+   "speaker_korean": null,
+   "korean": "이글호"
+  },
+  {
+   "key": "4965419c6224",
+   "speaker_korean": null,
+   "korean": "수송함 헤루아"
+  },
+  {
+   "key": "924dad302d59",
+   "speaker_korean": null,
+   "korean": "외교함 디플로"
+  },
+  {
+   "key": "44b23e4bbb3f",
+   "speaker_korean": null,
+   "korean": "전투함 아쿠아에리"
+  },
+  {
+   "key": "00b312162c80",
+   "speaker_korean": null,
+   "korean": "긴급 피난통로"
+  },
+  {
+   "key": "abdc87ce419b",
+   "speaker_korean": null,
+   "korean": "마차"
+  },
+  {
+   "key": "2533bbfa8c89",
+   "speaker_korean": null,
+   "korean": "뉴스 스튜디오"
+  },
+  {
+   "key": "cd19ec6ea014",
+   "speaker_korean": null,
+   "korean": "수송함 래디시"
+  },
+  {
+   "key": "8fcc544174d2",
+   "speaker_korean": null,
+   "korean": "셔틀"
+  },
+  {
+   "key": "6071b73d075c",
+   "speaker_korean": null,
+   "korean": "엔딩"
+  },
+  {
+   "key": "c866f6607ea6",
+   "speaker_korean": null,
+   "korean": "크라토스 제3공항"
+  },
+  {
+   "key": "09f6e5a3a502",
+   "speaker_korean": null,
+   "korean": "노턴의 은신처"
+  },
+  {
+   "key": "3dae7950fce1",
+   "speaker_korean": null,
+   "korean": "컬소어 수련장 거주구"
+  },
+  {
+   "key": "6fbd3a58ee01",
+   "speaker_korean": null,
+   "korean": "컬소어 수련장 훈련시설"
+  },
+  {
+   "key": "bdafd2ca252a",
+   "speaker_korean": null,
+   "korean": "컬소어 수련장 감옥동"
+  },
+  {
+   "key": "ca9234f838e9",
+   "speaker_korean": null,
+   "korean": "컬소어 수련장 투기장"
+  },
+  {
+   "key": "502c6ac6480f",
+   "speaker_korean": null,
+   "korean": "행성 스트림"
+  },
+  {
+   "key": "a3dc003d00fb",
+   "speaker_korean": null,
+   "korean": "무비용 맵"
+  },
+  {
+   "key": "8eee2fdbb2e6",
+   "speaker_korean": null,
+   "korean": "테스트용 맵"
+  },
+  {
+   "key": "cbd35fb37c43",
+   "speaker_korean": null,
+   "korean": "추가 맵"
+  },
+  {
+   "key": "f320e166731f",
+   "speaker_korean": null,
+   "korean": "시련의 동굴 입구"
+  },
+  {
+   "key": "988817d203bf",
+   "speaker_korean": null,
+   "korean": "우르자 석굴사원"
+  },
+  {
+   "key": "9368ca2fac2f",
+   "speaker_korean": null,
+   "korean": "우주항"
+  },
+  {
+   "key": "f3d887485c11",
+   "speaker_korean": null,
+   "korean": "대전 룸"
+  },
+  {
+   "key": "c25200cd53fc",
+   "speaker_korean": null,
+   "korean": "시랜드성 안뜰B"
+  },
+  {
+   "key": "52fe70e5405e",
+   "speaker_korean": null,
+   "korean": "메모리 카드(PS2)가\n꽂혀 있지 않습니다\nStar Ocean Till the End of Time D.C. 의\n데이터를 세이브하려면\n메모리 카드(PS2)를\n꽂아 주십시오\n이대로 게임을 시작하시겠습니까?"
+  },
+  {
+   "key": "24564c4f0796",
+   "speaker_korean": null,
+   "korean": "″PlayStation 2″ 전용 메모리 카드(8MB)가\n포맷되어 있지 않습니다\n포맷하시겠습니까?"
+  },
+  {
+   "key": "6dde768678dd",
+   "speaker_korean": null,
+   "korean": "여유 공간이 부족합니다\nStar Ocean Till the End of Time D.C. 의\n게임 데이터를 세이브하려면\n⟦1⟧⟦2⟧⟦3⟧KB 이상 필요합니다"
+  },
+  {
+   "key": "9af67650e1c7",
+   "speaker_korean": null,
+   "korean": "″PlayStation 2″ 전용 메모리 카드(8MB)의\n체크에 실패했습니다"
+  },
+  {
+   "key": "d469ad82adb6",
+   "speaker_korean": null,
+   "korean": "세이브에 실패했습니다"
+  },
+  {
+   "key": "fdb9e47d2a3f",
+   "speaker_korean": null,
+   "korean": "로드에 실패했습니다"
+  },
+  {
+   "key": "dfa19f5547cf",
+   "speaker_korean": null,
+   "korean": "어느 메모리 카드\n삽입구를 사용할까요?"
+  },
+  {
+   "key": "5e7dd5fab030",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구1"
+  },
+  {
+   "key": "e19e21b7d137",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구2"
+  },
+  {
+   "key": "92ee7288e9b4",
+   "speaker_korean": null,
+   "korean": "″PlayStation 2″ 전용 메모리 카드(8MB)를\n포맷하고 있습니다\n″PlayStation 2″ 본체의 전원 OFF나 리셋,\n″PlayStation 2″ 전용 메모리 카드(8MB)나\n컨트롤러의 연결 해제는 하지 마십시오\n또한, 디스크 트레이를 열지 마십시오"
+  },
+  {
+   "key": "220c0c4d3121",
+   "speaker_korean": null,
+   "korean": "포맷 완료"
+  },
+  {
+   "key": "9b432d67daa6",
+   "speaker_korean": null,
+   "korean": "정상적으로 세이브했습니다"
+  },
+  {
+   "key": "a1c7a3c91c4c",
+   "speaker_korean": null,
+   "korean": "정상적으로 로드했습니다"
+  },
+  {
+   "key": "8f893b81ea4b",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구⟦1⟧에\n″PlayStation 2″ 전용 메모리 카드(8MB)가\n꽂혀 있지 않습니다"
+  },
+  {
+   "key": "2413335dfc8b",
+   "speaker_korean": null,
+   "korean": "체크하고 있습니다\n″PlayStation 2″ 본체의 전원 OFF나 리셋,\n″PlayStation 2″ 전용 메모리 카드(8MB)나\n컨트롤러의 연결 해제는 하지 마십시오\n또한, 디스크 트레이를 열지 마십시오"
+  },
+  {
+   "key": "03b5ea7d9688",
+   "speaker_korean": null,
+   "korean": "L후"
+  },
+  {
+   "key": "d4c2232d45ca",
+   "speaker_korean": null,
+   "korean": "포맷에 실패했습니다"
+  },
+  {
+   "key": "b2d43dbccf14",
+   "speaker_korean": null,
+   "korean": "             이대로 시작하기"
+  },
+  {
+   "key": "7e20327a89e3",
+   "speaker_korean": null,
+   "korean": "             다시 체크"
+  },
+  {
+   "key": "237bf5fab65f",
+   "speaker_korean": null,
+   "korean": "KB의 여유 공간이 있습니다"
+  },
+  {
+   "key": "5843f0e99226",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C. 의\n게임 데이터가 없습니다"
+  },
+  {
+   "key": "431bbd04ce1a",
+   "speaker_korean": null,
+   "korean": "신규 작성"
+  },
+  {
+   "key": "a0e39b7611c1",
+   "speaker_korean": null,
+   "korean": "새로 만듭니다\n괜찮겠습니까?"
+  },
+  {
+   "key": "a626968da558",
+   "speaker_korean": null,
+   "korean": "선택한 파일에\n데이터가 존재합니다\n덮어쓰시겠습니까?"
+  },
+  {
+   "key": "8423bce9b9a7",
+   "speaker_korean": null,
+   "korean": "파일을 로드합니다\n괜찮겠습니까?"
+  },
+  {
+   "key": "547b6e7b223c",
+   "speaker_korean": null,
+   "korean": "세이브 확인"
+  },
+  {
+   "key": "3d65e4fa892b",
+   "speaker_korean": null,
+   "korean": "로드 확인"
+  },
+  {
+   "key": "bbcac79e8832",
+   "speaker_korean": null,
+   "korean": "세이브 중"
+  },
+  {
+   "key": "da355e9eb618",
+   "speaker_korean": null,
+   "korean": "로드 중입니다"
+  },
+  {
+   "key": "efd63ba33b20",
+   "speaker_korean": null,
+   "korean": "″PlayStation 2″ 전용 메모리 카드(8MB)를\n빼지 마십시오"
+  },
+  {
+   "key": "2ff140fd5454",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구1에\n″PlayStation 2″ 전용 메모리 카드(8MB)가\n꽂혀 있지 않습니다"
+  },
+  {
+   "key": "09fea0e14092",
+   "speaker_korean": null,
+   "korean": "MEMORY CARD 삽입구2에\n″PlayStation 2″ 전용 메모리 카드(8MB)가\n꽂혀 있지 않습니다"
+  },
+  {
+   "key": "2dc37f7ca523",
+   "speaker_korean": null,
+   "korean": "세이브 데이터가 손상되었습니다"
+  },
+  {
+   "key": "72b5953b24b5",
+   "speaker_korean": null,
+   "korean": "카드 처리를 종료합니다\n괜찮겠습니까?"
+  },
+  {
+   "key": "626222458e33",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C. 의\n시스템 데이터가 손상되었습니다\n다음 시스템 데이터 세이브에는\n⟦1⟧⟦2⟧⟦3⟧KB 이상 필요합니다"
+  },
+  {
+   "key": "d329b9c34a55",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C. 의\n시스템 데이터가 없습니다"
+  },
+  {
+   "key": "557e8763cc9e",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C. 의\n시스템 데이터가 손상되었습니다"
+  },
+  {
+   "key": "2c9bc6cf1aa2",
+   "speaker_korean": null,
+   "korean": "시스템 데이터를 초기값으로 설정할까요?"
+  },
+  {
+   "key": "e3ba5cc740c7",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C. 의\n시스템 데이터를 로드하지 않았습니다\n다음 시스템 데이터 세이브에는\n⟦1⟧⟦2⟧⟦3⟧KB 이상 필요합니다"
+  },
+  {
+   "key": "dd227bede7a3",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C. 의\n시스템 데이터를 초기값으로 설정합니다\n다음 시스템 데이터 세이브에는\n⟦1⟧⟦2⟧⟦3⟧KB 이상 필요합니다"
+  },
+  {
+   "key": "2505bb4272bb",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C. 의\n시스템 데이터를 세이브하기 위한\n여유 공간이 부족합니다\n다음 시스템 데이터 세이브에는\n⟦1⟧⟦2⟧⟦3⟧KB 이상 필요합니다"
+  },
+  {
+   "key": "25a93a9de673",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C. 의\n시스템 데이터가 손상되었습니다\n시스템 데이터를 세이브하기 위한\n여유 공간이 부족합니다\n다음 시스템 데이터 세이브에는\n⟦1⟧⟦2⟧⟦3⟧KB 이상 필요합니다"
+  },
+  {
+   "key": "18185eb01481",
+   "speaker_korean": null,
+   "korean": "″PlayStation 2″ 본체의 전원 OFF나 리셋,\n″PlayStation 2″ 전용 메모리 카드(8MB)나\n컨트롤러의 연결 해제는 하지 마십시오\n또한, 디스크 트레이를 열지 마십시오"
+  },
+  {
+   "key": "12d9cb7ac7f3",
+   "speaker_korean": null,
+   "korean": "우주선 디플로"
+  },
+  {
+   "key": "d9b1e1524780",
+   "speaker_korean": null,
+   "korean": "수송선 래디시"
+  },
+  {
+   "key": "85f136d35db3",
+   "speaker_korean": null,
+   "korean": "4속성이 지배하는 미궁"
+  },
+  {
+   "key": "107508e4f7b4",
+   "speaker_korean": null,
+   "korean": "블록 퍼즐"
+  },
+  {
+   "key": "b6930937023d",
+   "speaker_korean": null,
+   "korean": "메모리 카드(PS2)가\n꽂혀 있지 않습니다\nStar Ocean Till the End of Time 의\n데이터를 세이브하려면\n메모리 카드(PS2)를\n꽂아 주십시오\n이대로 게임을 시작하시겠습니까?"
+  },
+  {
+   "key": "60cf2709f2ea",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time 의\n데이터를 세이브하려면\n여유 공간이 부족합니다\n⟦1⟧⟦2⟧⟦3⟧KB 이상 필요합니다"
+  },
+  {
+   "key": "ce4a92c02119",
+   "speaker_korean": null,
+   "korean": "지정된 삽입구에\n″PlayStation 2″ 전용 메모리 카드(8MB)가\n꽂혀 있지 않습니다"
+  },
+  {
+   "key": "1251bea3779a",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time 의\n데이터가 없습니다"
+  },
+  {
+   "key": "293ea29fd8ca",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time 의\n시스템 데이터가 손상되었습니다\n다음 시스템 데이터 세이브에는\n⟦1⟧⟦2⟧⟦3⟧KB 이상 필요합니다"
+  },
+  {
+   "key": "6b7e7e45b64b",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time 의\n시스템 데이터가 없습니다"
+  },
+  {
+   "key": "af0de42ca59c",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time 의\n시스템 데이터가 손상되었습니다"
+  },
+  {
+   "key": "5e7ed1d0b10c",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time 의\n시스템 데이터를 로드하지 않았습니다\n다음 시스템 데이터 세이브에는\n⟦1⟧⟦2⟧⟦3⟧KB 이상 필요합니다"
+  },
+  {
+   "key": "671015915a08",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time 의\n시스템 데이터를 초기값으로 설정합니다\n다음 시스템 데이터 세이브에는\n⟦1⟧⟦2⟧⟦3⟧KB 이상 필요합니다"
+  },
+  {
+   "key": "30cd1c45c762",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time 의\n시스템 데이터를 세이브하기 위한\n여유 공간이 부족합니다\n다음 시스템 데이터 세이브에는\n⟦1⟧⟦2⟧⟦3⟧KB 이상 필요합니다"
+  },
+  {
+   "key": "92e68a292141",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time 의\n시스템 데이터가 손상되었습니다\n시스템 데이터를 세이브하기 위한\n여유 공간이 부족합니다\n다음 시스템 데이터 세이브에는\n⟦1⟧⟦2⟧⟦3⟧KB 이상 필요합니다"
+  }
+ ]
+}

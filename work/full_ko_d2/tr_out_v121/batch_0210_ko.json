@@ -1,0 +1,350 @@
+{
+ "batch_id": "batch_0210",
+ "translations": [
+  {
+   "key": "ec42f9fd4aac",
+   "speaker_korean": "드래곤",
+   "korean": "「만에 하나도 있을 수 없는 소리로다!"
+  },
+  {
+   "key": "234748397e01",
+   "speaker_korean": "클리프",
+   "korean": "「⟦1⟧넬⟦2⟧, 이제 됐어\n이런 멍청한 놈은, 패서\n말 좀 듣게 하면 그만이야"
+  },
+  {
+   "key": "2e0930bd03c5",
+   "speaker_korean": "드래곤",
+   "korean": "크음… 귀공들, 인간으로서는\n제법이구나. ⟦1⟧템페스트⟦2⟧를 거느리다니,\n그놈보다 실력이 낫군. 이리 되면 본좌도\n오랜만에 진심을 내겠구나!!"
+  },
+  {
+   "key": "1dc6c119bead",
+   "speaker_korean": "페이트",
+   "korean": "「크네…"
+  },
+  {
+   "key": "23b20b341721",
+   "speaker_korean": "마리아",
+   "korean": "「쓸데없이 크네"
+  },
+  {
+   "key": "135166863da0",
+   "speaker_korean": "클리프",
+   "korean": "「이 녀석이 후작급\n박력이라는 건가"
+  },
+  {
+   "key": "b402c9ca61fd",
+   "speaker_korean": "넬",
+   "korean": "「순순히 말을 들어주면\n좋을 텐데 말이야…"
+  },
+  {
+   "key": "51a67d682485",
+   "speaker_korean": "알벨",
+   "korean": "「그리 쉽게 될 것 같으냐, 얼간아"
+  },
+  {
+   "key": "81a4d5209b40",
+   "speaker_korean": "넬",
+   "korean": "「뭐라고!?"
+  },
+  {
+   "key": "9658c1a55846",
+   "speaker_korean": "페이트",
+   "korean": "「응!?\n움직였어!?"
+  },
+  {
+   "key": "d3701b367246",
+   "speaker_korean": "드래곤",
+   "korean": "「본좌의 잠을 방해하는\n불경한 자가 누구냐?"
+  },
+  {
+   "key": "20c61811f4d5",
+   "speaker_korean": "클리프",
+   "korean": "「우와,\n용이 말을 하잖아!?"
+  },
+  {
+   "key": "0d2198f8a972",
+   "speaker_korean": "드래곤",
+   "korean": "「…예의를 모르는 놈이로군"
+  },
+  {
+   "key": "e0101160b574",
+   "speaker_korean": "드래곤",
+   "korean": "스스로를 만물의 영장이라 믿어 의심치 않는가\n어찌 다른 생물은 말을 모른다 여기느냐?\n⟦P⟧자신이 이해하지 못하는 것은\n없는 것으로 치부한다. 언제까지 지나도\n변하지 않는 자들이로군"
+  },
+  {
+   "key": "fdad3698f6a7",
+   "speaker_korean": "드래곤",
+   "korean": "「무녀의 나라 사람인가\n무엇이냐? 말해보아라"
+  },
+  {
+   "key": "4370d89547ee",
+   "speaker_korean": "넬",
+   "korean": "「예. 지금, 이 지역에 커다란 위협이\n밀려오고 있습니다\n그리고 그 위협에 맞서기 위해,\n부디 각하의 힘을 빌리고자 합니다"
+  },
+  {
+   "key": "93b4be1f5085",
+   "speaker_korean": "드래곤",
+   "korean": "「흥\n밖이 뭔가 소란스럽다 싶었더니 말이다\n한데, 본좌에게 무엇을 바라는 것이냐?"
+  },
+  {
+   "key": "b81ba37df256",
+   "speaker_korean": "넬",
+   "korean": "「우리나라가 개발한 ⟦1⟧시술병기⟦2⟧를\n각하의 몸에 실어, 위협에\n맞서 주셨으면 합니다"
+  },
+  {
+   "key": "cb74a7fd9c66",
+   "speaker_korean": "드래곤",
+   "korean": "…어리석은 것들! 본좌의 몸에\n인간이 만든 무언가를 얹는다고!?\n인간 주제에 까불지 마라!\n⟦P⟧본좌는, 수백 년의 세월을 살아온\n위대한 존재다. 그러한 헛소리를,\n받아들일 거라 생각하느냐!"
+  },
+  {
+   "key": "4d6ead76e3eb",
+   "speaker_korean": "넬",
+   "korean": "「하지만 말이야… 우리도 이대로\n순순히 물러설 수는 없다고!"
+  },
+  {
+   "key": "d0151a900e43",
+   "speaker_korean": "드래곤",
+   "korean": "「알 바 아니다!"
+  },
+  {
+   "key": "72791de1f9f0",
+   "speaker_korean": "알벨",
+   "korean": "「별일이군\n나도 너와 완전히 같은 생각이다"
+  },
+  {
+   "key": "168ae3a2a392",
+   "speaker_korean": "마리아",
+   "korean": "「인간이 대단한 존재가 아니라는 건\n동감이지만, 스스로 자신을 위대한\n존재라고 말하는 건 좀 그렇네\n약간 버릇을 고쳐줘야겠어"
+  },
+  {
+   "key": "a4fd42dada8e",
+   "speaker_korean": "페이트",
+   "korean": "「각하… 아무래도\n협력해 주실 수 없다는 겁니까?"
+  },
+  {
+   "key": "081c033191bb",
+   "speaker_korean": "드래곤",
+   "korean": "「우문이다!"
+  },
+  {
+   "key": "241bc32e980b",
+   "speaker_korean": "페이트",
+   "korean": "「어쩔 수 없군\n힘으로라도 말을\n듣게 만들겠어!"
+  },
+  {
+   "key": "cec6cc074b87",
+   "speaker_korean": "드래곤",
+   "korean": "「해볼 테면 해보아라!\n귀공들이 본좌를 납득시킨다면,\n무엇이든 말을 들어주마!"
+  },
+  {
+   "key": "f816b8bf5bdc",
+   "speaker_korean": "마리아",
+   "korean": "「말했겠다\n약속이야, 후작 각하!"
+  },
+  {
+   "key": "98802c63c2c3",
+   "speaker_korean": "드래곤",
+   "korean": "「크윽… 지상에 태어난 지 칠백 년\n설마 인간 따위에게 쓴맛을\n보게 될 줄이야"
+  },
+  {
+   "key": "36d0b9ffb3e2",
+   "speaker_korean": "마리아",
+   "korean": "「약속,\n지켜줄 거지?"
+  },
+  {
+   "key": "b99f95d90a86",
+   "speaker_korean": "드래곤",
+   "korean": "「인간에게 부림받는 건 굴욕이나,\n약속을 어기는 건 더러운 짓\n어쩔 수 없지"
+  },
+  {
+   "key": "85ee433e80d7",
+   "speaker_korean": "넬",
+   "korean": "「그럼 우리에게――――"
+  },
+  {
+   "key": "001dcd724ad9",
+   "speaker_korean": "드래곤",
+   "korean": "「본좌의 등에 타거라, 작으나 강한 자여\n어디든 데려다 주마"
+  },
+  {
+   "key": "0a3736d9183e",
+   "speaker_korean": "페이트",
+   "korean": "「음,\n뭐라고 부르면 좋을까?"
+  },
+  {
+   "key": "c21298c323ca",
+   "speaker_korean": "드래곤",
+   "korean": "「⟦1⟧크로셀⟦2⟧이라 부르면 된다,\n작은 자여"
+  },
+  {
+   "key": "2615aa951588",
+   "speaker_korean": "페이트",
+   "korean": "「그럼, ⟦1⟧크로셀⟦2⟧\n우선 동쪽의 ⟦3⟧시랜드 성⟦4⟧으로\n가 줄 수 있을까?"
+  },
+  {
+   "key": "902eb0954b82",
+   "speaker_korean": "크로셀",
+   "korean": "「알겠다!"
+  },
+  {
+   "key": "3fe1c9976d3b",
+   "speaker_korean": "넬",
+   "korean": "「저는 ⟦1⟧시하츠⟦2⟧의 첩보원,\n⟦3⟧넬・젤퍼⟦4⟧입니다\n이번에 후작 각하께 부탁이 있어,\n찾아뵈었습니다"
+  },
+  {
+   "key": "1c35c9c94482",
+   "speaker_korean": "페이트",
+   "korean": "「고귀한 용의 거처라고 하면…"
+  },
+  {
+   "key": "d8224cbf3498",
+   "speaker_korean": "클리프",
+   "korean": "「여기 맞지"
+  },
+  {
+   "key": "4fac1cd8e3a7",
+   "speaker_korean": "넬",
+   "korean": "「근데 역시 이거 곤란하지 않나…\n봉인이 풀려서 나오는 게\n재앙이라는 거잖아?"
+  },
+  {
+   "key": "8390f2104159",
+   "speaker_korean": "소피아",
+   "korean": "「그래도 역시 곤란하지 않을까…\n봉인이 풀려서 나오는 게\n재앙이라는 거지?"
+  },
+  {
+   "key": "672847e8d2ad",
+   "speaker_korean": "클리프",
+   "korean": "「하긴 보주 이야기가\n그런 느낌이긴 했지"
+  },
+  {
+   "key": "c0c57fed18c3",
+   "speaker_korean": "클리프",
+   "korean": "「일단 보주를 빛에 비춰봐\n분명 뭔가 일어날 거야"
+  },
+  {
+   "key": "8b402719079c",
+   "speaker_korean": "넬",
+   "korean": "「어이,\n정말로 할 거야!?"
+  },
+  {
+   "key": "05d9f3b151d5",
+   "speaker_korean": "소피아",
+   "korean": "「어!\n정말로 하는 거야!?"
+  },
+  {
+   "key": "3c543f652e3c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・보주를 빛에 비춰본다"
+  },
+  {
+   "key": "81407a981f8c",
+   "speaker_korean": "넬",
+   "korean": "「근데, 저번 파란 갑옷 소녀보다,\n더 위험한 느낌이 들어!"
+  },
+  {
+   "key": "7ec2b8375411",
+   "speaker_korean": "마리아",
+   "korean": "「근데, 저번 파란 갑옷 꼬마보다,\n더 위험한 느낌이 드는걸!"
+  },
+  {
+   "key": "a391daeb1d20",
+   "speaker_korean": "?프레이",
+   "korean": "「나는 이 세상 전부를 파괴한다\n그리고 그 잔해 위에 내가 새로운 세계\n발할라를 세우겠다!"
+  },
+  {
+   "key": "6b1206fd83de",
+   "speaker_korean": "?프레이",
+   "korean": "「너희들의 그 힘이 있다면\n새로운 세계 발할라를 세우는 건 꿈이 아니야…\n나는… 포기하지 않아!"
+  },
+  {
+   "key": "52a8b0d51ede",
+   "speaker_korean": "페이트",
+   "korean": "「보주는 부서지지 않고 남았네\n혹시 몇 번이고 그 아이를\n불러낼 수 있는 거 아닐까…"
+  },
+  {
+   "key": "5487b3423679",
+   "speaker_korean": "페이트",
+   "korean": "「…뭐, 뭔가 또 애야?"
+  },
+  {
+   "key": "6cdbde3ad280",
+   "speaker_korean": "클리프",
+   "korean": "「그보다,\n보통 이렇게까지 하냐!?"
+  },
+  {
+   "key": "2c37d615734b",
+   "speaker_korean": "알벨",
+   "korean": "「…흥, 너희들이냐\n대체 이런 곳엔 무슨 일이지?"
+  },
+  {
+   "key": "31f7221ecf5a",
+   "speaker_korean": "페이트",
+   "korean": "「네가 여기 있다고 들어서\n잠깐 들러본 거야"
+  },
+  {
+   "key": "d7e0d94ff381",
+   "speaker_korean": "알벨",
+   "korean": "「별난 짓을 하는군"
+  },
+  {
+   "key": "689dff927ee2",
+   "speaker_korean": "페이트",
+   "korean": "「너, 이런 곳에서\n뭘 하고 있는 거야?"
+  },
+  {
+   "key": "b1d4526f2c73",
+   "speaker_korean": "알벨",
+   "korean": "「너한테 말할 필요는 없잖아, 얼간아"
+  },
+  {
+   "key": "eebebe677cde",
+   "speaker_korean": "클리프",
+   "korean": "「너 말이야…"
+  },
+  {
+   "key": "e0cb05c506ea",
+   "speaker_korean": "마리아",
+   "korean": "「여전하네…"
+  },
+  {
+   "key": "f7c1b4a1e6b1",
+   "speaker_korean": "알벨",
+   "korean": "「뭐냐… 빌어먹을 벌레가"
+  },
+  {
+   "key": "bb7c346b2240",
+   "speaker_korean": "알벨",
+   "korean": "「무, 무슨 멍청한 소리를\n지껄이는 거냐! 닥쳐!!"
+  },
+  {
+   "key": "b48e66ef1f6d",
+   "speaker_korean": "클리프",
+   "korean": "「근데 비밀 특훈이란 건가\n캐릭터랑 안 어울리는 짓을 하네"
+  },
+  {
+   "key": "8a274291340e",
+   "speaker_korean": "알벨",
+   "korean": "「시끄러, 외부인은 닥치고 있어…\n빌어먹을 벌레가"
+  },
+  {
+   "key": "b04136717bf3",
+   "speaker_korean": "클리프",
+   "korean": "「오, 무서워라"
+  },
+  {
+   "key": "e834b56eb942",
+   "speaker_korean": "알벨",
+   "korean": "「쳇… 그런 거다\n들켜버린 이상,\n네놈이 상대해 줘야겠다"
+  },
+  {
+   "key": "6eb77872eb2a",
+   "speaker_korean": "페이트",
+   "korean": "「어, 어어?\n자, 잠깐만 기다려…\n왜 너랑 싸울 필요가 있는 거야?"
+  },
+  {
+   "key": "abca7ffee6a6",
+   "speaker_korean": "페이트",
+   "korean": "「그러니까, 그게 무슨 의미가\n있냐고!?"
+  }
+ ]
+}

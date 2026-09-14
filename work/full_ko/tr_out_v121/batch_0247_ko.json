@@ -1,0 +1,695 @@
+{
+ "batch_id": "batch_0247",
+ "translations": [
+  {
+   "key": "228dc84bc19e",
+   "speaker_korean": null,
+   "korean": "FD루시퍼 LV10 격파"
+  },
+  {
+   "key": "2ee83511a695",
+   "speaker_korean": null,
+   "korean": "가브리에 격파"
+  },
+  {
+   "key": "71aa4897fc2e",
+   "speaker_korean": null,
+   "korean": "가브리에 노데미지 승리"
+  },
+  {
+   "key": "6e809b197324",
+   "speaker_korean": null,
+   "korean": "가브리에 5분 격파"
+  },
+  {
+   "key": "cf3970c7d356",
+   "speaker_korean": null,
+   "korean": "유니버스 가브리에 격파"
+  },
+  {
+   "key": "579233922469",
+   "speaker_korean": null,
+   "korean": "유니버스 가브리에 노데미지 승리"
+  },
+  {
+   "key": "cd9a41acc4ee",
+   "speaker_korean": null,
+   "korean": "유니버스 가브리에 8분 격파"
+  },
+  {
+   "key": "52a54b3c87d5",
+   "speaker_korean": null,
+   "korean": "FD가브리에 격파"
+  },
+  {
+   "key": "edba4fe7c6ea",
+   "speaker_korean": null,
+   "korean": "FD가브리에 노데미지 승리"
+  },
+  {
+   "key": "c962802fba01",
+   "speaker_korean": null,
+   "korean": "FD가브리에 10분 격파"
+  },
+  {
+   "key": "e72873df254e",
+   "speaker_korean": null,
+   "korean": "이세리아 격파"
+  },
+  {
+   "key": "98d2dae242eb",
+   "speaker_korean": null,
+   "korean": "이세리아 노데미지 승리"
+  },
+  {
+   "key": "6c5a4e034ab3",
+   "speaker_korean": null,
+   "korean": "이세리아 10분 격파"
+  },
+  {
+   "key": "c6e065b91684",
+   "speaker_korean": null,
+   "korean": "유니버스 이세리아 격파"
+  },
+  {
+   "key": "ae5c1d205539",
+   "speaker_korean": null,
+   "korean": "유니버스 이세리아 노데미지 승리"
+  },
+  {
+   "key": "8660f3c2b9a7",
+   "speaker_korean": null,
+   "korean": "유니버스 이세리아 15분 격파"
+  },
+  {
+   "key": "4f08e71ce59c",
+   "speaker_korean": null,
+   "korean": "FD이세리아 격파"
+  },
+  {
+   "key": "a026aa9c50e2",
+   "speaker_korean": null,
+   "korean": "FD이세리아 노데미지 승리"
+  },
+  {
+   "key": "293e778e1ef2",
+   "speaker_korean": null,
+   "korean": "FD이세리아 20분 격파"
+  },
+  {
+   "key": "c5fcd84aa1b7",
+   "speaker_korean": null,
+   "korean": "레나스 격파"
+  },
+  {
+   "key": "d7565846f243",
+   "speaker_korean": null,
+   "korean": "레나스 노데미지 승리"
+  },
+  {
+   "key": "44b6fb916f19",
+   "speaker_korean": null,
+   "korean": "레나스 10분 격파"
+  },
+  {
+   "key": "7fd290cc2f58",
+   "speaker_korean": null,
+   "korean": "유니버스 레나스 격파"
+  },
+  {
+   "key": "5230bc1114ec",
+   "speaker_korean": null,
+   "korean": "유니버스 레나스 노데미지 승리"
+  },
+  {
+   "key": "307341a7d9de",
+   "speaker_korean": null,
+   "korean": "유니버스 레나스 15분 격파"
+  },
+  {
+   "key": "48c43ed6e054",
+   "speaker_korean": null,
+   "korean": "FD레나스 격파"
+  },
+  {
+   "key": "dd62961c9f01",
+   "speaker_korean": null,
+   "korean": "FD레나스 노데미지 승리"
+  },
+  {
+   "key": "13e45fbde37b",
+   "speaker_korean": null,
+   "korean": "FD레나스 20분 격파"
+  },
+  {
+   "key": "24929961c058",
+   "speaker_korean": null,
+   "korean": "프레이 격파"
+  },
+  {
+   "key": "a1a4f2590baa",
+   "speaker_korean": null,
+   "korean": "프레이 노데미지 승리"
+  },
+  {
+   "key": "78db20a4498e",
+   "speaker_korean": null,
+   "korean": "프레이 15분 격파"
+  },
+  {
+   "key": "5022203a5b14",
+   "speaker_korean": null,
+   "korean": "유니버스 프레이 격파"
+  },
+  {
+   "key": "ab8130b1bde3",
+   "speaker_korean": null,
+   "korean": "유니버스 프레이 노데미지 승리"
+  },
+  {
+   "key": "4a29f15b7db7",
+   "speaker_korean": null,
+   "korean": "유니버스 프레이 20분 격파"
+  },
+  {
+   "key": "b4e6b34d2907",
+   "speaker_korean": null,
+   "korean": "FD프레이 격파"
+  },
+  {
+   "key": "8bdcd977c43f",
+   "speaker_korean": null,
+   "korean": "FD프레이 노데미지 승리"
+  },
+  {
+   "key": "4de8fe078d57",
+   "speaker_korean": null,
+   "korean": "FD프레이 60분 격파"
+  },
+  {
+   "key": "f716fb1ea616",
+   "speaker_korean": null,
+   "korean": "가브리에 도발 10"
+  },
+  {
+   "key": "0aedb8239a66",
+   "speaker_korean": null,
+   "korean": "이세리아 도발 10"
+  },
+  {
+   "key": "9cf4ca57fb06",
+   "speaker_korean": null,
+   "korean": "진심 복스 격파"
+  },
+  {
+   "key": "52bb2b37cf46",
+   "speaker_korean": null,
+   "korean": "진심 복스에게서 아이템 입수"
+  },
+  {
+   "key": "fc37ed52a21a",
+   "speaker_korean": null,
+   "korean": "진심 복스에게 프로텍트"
+  },
+  {
+   "key": "7499b4a32bd2",
+   "speaker_korean": null,
+   "korean": "진심 복스에게 카운터 오라"
+  },
+  {
+   "key": "3db99051f569",
+   "speaker_korean": null,
+   "korean": "진심 복스에게 프로텍트 브레이크"
+  },
+  {
+   "key": "44f86fea196b",
+   "speaker_korean": null,
+   "korean": "총 전투시간 5시간"
+  },
+  {
+   "key": "2f73377882bd",
+   "speaker_korean": null,
+   "korean": "총 전투시간 50시간"
+  },
+  {
+   "key": "e40b9c375e43",
+   "speaker_korean": null,
+   "korean": "총 전투시간 100시간"
+  },
+  {
+   "key": "4c77d1006ece",
+   "speaker_korean": null,
+   "korean": "약공격 온리 승리"
+  },
+  {
+   "key": "3e54d042185d",
+   "speaker_korean": null,
+   "korean": "루시퍼 약공격 온리 승리"
+  },
+  {
+   "key": "99b9d909fde0",
+   "speaker_korean": null,
+   "korean": "이세리아 약공격 온리 승리"
+  },
+  {
+   "key": "026c92d36ae1",
+   "speaker_korean": null,
+   "korean": "프레이 약공격 온리 승리"
+  },
+  {
+   "key": "141d65ea2be1",
+   "speaker_korean": null,
+   "korean": "강공격 온리 승리"
+  },
+  {
+   "key": "2a02fbc5b464",
+   "speaker_korean": null,
+   "korean": "루시퍼 강공격 온리 승리"
+  },
+  {
+   "key": "3420108012b3",
+   "speaker_korean": null,
+   "korean": "가브리에 강공격 온리 승리"
+  },
+  {
+   "key": "a66436df3e7f",
+   "speaker_korean": null,
+   "korean": "레나스 강공격 온리 승리"
+  },
+  {
+   "key": "c03f27e0ea7a",
+   "speaker_korean": null,
+   "korean": "카운터 오라 온리 승리"
+  },
+  {
+   "key": "19b1a311ade3",
+   "speaker_korean": null,
+   "korean": "루시퍼 카운터 오라 온리 승리"
+  },
+  {
+   "key": "b5fad1e12957",
+   "speaker_korean": null,
+   "korean": "가브리에 카운터 오라 온리 승리"
+  },
+  {
+   "key": "b525fe1a2fb7",
+   "speaker_korean": null,
+   "korean": "이세리아 카운터 오라 온리 승리"
+  },
+  {
+   "key": "fc209ec136db",
+   "speaker_korean": null,
+   "korean": "아이템 온리 승리"
+  },
+  {
+   "key": "dfb082fcb6d5",
+   "speaker_korean": null,
+   "korean": "알벨1 아이템 온리 승리"
+  },
+  {
+   "key": "8201e228e394",
+   "speaker_korean": null,
+   "korean": "알벨2 아이템 온리 승리"
+  },
+  {
+   "key": "bed66b5b15e7",
+   "speaker_korean": null,
+   "korean": "알벨3 아이템 온리 승리"
+  },
+  {
+   "key": "aebd6774bf25",
+   "speaker_korean": null,
+   "korean": "문장술 온리 승리"
+  },
+  {
+   "key": "888e5ac908a4",
+   "speaker_korean": null,
+   "korean": "루시퍼 문장술 온리 승리"
+  },
+  {
+   "key": "2f8e4f6f775b",
+   "speaker_korean": null,
+   "korean": "가브리에 문장술 온리 승리"
+  },
+  {
+   "key": "d8452c52d5a3",
+   "speaker_korean": null,
+   "korean": "레나스 문장술 온리 승리"
+  },
+  {
+   "key": "9aea20344e43",
+   "speaker_korean": null,
+   "korean": "차지 온리 승리"
+  },
+  {
+   "key": "712d70c341ef",
+   "speaker_korean": null,
+   "korean": "루시퍼 차지 온리 승리"
+  },
+  {
+   "key": "c33b301789da",
+   "speaker_korean": null,
+   "korean": "가브리에 차지 온리 승리"
+  },
+  {
+   "key": "5b8f652601c2",
+   "speaker_korean": null,
+   "korean": "레나스 차지 온리 승리"
+  },
+  {
+   "key": "1a74f8fc3781",
+   "speaker_korean": null,
+   "korean": "배틀스킬 온리 승리"
+  },
+  {
+   "key": "7f964c5b1e4c",
+   "speaker_korean": null,
+   "korean": "루시퍼 배틀스킬 온리 승리"
+  },
+  {
+   "key": "8ff20630e75c",
+   "speaker_korean": null,
+   "korean": "이세리아 배틀스킬 온리 승리"
+  },
+  {
+   "key": "4fa1bc6b9064",
+   "speaker_korean": null,
+   "korean": "프레이 배틀스킬 온리 승리"
+  },
+  {
+   "key": "03d460d8e9da",
+   "speaker_korean": null,
+   "korean": "단독 전투 승리"
+  },
+  {
+   "key": "e4fe0758ba8f",
+   "speaker_korean": null,
+   "korean": "루시퍼 단독 전투 승리"
+  },
+  {
+   "key": "4510858430a0",
+   "speaker_korean": null,
+   "korean": "가브리에 단독 전투 승리"
+  },
+  {
+   "key": "e8b000962759",
+   "speaker_korean": null,
+   "korean": "이세리아 단독 전투 승리"
+  },
+  {
+   "key": "1f0037d7aa82",
+   "speaker_korean": null,
+   "korean": "레나스 단독 전투 승리"
+  },
+  {
+   "key": "7866c2dc71dc",
+   "speaker_korean": null,
+   "korean": "프레이 단독 전투 승리"
+  },
+  {
+   "key": "689779a3b4b8",
+   "speaker_korean": null,
+   "korean": "루시퍼 맨몸 승리"
+  },
+  {
+   "key": "8f334bb9d91a",
+   "speaker_korean": null,
+   "korean": "파이어볼트 회피"
+  },
+  {
+   "key": "611140d2502a",
+   "speaker_korean": null,
+   "korean": "메탈친케 격파"
+  },
+  {
+   "key": "24c1ebe56b8a",
+   "speaker_korean": null,
+   "korean": "좀도둑 LV99 격파"
+  },
+  {
+   "key": "0ca700a408e4",
+   "speaker_korean": null,
+   "korean": "몬자라고라 조우"
+  },
+  {
+   "key": "9c3e54b6ee98",
+   "speaker_korean": null,
+   "korean": "몬자라고라 격파"
+  },
+  {
+   "key": "a907186aaac0",
+   "speaker_korean": null,
+   "korean": "연속 3회 Guts 생존"
+  },
+  {
+   "key": "baeb2c6864d0",
+   "speaker_korean": null,
+   "korean": "연속 5회 Guts 생존"
+  },
+  {
+   "key": "0260ff068f95",
+   "speaker_korean": null,
+   "korean": "연속 10회 Guts 생존"
+  },
+  {
+   "key": "72495d3ba7f1",
+   "speaker_korean": null,
+   "korean": "연속 15회 Guts 생존"
+  },
+  {
+   "key": "884493914f2f",
+   "speaker_korean": null,
+   "korean": "HP회복777"
+  },
+  {
+   "key": "259cc51542b6",
+   "speaker_korean": null,
+   "korean": "HP회복7777"
+  },
+  {
+   "key": "c74d4530761f",
+   "speaker_korean": null,
+   "korean": "HP회복77777"
+  },
+  {
+   "key": "e19719448300",
+   "speaker_korean": null,
+   "korean": "남은HP77777"
+  },
+  {
+   "key": "37c7e4c3c674",
+   "speaker_korean": null,
+   "korean": "데미지 111"
+  },
+  {
+   "key": "b64bbdbca496",
+   "speaker_korean": null,
+   "korean": "데미지 222"
+  },
+  {
+   "key": "a5f25222466b",
+   "speaker_korean": null,
+   "korean": "데미지 333"
+  },
+  {
+   "key": "81d3155d10b8",
+   "speaker_korean": null,
+   "korean": "데미지 555"
+  },
+  {
+   "key": "3d04856e6b5a",
+   "speaker_korean": null,
+   "korean": "데미지 777"
+  },
+  {
+   "key": "b3f3374ac9e2",
+   "speaker_korean": null,
+   "korean": "데미지 5555"
+  },
+  {
+   "key": "9c5e9673aea8",
+   "speaker_korean": null,
+   "korean": "데미지 7777"
+  },
+  {
+   "key": "791019142b7a",
+   "speaker_korean": null,
+   "korean": "데미지 77777"
+  },
+  {
+   "key": "72543b61b64f",
+   "speaker_korean": null,
+   "korean": "럭키스타 10회 획득"
+  },
+  {
+   "key": "b73a0f39afd9",
+   "speaker_korean": null,
+   "korean": "럭키스타 30회 획득"
+  },
+  {
+   "key": "bae1d315f42d",
+   "speaker_korean": null,
+   "korean": "연속 노데미지 승리 수 10"
+  },
+  {
+   "key": "8c8c636cb5df",
+   "speaker_korean": null,
+   "korean": "연속 노데미지 승리 수 50"
+  },
+  {
+   "key": "63832c8354f9",
+   "speaker_korean": null,
+   "korean": "연속 노데미지 승리 수 100"
+  },
+  {
+   "key": "f71e3f9a5baf",
+   "speaker_korean": null,
+   "korean": "연속 단독전투 50"
+  },
+  {
+   "key": "770fc28c83d2",
+   "speaker_korean": null,
+   "korean": "연속 단독전투 100"
+  },
+  {
+   "key": "caca038ebc4f",
+   "speaker_korean": null,
+   "korean": "연속 단독전투 500"
+  },
+  {
+   "key": "188e6fa34cfc",
+   "speaker_korean": null,
+   "korean": "파이어볼트 회피수 10"
+  },
+  {
+   "key": "2eeb9bbdd71c",
+   "speaker_korean": null,
+   "korean": "파이어볼트 회피수 50"
+  },
+  {
+   "key": "4c049fbe7aeb",
+   "speaker_korean": null,
+   "korean": "연속 피니시 어택 수 10"
+  },
+  {
+   "key": "cc526719885f",
+   "speaker_korean": null,
+   "korean": "연속 피니시 어택 수 50"
+  },
+  {
+   "key": "405a3994a4e2",
+   "speaker_korean": null,
+   "korean": "연속 레벨업 수 5"
+  },
+  {
+   "key": "d5d6af3fe142",
+   "speaker_korean": null,
+   "korean": "연속 레벨업 수 10"
+  },
+  {
+   "key": "6e7e6d2ea675",
+   "speaker_korean": null,
+   "korean": "연속 레벨업 수 20"
+  },
+  {
+   "key": "edfa788135ed",
+   "speaker_korean": null,
+   "korean": "연속 프로텍트 성공 수 10"
+  },
+  {
+   "key": "1395c4a4a06a",
+   "speaker_korean": null,
+   "korean": "연속 프로텍트 성공 수 50"
+  },
+  {
+   "key": "1e9192da0492",
+   "speaker_korean": null,
+   "korean": "연속 프로텍트 성공 수 100"
+  },
+  {
+   "key": "1de5f8b743fc",
+   "speaker_korean": null,
+   "korean": "연속 프로텍트 성공 수 200"
+  },
+  {
+   "key": "69a5fcb26276",
+   "speaker_korean": null,
+   "korean": "연속 프로텍트 성공 수 500"
+  },
+  {
+   "key": "206a49f0e047",
+   "speaker_korean": null,
+   "korean": "연속 백어택 수 5"
+  },
+  {
+   "key": "ecc0290cd71b",
+   "speaker_korean": null,
+   "korean": "연속 서라운드 어택 수 5"
+  },
+  {
+   "key": "5d530822541d",
+   "speaker_korean": null,
+   "korean": "연속 레이드 어택 수 5"
+  },
+  {
+   "key": "86addb4e9f16",
+   "speaker_korean": null,
+   "korean": "연속 아이템 입수 10"
+  },
+  {
+   "key": "b38f6939dc47",
+   "speaker_korean": null,
+   "korean": "연속 일격수10"
+  },
+  {
+   "key": "c011e7ce5766",
+   "speaker_korean": null,
+   "korean": "연속 일격수30"
+  },
+  {
+   "key": "a4e69d5b6bb6",
+   "speaker_korean": null,
+   "korean": "연속 일격수50"
+  },
+  {
+   "key": "614d9cef1e45",
+   "speaker_korean": null,
+   "korean": "연속 도주수31"
+  },
+  {
+   "key": "990938983313",
+   "speaker_korean": null,
+   "korean": "연속 0데미지 30"
+  },
+  {
+   "key": "8cf606344446",
+   "speaker_korean": null,
+   "korean": "연속 0데미지 50"
+  },
+  {
+   "key": "8feb19032b8e",
+   "speaker_korean": null,
+   "korean": "이세리아 5회 격파"
+  },
+  {
+   "key": "5eb29227f338",
+   "speaker_korean": null,
+   "korean": "프레이 5회 격파"
+  },
+  {
+   "key": "187430226a21",
+   "speaker_korean": null,
+   "korean": "공주·기사 격파"
+  },
+  {
+   "key": "85200d3d9f8a",
+   "speaker_korean": null,
+   "korean": "악랄 태그 격파"
+  },
+  {
+   "key": "4893b48d8ec9",
+   "speaker_korean": null,
+   "korean": "호피 콤비 격파"
+  }
+ ]
+}

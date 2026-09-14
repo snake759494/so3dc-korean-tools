@@ -1,0 +1,595 @@
+{
+ "batch_id": "batch_0292",
+ "translations": [
+  {
+   "key": "f95e823b3b4f",
+   "speaker_korean": null,
+   "korean": "초중력장을 만들어 적의 이동 속도를\n낮추는 주문"
+  },
+  {
+   "key": "06cbf08c6106",
+   "speaker_korean": null,
+   "korean": "적의 주문 영창을 막는 주문"
+  },
+  {
+   "key": "6ffdf05f9eee",
+   "speaker_korean": null,
+   "korean": "아군 한 명의 주문 피해를\n반감시키는 주문"
+  },
+  {
+   "key": "b396fcd189e0",
+   "speaker_korean": null,
+   "korean": "적의 방어력을 낮추는 주문"
+  },
+  {
+   "key": "41a87cdd99d4",
+   "speaker_korean": null,
+   "korean": "거대한 물체를 떨어뜨려\n적을 짓누르는 주문"
+  },
+  {
+   "key": "b32bcdec2837",
+   "speaker_korean": null,
+   "korean": "검에 일정 시간 화염의 힘을 부여한다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "c59fb70563dd",
+   "speaker_korean": null,
+   "korean": "광속검. 발동은 공격 버튼을 계속 누른다\n발동 후 연타하면 공격 횟수가 늘어난다"
+  },
+  {
+   "key": "0385f0e409d2",
+   "speaker_korean": null,
+   "korean": "재빠른 사이드스텝에서 이어지는 발차기\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "58f056a82f33",
+   "speaker_korean": null,
+   "korean": "검에 일정 시간 얼음의 힘을 부여한다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "1a7427fef845",
+   "speaker_korean": null,
+   "korean": "검에 일정 시간 번개의 힘을 부여한다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "67991bd0e1b4",
+   "speaker_korean": null,
+   "korean": "근거리 작렬탄\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "d2e95ad4d054",
+   "speaker_korean": null,
+   "korean": "대공 급습\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "d1fad53c1abf",
+   "speaker_korean": null,
+   "korean": "검에 일정 시간 성스러운 힘을 부여한다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "10b3ba91f940",
+   "speaker_korean": null,
+   "korean": "소멸출현베기\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "f87c6dc940fb",
+   "speaker_korean": null,
+   "korean": "초파동 방사\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "7bf271e806b1",
+   "speaker_korean": null,
+   "korean": "결정기"
+  },
+  {
+   "key": "80391df59762",
+   "speaker_korean": null,
+   "korean": "가시광선 레이저로 조준 공격\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "298034a9eb68",
+   "speaker_korean": null,
+   "korean": "확산 레이저\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "5715340bcf44",
+   "speaker_korean": null,
+   "korean": "레이저로 옆으로 후려친다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "c6ac48e90f9b",
+   "speaker_korean": null,
+   "korean": "적을 공중으로 걷어찬다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "beb7ddc5a4db",
+   "speaker_korean": null,
+   "korean": "짧은 레이저를 일정 범위에 연사\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "a021505aeac2",
+   "speaker_korean": null,
+   "korean": "근거리 광범위에 전자파를 발사\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "d22ba3665406",
+   "speaker_korean": null,
+   "korean": "발차기 3연속 공격\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "f644dd0592d6",
+   "speaker_korean": null,
+   "korean": "비행 속도가 느린 에너지탄을 발사\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "23cce121648a",
+   "speaker_korean": null,
+   "korean": "굵은 레이저를 조사\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "bffe180fd2c8",
+   "speaker_korean": null,
+   "korean": "공중에 공격 유닛을 발사\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "92996d51a92e",
+   "speaker_korean": null,
+   "korean": "근거리에 에너지파를 발생시킨다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "6dba9feb63f8",
+   "speaker_korean": null,
+   "korean": "두 손을 모아 위에서 내리찍는 공격\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "5a9838fd42cf",
+   "speaker_korean": null,
+   "korean": "화염 오라를 두른 몸통 박치기\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "e48914e5083b",
+   "speaker_korean": null,
+   "korean": "팔 공격 계열 연속 공격\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "398b83280a42",
+   "speaker_korean": null,
+   "korean": "공중에서 목표를 향해 강습한다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "5619147ffd4a",
+   "speaker_korean": null,
+   "korean": "펀치 초연속기\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "4dc226b652d7",
+   "speaker_korean": null,
+   "korean": "어퍼 계열 연속기\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "fff856c9caad",
+   "speaker_korean": null,
+   "korean": "펀치 계열 연속기\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "4bac7a9d80f3",
+   "speaker_korean": null,
+   "korean": "발차기 난무\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "c20e9c0fb9fe",
+   "speaker_korean": null,
+   "korean": "파동 계열 일격기\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "d3a2b9dd4ee5",
+   "speaker_korean": null,
+   "korean": "전방에 독성 연막을 친다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "eb6a3b0739d0",
+   "speaker_korean": null,
+   "korean": "전방에 가늘고 긴 충격파를 발생시킨다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "c20a78febfde",
+   "speaker_korean": null,
+   "korean": "초저공 비행 충격파 발생\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "9557bc4fee38",
+   "speaker_korean": null,
+   "korean": "검을 겨누고 검끝에서 전광을 발사\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "6e5583827ceb",
+   "speaker_korean": null,
+   "korean": "자신 주위에 일정 시간 회오리를 발생시킨다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "f78e6a81f3f0",
+   "speaker_korean": null,
+   "korean": "얼음 쿠나이를 동시에 세 자루 던진다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "00e1db6036e2",
+   "speaker_korean": null,
+   "korean": "검을 부메랑처럼 던진다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "e5f8ec7b4f5c",
+   "speaker_korean": null,
+   "korean": "짧은 검의 연속기\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "bb35ac09ce51",
+   "speaker_korean": null,
+   "korean": "뇌광을 발사\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "7709733aeb98",
+   "speaker_korean": null,
+   "korean": "나찰 같은 맹공으로 적을 멸살하는 최종 오의\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "e9ef4da32576",
+   "speaker_korean": null,
+   "korean": "적에 충격파 발사\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "565870120ad2",
+   "speaker_korean": null,
+   "korean": "자신 주위에 충격파를 발생시킨다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "8cc4201ef386",
+   "speaker_korean": null,
+   "korean": "의수 손바닥에서 파동을 발사\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "ec49cf22a972",
+   "speaker_korean": null,
+   "korean": "올려베기와 내려베기의 2단 기술\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "dc36810c1829",
+   "speaker_korean": null,
+   "korean": "투기를 구현화한 드래곤으로 공격\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "e138908e665e",
+   "speaker_korean": null,
+   "korean": "손에 오라를 둘러 난도질한다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "c6077635d077",
+   "speaker_korean": null,
+   "korean": "손에서 오라의 벽을 만들어낸다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "baaf4fb3bf83",
+   "speaker_korean": null,
+   "korean": "일정 범위 적의 HP와 MP를 흡수한다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "0f7e98917f31",
+   "speaker_korean": null,
+   "korean": "쌍파참 계열 난무기\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "baf4041bb742",
+   "speaker_korean": null,
+   "korean": "공파참 계열 난무기\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "944edc7f9413",
+   "speaker_korean": null,
+   "korean": "오라를 뿜어 칼날이 거대해진 후 벤다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "fbbce7c1456d",
+   "speaker_korean": null,
+   "korean": "이동 중 자동으로 지뢰를 뿌린다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "2d2cb9871ca5",
+   "speaker_korean": null,
+   "korean": "숨긴 전자 채찍으로 공격\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "765fda719a02",
+   "speaker_korean": null,
+   "korean": "혼자 하는 삼위일체 기술\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "2677de044793",
+   "speaker_korean": null,
+   "korean": "발톱 달린 팔이 늘어난다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "d3d18519ff18",
+   "speaker_korean": null,
+   "korean": "머리로 돌진하는 몸통 박치기\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "17cfbe036532",
+   "speaker_korean": null,
+   "korean": "헬멧에서 빔을 발사한다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "0bb74c8ae5a0",
+   "speaker_korean": null,
+   "korean": "비행충 세 마리가 각각 공격\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "aeb07b1f2646",
+   "speaker_korean": null,
+   "korean": "미사일을 초연사\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "5ceee747b599",
+   "speaker_korean": null,
+   "korean": "우주에서 의문의 물체가 낙하\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "b8a293d57930",
+   "speaker_korean": null,
+   "korean": "공중에 생긴 얼음 칼날 네 개로 공격\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "c22b0c31aed7",
+   "speaker_korean": null,
+   "korean": "일정 범위 동료의 공격력을 올린다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "c78c3bff3be3",
+   "speaker_korean": null,
+   "korean": "일정 범위 동료의 HP를 회복한다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "9f765dd6dca0",
+   "speaker_korean": null,
+   "korean": "일정 범위 동료의 MP를 회복한다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "1dc6711e3aba",
+   "speaker_korean": null,
+   "korean": "일정 범위 적의 방향 감각을 흐트러뜨린다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "8f12703b5dd3",
+   "speaker_korean": null,
+   "korean": "낙원의 귀여운 요정을 소환한다\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "6ffdc9699e62",
+   "speaker_korean": null,
+   "korean": "매직 루어를 이용한 공격\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "eb00d8de039b",
+   "speaker_korean": null,
+   "korean": "초고속 충격탄을 발사\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "1169aa7a5b8d",
+   "speaker_korean": null,
+   "korean": "그녀만의 연속 공격\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "6d379f168531",
+   "speaker_korean": null,
+   "korean": "하늘 높이 솟아 불꽃과 함께 지상으로 돌격\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "bab814bf0075",
+   "speaker_korean": null,
+   "korean": "이세계에 사는 거인을 소환해 공격\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "ad7517edd43a",
+   "speaker_korean": null,
+   "korean": "넘치는 기백으로 적에게 돌진\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "9def4ad74d47",
+   "speaker_korean": null,
+   "korean": "얼어붙은 바다에 사는 거대한 상어를 소환\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "57fbaf0e8584",
+   "speaker_korean": null,
+   "korean": "근성으로 에너지 덩어리를 만들어 공격\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "c30d237f5e30",
+   "speaker_korean": null,
+   "korean": "아드레이 : 필살기 6"
+  },
+  {
+   "key": "3067015c722e",
+   "speaker_korean": null,
+   "korean": "아드레이 : 필살기 7"
+  },
+  {
+   "key": "74835619cc59",
+   "speaker_korean": null,
+   "korean": "아드레이 : 필살기 8"
+  },
+  {
+   "key": "262786a91fc1",
+   "speaker_korean": null,
+   "korean": "아드레이 : 필살기 9"
+  },
+  {
+   "key": "ba8d94f7ac15",
+   "speaker_korean": null,
+   "korean": "아드레이 : 필살기 10"
+  },
+  {
+   "key": "627fca8b81c2",
+   "speaker_korean": null,
+   "korean": "아드레이 : 결정기 11"
+  },
+  {
+   "key": "8529d33a9001",
+   "speaker_korean": null,
+   "korean": "돌진 계열 연속기\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "646d1584a736",
+   "speaker_korean": null,
+   "korean": "돌진 후 기합탄의 다단 공격\n연타하면 탄을 연사한다"
+  },
+  {
+   "key": "3d193cacd9e9",
+   "speaker_korean": null,
+   "korean": "미라쥬 : 결정기 11"
+  },
+  {
+   "key": "360b6b79707b",
+   "speaker_korean": null,
+   "korean": "적에게 몸통 박치기. 근거리 전용\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "664f688b39ed",
+   "speaker_korean": null,
+   "korean": "대공 공격. 근거리 전용\n발동하려면 공격 버튼을 계속 누른다"
+  },
+  {
+   "key": "3cd36ac9cbae",
+   "speaker_korean": null,
+   "korean": "피해를 받으면서도 공격이 가능하다\n발동은 적과 근접 시 방향키를 누른다"
+  },
+  {
+   "key": "795ea9020436",
+   "speaker_korean": null,
+   "korean": "받는 피해를 90% 낮춘다\n발동은 적과 근접 시 방향키를 누른다"
+  },
+  {
+   "key": "997b27c9fcbb",
+   "speaker_korean": null,
+   "korean": "일정 확률로 적 HP와 MP에\n큰 피해를 준다"
+  },
+  {
+   "key": "33f65e57d609",
+   "speaker_korean": null,
+   "korean": "일정 확률로 적을 기절시킨다"
+  },
+  {
+   "key": "ba987839a9f4",
+   "speaker_korean": null,
+   "korean": "일정 확률로 적을 공포에 빠뜨려\n공격 빈도를 낮춘다"
+  },
+  {
+   "key": "dc415d8d561d",
+   "speaker_korean": null,
+   "korean": "일정 확률로 적의 Guts를 크게\n낮춘다"
+  },
+  {
+   "key": "ed34a45fec93",
+   "speaker_korean": null,
+   "korean": "적을 다운시키면 가끔 아이템을\n떨군다"
+  },
+  {
+   "key": "15abb7750931",
+   "speaker_korean": null,
+   "korean": "HP 피해가 50% 상승\n효과 수시로 발생. 숙련도가 오르면 효과 상승"
+  },
+  {
+   "key": "4168825eb77c",
+   "speaker_korean": null,
+   "korean": "MP 피해가 50% 상승\n효과 수시로 발생. 숙련도가 오르면 효과 상승"
+  },
+  {
+   "key": "395010a37da8",
+   "speaker_korean": null,
+   "korean": "적의 Guts 회복량이 감소한다\n수시로 발생"
+  },
+  {
+   "key": "baa7d274897d",
+   "speaker_korean": null,
+   "korean": "Guts 감소치가 30% 낮아진다\n수시로 발생"
+  },
+  {
+   "key": "a81a41d4b785",
+   "speaker_korean": null,
+   "korean": "HP 피해와 MP 피해가 모두 30% 상승\n효과 수시로 발생. 숙련도가 오르면 효과 상승"
+  },
+  {
+   "key": "138be0405ee8",
+   "speaker_korean": null,
+   "korean": "HP 현재치의 1/15 물리 피해를 받아도\n동요하지 않는다. 수시로 발생"
+  },
+  {
+   "key": "fcee426668aa",
+   "speaker_korean": null,
+   "korean": "초보 공격 주문을 쓸 수 있게 된다"
+  },
+  {
+   "key": "3bdf8311ec86",
+   "speaker_korean": null,
+   "korean": "초보 신조계 주문을 쓸 수 있게 된다"
+  },
+  {
+   "key": "ddba34786110",
+   "speaker_korean": null,
+   "korean": "대기하고 있으면 HP가 서서히\n회복된다"
+  },
+  {
+   "key": "8ef21dc1309d",
+   "speaker_korean": null,
+   "korean": "사용하는 아이템이 전부 강력한\n폭탄이 된다"
+  },
+  {
+   "key": "6db10a6bca99",
+   "speaker_korean": null,
+   "korean": "MP가 40% 상승한다"
+  },
+  {
+   "key": "d246ce9bc331",
+   "speaker_korean": null,
+   "korean": "영창 시간이 절반이 된다"
+  },
+  {
+   "key": "5c1d9b110696",
+   "speaker_korean": null,
+   "korean": "일정 확률로 적 HP에 치명상을 준다"
+  },
+  {
+   "key": "928e7229f028",
+   "speaker_korean": null,
+   "korean": "일정 확률로 적 MP에 치명상을 준다"
+  },
+  {
+   "key": "318453f8a26b",
+   "speaker_korean": null,
+   "korean": "대기하고 있으면 일정 확률로\nGuts가 순간 MAX가 된다"
+  },
+  {
+   "key": "3cdd5a2bdb7c",
+   "speaker_korean": null,
+   "korean": "HP 피해를 입었을 때 일정 확률로\n최대 HP의 20%가 회복된다"
+  },
+  {
+   "key": "c24a56ecec0c",
+   "speaker_korean": null,
+   "korean": "피해를 입었을 때 일정 확률로\n★이 떨어진다"
+  },
+  {
+   "key": "d890a59b14c6",
+   "speaker_korean": null,
+   "korean": "지정 문자열이 이상합니다\n에러가 검출되었습니다"
+  },
+  {
+   "key": "808967a9ef89",
+   "speaker_korean": null,
+   "korean": "신족 설명은 없습니다"
+  },
+  {
+   "key": "a513e8c4a456",
+   "speaker_korean": null,
+   "korean": "최대HP⟦1⟧증가"
+  }
+ ]
+}

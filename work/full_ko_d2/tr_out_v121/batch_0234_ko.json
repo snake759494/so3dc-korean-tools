@@ -1,0 +1,220 @@
+{
+ "batch_id": "batch_0234",
+ "translations": [
+  {
+   "key": "3caee0db8cdf",
+   "speaker_korean": "페이트",
+   "korean": "「후우….\n여긴 언제 와도\n덥군…."
+  },
+  {
+   "key": "2a54774a9a28",
+   "speaker_korean": "페이트",
+   "korean": "「뭐…!!"
+  },
+  {
+   "key": "31a6a62a42fe",
+   "speaker_korean": "페이트",
+   "korean": "「이건 전송 장치인 것 같은데….\n어디로 전송되는지는 모르겠군."
+  },
+  {
+   "key": "6923398fda39",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・전송하기."
+  },
+  {
+   "key": "56d119fa77bb",
+   "speaker_korean": "블레어",
+   "korean": "「다들, 왔구나."
+  },
+  {
+   "key": "4780fdef4584",
+   "speaker_korean": "페이트",
+   "korean": "「여기가…."
+  },
+  {
+   "key": "688051b719b9",
+   "speaker_korean": "마리아",
+   "korean": "「⟦1⟧루시퍼⟦2⟧가 있는 공간…."
+  },
+  {
+   "key": "9fe01c6b8ef1",
+   "speaker_korean": "소피아",
+   "korean": "「드디어…네."
+  },
+  {
+   "key": "cc423af6f727",
+   "speaker_korean": "페이트",
+   "korean": "「그래…그렇지."
+  },
+  {
+   "key": "8a494eb90084",
+   "speaker_korean": "소피아",
+   "korean": "「⟦1⟧블레어 씨⟦2⟧!?"
+  },
+  {
+   "key": "42b63158851f",
+   "speaker_korean": "페이트",
+   "korean": "「왜 여기에?"
+  },
+  {
+   "key": "cd6d429d5534",
+   "speaker_korean": "블레어",
+   "korean": "「너희를 돕고 싶어서.\n정말이라면 실체를 가진, 캐릭터로\n올 수 있었으면 좋았을 텐데.\n안 되겠네…의식체만으로는 한계였어.\n역시 오너 전용 개발실이라 그런가."
+  },
+  {
+   "key": "d33f45255e13",
+   "speaker_korean": "마리아",
+   "korean": "「오너 전용……?\n특수한 보호 장치라도 걸려 있는 거야?"
+  },
+  {
+   "key": "ae645225ae77",
+   "speaker_korean": "블레어",
+   "korean": "「그래, 여긴 오너 전용 개발실이니까…\n우리 개발자라고 해도, 마음대로는 할 수 없어."
+  },
+  {
+   "key": "968e441d7937",
+   "speaker_korean": "클리프",
+   "korean": "「골치 아픈 곳이군."
+  },
+  {
+   "key": "f2271648538a",
+   "speaker_korean": "페이트",
+   "korean": "「여기에 오너…\n⟦1⟧루시퍼⟦2⟧가 있는 거죠?"
+  },
+  {
+   "key": "2a1b57a680eb",
+   "speaker_korean": "블레어",
+   "korean": "「아니…\n여기엔 없어."
+  },
+  {
+   "key": "a4d30d258073",
+   "speaker_korean": "넬",
+   "korean": "「그게 무슨 소리야?\n상황에 따라서는 가만두지 않을 거야…."
+  },
+  {
+   "key": "aa97245afaa9",
+   "speaker_korean": "알벨",
+   "korean": "「네놈, 우리를 속인 거냐?\n그렇다면 그 목, 당장 쳐주마."
+  },
+  {
+   "key": "f5d085f54954",
+   "speaker_korean": "로저",
+   "korean": "「뭐라고?\n누나…설마…우리를?"
+  },
+  {
+   "key": "bff6e10a627d",
+   "speaker_korean": "스프레",
+   "korean": "「혹시 ⟦1⟧블레어⟦2⟧,\n우리한테 거짓말한 거야!?"
+  },
+  {
+   "key": "cd8a79d6a71b",
+   "speaker_korean": "블레어",
+   "korean": "「아니, 오해하지 마.\n괜찮아, 나는 너희를\n배신하거나 하지 않았어."
+  },
+  {
+   "key": "65252521fa55",
+   "speaker_korean": "페이트",
+   "korean": "「설명해 주실 거죠?"
+  },
+  {
+   "key": "afbe13fe15b1",
+   "speaker_korean": "소피아",
+   "korean": "「그럼, 그게 무슨 말이에요?\n오너가 여기 없다니…."
+  },
+  {
+   "key": "f6e32390e244",
+   "speaker_korean": "블레어",
+   "korean": "「여긴 오너가 있는 공간과\n⟦1⟧에터널 스피어⟦2⟧를 잇는 통로야.\n모든 프로그램 정보는 이곳을 거쳐서\n⟦3⟧에터널 스피어⟦4⟧로 보내져.\n뭐, 정보 전송용 케이블 같은 거지.\n그와 동시에 오너가 있는 공간으로\n외부에서의 부당한 침입을 막기 위한\n방어 구획으로서의 역할도 하고 있어."
+  },
+  {
+   "key": "2323d115ca51",
+   "speaker_korean": "마리아",
+   "korean": "「그렇군."
+  },
+  {
+   "key": "ed19aa32cda5",
+   "speaker_korean": "클리프",
+   "korean": "「그럼 함정 같은 것도\n있다는 거군."
+  },
+  {
+   "key": "c27f69eeaf27",
+   "speaker_korean": "블레어",
+   "korean": "「아마도.\n자세한 건 모르겠지만.\n…가죠.\n나도 최대한 힘이 되어 줄게."
+  },
+  {
+   "key": "cd1c16cd6d7b",
+   "speaker_korean": "페이트",
+   "korean": "「저건…?"
+  },
+  {
+   "key": "e71968002285",
+   "speaker_korean": "페이트",
+   "korean": "「…아무래도 저게 여기 출구,\n⟦1⟧루시퍼⟦2⟧가 있는 공간의 입구인 모양이군."
+  },
+  {
+   "key": "c9e25d87b765",
+   "speaker_korean": null,
+   "korean": "LL g네타우Bξ 스C로네 YY"
+  },
+  {
+   "key": "ae4cb7e3e5f1",
+   "speaker_korean": null,
+   "korean": "⟦1⟧ⅣcMlP시cⅣ\n⟦2⟧LL               YY"
+  },
+  {
+   "key": "7c45b84d31a4",
+   "speaker_korean": "페이트",
+   "korean": "「문인 것 같은데….\n단단히 닫혀 있군."
+  },
+  {
+   "key": "150e095db28f",
+   "speaker_korean": "페이트",
+   "korean": "「여긴…!?"
+  },
+  {
+   "key": "c780e8774e4a",
+   "speaker_korean": "마리아",
+   "korean": "「확실한 건 모르겠지만,\n미지의 문명 유적일지도."
+  },
+  {
+   "key": "0fdb6977e791",
+   "speaker_korean": "클리프",
+   "korean": "「⟦1⟧타임 게이트⟦2⟧랑 마찬가지로\n⟦3⟧스피어사⟦4⟧ 놈들이\n지은 거란 말이지?"
+  },
+  {
+   "key": "2f666fdba684",
+   "speaker_korean": "마리아",
+   "korean": "「단정할 수는 없지만…."
+  },
+  {
+   "key": "e1cf710de5e0",
+   "speaker_korean": "페이트",
+   "korean": "「으음….\n조금 위험한 냄새가\n나는군…."
+  },
+  {
+   "key": "495f14a64a0c",
+   "speaker_korean": "안내 방송",
+   "korean": "『여러분, 먼 길 오시느라,\n진심으로 감사드립니다.\n이곳 『⟦1⟧시련의 유적⟦2⟧』에서는 본편에서는\n체험할 수 없는 강력한 적, 또한\n어려운 함정을 다수 준비했습니다."
+  },
+  {
+   "key": "5c5af1079b55",
+   "speaker_korean": "안내 방송",
+   "korean": "『아무래도 본편과는 다른 세계이다 보니,\n다소 이미지 차이가 있을 수 있습니다만,\n더 짜릿한 자극을 원하시는 분께는,\n안성맞춤인 장소임은 틀림없습니다.\n부디 즐겨 주시기 바랍니다."
+  },
+  {
+   "key": "f7fdf250a4ac",
+   "speaker_korean": "클리프",
+   "korean": "「진짜냐?"
+  },
+  {
+   "key": "40942cc62e89",
+   "speaker_korean": "페이트",
+   "korean": "「진짜…인가 보네."
+  },
+  {
+   "key": "105ac9746d2e",
+   "speaker_korean": "안내 방송",
+   "korean": "『또한, 어려움을 추구하는 장소인 만큼,\n게임 시작 시 난이도를\n『The Earth level(Easy)』로 설정한 경우에만\n이곳에서는 『The Galaxy level(Normal)』이\n됩니다. 물론 여기서 나가면\n난이도는 원래대로 돌아갑니다."
+  }
+ ]
+}

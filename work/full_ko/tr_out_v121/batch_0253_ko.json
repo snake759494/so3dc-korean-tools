@@ -1,0 +1,665 @@
+{
+ "batch_id": "batch_0253",
+ "translations": [
+  {
+   "key": "076c9f61631e",
+   "speaker_korean": null,
+   "korean": "암플라이어 SXA"
+  },
+  {
+   "key": "855ac07f7f1f",
+   "speaker_korean": null,
+   "korean": "암플라이어 SSS"
+  },
+  {
+   "key": "0d2867c35b82",
+   "speaker_korean": null,
+   "korean": "나이트스토커 II"
+  },
+  {
+   "key": "ef361304c8a9",
+   "speaker_korean": null,
+   "korean": "나이트스토커 III"
+  },
+  {
+   "key": "8ac6cd449be1",
+   "speaker_korean": null,
+   "korean": "나이트스토커 IV"
+  },
+  {
+   "key": "cda31caa27c1",
+   "speaker_korean": null,
+   "korean": "나이트스토커 V"
+  },
+  {
+   "key": "f6dc5267ef62",
+   "speaker_korean": null,
+   "korean": "시저 No2"
+  },
+  {
+   "key": "d170977226ae",
+   "speaker_korean": null,
+   "korean": "시저 No3"
+  },
+  {
+   "key": "73e40d569375",
+   "speaker_korean": null,
+   "korean": "시저 No4"
+  },
+  {
+   "key": "ce1f0aa58d1c",
+   "speaker_korean": null,
+   "korean": "시저 No5"
+  },
+  {
+   "key": "6690ddb72262",
+   "speaker_korean": null,
+   "korean": "스팅거 L2"
+  },
+  {
+   "key": "417c3cadc068",
+   "speaker_korean": null,
+   "korean": "스팅거 L3"
+  },
+  {
+   "key": "bca24bb2b3d9",
+   "speaker_korean": null,
+   "korean": "스팅거 L4"
+  },
+  {
+   "key": "f1ad03ca90c1",
+   "speaker_korean": null,
+   "korean": "스팅거 L5"
+  },
+  {
+   "key": "1c0253770679",
+   "speaker_korean": null,
+   "korean": "가우 L2"
+  },
+  {
+   "key": "972372e530bc",
+   "speaker_korean": null,
+   "korean": "가우 L3"
+  },
+  {
+   "key": "13265c21e87e",
+   "speaker_korean": null,
+   "korean": "가우 L4"
+  },
+  {
+   "key": "c754b5428df6",
+   "speaker_korean": null,
+   "korean": "가우 L5"
+  },
+  {
+   "key": "14c212b19970",
+   "speaker_korean": null,
+   "korean": "크랩거너 L2"
+  },
+  {
+   "key": "c64c1b391211",
+   "speaker_korean": null,
+   "korean": "크랩거너 L3"
+  },
+  {
+   "key": "2610cf78306b",
+   "speaker_korean": null,
+   "korean": "크랩거너 L4"
+  },
+  {
+   "key": "f64e85102da0",
+   "speaker_korean": null,
+   "korean": "크랩거너 L5"
+  },
+  {
+   "key": "8fa86308b277",
+   "speaker_korean": null,
+   "korean": "격앙의 크로셀"
+  },
+  {
+   "key": "44139ea010b1",
+   "speaker_korean": null,
+   "korean": "엘더드래곤"
+  },
+  {
+   "key": "dc876da69208",
+   "speaker_korean": null,
+   "korean": "트라이키메라"
+  },
+  {
+   "key": "9f9238790542",
+   "speaker_korean": null,
+   "korean": "키메라데빌"
+  },
+  {
+   "key": "f6350477cd1a",
+   "speaker_korean": null,
+   "korean": "바이오키메라 L200"
+  },
+  {
+   "key": "b8cee74c4371",
+   "speaker_korean": null,
+   "korean": "레드트라이스"
+  },
+  {
+   "key": "1d29e0e811e5",
+   "speaker_korean": null,
+   "korean": "배틀쿡"
+  },
+  {
+   "key": "4dd04b0b7910",
+   "speaker_korean": null,
+   "korean": "바실리스크"
+  },
+  {
+   "key": "fd6be8520816",
+   "speaker_korean": null,
+   "korean": "바실리스크킹"
+  },
+  {
+   "key": "778efbe82f51",
+   "speaker_korean": null,
+   "korean": "다크아이"
+  },
+  {
+   "key": "412397b84f72",
+   "speaker_korean": null,
+   "korean": "엘더아이"
+  },
+  {
+   "key": "2a38686a3a63",
+   "speaker_korean": null,
+   "korean": "디재스터아이"
+  },
+  {
+   "key": "d16f4c7141f4",
+   "speaker_korean": null,
+   "korean": "비홀멘"
+  },
+  {
+   "key": "60728c7b51cf",
+   "speaker_korean": null,
+   "korean": "타이런트풋"
+  },
+  {
+   "key": "9b6e2c0d558b",
+   "speaker_korean": null,
+   "korean": "모자라그린"
+  },
+  {
+   "key": "1d40fce0261a",
+   "speaker_korean": null,
+   "korean": "모자라카키"
+  },
+  {
+   "key": "2f9d2c01c587",
+   "speaker_korean": null,
+   "korean": "모자라다크"
+  },
+  {
+   "key": "fa235d6ec143",
+   "speaker_korean": null,
+   "korean": "크루드오일"
+  },
+  {
+   "key": "8cd0c6623866",
+   "speaker_korean": null,
+   "korean": "아메바자이언트"
+  },
+  {
+   "key": "04616c3de2dd",
+   "speaker_korean": null,
+   "korean": "슬러지맨"
+  },
+  {
+   "key": "fecc21353942",
+   "speaker_korean": null,
+   "korean": "머큐리"
+  },
+  {
+   "key": "5ca1cb37af48",
+   "speaker_korean": null,
+   "korean": "몬자라고라 ( 아내 )"
+  },
+  {
+   "key": "af9dd2cab617",
+   "speaker_korean": null,
+   "korean": "몬자라고라 ( 형 )"
+  },
+  {
+   "key": "ae9b6192f1f9",
+   "speaker_korean": null,
+   "korean": "몬자라고라 ( 딸 )"
+  },
+  {
+   "key": "f9131c5ba134",
+   "speaker_korean": null,
+   "korean": "몬자라고라 ( 동생 )"
+  },
+  {
+   "key": "e09ff6c0a497",
+   "speaker_korean": null,
+   "korean": "블러디몬스터"
+  },
+  {
+   "key": "bff403c53805",
+   "speaker_korean": null,
+   "korean": "골드몬스터"
+  },
+  {
+   "key": "d0f5db6830bd",
+   "speaker_korean": null,
+   "korean": "블랙몬스터"
+  },
+  {
+   "key": "d3885f6db9d2",
+   "speaker_korean": null,
+   "korean": "오로라가나슈"
+  },
+  {
+   "key": "fe37f49375cf",
+   "speaker_korean": null,
+   "korean": "룸나이트"
+  },
+  {
+   "key": "2a2263ace714",
+   "speaker_korean": null,
+   "korean": "나이트라이더"
+  },
+  {
+   "key": "3d6e35010354",
+   "speaker_korean": null,
+   "korean": "드라군"
+  },
+  {
+   "key": "31f7ef202dfc",
+   "speaker_korean": null,
+   "korean": "복스"
+  },
+  {
+   "key": "952bb6447ed3",
+   "speaker_korean": null,
+   "korean": "I M I T A T I V E 블레어"
+  },
+  {
+   "key": "25981c546ee6",
+   "speaker_korean": null,
+   "korean": "루시퍼"
+  },
+  {
+   "key": "dbf27c2d31e5",
+   "speaker_korean": null,
+   "korean": "일반병"
+  },
+  {
+   "key": "ff42673ad2b2",
+   "speaker_korean": null,
+   "korean": "월영단원"
+  },
+  {
+   "key": "d7aa332b16ee",
+   "speaker_korean": null,
+   "korean": "반덴 병사"
+  },
+  {
+   "key": "f3ab21e8edb5",
+   "speaker_korean": null,
+   "korean": "보안부원"
+  },
+  {
+   "key": "04c9c233ee82",
+   "speaker_korean": null,
+   "korean": "마카피"
+  },
+  {
+   "key": "f0696ce4b13f",
+   "speaker_korean": null,
+   "korean": "버스터"
+  },
+  {
+   "key": "5ef637e65bf3",
+   "speaker_korean": null,
+   "korean": "테페키"
+  },
+  {
+   "key": "c02e8f1a72f3",
+   "speaker_korean": null,
+   "korean": "알벨"
+  },
+  {
+   "key": "d56154cf70f4",
+   "speaker_korean": null,
+   "korean": "토네이도"
+  },
+  {
+   "key": "484e07e70c69",
+   "speaker_korean": null,
+   "korean": "월영단장"
+  },
+  {
+   "key": "e196817fdb43",
+   "speaker_korean": null,
+   "korean": "진심 복스"
+  },
+  {
+   "key": "01c8eb25388c",
+   "speaker_korean": null,
+   "korean": "아리그리프℃일반병”"
+  },
+  {
+   "key": "2e58000a99d8",
+   "speaker_korean": null,
+   "korean": "동경의 소드디안"
+  },
+  {
+   "key": "90df77543e41",
+   "speaker_korean": null,
+   "korean": "동경의 랜스맨"
+  },
+  {
+   "key": "510e4b01a110",
+   "speaker_korean": null,
+   "korean": "FD공간병사℃보안부원”"
+  },
+  {
+   "key": "f13526168357",
+   "speaker_korean": null,
+   "korean": "블러디나이트"
+  },
+  {
+   "key": "1d5eaab04a8a",
+   "speaker_korean": null,
+   "korean": "바라나이트"
+  },
+  {
+   "key": "0e4da9ef135f",
+   "speaker_korean": null,
+   "korean": "레인보우코어"
+  },
+  {
+   "key": "7dc530d44d16",
+   "speaker_korean": null,
+   "korean": "마그맥스"
+  },
+  {
+   "key": "b95e1969d171",
+   "speaker_korean": null,
+   "korean": "서전트배트"
+  },
+  {
+   "key": "38298ac633b7",
+   "speaker_korean": null,
+   "korean": "야생의 용"
+  },
+  {
+   "key": "689adddda575",
+   "speaker_korean": null,
+   "korean": "돌아온 노턴"
+  },
+  {
+   "key": "70bc05a74b8b",
+   "speaker_korean": null,
+   "korean": "복수에 불타는 셸비"
+  },
+  {
+   "key": "4c85207d8a27",
+   "speaker_korean": null,
+   "korean": "광란의 비위그"
+  },
+  {
+   "key": "36dd6275dd49",
+   "speaker_korean": null,
+   "korean": "분노한 아자젤"
+  },
+  {
+   "key": "5b3f2834f4ac",
+   "speaker_korean": null,
+   "korean": "분노의 벨제불"
+  },
+  {
+   "key": "f2f4e7b41445",
+   "speaker_korean": null,
+   "korean": "맹진의 벨리알"
+  },
+  {
+   "key": "7b68aa57f200",
+   "speaker_korean": null,
+   "korean": "블레어 초인"
+  },
+  {
+   "key": "e665bb6ffef4",
+   "speaker_korean": null,
+   "korean": "심문관"
+  },
+  {
+   "key": "642f2a38ee4d",
+   "speaker_korean": null,
+   "korean": "레나스"
+  },
+  {
+   "key": "b516231a0a0b",
+   "speaker_korean": null,
+   "korean": "프레이"
+  },
+  {
+   "key": "cddafa5340cd",
+   "speaker_korean": null,
+   "korean": "좀도둑 L99"
+  },
+  {
+   "key": "8065f4e4b6bb",
+   "speaker_korean": null,
+   "korean": "시저 V R S S"
+  },
+  {
+   "key": "baea1b652d89",
+   "speaker_korean": null,
+   "korean": "페이트"
+  },
+  {
+   "key": "86f7cb2eb7eb",
+   "speaker_korean": null,
+   "korean": "소피아"
+  },
+  {
+   "key": "49076d107467",
+   "speaker_korean": null,
+   "korean": "마리아"
+  },
+  {
+   "key": "1b160f6a56a4",
+   "speaker_korean": null,
+   "korean": "클리프"
+  },
+  {
+   "key": "c541fa2e28ea",
+   "speaker_korean": null,
+   "korean": "넬"
+  },
+  {
+   "key": "06d4dd296fa1",
+   "speaker_korean": null,
+   "korean": "로저"
+  },
+  {
+   "key": "c073607349dc",
+   "speaker_korean": null,
+   "korean": "스프레"
+  },
+  {
+   "key": "a39123f6828c",
+   "speaker_korean": null,
+   "korean": "아드레이"
+  },
+  {
+   "key": "a60bba05d835",
+   "speaker_korean": null,
+   "korean": "미라쥬"
+  },
+  {
+   "key": "f5a05c2f4182",
+   "speaker_korean": null,
+   "korean": "스컬프처룰러"
+  },
+  {
+   "key": "f6b4062c4bd7",
+   "speaker_korean": null,
+   "korean": "브루트"
+  },
+  {
+   "key": "3add37ad89e5",
+   "speaker_korean": null,
+   "korean": "인텔렉추얼"
+  },
+  {
+   "key": "13c8b34c10f9",
+   "speaker_korean": null,
+   "korean": "스컬프처가드"
+  },
+  {
+   "key": "621f1061b3a3",
+   "speaker_korean": null,
+   "korean": "코어위스프"
+  },
+  {
+   "key": "c0d365135d7c",
+   "speaker_korean": null,
+   "korean": "브리즈헌터"
+  },
+  {
+   "key": "8428f694ded3",
+   "speaker_korean": null,
+   "korean": "에인션트배트"
+  },
+  {
+   "key": "8e0b6807396e",
+   "speaker_korean": null,
+   "korean": "그랑슈리커"
+  },
+  {
+   "key": "085372990d11",
+   "speaker_korean": null,
+   "korean": "웰위치안"
+  },
+  {
+   "key": "6394a7ad4eef",
+   "speaker_korean": null,
+   "korean": "애시드젤"
+  },
+  {
+   "key": "0f1b6d740042",
+   "speaker_korean": null,
+   "korean": "알터가디언"
+  },
+  {
+   "key": "5b444641d4a4",
+   "speaker_korean": null,
+   "korean": "졸트"
+  },
+  {
+   "key": "8bcc71d75b06",
+   "speaker_korean": null,
+   "korean": "로메로"
+  },
+  {
+   "key": "5d1ca6c622e0",
+   "speaker_korean": null,
+   "korean": "파프니르"
+  },
+  {
+   "key": "256888ffd26a",
+   "speaker_korean": null,
+   "korean": "호지포지"
+  },
+  {
+   "key": "f9b5da0af129",
+   "speaker_korean": null,
+   "korean": "아군 전체"
+  },
+  {
+   "key": "51424e6bba31",
+   "speaker_korean": null,
+   "korean": "적 전체"
+  },
+  {
+   "key": "cd1f3ea2b28c",
+   "speaker_korean": null,
+   "korean": "아군 전체 & 적 전체"
+  },
+  {
+   "key": "51e5c320989f",
+   "speaker_korean": null,
+   "korean": "자신 중심"
+  },
+  {
+   "key": "642b302c27b0",
+   "speaker_korean": null,
+   "korean": "획득 경험치 3배"
+  },
+  {
+   "key": "6006a2a595b3",
+   "speaker_korean": null,
+   "korean": "획득 폴 2배"
+  },
+  {
+   "key": "f3bf95921b64",
+   "speaker_korean": null,
+   "korean": "아이템 입수율 UP"
+  },
+  {
+   "key": "144439f36762",
+   "speaker_korean": null,
+   "korean": "승리시 회복률 UP"
+  },
+  {
+   "key": "05f9f2f9c4ae",
+   "speaker_korean": null,
+   "korean": "  대상변경"
+  },
+  {
+   "key": "5aa22b1db273",
+   "speaker_korean": null,
+   "korean": "땅에 약함"
+  },
+  {
+   "key": "db3761155981",
+   "speaker_korean": null,
+   "korean": "물에 약함"
+  },
+  {
+   "key": "4857739c7cd7",
+   "speaker_korean": null,
+   "korean": "불에 약함"
+  },
+  {
+   "key": "21f83a28f27b",
+   "speaker_korean": null,
+   "korean": "풍에 약함"
+  },
+  {
+   "key": "42c0b0ef1217",
+   "speaker_korean": null,
+   "korean": "땅에 강함"
+  },
+  {
+   "key": "b469e014d3f4",
+   "speaker_korean": null,
+   "korean": "물에 강함"
+  },
+  {
+   "key": "f5824d1d1879",
+   "speaker_korean": null,
+   "korean": "불에 강함"
+  },
+  {
+   "key": "5777261be349",
+   "speaker_korean": null,
+   "korean": "풍에 강함"
+  },
+  {
+   "key": "7ba6a5981dfa",
+   "speaker_korean": null,
+   "korean": "꾹 CHARACTER SELECT 복귀"
+  }
+ ]
+}

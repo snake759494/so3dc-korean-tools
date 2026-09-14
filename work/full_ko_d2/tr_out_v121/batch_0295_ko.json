@@ -1,0 +1,630 @@
+{
+ "batch_id": "batch_0295",
+ "translations": [
+  {
+   "key": "c81e3fdd05f8",
+   "speaker_korean": null,
+   "korean": "곡예로 살아가는 소녀의 모습을 담은 카드"
+  },
+  {
+   "key": "eec610979df6",
+   "speaker_korean": null,
+   "korean": "딸의 모든 것을 긍정하는 술사의 모습을 담은 카드"
+  },
+  {
+   "key": "8c216bebc5aa",
+   "speaker_korean": null,
+   "korean": "미모의 투사의 일상 모습을 담은 카드"
+  },
+  {
+   "key": "88b846d3ce41",
+   "speaker_korean": null,
+   "korean": "규칙적인 행동에 앞장서는\n모범생의 규율을 담은 카드"
+  },
+  {
+   "key": "0961c84f09d3",
+   "speaker_korean": null,
+   "korean": "취향이 좀 치우친\n개성적인 옷차림을 담은 카드"
+  },
+  {
+   "key": "e83a75b65fd4",
+   "speaker_korean": null,
+   "korean": "어둡고 폐쇄된 세계에 있길 바라는\n고독한 마음을 담은 카드"
+  },
+  {
+   "key": "f4665d6d0db9",
+   "speaker_korean": null,
+   "korean": "나이에 안 맞게 젊게 꾸며진\n어른의 부끄러움을 담은 카드"
+  },
+  {
+   "key": "eb89229d6e0d",
+   "speaker_korean": null,
+   "korean": "웃음을 보이지 않는\n닫힌 영혼을 담은 카드"
+  },
+  {
+   "key": "78ba543ad49d",
+   "speaker_korean": null,
+   "korean": "온갖 것의 한계에 도전한\n도전적인 집념을 담은 카드"
+  },
+  {
+   "key": "0a113297e1f2",
+   "speaker_korean": null,
+   "korean": "무법에서 정의를 지키는\n용감한 수호자의 의지를 담은 카드"
+  },
+  {
+   "key": "e3b0d548a7eb",
+   "speaker_korean": null,
+   "korean": "그다지 깊은 신념 없이 그저 분위기를 즐기는\n편안한 마음을 담은 카드"
+  },
+  {
+   "key": "d2e6fc5c4b2a",
+   "speaker_korean": null,
+   "korean": "의리와 인정을 저울질하려는\n의리의 세계를 담은 카드"
+  },
+  {
+   "key": "1fbcdb4b1042",
+   "speaker_korean": null,
+   "korean": "트란실바니아와는 방향이 살짝 어긋난\n봉사 정신을 담은 카드"
+  },
+  {
+   "key": "5e6df9b4b7c2",
+   "speaker_korean": null,
+   "korean": "젊음을 핑계로 학교 창문을 깨고 다닐 듯한\n그런 모습을 담은 카드"
+  },
+  {
+   "key": "c0248e13c44b",
+   "speaker_korean": null,
+   "korean": "한계를 넘은 분노에 오히려 냉정해진\n소녀의 살의를 담은 카드"
+  },
+  {
+   "key": "2165305d3d2b",
+   "speaker_korean": null,
+   "korean": "설원에 반짝이는 백은의 모습을 담은 카드"
+  },
+  {
+   "key": "68cb296b555b",
+   "speaker_korean": null,
+   "korean": "녹주석의 일종으로 녹색을 띠며, 운모·석영 광맥에서 산출된다."
+  },
+  {
+   "key": "f6dbbcd39e3a",
+   "speaker_korean": null,
+   "korean": "강옥의 일종으로, 붉게 보이는 것은 함유된 크롬 성분이 원인이다."
+  },
+  {
+   "key": "d79547e67466",
+   "speaker_korean": null,
+   "korean": "독특한 물결무늬가 표면에 떠오른 특수 금속. 강성과 인성 양면에서 뛰어난 특성을 보인다."
+  },
+  {
+   "key": "fe03cd675320",
+   "speaker_korean": null,
+   "korean": "석영의 결정체. 보통은 투명하지만 불순물이 섞이면 노란색이나 보라색으로 산출되기도 한다."
+  },
+  {
+   "key": "51fc439ba727",
+   "speaker_korean": null,
+   "korean": "빛의 각도에 따라 중앙에 별 같은 광채가 나타나는 희귀한 보석"
+  },
+  {
+   "key": "5dcd709763a6",
+   "speaker_korean": null,
+   "korean": "일반적으로 마력이 결정화되어 생긴 광물이라 하나, 자세한 내막은 불명이다. 다만 이걸로 만든 무구는 명품이 되는 것만은 확실하다."
+  },
+  {
+   "key": "2ca25bf912fa",
+   "speaker_korean": null,
+   "korean": "탄소의 동소체 중 하나이면서도 일곱 빛깔로 반짝이는 불가사의한 광물. 실로 다양한 힘이 숨겨져 있다고 한다."
+  },
+  {
+   "key": "db2faf287548",
+   "speaker_korean": null,
+   "korean": "어둠의 심연, 죽음, 영원한 정적을 다스리는 마성의 보석. 숨긴 힘을 끌어내면 두려운 파괴의 힘이 될 것이 틀림없다."
+  },
+  {
+   "key": "f6ff6d60dbad",
+   "speaker_korean": null,
+   "korean": "사파이어와 화석화된 태고의 조개가 융합된 모습인지, 아니면 조개가 사파이어로 변한 것인지. 자세한 건 알 수 없지만 촉매로서의 효과는 높은 듯하다."
+  },
+  {
+   "key": "065760bb4795",
+   "speaker_korean": null,
+   "korean": "포도 같은 단맛과 신맛의 균형이 기분 좋은 야생 나무열매"
+  },
+  {
+   "key": "9a9d0adc8767",
+   "speaker_korean": null,
+   "korean": "타닌으로 인한 쓴맛이 강한 야생 나무열매. 정신적 피로를 완화하는 효과가 있다."
+  },
+  {
+   "key": "529cea04095b",
+   "speaker_korean": null,
+   "korean": "돼지, 소, 닭 등 다양한 육류. 아이템 크리에이션 「요리」의 레시피 지정에 필요한 아이템"
+  },
+  {
+   "key": "37a020a9eedd",
+   "speaker_korean": null,
+   "korean": "어디에나 있는 작은 돌 등. 아이템 크리에이션 「연금」의 레시피 지정에 필요한 아이템"
+  },
+  {
+   "key": "ece195e337ad",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 「집필」의 레시피 지정에 필요한 아이템"
+  },
+  {
+   "key": "5e35c8d0a728",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 「기계」의 레시피 지정에 필요한 아이템"
+  },
+  {
+   "key": "6b365a2d49f5",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 「합성」에 필요한 아이템"
+  },
+  {
+   "key": "1c3c8049712f",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 「단조」의 레시피 지정에 필요한 아이템"
+  },
+  {
+   "key": "f9d9df6427ba",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 「요리」의 성공률을 올리는 아이템"
+  },
+  {
+   "key": "581f3c1411fe",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 「연금」의 성공률을 올리는 아이템"
+  },
+  {
+   "key": "253bd98559f9",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 「세공」의 레시피 지정에 필요한 아이템"
+  },
+  {
+   "key": "910d412d2f8e",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 「조합」의 레시피 지정에 필요한 아이템"
+  },
+  {
+   "key": "e30f87364b43",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 「조합」의 성공률을 올리는 아이템"
+  },
+  {
+   "key": "65a3cef33254",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 「단조」의 성공률을 올리는 아이템"
+  },
+  {
+   "key": "d1eeda1e6625",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 「집필」의 성공률을 올리는 아이템"
+  },
+  {
+   "key": "93133db92505",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 「기계」의 성공률을 올리는 아이템"
+  },
+  {
+   "key": "e246ed9099d9",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션 「세공」의 성공률을 올리는 아이템"
+  },
+  {
+   "key": "3f3188e819e9",
+   "speaker_korean": null,
+   "korean": "바다에 살며 바위 표면에 붙어사는 구형 생물. 표피는 매우 딱딱하고 몹시 그로테스크하다. 식용이지만 즐겨 먹는 사람은 적다."
+  },
+  {
+   "key": "0960a0c9ee31",
+   "speaker_korean": null,
+   "korean": "한마디로 두리안의 왕. 맛, 크기, 가격, 희소성 모든 면에서 왕에 걸맞다. 물론 향, 아니 냄새도"
+  },
+  {
+   "key": "b2c517b5c410",
+   "speaker_korean": null,
+   "korean": "「이마노츠루기」한 고명한 무예가를 평생 지켜왔다는 도검"
+  },
+  {
+   "key": "151fd448151a",
+   "speaker_korean": null,
+   "korean": "「비젠 오사후네 나가미츠」칼날이 긴 장도로, 다루려면 수련이 필요하다"
+  },
+  {
+   "key": "18ab49630007",
+   "speaker_korean": null,
+   "korean": "명도 「우스미도리」장착자의 움직임을 방해 않도록 균형 있게 만든 도검"
+  },
+  {
+   "key": "9cb1de12a74d",
+   "speaker_korean": null,
+   "korean": "강도 「이와토오시」다루는 자에 따라 바위마저 뚫는다는 강도"
+  },
+  {
+   "key": "3f413a5edadf",
+   "speaker_korean": null,
+   "korean": "드넓은 하늘을 나는 새를 기조로 한 문장. 중앙에 파란 보석이 빛나고 있다."
+  },
+  {
+   "key": "211df21897f3",
+   "speaker_korean": null,
+   "korean": "행동 불능이 된 소유자를 대신하는 신기한 인형. 소유자의 HP·MP를 20%까지 회복시킨다."
+  },
+  {
+   "key": "de842f07d92b",
+   "speaker_korean": null,
+   "korean": "왠지 누군가 지켜주는 듯한 기분이 들 듯 말 듯한 신기한 인형"
+  },
+  {
+   "key": "bf1aa9cf5e1a",
+   "speaker_korean": null,
+   "korean": "버니의 3D 모형. 깎아 만든 고정밀 절삭품. 미니어처 사이즈로 부담 없는 가격이 일품"
+  },
+  {
+   "key": "8146f69f60cb",
+   "speaker_korean": null,
+   "korean": "버니의 3D 모형. 깎아 만든 고정밀 절삭품. 세부까지 신경 쓴 게 엿보인다."
+  },
+  {
+   "key": "6426243a2578",
+   "speaker_korean": null,
+   "korean": "버니의 3D 모형. 깎아 만든 고정밀 절삭품. 일부 마니아 대상 주문 생산품"
+  },
+  {
+   "key": "cbfeb0a327c5",
+   "speaker_korean": null,
+   "korean": "악마의 십자가. 본디 성스러운 상징일 십자가가 불길한 형상으로 디자인됐다."
+  },
+  {
+   "key": "a63c7db90f86",
+   "speaker_korean": null,
+   "korean": "사파이어를 기조로 금과 은 세공으로 꾸며진 목걸이"
+  },
+  {
+   "key": "9d20936e34ac",
+   "speaker_korean": null,
+   "korean": "「도지기리 야스츠나」사악한 도깨비를 벤 전승이 남은 명도"
+  },
+  {
+   "key": "5a1fa47c5754",
+   "speaker_korean": null,
+   "korean": "신검 「후츠노미타마」죽음을 물리치는 힘을 지닌 검 중의 검. 대지에 처음 강림한 신이 지녔다고 전해진다."
+  },
+  {
+   "key": "23e46e59ae5f",
+   "speaker_korean": null,
+   "korean": "성검 「아마노무라쿠모노츠루기」신의 축복을 받은 성검. 8개의 머리를 가진 사룡의 꼬리에서 태어났다고 전해진다."
+  },
+  {
+   "key": "cae253cacc5a",
+   "speaker_korean": null,
+   "korean": "천검 「아마노오하바리」위대한 신의 검이자 스스로도 신이라 여겨지는 신살의 검"
+  },
+  {
+   "key": "edbe99e0ca0c",
+   "speaker_korean": null,
+   "korean": "여행의 안전을 기원하는 매우 희귀한 부적"
+  },
+  {
+   "key": "5c117e1bf190",
+   "speaker_korean": null,
+   "korean": "버니의 발을 본떠 만든 부츠. 생김새가 좀 별로인 건 애교로 봐주자."
+  },
+  {
+   "key": "1f92492b81cf",
+   "speaker_korean": null,
+   "korean": "숲의 수호요정 엘프처럼 가볍게 뛰어다닐 수 있다는 부츠"
+  },
+  {
+   "key": "de8d5468cba2",
+   "speaker_korean": null,
+   "korean": "베테랑 도적처럼 조용히 돌아다닐 수 있다는 부츠"
+  },
+  {
+   "key": "e3cbb856f04e",
+   "speaker_korean": null,
+   "korean": "전사를 위해 만들어진 부츠. 내구성과 운동성 모두 뛰어나다."
+  },
+  {
+   "key": "0091579a6fcf",
+   "speaker_korean": null,
+   "korean": "행상인 참타가 킬러 타이틀로 내놓았던 고가의 부츠. 여관에 묵으면 좋은 일이 있을지도"
+  },
+  {
+   "key": "4a059a81b1b0",
+   "speaker_korean": null,
+   "korean": "드넓은 하늘을 나는 새를 기조로 한 문장. 중앙에 빨간 보석이 빛나고 있다."
+  },
+  {
+   "key": "ade9a6cea552",
+   "speaker_korean": null,
+   "korean": "드넓은 하늘을 나는 새를 기조로 한 문장. 중앙에 검은 보석이 빛나고 있다."
+  },
+  {
+   "key": "4264dffce35a",
+   "speaker_korean": null,
+   "korean": "드넓은 하늘을 나는 새를 기조로 한 문장. 중앙에 보라 보석이 빛나고 있다."
+  },
+  {
+   "key": "f6d5a0c1aa5c",
+   "speaker_korean": null,
+   "korean": "과일에서 추출한 엑기스를 이용해 만든 붉은 액체 형태의 약"
+  },
+  {
+   "key": "60f571e1ce6e",
+   "speaker_korean": null,
+   "korean": "과일에서 추출한 엑기스를 이용해 만든 하늘색 액체 형태의 약"
+  },
+  {
+   "key": "7498872e1570",
+   "speaker_korean": null,
+   "korean": "향초 일종. 차조기과 일년초. 페이스트로 만들어 요리에 쓰면 맛있다."
+  },
+  {
+   "key": "31dd4c7e73ff",
+   "speaker_korean": null,
+   "korean": "향초 일종. 차조기과 다년초. 약용으로 쓴다."
+  },
+  {
+   "key": "f94f4fbcece1",
+   "speaker_korean": null,
+   "korean": "향초 일종. 차조기과 반목본성 식물. 꽃에서 기름을 채취해 향료로 쓴다."
+  },
+  {
+   "key": "f1d6fc2a156c",
+   "speaker_korean": null,
+   "korean": "보글보글 끊임없이 거품이 이는 노란 액체가 든 유리병"
+  },
+  {
+   "key": "33b13ce75485",
+   "speaker_korean": null,
+   "korean": "보글보글 끊임없이 거품이 이는 붉은 액체가 든 유리병"
+  },
+  {
+   "key": "dd771f127466",
+   "speaker_korean": null,
+   "korean": "반짝반짝 물에 흐르는 사금처럼 빛나는 액체가 든 유리병"
+  },
+  {
+   "key": "51603b3a3fe3",
+   "speaker_korean": null,
+   "korean": "백자 항아리에 든 약. 속은 안 보여도 우뭇가사리 향이 난다."
+  },
+  {
+   "key": "557431e10df7",
+   "speaker_korean": null,
+   "korean": "존재 자체가 신격화되어 버린 와인. 브랜드가 홀로 앞서 나가 투기의 대상이 되고 있다. 가격은 늘 오름세."
+  },
+  {
+   "key": "6a3ef22db021",
+   "speaker_korean": null,
+   "korean": "마담 르로와의 최고 한 병. 너무 황송해 오히려 마실 엄두가 안 난다."
+  },
+  {
+   "key": "a07e64f641d7",
+   "speaker_korean": null,
+   "korean": "정확한 명칭은 「산타뒤크 프레스티지 오트가릭」. 일반 시장에는 거의 나오지 않는다."
+  },
+  {
+   "key": "79b1491f588c",
+   "speaker_korean": null,
+   "korean": "이번 선택은 「파이어브레이크」. 진한 풍미는 전형적인 요즘 스타일. 하지만 역시 좋은 건 좋다."
+  },
+  {
+   "key": "2cdf07a35ea3",
+   "speaker_korean": null,
+   "korean": "스페인산 걸출한 와인. 최하위 등급 크리안사만으로도 대단함을 맛볼 수 있다."
+  },
+  {
+   "key": "d01b43672330",
+   "speaker_korean": null,
+   "korean": "저렴한 와인. 사내(어디?) 연간 소비량 1위를 자랑한다."
+  },
+  {
+   "key": "f56c764e7114",
+   "speaker_korean": null,
+   "korean": "DRC가 만드는 화이트 와인의 고급품. 매장에선 좀처럼 보기 힘들다."
+  },
+  {
+   "key": "8df471a28e44",
+   "speaker_korean": null,
+   "korean": "진하면서도 부드럽고, 무거운 만듦새인데도 질리지 않는다. 모순된 요소를 양립시킨 걸작."
+  },
+  {
+   "key": "3634c09a61e8",
+   "speaker_korean": null,
+   "korean": "이 양조가의 리슬링과 피노 그리 모두 올해 가장 감동한 와인 중 하나. 게다가 가격도 적당하다."
+  },
+  {
+   "key": "eebb25adf99e",
+   "speaker_korean": null,
+   "korean": "갈로는 대량 소비형 저가 와인을 만드는 한편, 단일 밭의 고품질 와인도 소량이나마 생산한다. 이것은 후자다."
+  },
+  {
+   "key": "fc6a1e889933",
+   "speaker_korean": null,
+   "korean": "저렴한 와인. 사내(어디?) 연간 소비량 2위를 자랑한다."
+  },
+  {
+   "key": "90a6c4d69be6",
+   "speaker_korean": null,
+   "korean": "감귤류의 상쾌한 향이 마시는 이에게 좋은 첫인상을 주는 와인. 무더운 여름엔 레드보다 이걸 고르고 싶다."
+  },
+  {
+   "key": "c866f0c83151",
+   "speaker_korean": null,
+   "korean": "긴조·다이긴조 모두 목 넘김 좋고 향 높다. 초보자에게도 추천할 술."
+  },
+  {
+   "key": "f1f521b4d34a",
+   "speaker_korean": null,
+   "korean": "'단려신구'라 불리는 일본주 중에서도 유난히 세련된 완숙의 극치"
+  },
+  {
+   "key": "2c1a164a6061",
+   "speaker_korean": null,
+   "korean": "일본주도 8의 초드라이지만 뒷맛에 탁함이 없다. 가성비가 매우 높다."
+  },
+  {
+   "key": "1b09838604dd",
+   "speaker_korean": null,
+   "korean": "과실 같은 향과 단맛. 뒷맛에는 유난히 기분 좋은 여운이 남는다. 걸작."
+  },
+  {
+   "key": "fd3e169cb685",
+   "speaker_korean": null,
+   "korean": "명성에 부끄럽지 않은 품질. 뒤끝이 깔끔한 게 좋은 술의 전형."
+  },
+  {
+   "key": "78a128736381",
+   "speaker_korean": null,
+   "korean": "적당한 단맛이 특징이라는 점에서 시류와는 다소 동떨어져 있다. 하지만 그 개성은 중독되지 않을 수 없다."
+  },
+  {
+   "key": "f3d94a742e32",
+   "speaker_korean": null,
+   "korean": "프루티한 향과 골격이 탄탄한 맛이 좋은 인상을 남기는 일품"
+  },
+  {
+   "key": "3ceba24d5334",
+   "speaker_korean": null,
+   "korean": "모든 것이 잘 갖춰진 균형 좋은 명주. 청량한 인상을 주는 건 사용된 물 덕분일까."
+  },
+  {
+   "key": "c8baef28e645",
+   "speaker_korean": null,
+   "korean": "전설이라 할 9호 효모를 만들어낸 양조장이 빚은 명주. 감로 같은 향미가 특징적"
+  },
+  {
+   "key": "4cf549d0ba16",
+   "speaker_korean": null,
+   "korean": "거칠고 풋풋한 햇술을 1년 숙성시키면 모난 데 없는 어른스러운 맛이 된다. 이것이 바로 그런 술."
+  },
+  {
+   "key": "6a54534b2b5a",
+   "speaker_korean": null,
+   "korean": "향도 맛도 지극히 단순한 만듦새. 하지만 그것이 피로를 풀어준다. 편안함이 있는 맛."
+  },
+  {
+   "key": "9b03f227dad0",
+   "speaker_korean": null,
+   "korean": "사용하면 전원의 HP를 30% 회복시킬 수 있다. 단, 한 번 쓰면 한동안 사용 불가능해진다."
+  },
+  {
+   "key": "9b55960f29db",
+   "speaker_korean": null,
+   "korean": "사용하면 전원의 MP를 30% 회복시킬 수 있다. 단, 한 번 쓰면 한동안 사용 불가능해진다."
+  },
+  {
+   "key": "be0693647e57",
+   "speaker_korean": null,
+   "korean": "사용하면 전원을 행동 불능 상태에서 회복시킬 수 있다. 단, 한 번 쓰면 한동안 사용 불가능해진다."
+  },
+  {
+   "key": "2b9d3eeba392",
+   "speaker_korean": null,
+   "korean": "배틀 스킬 「커먼어택스펠」을 습득할 수 있는 책. 스킬 세트업을 하지 않으면 쓸 수 없습니다."
+  },
+  {
+   "key": "974b7381f30b",
+   "speaker_korean": null,
+   "korean": "배틀 스킬 「커먼서포트스펠」을 습득할 수 있는 책. 전투 중 스킬 세트업을 하지 않으면 쓸 수 없습니다."
+  },
+  {
+   "key": "9b6c464beada",
+   "speaker_korean": null,
+   "korean": "택티컬스킬 「수행」을 습득할 수 있는 책"
+  },
+  {
+   "key": "747cc92807f2",
+   "speaker_korean": null,
+   "korean": "택티컬스킬 「밸런스컨디션」을 습득할 수 있는 책"
+  },
+  {
+   "key": "a3c69ed651fa",
+   "speaker_korean": null,
+   "korean": "택티컬스킬 「큐어컨디션」을 습득할 수 있는 책"
+  },
+  {
+   "key": "09ba7e106ef1",
+   "speaker_korean": null,
+   "korean": "인위적으로 생성된 지방 만점의 소고기를 가열 처리한 음식. 너무 레어한 건 개인적으로 사양"
+  },
+  {
+   "key": "0d9645b607a1",
+   "speaker_korean": null,
+   "korean": "어린이용 스테이크. 하지만 너무 호화로운 처지라 할 수밖에 없다."
+  },
+  {
+   "key": "96aa5fc63e6d",
+   "speaker_korean": null,
+   "korean": "고급 레스토랑에서 100엔으로 스테이크 달라고 했을 때 나올 법한, 그런 한 접시"
+  },
+  {
+   "key": "5857b584f0ea",
+   "speaker_korean": null,
+   "korean": "보는 순간 내 눈을 의심케 하는 그 모습. 말하자면 우뚝 솟은 고기 타워. '라스트 보스가 여기 사는 거 아냐?' 싶은 그런 느낌"
+  },
+  {
+   "key": "48981bad0525",
+   "speaker_korean": null,
+   "korean": "약을 젤리처럼 굳힌 요리. 요리?"
+  },
+  {
+   "key": "9e0c7e40a7bf",
+   "speaker_korean": null,
+   "korean": "참치 머리를 통째로 구워낸 호쾌한 요리. 식탁이 더없이 그로테스크해지지만, 부위별 맛의 차이를 깨달으면 식탁은 순식간에 전장이 된다."
+  },
+  {
+   "key": "1b57265a0428",
+   "speaker_korean": null,
+   "korean": "재료를 너무 많이 넣어 정작 떡이 파묻힌 실소 나오는 한 접시. 재료가 좋아 맛있다. 먹기는 힘들지만."
+  },
+  {
+   "key": "dead6f600a83",
+   "speaker_korean": null,
+   "korean": "돼지고기 다짐육을 조리해 밀가루 피에 싸서 쪄낸 중화풍 만두"
+  },
+  {
+   "key": "e5d35290de48",
+   "speaker_korean": null,
+   "korean": "매우 예의 바른 고양이가 마치 나이프와 포크로 먹은 듯한 인상을 주는, 어떤 의미로는 수수께끼 같은 음식"
+  },
+  {
+   "key": "6c54c266ded5",
+   "speaker_korean": null,
+   "korean": "과일의 신맛과 아이스크림의 단맛을 기조로 한 균형 감각이 뛰어난 디저트"
+  },
+  {
+   "key": "67928c9c3201",
+   "speaker_korean": null,
+   "korean": "참치 뱃살 중에서도 특히 지방이 많은 부위를 잘라, 뭉친 초밥에 올린 음식. 콩을 발효 숙성시켜 짜낸 검은색 액체를 찍어 먹으면 맛있다."
+  },
+  {
+   "key": "3ed796268099",
+   "speaker_korean": null,
+   "korean": "가는 끈으로 묶어 비전의 타레에 재운 뒤 구워낸 돼지고기를 듬뿍 곁들인 면 요리"
+  },
+  {
+   "key": "f73d5ced2627",
+   "speaker_korean": null,
+   "korean": "닭고기를 향초 등으로 밑손질해 강한 열처리를 한 음식. 속까지 너무 익히지 않는 게 감칠맛을 지키는 요령."
+  },
+  {
+   "key": "b4d0f92b1da1",
+   "speaker_korean": null,
+   "korean": "크림에 우유와 설탕을 더해 얼린 디저트. 바닐라빈을 제대로 사용한 본격파."
+  },
+  {
+   "key": "e9f1e1839fbb",
+   "speaker_korean": null,
+   "korean": "소고기 다짐육에 빵가루·달걀 등을 더해 타원형으로 빚어 구운 음식. 그냥 햄버그와의 명확한 차이는 불명."
+  },
+  {
+   "key": "c58c7d240c03",
+   "speaker_korean": null,
+   "korean": "솔직히 웃어넘길 수 없을 만큼 살벌한 크기의 만두. 질보다 양도 정도가 있다. 게다가 먹기도 힘들다."
+  }
+ ]
+}

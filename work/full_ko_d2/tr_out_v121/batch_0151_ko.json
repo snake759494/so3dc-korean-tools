@@ -1,0 +1,265 @@
+{
+ "batch_id": "batch_0151",
+ "translations": [
+  {
+   "key": "b7cee2f89386",
+   "speaker_korean": "넬",
+   "korean": "⟦1⟧「⟦2⟧에리클⟦3⟧…이군.\n⟦P⟧"
+  },
+  {
+   "key": "a4d22590aa0f",
+   "speaker_korean": "알벨",
+   "korean": "⟦1⟧「흥….\n지겹도록 봐온 곳이다.\n⟦P⟧"
+  },
+  {
+   "key": "2e866873a9d9",
+   "speaker_korean": "로저",
+   "korean": "⟦1⟧「대박이다!\n눈 깜짝할 사이에 이런 데까지\n오다니 말이야!\n⟦P⟧"
+  },
+  {
+   "key": "349978b983ea",
+   "speaker_korean": "파린",
+   "korean": "⟦1⟧「난전만은 피하고 싶었는데\n말이죠,\n결국 지고 말았네요….\n⟦P⟧"
+  },
+  {
+   "key": "ede27d4da86b",
+   "speaker_korean": "타이네브",
+   "korean": "⟦1⟧「기세에 휩쓸려 싸우다 보니\n어느새\n아군과 떨어지고 말았습니다.\n⟦P⟧다른 분들도 무사하시다면\n좋겠는데요.\n⟦P⟧"
+  },
+  {
+   "key": "c2202aa1b848",
+   "speaker_korean": "클레어",
+   "korean": "⟦1⟧「⟦2⟧타이네브⟦3⟧가 지휘하는 중앙부대의\n활약으로, 적군 분단에는 성공했다는\n보고가 방금 있었습니다.\n⟦P⟧하지만 이쪽도, 적군의 ⟦4⟧질풍⟦5⟧과 ⟦6⟧풍뢰⟦7⟧의\n연계 공격으로 좌익과 중앙이 분단되어,\n조직적인 행동이 상당히 어려운 상황에\n처해 있습니다.\n⟦P⟧지금은 어느 쪽이 유리한지 알 수 없네요.\n아마 저쪽 지휘관인 ⟦8⟧복스⟦9⟧도\n이를 갈고 있겠지요.\n⟦P⟧"
+  },
+  {
+   "key": "16fd9f12b3d2",
+   "speaker_korean": "클레어",
+   "korean": "⟦1⟧「⟦2⟧칠흑⟦3⟧의 움직임이 둔한 게 마음에 걸리네요.\n견제는 ⟦4⟧파린⟦5⟧의 부대에 맡겨두었는데요\n아직도 이렇다 할 움직임이 없다고 하네요.\n⟦P⟧어째서인지 그 ⟦6⟧뒤틀린 알벨⟦7⟧의 모습이\n전선에서 보이지 않는다는 보고도 있습니다만,\n어디까지 믿어야 할지….\n⟦P⟧"
+  },
+  {
+   "key": "2dfb742aaeb5",
+   "speaker_korean": "클레어",
+   "korean": "「전군, 출진!!"
+  },
+  {
+   "key": "fda8d8b57193",
+   "speaker_korean": "클레어",
+   "korean": "「준비는 됐지.\n여기가 승부의 갈림길이야.\n⟦P⟧우리가 여기서 사수하지 못하면,\n저들은 왕도까지\n단숨에 밀고 들어올 거야.\n⟦P⟧무슨 수를 써서라도 막아낸다.\n…간다."
+  },
+  {
+   "key": "66b31574d478",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧(지금 도망쳐서 어쩌자는 거야!\n일단 본진까지 돌아가야 해.\n⟦P⟧"
+  },
+  {
+   "key": "3dc1a90f5c90",
+   "speaker_korean": "복스",
+   "korean": "「네놈들이었나… 그래, 바로 그 소문의 놈들이군.\n⟦1⟧알벨⟦2⟧ 그 녀석을 해치웠다는…."
+  },
+  {
+   "key": "c38c2102ce45",
+   "speaker_korean": "클리프",
+   "korean": "「그래서 뭐 어쩌라는 거냐!?"
+  },
+  {
+   "key": "8090d78e0dc5",
+   "speaker_korean": "넬",
+   "korean": "「⟦1⟧복스⟦2⟧! 여기가 네 최후의 자리다!\n각오해!!"
+  },
+  {
+   "key": "0a601ae3d0b5",
+   "speaker_korean": "복스",
+   "korean": "「기세 한번 좋군.\n그 배짱을 봐서, 네놈들은 내가 직접\n묻어주마… 너희는 끼어들지 마라."
+  },
+  {
+   "key": "c9a4d4d2647f",
+   "speaker_korean": "페이트",
+   "korean": "「가자!!"
+  },
+  {
+   "key": "1a8f51ab5a5e",
+   "speaker_korean": "병사",
+   "korean": "「…음? 뭔가?"
+  },
+  {
+   "key": "a395f724242a",
+   "speaker_korean": "복스",
+   "korean": "「제법인데!\n하지만 이래야 재미있는 법이지!!"
+  },
+  {
+   "key": "a93b65dc43fb",
+   "speaker_korean": "넬",
+   "korean": "「⟦1⟧질풍⟦2⟧?\n아니… 저건!?"
+  },
+  {
+   "key": "b79abbb8651a",
+   "speaker_korean": "클리프",
+   "korean": "「이건…."
+  },
+  {
+   "key": "0fef08b2d3d8",
+   "speaker_korean": "넬",
+   "korean": "「도대체 뭐냐고!\n…혹시 ⟦1⟧구리텐⟦2⟧의 짓인가?"
+  },
+  {
+   "key": "db47dd5ce9f3",
+   "speaker_korean": "페이트",
+   "korean": "「아니, 아니야.\n저건 ⟦1⟧반데인⟦2⟧이다……."
+  },
+  {
+   "key": "47386b4db62a",
+   "speaker_korean": "넬",
+   "korean": "「⟦1⟧반데인⟦2⟧…그게 뭐야?"
+  },
+  {
+   "key": "653bfad5ef13",
+   "speaker_korean": "페이트",
+   "korean": "「어째서 이런 변경 행성에?\n설마 세계 정복이라도 시작하겠다는 거냐!?"
+  },
+  {
+   "key": "f7f61f68c8e1",
+   "speaker_korean": "디온",
+   "korean": "「저건 뭐지!?"
+  },
+  {
+   "key": "f0e50f0709d6",
+   "speaker_korean": "남성 병사",
+   "korean": "「⟦1⟧디온 님⟦2⟧, 장전 완료했습니다."
+  },
+  {
+   "key": "62c5da404786",
+   "speaker_korean": "디온",
+   "korean": "(나는 반드시 살아 돌아간다… 반드시.\n기다려줘, ⟦1⟧아미나⟦2⟧."
+  },
+  {
+   "key": "553add06728a",
+   "speaker_korean": "남성 병사",
+   "korean": "「⟦1⟧디온 님⟦2⟧!"
+  },
+  {
+   "key": "c7f50783125c",
+   "speaker_korean": "디온",
+   "korean": "「아, 아아, 쏴라!\n공격 개시다!!"
+  },
+  {
+   "key": "babd17e5c96a",
+   "speaker_korean": "페이트",
+   "korean": "「목표?"
+  },
+  {
+   "key": "ebc4574737b4",
+   "speaker_korean": "클리프",
+   "korean": "「사실은 말이지――."
+  },
+  {
+   "key": "2e09ff3d313b",
+   "speaker_korean": "넬",
+   "korean": "「둘 다, 그런 얘기는 나중에 해!\n일단 본부로 돌아간다.\n이대로 여기 있는 건\n좋은 방법이 아닌 것 같다!!"
+  },
+  {
+   "key": "b78772782dc4",
+   "speaker_korean": "페이트",
+   "korean": "「아, 알았어!"
+  },
+  {
+   "key": "96220d59bac0",
+   "speaker_korean": "클리프",
+   "korean": "「야! 여기서 도망친다!!\n놈들이 노리는 건――."
+  },
+  {
+   "key": "81dc2c16423f",
+   "speaker_korean": "디온",
+   "korean": "「좋아, 그 상태로 대기.\n지시가 있을 때까지 기다려라."
+  },
+  {
+   "key": "b5b353084b54",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧디온⟦2⟧!"
+  },
+  {
+   "key": "b6e909bf0a17",
+   "speaker_korean": "디온",
+   "korean": "「퇴각, 퇴각해라!"
+  },
+  {
+   "key": "1443d314faac",
+   "speaker_korean": "페이트",
+   "korean": "「그만해……\n이제, 그만해 줘…."
+  },
+  {
+   "key": "b8d3e5de07cf",
+   "speaker_korean": "페이트",
+   "korean": "「너, 설마 그놈들의… ⟦1⟧반데인⟦2⟧의…\n놈들의 목표는…… 바로 나라는 거야?\n혹시 ⟦3⟧하이다⟦4⟧가 습격당한 것도\n내 탓인 거야?"
+  },
+  {
+   "key": "a4ddf4b04cff",
+   "speaker_korean": "디온",
+   "korean": "「⟦1⟧시술병기⟦2⟧는 신경 쓰지 마!\n됐으니까! 얼른 도망쳐!!"
+  },
+  {
+   "key": "4951ec9bc270",
+   "speaker_korean": "디온",
+   "korean": "「크윽!!\n으아아아아아악!!"
+  },
+  {
+   "key": "6485fd666f49",
+   "speaker_korean": "남성 병사",
+   "korean": "「⟦1⟧디, 디온 님⟦2⟧!!"
+  },
+  {
+   "key": "f8fccc401b97",
+   "speaker_korean": "클리프",
+   "korean": "「이 바보 자식,\n뭐 하는 짓이야!!"
+  },
+  {
+   "key": "280940587840",
+   "speaker_korean": "페이트",
+   "korean": "「잡힌다니…? 그게 무슨 소리야?\n아까도 그런 말을…."
+  },
+  {
+   "key": "7ca162bd812b",
+   "speaker_korean": "클리프",
+   "korean": "「진정해, ⟦1⟧페이트⟦2⟧!\n거기엔 사정이――."
+  },
+  {
+   "key": "95f9e29adb2d",
+   "speaker_korean": "페이트",
+   "korean": "「그런 거였구나."
+  },
+  {
+   "key": "a112e7c8b953",
+   "speaker_korean": "페이트",
+   "korean": "「역시, 그런 거였어!\n그런가, 전부 나 때문이었구나!?"
+  },
+  {
+   "key": "b4b2ed186037",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧하이다⟦2⟧가 습격당한 것도!\n⟦3⟧헤루아⟦4⟧가 습격당한 것도!\n여기 ⟦5⟧에리클⟦6⟧이 습격당한 것도,\n전부 내 탓이야!"
+  },
+  {
+   "key": "10e2636a4862",
+   "speaker_korean": "클리프",
+   "korean": "「그러니까, 진정하라고 했잖냐!\n됐으니까 들어봐――."
+  },
+  {
+   "key": "d0fa6d807614",
+   "speaker_korean": "페이트",
+   "korean": "「나한테 무슨 가치가 있다는 거야!\n이렇게나, 많은 사람을 희생시키면서까지\n원하는 게 대체 뭐냐고!!"
+  },
+  {
+   "key": "7f4d7572645c",
+   "speaker_korean": "페이트",
+   "korean": "「나는 도대체… 뭐라는 거야!!"
+  },
+  {
+   "key": "fd7eda039f13",
+   "speaker_korean": "클리프",
+   "korean": "「도망치는 거야! 잡히고 싶은 거냐!!"
+  },
+  {
+   "key": "36d58285536f",
+   "speaker_korean": "디온",
+   "korean": "「으… 으윽……."
+  }
+ ]
+}

@@ -1,0 +1,390 @@
+{
+ "batch_id": "batch_0002",
+ "translations": [
+  {
+   "key": "095593ddae4c",
+   "speaker_korean": null,
+   "korean": "엑스큐셔너, 최종 방어라인 돌파!\n워프12 속도로 지구에 접근 중!"
+  },
+  {
+   "key": "df00bf365c4c",
+   "speaker_korean": null,
+   "korean": "클래스3급 고에너지 반응 발생!"
+  },
+  {
+   "key": "99ec1a870276",
+   "speaker_korean": null,
+   "korean": "예상 목표지점, 뉴욕.\n행성실드 최대전개!"
+  },
+  {
+   "key": "f61f7227af80",
+   "speaker_korean": null,
+   "korean": "제1~8구획, 시스템 다운!"
+  },
+  {
+   "key": "197e59c2c3be",
+   "speaker_korean": null,
+   "korean": "실드 효과 35%까지 하락!\n복구 서둘러!"
+  },
+  {
+   "key": "72a77cb7e583",
+   "speaker_korean": null,
+   "korean": "하고 있습니다!"
+  },
+  {
+   "key": "7f594453104c",
+   "speaker_korean": null,
+   "korean": "데이터반! 뭐 하는 거야!"
+  },
+  {
+   "key": "672bc5afe521",
+   "speaker_korean": null,
+   "korean": "젠장! 단 한 발에 이 위력이라니!?"
+  },
+  {
+   "key": "b3d8a34ad78d",
+   "speaker_korean": null,
+   "korean": "적 엑스큐셔너로부터\n강력한 에너지 반응입니다!"
+  },
+  {
+   "key": "dc417f0fea36",
+   "speaker_korean": null,
+   "korean": "3…아니, 클래스4.5 초과!"
+  },
+  {
+   "key": "7b3a408161ed",
+   "speaker_korean": null,
+   "korean": "못 막습니다!"
+  },
+  {
+   "key": "e8e64aba501f",
+   "speaker_korean": null,
+   "korean": "신의 힘…거역 못 할 죄인가…\n그런 바보 같은 소리가…"
+  },
+  {
+   "key": "dbd949ef1c9f",
+   "speaker_korean": null,
+   "korean": "큭…SMC, 소마젤란운 소거."
+  },
+  {
+   "key": "11500b595ad9",
+   "speaker_korean": null,
+   "korean": "M31, 안드로메다은하 소거."
+  },
+  {
+   "key": "126c3631db9f",
+   "speaker_korean": null,
+   "korean": "IC1613소거!GC6822소거…"
+  },
+  {
+   "key": "100774bbafc4",
+   "speaker_korean": null,
+   "korean": "이대로라면, 모든 것이 사라져 버리고 말아──"
+  },
+  {
+   "key": "01d99e8c321d",
+   "speaker_korean": null,
+   "korean": "세상이, 소멸하려는 거네."
+  },
+  {
+   "key": "19c42d23cc16",
+   "speaker_korean": null,
+   "korean": "아아."
+  },
+  {
+   "key": "bfe00fb6a457",
+   "speaker_korean": null,
+   "korean": "그런…우리, 늦어버린 거야?"
+  },
+  {
+   "key": "865aa1460035",
+   "speaker_korean": null,
+   "korean": "자, 어떡해야 할까?"
+  },
+  {
+   "key": "24991f62eef6",
+   "speaker_korean": null,
+   "korean": "믿어. 우리는 진짜 여기 있다는 걸."
+  },
+  {
+   "key": "24c469ee5d8b",
+   "speaker_korean": null,
+   "korean": "그래.\n우리는 그저 만들어진 데이터 따위가 아니야."
+  },
+  {
+   "key": "c79347a136d9",
+   "speaker_korean": null,
+   "korean": "응. 사라지라고 해도 '네' 하고\n그냥 사라지진 않을 거야! 절대로!!"
+  },
+  {
+   "key": "5861bc0a9564",
+   "speaker_korean": null,
+   "korean": "그래! 사라질까 보냐──!!!"
+  },
+  {
+   "key": "777535b9e5d4",
+   "speaker_korean": null,
+   "korean": "아무것도 없어…아무것도, 다 사라져 버렸어…"
+  },
+  {
+   "key": "00e0b7e6d2b7",
+   "speaker_korean": null,
+   "korean": "빛도 공기도 내 몸조차 없어.\n완전한 무…"
+  },
+  {
+   "key": "34a1769dadb1",
+   "speaker_korean": null,
+   "korean": "어…?"
+  },
+  {
+   "key": "12cfe822ffd8",
+   "speaker_korean": null,
+   "korean": "없어? …정말 아무것도 없는 건가?"
+  },
+  {
+   "key": "e2a2397815c7",
+   "speaker_korean": null,
+   "korean": "그럼 '아무것도 없다'는 이 생각은?"
+  },
+  {
+   "key": "ecfc4f71b05d",
+   "speaker_korean": null,
+   "korean": "이 생각은 분명 있어…\n내가 나임을 인식할 수 있어."
+  },
+  {
+   "key": "a3ff968573ff",
+   "speaker_korean": null,
+   "korean": "그럼…아예 없진 않아.\n이 생각은 분명 있어."
+  },
+  {
+   "key": "ebc18461e146",
+   "speaker_korean": null,
+   "korean": "그렇기에, 나는 살아있는 거야──!!"
+  },
+  {
+   "key": "3abc9920859e",
+   "speaker_korean": null,
+   "korean": "어서 와, 페이트."
+  },
+  {
+   "key": "c52ced13722d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・파티 편성"
+  },
+  {
+   "key": "c0a8ce24d83b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・웰치 시간 조정"
+  },
+  {
+   "key": "ca75972c7301",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・엔딩 캐릭터 설정"
+  },
+  {
+   "key": "2a8861b611e6",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・소"
+  },
+  {
+   "key": "d1a7eba2dc14",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・마"
+  },
+  {
+   "key": "41ed07ac6d22",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・클"
+  },
+  {
+   "key": "2e5dc653c65f",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・넬"
+  },
+  {
+   "key": "adcb1aa2dacb",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・알"
+  },
+  {
+   "key": "67356fbee8f3",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・로"
+  },
+  {
+   "key": "0cdf0cfae97b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・스"
+  },
+  {
+   "key": "d70b284f8cd1",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・아"
+  },
+  {
+   "key": "52d32789fa07",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・미"
+  },
+  {
+   "key": "c9ce7f14e2ff",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・페이트"
+  },
+  {
+   "key": "1954fc77b658",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・소피아"
+  },
+  {
+   "key": "631cdb3ec0c3",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・마리아"
+  },
+  {
+   "key": "1bb3ac2db60c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・클리프"
+  },
+  {
+   "key": "23e7d78a8f1f",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・넬"
+  },
+  {
+   "key": "0f0b283102fb",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・알벨"
+  },
+  {
+   "key": "f69875a05736",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・로저"
+  },
+  {
+   "key": "bf21d1b4cb79",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・스프레"
+  },
+  {
+   "key": "493af284b79d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・아드레이"
+  },
+  {
+   "key": "17abffedfd4f",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・미라쥬"
+  },
+  {
+   "key": "f1ff18d71b72",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・엔딩 캐릭터 현재치"
+  },
+  {
+   "key": "532430b65add",
+   "speaker_korean": "소피아",
+   "korean": "「엔딩 캐릭터의 현재치입니다.\n⟦1⟧⟦2⟧⟦3⟧⟦4⟧⟦5⟧\n⟦6⟧⟦7⟧⟦8⟧⟦9⟧⟦10⟧"
+  },
+  {
+   "key": "2ed20285803e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧페이트⟦2⟧가 합류함."
+  },
+  {
+   "key": "7d914206fbbb",
+   "speaker_korean": null,
+   "korean": "⟦1⟧소피아⟦2⟧가 합류함."
+  },
+  {
+   "key": "d62735c9b144",
+   "speaker_korean": null,
+   "korean": "⟦1⟧마리아⟦2⟧가 합류함."
+  },
+  {
+   "key": "1b6bb24d0e60",
+   "speaker_korean": null,
+   "korean": "⟦1⟧클리프⟦2⟧가 합류함."
+  },
+  {
+   "key": "6fed373b0e30",
+   "speaker_korean": null,
+   "korean": "⟦1⟧넬⟦2⟧이 합류함."
+  },
+  {
+   "key": "0ad2af48a61e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧알벨⟦2⟧이 합류함."
+  },
+  {
+   "key": "9c150e3d851e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧로저⟦2⟧가 합류함."
+  },
+  {
+   "key": "6ca1131fab0f",
+   "speaker_korean": null,
+   "korean": "⟦1⟧스프레⟦2⟧가 합류함."
+  },
+  {
+   "key": "78cb666d613f",
+   "speaker_korean": null,
+   "korean": "⟦1⟧아드레이⟦2⟧가 합류함."
+  },
+  {
+   "key": "fe676436bc2c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧미라쥬⟦2⟧가 합류함."
+  },
+  {
+   "key": "3dd11bca6235",
+   "speaker_korean": null,
+   "korean": "⟦1⟧페이트⟦2⟧가 떠났다."
+  },
+  {
+   "key": "93dee3f6c355",
+   "speaker_korean": null,
+   "korean": "⟦1⟧소피아⟦2⟧가 떠났다."
+  },
+  {
+   "key": "8500abd018fe",
+   "speaker_korean": null,
+   "korean": "⟦1⟧마리아⟦2⟧가 떠났다."
+  },
+  {
+   "key": "ade5226594a0",
+   "speaker_korean": null,
+   "korean": "⟦1⟧클리프⟦2⟧가 떠났다."
+  },
+  {
+   "key": "6df5c7232949",
+   "speaker_korean": null,
+   "korean": "⟦1⟧넬⟦2⟧이 떠났다."
+  },
+  {
+   "key": "bda95ae1c84a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧알벨⟦2⟧이 떠났다."
+  },
+  {
+   "key": "85d4483e5002",
+   "speaker_korean": null,
+   "korean": "⟦1⟧로저⟦2⟧가 떠났다."
+  },
+  {
+   "key": "f88af4f2bfa6",
+   "speaker_korean": null,
+   "korean": "⟦1⟧스프레⟦2⟧가 떠났다."
+  },
+  {
+   "key": "7c3e9ad47ab9",
+   "speaker_korean": null,
+   "korean": "⟦1⟧아드레이⟦2⟧가 떠났다."
+  },
+  {
+   "key": "25405a596929",
+   "speaker_korean": null,
+   "korean": "⟦1⟧미라쥬⟦2⟧가 떠났다."
+  }
+ ]
+}

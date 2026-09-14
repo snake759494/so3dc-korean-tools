@@ -1,0 +1,695 @@
+{
+ "batch_id": "batch_0251",
+ "translations": [
+  {
+   "key": "0bee2eaaf1fc",
+   "speaker_korean": null,
+   "korean": "네크로맨서"
+  },
+  {
+   "key": "6e52e472bbd8",
+   "speaker_korean": null,
+   "korean": "메이지"
+  },
+  {
+   "key": "92029deaf831",
+   "speaker_korean": null,
+   "korean": "라비치"
+  },
+  {
+   "key": "7222eb6998d5",
+   "speaker_korean": null,
+   "korean": "그레이프바인"
+  },
+  {
+   "key": "c0f85ff0d8be",
+   "speaker_korean": null,
+   "korean": "슈리커"
+  },
+  {
+   "key": "28291f67b9ae",
+   "speaker_korean": null,
+   "korean": "트랩플랜트"
+  },
+  {
+   "key": "9c8745b02124",
+   "speaker_korean": null,
+   "korean": "퍼핏골렘"
+  },
+  {
+   "key": "ae76567a1bd1",
+   "speaker_korean": null,
+   "korean": "리빙아머"
+  },
+  {
+   "key": "1214c65f18c7",
+   "speaker_korean": null,
+   "korean": "스톤골렘"
+  },
+  {
+   "key": "e3ccf4622cb3",
+   "speaker_korean": null,
+   "korean": "드래곤좀비"
+  },
+  {
+   "key": "f11ae1145c51",
+   "speaker_korean": null,
+   "korean": "파이어콥스"
+  },
+  {
+   "key": "9e23ac5e341e",
+   "speaker_korean": null,
+   "korean": "어스플루토"
+  },
+  {
+   "key": "6a9e4ae8b95c",
+   "speaker_korean": null,
+   "korean": "아쿠아레지아"
+  },
+  {
+   "key": "211d8fd096bf",
+   "speaker_korean": null,
+   "korean": "로빈윈드"
+  },
+  {
+   "key": "0a2e11de2b79",
+   "speaker_korean": null,
+   "korean": "노바즈블레이즈"
+  },
+  {
+   "key": "b661dc6da9a8",
+   "speaker_korean": null,
+   "korean": "윌 오 위스프"
+  },
+  {
+   "key": "178d4b20a33e",
+   "speaker_korean": null,
+   "korean": "섀도우사반"
+  },
+  {
+   "key": "1f23043ade3c",
+   "speaker_korean": null,
+   "korean": "크리스탈스태추"
+  },
+  {
+   "key": "5d37321c4233",
+   "speaker_korean": null,
+   "korean": "채리엇골렘"
+  },
+  {
+   "key": "9b0776f2c56f",
+   "speaker_korean": null,
+   "korean": "폴리헤드론"
+  },
+  {
+   "key": "69731bb4c7a7",
+   "speaker_korean": null,
+   "korean": "스켈레톤워리어"
+  },
+  {
+   "key": "feb46d012e06",
+   "speaker_korean": null,
+   "korean": "램가디언"
+  },
+  {
+   "key": "eac609554dbe",
+   "speaker_korean": null,
+   "korean": "고스틀리해그"
+  },
+  {
+   "key": "3c37c17a4093",
+   "speaker_korean": null,
+   "korean": "언홀리테러"
+  },
+  {
+   "key": "135115e92349",
+   "speaker_korean": null,
+   "korean": "유안티"
+  },
+  {
+   "key": "45e51e1cc12d",
+   "speaker_korean": null,
+   "korean": "코볼트"
+  },
+  {
+   "key": "8910f9d5b7bc",
+   "speaker_korean": null,
+   "korean": "메카플라이 XP"
+  },
+  {
+   "key": "ddddcbb72d53",
+   "speaker_korean": null,
+   "korean": "메카닉암"
+  },
+  {
+   "key": "224d9fd6367e",
+   "speaker_korean": null,
+   "korean": "나이트스토커"
+  },
+  {
+   "key": "db827bb0a850",
+   "speaker_korean": null,
+   "korean": "스팅거"
+  },
+  {
+   "key": "91ca44d6c5dc",
+   "speaker_korean": null,
+   "korean": "가우"
+  },
+  {
+   "key": "ddb15ab16218",
+   "speaker_korean": null,
+   "korean": "데스트로이어"
+  },
+  {
+   "key": "c9b66cade714",
+   "speaker_korean": null,
+   "korean": "이세리아 퀸"
+  },
+  {
+   "key": "8f96986ad457",
+   "speaker_korean": null,
+   "korean": "가브리에 셀레스타"
+  },
+  {
+   "key": "aaf7e4748e79",
+   "speaker_korean": null,
+   "korean": "바이오키메라"
+  },
+  {
+   "key": "999c4d5ffbb4",
+   "speaker_korean": null,
+   "korean": "코카트리스"
+  },
+  {
+   "key": "663593d9d006",
+   "speaker_korean": null,
+   "korean": "인페리아 아이"
+  },
+  {
+   "key": "6a1de6ba0ed5",
+   "speaker_korean": null,
+   "korean": "빅풋"
+  },
+  {
+   "key": "fa963dd30246",
+   "speaker_korean": null,
+   "korean": "매드맨"
+  },
+  {
+   "key": "c1315922b6bf",
+   "speaker_korean": null,
+   "korean": "몬자라고라"
+  },
+  {
+   "key": "4e2875f8eb14",
+   "speaker_korean": null,
+   "korean": "인비저블몬스터"
+  },
+  {
+   "key": "f8a743bae066",
+   "speaker_korean": null,
+   "korean": "용기사단의 용"
+  },
+  {
+   "key": "2a91c06c7975",
+   "speaker_korean": null,
+   "korean": "보글 솔저"
+  },
+  {
+   "key": "5c7997c53d91",
+   "speaker_korean": null,
+   "korean": "보글 리더"
+  },
+  {
+   "key": "4bad09d9713b",
+   "speaker_korean": null,
+   "korean": "미니포르큐"
+  },
+  {
+   "key": "1720ede32e75",
+   "speaker_korean": null,
+   "korean": "슬라임칠드"
+  },
+  {
+   "key": "7373dbbc5ffc",
+   "speaker_korean": null,
+   "korean": "슈리커칠드"
+  },
+  {
+   "key": "71f590200100",
+   "speaker_korean": null,
+   "korean": "플로팅아머"
+  },
+  {
+   "key": "81f54a5234e4",
+   "speaker_korean": null,
+   "korean": "플로팅나이트"
+  },
+  {
+   "key": "1671d7adb10f",
+   "speaker_korean": null,
+   "korean": "섀도우드래곤"
+  },
+  {
+   "key": "1d25a576e2bf",
+   "speaker_korean": null,
+   "korean": "레드드래곤"
+  },
+  {
+   "key": "ba03e83d8d1b",
+   "speaker_korean": null,
+   "korean": "크리스탈드래곤"
+  },
+  {
+   "key": "5c465d25ddaf",
+   "speaker_korean": null,
+   "korean": "갈리안타이런트"
+  },
+  {
+   "key": "ec7920bcc88d",
+   "speaker_korean": null,
+   "korean": "스모크드래곤"
+  },
+  {
+   "key": "e1e9f3102c38",
+   "speaker_korean": null,
+   "korean": "루비드래곤"
+  },
+  {
+   "key": "7c8ea6b45121",
+   "speaker_korean": null,
+   "korean": "헬리오도르드래곤"
+  },
+  {
+   "key": "2b63e6e116a8",
+   "speaker_korean": null,
+   "korean": "사파이어드래곤"
+  },
+  {
+   "key": "93bc2c538424",
+   "speaker_korean": null,
+   "korean": "미니드라코"
+  },
+  {
+   "key": "21d1a7355a05",
+   "speaker_korean": null,
+   "korean": "옐로리퍼"
+  },
+  {
+   "key": "01f2f687c017",
+   "speaker_korean": null,
+   "korean": "투니리퍼"
+  },
+  {
+   "key": "11f907d5607c",
+   "speaker_korean": null,
+   "korean": "사우리리퍼"
+  },
+  {
+   "key": "e875b54c78c5",
+   "speaker_korean": null,
+   "korean": "아쿠아마린 데빌"
+  },
+  {
+   "key": "5dfdb2ddb35e",
+   "speaker_korean": null,
+   "korean": "히트 커런트"
+  },
+  {
+   "key": "27ecd760b121",
+   "speaker_korean": null,
+   "korean": "스폿 데빌"
+  },
+  {
+   "key": "69ca1946da29",
+   "speaker_korean": null,
+   "korean": "록 피시"
+  },
+  {
+   "key": "8caf465f3d00",
+   "speaker_korean": null,
+   "korean": "채리엇 피시"
+  },
+  {
+   "key": "7642780ed5b6",
+   "speaker_korean": null,
+   "korean": "아머드 타이"
+  },
+  {
+   "key": "473faecfab29",
+   "speaker_korean": null,
+   "korean": "다크 마린"
+  },
+  {
+   "key": "4abfcb5914d3",
+   "speaker_korean": null,
+   "korean": "포이즌 랍스터"
+  },
+  {
+   "key": "468f409cb2bb",
+   "speaker_korean": null,
+   "korean": "랜드 프라운"
+  },
+  {
+   "key": "6eb52ba16ed0",
+   "speaker_korean": null,
+   "korean": "슈프링거"
+  },
+  {
+   "key": "ce687595856f",
+   "speaker_korean": null,
+   "korean": "데빌리시 크랩"
+  },
+  {
+   "key": "ed1dd8f7a9f2",
+   "speaker_korean": null,
+   "korean": "커로전 비틀"
+  },
+  {
+   "key": "cabbec5c646a",
+   "speaker_korean": null,
+   "korean": "포이즌 비틀"
+  },
+  {
+   "key": "91785c75979e",
+   "speaker_korean": null,
+   "korean": "파이어 비틀"
+  },
+  {
+   "key": "792f89bf71d9",
+   "speaker_korean": null,
+   "korean": "헤라클레스 비틀"
+  },
+  {
+   "key": "3f51231732b3",
+   "speaker_korean": null,
+   "korean": "리틀 디재스터"
+  },
+  {
+   "key": "cdfef4e06737",
+   "speaker_korean": null,
+   "korean": "위글 젬"
+  },
+  {
+   "key": "730388420a50",
+   "speaker_korean": null,
+   "korean": "피트 타란툴라"
+  },
+  {
+   "key": "be876b5b131a",
+   "speaker_korean": null,
+   "korean": "킬러 타란툴라"
+  },
+  {
+   "key": "ede299f9fa52",
+   "speaker_korean": null,
+   "korean": "멜트 휴즈"
+  },
+  {
+   "key": "8518d4dad7d4",
+   "speaker_korean": null,
+   "korean": "워터 스트라이더"
+  },
+  {
+   "key": "08098a702e80",
+   "speaker_korean": null,
+   "korean": "롱 콤프"
+  },
+  {
+   "key": "6c7a6bdb2b67",
+   "speaker_korean": null,
+   "korean": "테킬라 거너"
+  },
+  {
+   "key": "efb39bce1a77",
+   "speaker_korean": null,
+   "korean": "킬러 모스"
+  },
+  {
+   "key": "6c23af6798e2",
+   "speaker_korean": null,
+   "korean": "베델 자이언트"
+  },
+  {
+   "key": "168594d62d3d",
+   "speaker_korean": null,
+   "korean": "휴즈 플라이"
+  },
+  {
+   "key": "268a83bb98b3",
+   "speaker_korean": null,
+   "korean": "플라잉・아이"
+  },
+  {
+   "key": "420a1aa7cf85",
+   "speaker_korean": null,
+   "korean": "호넷"
+  },
+  {
+   "key": "80e6aea620f8",
+   "speaker_korean": null,
+   "korean": "포이즌 와스프"
+  },
+  {
+   "key": "e1f3cb65a52f",
+   "speaker_korean": null,
+   "korean": "자이언트 플라이"
+  },
+  {
+   "key": "d67bd594d553",
+   "speaker_korean": null,
+   "korean": "버던트 와스프"
+  },
+  {
+   "key": "85aaac409d54",
+   "speaker_korean": null,
+   "korean": "하이 맨티스"
+  },
+  {
+   "key": "62f00d6891bb",
+   "speaker_korean": null,
+   "korean": "데스 맨티스"
+  },
+  {
+   "key": "1cdc2f60b75a",
+   "speaker_korean": null,
+   "korean": "레이디 맨티스"
+  },
+  {
+   "key": "4f0063bd4a57",
+   "speaker_korean": null,
+   "korean": "와이즈 맨티스"
+  },
+  {
+   "key": "61f38492b5f7",
+   "speaker_korean": null,
+   "korean": "리저드 메이스"
+  },
+  {
+   "key": "b701ff1d570b",
+   "speaker_korean": null,
+   "korean": "리저드 워리어"
+  },
+  {
+   "key": "0cfbfa68987d",
+   "speaker_korean": null,
+   "korean": "파일 리저드"
+  },
+  {
+   "key": "16c631d0bdd4",
+   "speaker_korean": null,
+   "korean": "포리저"
+  },
+  {
+   "key": "e67ed8e6f423",
+   "speaker_korean": null,
+   "korean": "토드 파이터"
+  },
+  {
+   "key": "c63a699b2150",
+   "speaker_korean": null,
+   "korean": "레드비스트"
+  },
+  {
+   "key": "6938f8c4b109",
+   "speaker_korean": null,
+   "korean": "브리브비스트"
+  },
+  {
+   "key": "825a522906b8",
+   "speaker_korean": null,
+   "korean": "불프로그비스트"
+  },
+  {
+   "key": "1e040856b3a3",
+   "speaker_korean": null,
+   "korean": "스폰 V2"
+  },
+  {
+   "key": "fd5c46026bd0",
+   "speaker_korean": null,
+   "korean": "스폰 V3"
+  },
+  {
+   "key": "59a5d9177cdd",
+   "speaker_korean": null,
+   "korean": "스폰 V4"
+  },
+  {
+   "key": "0c3a9d5504b2",
+   "speaker_korean": null,
+   "korean": "하운드폴"
+  },
+  {
+   "key": "6fdaa59404e2",
+   "speaker_korean": null,
+   "korean": "갈리안폴"
+  },
+  {
+   "key": "d606423de69c",
+   "speaker_korean": null,
+   "korean": "데빌리시폴"
+  },
+  {
+   "key": "47a45f9d1f66",
+   "speaker_korean": null,
+   "korean": "인페리어"
+  },
+  {
+   "key": "84fdf0c6d921",
+   "speaker_korean": null,
+   "korean": "젬트"
+  },
+  {
+   "key": "dcfc7254d5b7",
+   "speaker_korean": null,
+   "korean": "아레이"
+  },
+  {
+   "key": "b5dfd862a5b1",
+   "speaker_korean": null,
+   "korean": "룩토기아스"
+  },
+  {
+   "key": "eacb3d4bc52d",
+   "speaker_korean": null,
+   "korean": "노블티어"
+  },
+  {
+   "key": "a2848eee4bc5",
+   "speaker_korean": null,
+   "korean": "미리암"
+  },
+  {
+   "key": "c36867883b9b",
+   "speaker_korean": null,
+   "korean": "히트헤이즈"
+  },
+  {
+   "key": "0eedb50d95d2",
+   "speaker_korean": null,
+   "korean": "리리티"
+  },
+  {
+   "key": "306c4133a262",
+   "speaker_korean": null,
+   "korean": "레서데빌"
+  },
+  {
+   "key": "c984fd12c153",
+   "speaker_korean": null,
+   "korean": "데빌칠드런"
+  },
+  {
+   "key": "435950de6354",
+   "speaker_korean": null,
+   "korean": "풀리시 임프"
+  },
+  {
+   "key": "1d0b1a8588cf",
+   "speaker_korean": null,
+   "korean": "임프 마스터"
+  },
+  {
+   "key": "f4ca7327c44e",
+   "speaker_korean": null,
+   "korean": "마스터데몬"
+  },
+  {
+   "key": "4abfd286b3b5",
+   "speaker_korean": null,
+   "korean": "데스트로이아스"
+  },
+  {
+   "key": "9965300e235e",
+   "speaker_korean": null,
+   "korean": "화이트 타이런트"
+  },
+  {
+   "key": "b57ec9165638",
+   "speaker_korean": null,
+   "korean": "헬 타우로스"
+  },
+  {
+   "key": "40305fcd636f",
+   "speaker_korean": null,
+   "korean": "메두사게이즈"
+  },
+  {
+   "key": "774d910b4777",
+   "speaker_korean": null,
+   "korean": "마그네틱비스트"
+  },
+  {
+   "key": "1cba7b740280",
+   "speaker_korean": null,
+   "korean": "몬스트러스비스트"
+  },
+  {
+   "key": "46b50e11724e",
+   "speaker_korean": null,
+   "korean": "데몬프린스"
+  },
+  {
+   "key": "811a80eec098",
+   "speaker_korean": null,
+   "korean": "데몬로드"
+  },
+  {
+   "key": "579c7b722c74",
+   "speaker_korean": null,
+   "korean": "이모탈로드"
+  },
+  {
+   "key": "d5a0f9e2430a",
+   "speaker_korean": null,
+   "korean": "다스로드"
+  },
+  {
+   "key": "7df499704d70",
+   "speaker_korean": null,
+   "korean": "휴즈 키메라"
+  },
+  {
+   "key": "bb4df5367da1",
+   "speaker_korean": null,
+   "korean": "파일 키메라"
+  },
+  {
+   "key": "7f3a7c48821d",
+   "speaker_korean": null,
+   "korean": "섀도우 키메라"
+  },
+  {
+   "key": "9ec91c49d6f2",
+   "speaker_korean": null,
+   "korean": "트라이 비스트"
+  },
+  {
+   "key": "d5051f06b96d",
+   "speaker_korean": null,
+   "korean": "엘더 바이퍼"
+  }
+ ]
+}

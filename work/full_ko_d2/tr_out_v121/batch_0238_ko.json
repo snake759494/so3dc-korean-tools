@@ -1,0 +1,370 @@
+{
+ "batch_id": "batch_0238",
+ "translations": [
+  {
+   "key": "b89a00f50c14",
+   "speaker_korean": "페이트",
+   "korean": "「문이 굳게 닫혀 있어서\n열릴 것 같지 않아.\n⟦P⟧그래도, 문에 뭔가 특수한 장치가\n달려 있어."
+  },
+  {
+   "key": "97833a0169bc",
+   "speaker_korean": null,
+   "korean": "시련의 유적 제7하층"
+  },
+  {
+   "key": "121604afb6c9",
+   "speaker_korean": "페이트",
+   "korean": "「와!"
+  },
+  {
+   "key": "17ebecf8cf7e",
+   "speaker_korean": "페이트",
+   "korean": "「뭐, 뭐야, 이것들은?"
+  },
+  {
+   "key": "eac68e0933d9",
+   "speaker_korean": "페이트",
+   "korean": "「뭐, 뭐야 뭐야!?"
+  },
+  {
+   "key": "0786d3d9ed5f",
+   "speaker_korean": "페이트",
+   "korean": "「젠장!\n한 마리가 저 정도로 강하다니!!\n이만한 수를 상대로\n해낼 수 있는 거야!?"
+  },
+  {
+   "key": "ec44ea726127",
+   "speaker_korean": "페이트",
+   "korean": "「대체 뭐였던 거야…?"
+  },
+  {
+   "key": "c5f354990dc0",
+   "speaker_korean": null,
+   "korean": "⟦1⟧트래핑 카드 EX14⟦2⟧ 획득!"
+  },
+  {
+   "key": "68c59db49fda",
+   "speaker_korean": null,
+   "korean": "⟦1⟧162000폴⟦2⟧ 획득!"
+  },
+  {
+   "key": "c2f564e8378c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧디바인・웨폰⟦2⟧ 획득!"
+  },
+  {
+   "key": "f98a16b4b694",
+   "speaker_korean": null,
+   "korean": "⟦1⟧성검 페어웰⟦2⟧ 획득!"
+  },
+  {
+   "key": "3f7e3b6e2206",
+   "speaker_korean": null,
+   "korean": "시련의 유적 제8하층"
+  },
+  {
+   "key": "34539b54a737",
+   "speaker_korean": "페이트",
+   "korean": "「'탈출구'라고 쓰여 있어."
+  },
+  {
+   "key": "b20e9ef68283",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・탈출한다."
+  },
+  {
+   "key": "5195b68d0959",
+   "speaker_korean": "페이트",
+   "korean": "「문이 굳게 닫혀 있어.\n어떻게 하면 열릴까?"
+  },
+  {
+   "key": "1d234b306054",
+   "speaker_korean": "페이트",
+   "korean": "「저건… 천사…!?"
+  },
+  {
+   "key": "4aac40d90a43",
+   "speaker_korean": "마리아",
+   "korean": "「들어본 적 있어.\n차원을 떠도는 천사의 전설을.\n⟦P⟧무수한 빛의 날개를 가진,\n죄와 벌을 관장하는 남녀의 모습을 한\n두 쌍의 천사!\n…좀 다른 것 같지만."
+  },
+  {
+   "key": "5dfbe6e9388e",
+   "speaker_korean": "마리아",
+   "korean": "「⟦1⟧로크⟦2⟧, ⟦3⟧엑스펠⟦4⟧, ⟦5⟧에디피스⟦6⟧, ⟦7⟧아스가르드⟦8⟧.\n네 무대에서 4전 전승이라고도\n4전 전패라고도 전해지는 불멸의 천사!\n설마 진짜였다니…!!"
+  },
+  {
+   "key": "534b0dfbedeb",
+   "speaker_korean": "클리프",
+   "korean": "「너, 어떻게 그런 걸\n알고 있는 거냐?"
+  },
+  {
+   "key": "900d7f1ca47e",
+   "speaker_korean": "클리프",
+   "korean": "「게다가 '4전 전승, 4전 전패'라니\n저 녀석이 강한 건지 약한 건지\n전혀 모르겠잖아?"
+  },
+  {
+   "key": "f8d022db3c5d",
+   "speaker_korean": "페이트",
+   "korean": "「다들, 조심해!!"
+  },
+  {
+   "key": "656d7522a437",
+   "speaker_korean": "페이트",
+   "korean": "「그래,\n우리끼리 이길 수 있을까?"
+  },
+  {
+   "key": "bd1625f419b6",
+   "speaker_korean": "클리프",
+   "korean": "「이봐, 진짜냐…!!"
+  },
+  {
+   "key": "1f75ca70f37b",
+   "speaker_korean": "클리프",
+   "korean": "「이봐, 또냐…!!"
+  },
+  {
+   "key": "51316939f61b",
+   "speaker_korean": "가브리에 셀레스터",
+   "korean": "「…이 세계에 나 말고도\n숨어든 자들이 있는 모양이군.\n그리운 기척이다.\n하나같이 우리 못지않게\n파괴와 살육을 좋아하는\n호전적인 자들이로구나."
+  },
+  {
+   "key": "b687147320b3",
+   "speaker_korean": "가브리에 셀레스터",
+   "korean": "「…이 세계에 나 말고도\n숨어든 자들이 있는 모양이군.\n그리운 기척이다.\n하나같이…예전과 같은 자들인가.\n나머지는 생략하지."
+  },
+  {
+   "key": "89c6ed7a3142",
+   "speaker_korean": "클리프",
+   "korean": "「큭!\n저 녀석, 역시 심상치 않아 보이는데!?"
+  },
+  {
+   "key": "7db71210d874",
+   "speaker_korean": "클리프",
+   "korean": "「큭!\n왠지 저 녀석 심상치 않아 보이는데!?"
+  },
+  {
+   "key": "b52bf7ad2ed0",
+   "speaker_korean": "가브리에 셀레스터",
+   "korean": "「그대여.\n빛에 이끌려, 나아갈 것인가.\n아니면 스러질 것인가.\n⟦P⟧내게 힘으로 답해 보아라!!"
+  },
+  {
+   "key": "856ef312725d",
+   "speaker_korean": "가브리에 셀레스터",
+   "korean": "「그대여.\n빛에 이끌려, 나아갈 것인가.\n아니면 스러질 것인가.\n⟦P⟧내게 더 큰 힘으로\n답해 보아라!!"
+  },
+  {
+   "key": "95c9333d9aa8",
+   "speaker_korean": "가브리에 셀레스터",
+   "korean": "「훌륭하다.\n방금 봉인이 풀렸다."
+  },
+  {
+   "key": "acc45d144448",
+   "speaker_korean": "가브리에 셀레스터",
+   "korean": "「하지만 열린 문을 지나면,\n영원히 끝나지 않는 고된 여정이\n기다리고 있을 것이다.\n잘 가거라."
+  },
+  {
+   "key": "a2f20f9dae75",
+   "speaker_korean": "가브리에 셀레스터",
+   "korean": "「훌륭하다.\n방금 봉인은…\n이미 풀려 있었던 것인가.\n잘 가거라."
+  },
+  {
+   "key": "5b8280a26571",
+   "speaker_korean": "페이트",
+   "korean": "「으와아앗!?"
+  },
+  {
+   "key": "1b7ff6c03051",
+   "speaker_korean": "페이트",
+   "korean": "「누구야…, 너잖아!?"
+  },
+  {
+   "key": "eaefa37ec4ed",
+   "speaker_korean": "페이트",
+   "korean": "「너, 대체 무슨 생각이야!?\n위험하잖아!!"
+  },
+  {
+   "key": "c57b9fe7c992",
+   "speaker_korean": "알벨",
+   "korean": "「흥, 애초에 맞힐 생각 따위 없었다.\n그냥 시험해 본 것뿐이다."
+  },
+  {
+   "key": "6dded1e16187",
+   "speaker_korean": "페이트",
+   "korean": "「맞힐 생각이 없다더니…."
+  },
+  {
+   "key": "c6626b9050a0",
+   "speaker_korean": "알벨",
+   "korean": "「잔말 말고 닥치고\n따라와라, 멍청아."
+  },
+  {
+   "key": "4c408e59c864",
+   "speaker_korean": "페이트",
+   "korean": "「뭐야… 대체?"
+  },
+  {
+   "key": "511907da348b",
+   "speaker_korean": "페이트",
+   "korean": "「야, 뭐야 대체?\n이런 한밤중에 불러내고 말이야."
+  },
+  {
+   "key": "231190e7869b",
+   "speaker_korean": "알벨",
+   "korean": "「너, 내가 밉냐?"
+  },
+  {
+   "key": "67c04b26074f",
+   "speaker_korean": "페이트",
+   "korean": "「뭐야, 갑자기…."
+  },
+  {
+   "key": "eea0d9e33e7e",
+   "speaker_korean": "알벨",
+   "korean": "「잔말 말고 대답해라, 멍청아."
+  },
+  {
+   "key": "e06c1e15b4fa",
+   "speaker_korean": "페이트",
+   "korean": "「글쎄…."
+  },
+  {
+   "key": "9236d2488831",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・밉다.⟦2⟧"
+  },
+  {
+   "key": "7acc673fe2c1",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・그렇지도 않다.⟦2⟧"
+  },
+  {
+   "key": "936e2e59c43c",
+   "speaker_korean": "페이트",
+   "korean": "「그래, 미워."
+  },
+  {
+   "key": "a30a7d72bbec",
+   "speaker_korean": "페이트",
+   "korean": "「전쟁이라는 대의명분이 있다고 해도,\n너는 너무 많은 사람을 다치게 했어.\n그것도 자신의 강함을 과시하려고만.\n그 점에 대해서는 용서할 수 없어."
+  },
+  {
+   "key": "b4de71c04a18",
+   "speaker_korean": "알벨",
+   "korean": "「흥, 그렇겠지."
+  },
+  {
+   "key": "a993edffb63d",
+   "speaker_korean": "페이트",
+   "korean": "「하지만, 지금은 개인적인 감정으로\n움직일 때가 아니야.\n그런 걸 신경 쓰고 있을\n상황이 아니니까.\n…왜 그런 걸 묻는 거야?"
+  },
+  {
+   "key": "36ce987f0e1f",
+   "speaker_korean": "알벨",
+   "korean": "「흥, 아무래도 상관없잖아, 버러지.\n내일은 이르니까, 얼른 자둬라."
+  },
+  {
+   "key": "6f0e684525c7",
+   "speaker_korean": "페이트",
+   "korean": "「뭐야… 자기가 깨워놓고서."
+  },
+  {
+   "key": "cde16ea4f2a9",
+   "speaker_korean": "페이트",
+   "korean": "「그렇지도 않아."
+  },
+  {
+   "key": "694409cea2e6",
+   "speaker_korean": "알벨",
+   "korean": "「왜지? 나는 네 동료를 몇 명이나\n다치게 해왔다, 미워할 대상이잖아."
+  },
+  {
+   "key": "ce483ee06cce",
+   "speaker_korean": "페이트",
+   "korean": "「하지만 그건 네 의지가 아니었잖아?\n전쟁이었어."
+  },
+  {
+   "key": "1f1e76eb8fb4",
+   "speaker_korean": "페이트",
+   "korean": "「너는 확실히 싸움에 관해서는,\n무서울 정도로 집착한다고 생각해.\n스스로의 존재를 증명하려 싸우는 남자야."
+  },
+  {
+   "key": "cfdb3567ae49",
+   "speaker_korean": "페이트",
+   "korean": "「그저 강함만을 추구하는 것.\n나로서는 할 수 없는 일이고,\n공감도 안 되지만……."
+  },
+  {
+   "key": "4c9272c34b5b",
+   "speaker_korean": "페이트",
+   "korean": "「하지만, 그런 삶의 방식이\n있어도 좋다고는 생각해."
+  },
+  {
+   "key": "fa289f5d6992",
+   "speaker_korean": "알벨",
+   "korean": "「흥…."
+  },
+  {
+   "key": "a672cf52bdcb",
+   "speaker_korean": "페이트",
+   "korean": "「게다가 너는, 이제 의미 없이\n사람을 다치게 하지 않을 거라 생각해."
+  },
+  {
+   "key": "0407d72189f7",
+   "speaker_korean": "알벨",
+   "korean": "「당장이라도 너를 덮칠지도 모른다.\n아까처럼 말이야."
+  },
+  {
+   "key": "f70320cd1ae8",
+   "speaker_korean": "페이트",
+   "korean": "「괜찮아. 믿고 있어."
+  },
+  {
+   "key": "1f10ef548580",
+   "speaker_korean": "알벨",
+   "korean": "「속 편한 녀석이군.\n멋대로 꿈이나 꾸고 있어라, 멍청아."
+  },
+  {
+   "key": "8d0ef14c3ed5",
+   "speaker_korean": "페이트",
+   "korean": "(내 걱정, 하고 있으려나……."
+  },
+  {
+   "key": "a98cfd1c0c8b",
+   "speaker_korean": "페이트",
+   "korean": "(⟦1⟧아미나⟦2⟧……."
+  },
+  {
+   "key": "fde4c73310c9",
+   "speaker_korean": "페이트",
+   "korean": "(⟦1⟧소피아⟦2⟧……지금쯤 어떻게 지내고 있을까?"
+  },
+  {
+   "key": "26f7e1af2796",
+   "speaker_korean": "클리프",
+   "korean": "「잠이 안 오냐?"
+  },
+  {
+   "key": "22f5917e7d86",
+   "speaker_korean": "페이트",
+   "korean": "「……응. ⟦1⟧아미나⟦2⟧랑 이야기하다 보니,\n⟦3⟧소피아⟦4⟧ 생각이 나서.\n무사히 도망쳤으면 좋겠는데."
+  },
+  {
+   "key": "761ec18d828e",
+   "speaker_korean": "페이트",
+   "korean": "「게다가 ⟦1⟧아미나⟦2⟧ 일도\n신경 쓰이고…….\n나쁜 병이 아니면 좋겠는데."
+  },
+  {
+   "key": "f6a3359e340c",
+   "speaker_korean": "클리프",
+   "korean": "「소꿉친구 일은 신경 써봐야\n소용없어.\n초조해해도 아무것도 해결되지 않아.\n지금은 우리가 할 수 있는 일을\n하는 수밖에 없어."
+  },
+  {
+   "key": "e668f5093f0f",
+   "speaker_korean": "클리프",
+   "korean": "「⟦1⟧아미나⟦2⟧ 일도 마찬가지다.\n섣부른 마음 씀씀이는 상대에게도\n민폐가 될 뿐이야."
+  },
+  {
+   "key": "d826cff5d36a",
+   "speaker_korean": "페이트",
+   "korean": "「……잘 자."
+  }
+ ]
+}

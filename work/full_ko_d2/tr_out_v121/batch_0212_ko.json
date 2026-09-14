@@ -1,0 +1,240 @@
+{
+ "batch_id": "batch_0212",
+ "translations": [
+  {
+   "key": "efd41221c62c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧트래핑 카드 EX12⟦2⟧를 얻었다."
+  },
+  {
+   "key": "7db27aec9f97",
+   "speaker_korean": null,
+   "korean": "⟦1⟧25500폴⟦2⟧을 얻었다."
+  },
+  {
+   "key": "5c66da3cad3d",
+   "speaker_korean": "페이트",
+   "korean": "「안 되겠네.\n열릴 것 같지 않네."
+  },
+  {
+   "key": "bb54d67ed5d0",
+   "speaker_korean": "페이트",
+   "korean": "「…뭔가 기척이…"
+  },
+  {
+   "key": "9c1295874f90",
+   "speaker_korean": "페이트",
+   "korean": "「문 자물쇠가\n열리는 소리가 났군."
+  },
+  {
+   "key": "1d599b169dfc",
+   "speaker_korean": "페이트",
+   "korean": "「그건 그렇고…\n방금 그건 뭐였을까?\n하얀 것과 검은 것이 대결해서…,\n뭔가의 승패라도 정해지는\n걸 나타내는 걸까?"
+  },
+  {
+   "key": "ce99f096e9e8",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・다시 보기"
+  },
+  {
+   "key": "f4ba8f5904bf",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・전체 보기"
+  },
+  {
+   "key": "28442ba8f54f",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・하얀 전사와 검은 문장술사 집중 보기"
+  },
+  {
+   "key": "73882864759a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・하얀 도적과 검은 전사 집중 보기"
+  },
+  {
+   "key": "d704f85c518a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・하얀 문장술사와 검은 도적 집중 보기"
+  },
+  {
+   "key": "8213c24e8907",
+   "speaker_korean": "페이트",
+   "korean": "「이건…\n하얀 전사와 검은 문장술사."
+  },
+  {
+   "key": "0dc359688b65",
+   "speaker_korean": "페이트",
+   "korean": "「하얀 도적과 검은 전사."
+  },
+  {
+   "key": "c149bfeb4358",
+   "speaker_korean": "페이트",
+   "korean": "「하얀 문장술사와 검은 도적."
+  },
+  {
+   "key": "13f050fe039d",
+   "speaker_korean": "말을 배치할 장소를 선택해 주십시오.",
+   "korean": "(캔슬로 한 단계 전으로 돌아갑니다\n또한, 적군 배치를\n확인할 수 있습니다)"
+  },
+  {
+   "key": "68ce653324eb",
+   "speaker_korean": "배치할 말을 선택해 주십시오.",
+   "korean": "(캔슬로 한 단계 전으로 돌아갑니다)"
+  },
+  {
+   "key": "c4c264847124",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・도적"
+  },
+  {
+   "key": "0bbd4e94d401",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・문장술사"
+  },
+  {
+   "key": "ddbfab4c9cc1",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・전사"
+  },
+  {
+   "key": "312cd9d61c48",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・이 배치로 OK"
+  },
+  {
+   "key": "f7dea67170ea",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・처음부터 다시 하기"
+  },
+  {
+   "key": "64110448193d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・게임 종료하기"
+  },
+  {
+   "key": "393d1f3f4fcc",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・다시 도전하기"
+  },
+  {
+   "key": "29ec24edb241",
+   "speaker_korean": null,
+   "korean": "⟦1⟧아군⟦2⟧ [도적] 〉〉 ⟦3⟧행군"
+  },
+  {
+   "key": "a29bd9a6e278",
+   "speaker_korean": null,
+   "korean": "⟦1⟧아군⟦2⟧ [문장술사] 〉〉 ⟦3⟧행군"
+  },
+  {
+   "key": "e8a6bf37141d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧아군⟦2⟧ [전사] 〉〉 ⟦3⟧행군"
+  },
+  {
+   "key": "dd351657e67b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧아군⟦2⟧ [도적] 〉〉 ⟦3⟧공격"
+  },
+  {
+   "key": "77dbdd87cefb",
+   "speaker_korean": null,
+   "korean": "⟦1⟧아군⟦2⟧ [문장술사] 〉〉 ⟦3⟧공격"
+  },
+  {
+   "key": "c5ddf29e0a9c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧아군⟦2⟧ [전사] 〉〉 ⟦3⟧공격"
+  },
+  {
+   "key": "facfc8045700",
+   "speaker_korean": null,
+   "korean": "⟦1⟧적군⟦2⟧ [도적] 〉〉 ⟦3⟧행군"
+  },
+  {
+   "key": "e0d965eee891",
+   "speaker_korean": null,
+   "korean": "⟦1⟧적군⟦2⟧ [문장술사] 〉〉 ⟦3⟧행군"
+  },
+  {
+   "key": "c584a3e80012",
+   "speaker_korean": null,
+   "korean": "⟦1⟧적군⟦2⟧ [전사] 〉〉 ⟦3⟧행군"
+  },
+  {
+   "key": "7ae2dc8d6641",
+   "speaker_korean": null,
+   "korean": "⟦1⟧적군⟦2⟧ [도적] 〉〉 ⟦3⟧공격"
+  },
+  {
+   "key": "cd57660866dc",
+   "speaker_korean": null,
+   "korean": "⟦1⟧적군⟦2⟧ [문장술사] 〉〉 ⟦3⟧공격"
+  },
+  {
+   "key": "7145d5042994",
+   "speaker_korean": null,
+   "korean": "⟦1⟧적군⟦2⟧ [전사] 〉〉 ⟦3⟧공격"
+  },
+  {
+   "key": "f4aeeb08558c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・이대로 게임 계속하기"
+  },
+  {
+   "key": "b0392bceaab7",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・역시 게임 종료하기"
+  },
+  {
+   "key": "21f32c637526",
+   "speaker_korean": null,
+   "korean": "⟦1⟧TO이 tXN토토"
+  },
+  {
+   "key": "5784850d253b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧TO이 NOJwiii"
+  },
+  {
+   "key": "a2340f4f13c0",
+   "speaker_korean": "페이트",
+   "korean": "「이게 게이트인가?"
+  },
+  {
+   "key": "0fd18bb9974f",
+   "speaker_korean": "소피아",
+   "korean": "「그런 걸까?\n⟦1⟧블레어 씨⟦2⟧가 말했던\n제단 같은 것도 있긴 한데…"
+  },
+  {
+   "key": "1036698b4329",
+   "speaker_korean": "마리아",
+   "korean": "「생각해도 소용없어.\n해 보자."
+  },
+  {
+   "key": "9bd053a327b7",
+   "speaker_korean": "페이트",
+   "korean": "「자…\n⟦1⟧소피아⟦2⟧…"
+  },
+  {
+   "key": "c74b8399e1b6",
+   "speaker_korean": "페이트",
+   "korean": "「괜찮아…나도 같이 갈 테니까."
+  },
+  {
+   "key": "7f1efbd5e8ad",
+   "speaker_korean": "소피아",
+   "korean": "「아……"
+  },
+  {
+   "key": "9384ebb9595c",
+   "speaker_korean": "마리아",
+   "korean": "「이게…"
+  },
+  {
+   "key": "3577f1dd031a",
+   "speaker_korean": "페이트",
+   "korean": "「가자…\n이 앞에 ⟦1⟧루시퍼⟦2⟧가 있다."
+  }
+ ]
+}

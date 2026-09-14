@@ -1,0 +1,205 @@
+{
+ "batch_id": "batch_0222",
+ "translations": [
+  {
+   "key": "b5b3771bf37c",
+   "speaker_korean": "소피아",
+   "korean": "「⟦1⟧블레어 씨⟦2⟧!!"
+  },
+  {
+   "key": "436e052d0a10",
+   "speaker_korean": "블레어",
+   "korean": "「다들 무사했구나!\n다행이야."
+  },
+  {
+   "key": "365435578fe4",
+   "speaker_korean": "마리아",
+   "korean": "「후우…"
+  },
+  {
+   "key": "f56f2b6b09d9",
+   "speaker_korean": "블레어",
+   "korean": "「에?"
+  },
+  {
+   "key": "0aa8b0438f16",
+   "speaker_korean": "클리프",
+   "korean": "「방금 전에도 너를 만났었다고\n성격이 어지간히 고약해졌더라만"
+  },
+  {
+   "key": "653f2f67d661",
+   "speaker_korean": "블레어",
+   "korean": "「아아…\n그녀는 오너가 만든 프로그램 생명체야.\n날 여기 가둔 것도 그녀야.\n정말이지, 오너도 참\n고약한 취향으로 만들어줬다니까."
+  },
+  {
+   "key": "44e0be34c61a",
+   "speaker_korean": "블레어",
+   "korean": "「그게, 나도 잘 모르겠어…\n안쪽에서는 아무것도 할 수 없고\n그녀가 뭔가의 장치로\n이 빛의 감옥을 만들어내고 있는 건\n틀림없다고 생각하지만…"
+  },
+  {
+   "key": "2acd2d8df7af",
+   "speaker_korean": "클리프",
+   "korean": "「크리스탈이라…"
+  },
+  {
+   "key": "22f373adc2a0",
+   "speaker_korean": "마리아",
+   "korean": "「후, 성가신 짓을\n해놨네."
+  },
+  {
+   "key": "85c34d51a5ad",
+   "speaker_korean": "블레어",
+   "korean": "「…미안해."
+  },
+  {
+   "key": "909b4e0adbb2",
+   "speaker_korean": "마리아",
+   "korean": "「너한테 한 말은 아니야.\n어차피, 위로 가는 전송장치도\n기능이 정지된 상태고…"
+  },
+  {
+   "key": "6f3b3b899f51",
+   "speaker_korean": "소피아",
+   "korean": "「⟦1⟧블레어 씨⟦2⟧, 조금만 더\n참아주세요.\n어떻게든 열 방법을\n찾아볼 테니까요."
+  },
+  {
+   "key": "27b69c0c0a36",
+   "speaker_korean": "페이트",
+   "korean": "「기다려 주세요."
+  },
+  {
+   "key": "6a3fb76f8b10",
+   "speaker_korean": "블레어",
+   "korean": "「그래…조심해."
+  },
+  {
+   "key": "d241b467a143",
+   "speaker_korean": "넬",
+   "korean": "「잠깐만…\n너, 진짜 ⟦1⟧블레어⟦2⟧ 맞아?"
+  },
+  {
+   "key": "f02beb4d773a",
+   "speaker_korean": "알벨",
+   "korean": "「아무래도 상관없다만\n너, 진짜인 거겠지?"
+  },
+  {
+   "key": "5230dc1b7538",
+   "speaker_korean": "로저",
+   "korean": "「야, 진짜 진짜 누나 맞아?"
+  },
+  {
+   "key": "212f4661e52d",
+   "speaker_korean": "스프레",
+   "korean": "「너 진짜…⟦1⟧블레어⟦2⟧ 맞아?\n우리 속이는 거 아니지?"
+  },
+  {
+   "key": "fa6fb45abcce",
+   "speaker_korean": "넬",
+   "korean": "「흐음…그래서, 어떻게 하면\n널 거기서 꺼낼 수 있는 거야?"
+  },
+  {
+   "key": "b0ac4030584e",
+   "speaker_korean": "알벨",
+   "korean": "「뭐, 믿어주지…\n얼른 나와라."
+  },
+  {
+   "key": "8c4418f5dd7c",
+   "speaker_korean": "알벨",
+   "korean": "「설마 나오는 방법을 모른다\n뭐 그런 건 아니겠지?"
+  },
+  {
+   "key": "39d3fd849f88",
+   "speaker_korean": "로저",
+   "korean": "「그렇구나…누나도\n고생이 많네.\n근데, 어떻게 하면 누나\n거기서 나올 수 있는 거야?"
+  },
+  {
+   "key": "36a13a1f62f9",
+   "speaker_korean": "스프레",
+   "korean": "「뭐, 그건 됐고, ⟦1⟧블레어⟦2⟧,\n언제까지 그런 데 있을 거야?\n어떻게 해야 거기서 나올 수 있어?"
+  },
+  {
+   "key": "d004cbd51c35",
+   "speaker_korean": "넬",
+   "korean": "「그렇군…장치를 해제할\n필요가 있다는 거군."
+  },
+  {
+   "key": "72f291de644d",
+   "speaker_korean": "알벨",
+   "korean": "「흥, 그 망할 여자가\n성가신 짓을 해놨군…\n장치라…\n딱히 눈에 띄는 건 없다만…"
+  },
+  {
+   "key": "97df81981161",
+   "speaker_korean": "로저",
+   "korean": "「그렇구나…장치란 말이지!\n좋았어! 내가 어떻게든 해결해주지!!"
+  },
+  {
+   "key": "6c15d6403939",
+   "speaker_korean": "스프레",
+   "korean": "「으으…나 머리 쓰는 거\n잘 못하는데 말이야★"
+  },
+  {
+   "key": "02372906bd3e",
+   "speaker_korean": "블레어",
+   "korean": "「단순하게 생각하면\n이 감옥을 둘러싼 크리스탈이\n관련 있다고 생각하는데…\n너희, 여기 오는 도중에\n비슷한 걸 보지 않았어?"
+  },
+  {
+   "key": "f17c8874b648",
+   "speaker_korean": "블레어",
+   "korean": "「그래, 고마워, 다들.\n…덕분에 살았어."
+  },
+  {
+   "key": "d4603576c95b",
+   "speaker_korean": "클리프",
+   "korean": "「뭐, 신경 쓰지 마."
+  },
+  {
+   "key": "15bc62650eec",
+   "speaker_korean": "마리아",
+   "korean": "「…서두르자.\n시간이 꽤 걸려버렸네."
+  },
+  {
+   "key": "8dcfcb71a66d",
+   "speaker_korean": "페이트",
+   "korean": "「그래, 가자."
+  },
+  {
+   "key": "a61bc8484432",
+   "speaker_korean": "소피아",
+   "korean": "「괜찮으세요?"
+  },
+  {
+   "key": "a4e6ab0d550b",
+   "speaker_korean": "넬",
+   "korean": "「신경 쓰지 않아도 돼.\n너한테 신세 지고 있으니까."
+  },
+  {
+   "key": "c58aef100fb6",
+   "speaker_korean": "알벨",
+   "korean": "「겸사겸사 한 것뿐이다."
+  },
+  {
+   "key": "ae0bee5a3eb4",
+   "speaker_korean": "로저",
+   "korean": "「신경 쓰지 말라니까.\n사나이로 태어나서, 곤란한 여자를\n그냥 놔둘 순 없잖아."
+  },
+  {
+   "key": "9a1ea555e96c",
+   "speaker_korean": "스프레",
+   "korean": "「신경 안 써도 돼♪\n어려울 때는 서로 돕는 거잖아★"
+  },
+  {
+   "key": "d6b445eb2200",
+   "speaker_korean": null,
+   "korean": "나선의 탑 제3층"
+  },
+  {
+   "key": "f101b7b74d55",
+   "speaker_korean": "페이트",
+   "korean": "「보석 색깔이 계속 바뀌고 있어.\n빨간 받침대 보석은\n검정, 하양, 노랑, 파랑, 빨강,\n파란 받침대 보석은\n빨강, 파랑, 노랑, 하양, 검정\n순서로 바뀌고 있어."
+  },
+  {
+   "key": "729d84e738a7",
+   "speaker_korean": "페이트",
+   "korean": "「열쇠 구멍도 아무것도 없어.\n열릴 것 같지 않은데…"
+  }
+ ]
+}

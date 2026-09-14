@@ -1,0 +1,570 @@
+{
+ "batch_id": "batch_0260",
+ "translations": [
+  {
+   "key": "f1195b03050b",
+   "speaker_korean": null,
+   "korean": "전투중 30초간 무적 단 공격불가"
+  },
+  {
+   "key": "d768429ffb2a",
+   "speaker_korean": null,
+   "korean": "전투중 60초간 무적 단 공격불가"
+  },
+  {
+   "key": "9ae4ae54267b",
+   "speaker_korean": null,
+   "korean": "전투중 120초간 무적 단 공격불가"
+  },
+  {
+   "key": "1b1b85c95873",
+   "speaker_korean": null,
+   "korean": "가격10%OFF"
+  },
+  {
+   "key": "cf515f34273a",
+   "speaker_korean": null,
+   "korean": "가격20%OFF"
+  },
+  {
+   "key": "263cd19e2aca",
+   "speaker_korean": null,
+   "korean": "가격30%OFF"
+  },
+  {
+   "key": "f6c12ee7b1e4",
+   "speaker_korean": null,
+   "korean": "Guts소모1/2 Guts회복속도1/5"
+  },
+  {
+   "key": "064d6f9f195e",
+   "speaker_korean": null,
+   "korean": "Guts소모1/5 Guts회복속도1/10"
+  },
+  {
+   "key": "3089219d2467",
+   "speaker_korean": null,
+   "korean": "Guts소모1/10 Guts회복속도1/5"
+  },
+  {
+   "key": "1aad304c8560",
+   "speaker_korean": null,
+   "korean": "Guts소모×1.5 Guts회복속도×1.5"
+  },
+  {
+   "key": "8e40025dece4",
+   "speaker_korean": null,
+   "korean": "Guts소모×1.5 Guts회복속도×2"
+  },
+  {
+   "key": "802f8c45c8e1",
+   "speaker_korean": null,
+   "korean": "Guts소모×1.5 Guts회복속도×3"
+  },
+  {
+   "key": "8a8437fd04e7",
+   "speaker_korean": null,
+   "korean": "전투중 ATK20% 상승"
+  },
+  {
+   "key": "f74fe14032c4",
+   "speaker_korean": null,
+   "korean": "전투중 ATK40% 상승"
+  },
+  {
+   "key": "96dc02ced753",
+   "speaker_korean": null,
+   "korean": "전투중 ATK60% 상승"
+  },
+  {
+   "key": "685cd0f4ca07",
+   "speaker_korean": null,
+   "korean": "HP회복30% 일정시간마다 사용가능"
+  },
+  {
+   "key": "4b302201faca",
+   "speaker_korean": null,
+   "korean": "HP회복50% 일정시간마다 사용가능"
+  },
+  {
+   "key": "964843d07c2a",
+   "speaker_korean": null,
+   "korean": "HP회복70% 일정시간마다 사용가능"
+  },
+  {
+   "key": "ffb0ab8f8877",
+   "speaker_korean": null,
+   "korean": "MP회복30% 일정시간마다 사용가능"
+  },
+  {
+   "key": "cb1f5d14b117",
+   "speaker_korean": null,
+   "korean": "MP회복50% 일정시간마다 사용가능"
+  },
+  {
+   "key": "3b5be7c3550e",
+   "speaker_korean": null,
+   "korean": "MP회복70% 일정시간마다 사용가능"
+  },
+  {
+   "key": "bac52e1268dc",
+   "speaker_korean": null,
+   "korean": "행동불능회복(HP·MP10%) 일정시간마다 사용가능"
+  },
+  {
+   "key": "4ef10d2f0a3a",
+   "speaker_korean": null,
+   "korean": "행동불능회복(HP·MP30%) 일정시간마다 사용가능"
+  },
+  {
+   "key": "ef9dd947ab87",
+   "speaker_korean": null,
+   "korean": "행동불능회복(HP·MP60%) 일정시간마다 사용가능"
+  },
+  {
+   "key": "97f17d7bd437",
+   "speaker_korean": null,
+   "korean": "미사용287"
+  },
+  {
+   "key": "253e4d1be693",
+   "speaker_korean": null,
+   "korean": "미사용288"
+  },
+  {
+   "key": "272b56f3f714",
+   "speaker_korean": null,
+   "korean": "미사용289"
+  },
+  {
+   "key": "1186f69ed172",
+   "speaker_korean": null,
+   "korean": "적을 기절시킨다"
+  },
+  {
+   "key": "1d6705024d57",
+   "speaker_korean": null,
+   "korean": "적에게 HP 데미지"
+  },
+  {
+   "key": "1ebeef846146",
+   "speaker_korean": null,
+   "korean": "적에게 HP 데미지 광범위"
+  },
+  {
+   "key": "7b0c48da92e8",
+   "speaker_korean": null,
+   "korean": "적에게 HP 데미지 초광범위"
+  },
+  {
+   "key": "467947ebe737",
+   "speaker_korean": null,
+   "korean": "적에게 MP 데미지"
+  },
+  {
+   "key": "bbb36ad03526",
+   "speaker_korean": null,
+   "korean": "적에게 MP 데미지 광범위"
+  },
+  {
+   "key": "9bad351f1638",
+   "speaker_korean": null,
+   "korean": "적에게 MP 데미지 초광범위"
+  },
+  {
+   "key": "17bcae5a0d36",
+   "speaker_korean": null,
+   "korean": "HP회복+90% 1/10로 MAXHP-1"
+  },
+  {
+   "key": "3017f2d4975f",
+   "speaker_korean": null,
+   "korean": "HP회복+80% 1/20로 MAXHP-1"
+  },
+  {
+   "key": "471be8fd917a",
+   "speaker_korean": null,
+   "korean": "HP회복+70% 1/50로 MAXHP-1"
+  },
+  {
+   "key": "f5bdf2e3b835",
+   "speaker_korean": null,
+   "korean": "MP HP회복+70% 1/10로 MAXHP-5"
+  },
+  {
+   "key": "6516d652b2fd",
+   "speaker_korean": null,
+   "korean": "MP HP회복+60% 1/20로 MAXHP-5"
+  },
+  {
+   "key": "a84ed392dcc5",
+   "speaker_korean": null,
+   "korean": "MP HP회복+50% 1/50로 MAXHP-5"
+  },
+  {
+   "key": "0d692cecf9de",
+   "speaker_korean": null,
+   "korean": "HP완전회복 또는 행동불능"
+  },
+  {
+   "key": "be480b4f8b60",
+   "speaker_korean": null,
+   "korean": "Guts완전회복 1/10로 HP-50%"
+  },
+  {
+   "key": "63bd00b29197",
+   "speaker_korean": null,
+   "korean": "Guts완전회복 1/5로 HP-50%"
+  },
+  {
+   "key": "b7769f5fdfc9",
+   "speaker_korean": null,
+   "korean": "Guts완전회복 1/2로 HP-50%"
+  },
+  {
+   "key": "176f68e64d4c",
+   "speaker_korean": null,
+   "korean": "전투중 일정시간마다 전원 HP-1"
+  },
+  {
+   "key": "81091a1e9738",
+   "speaker_korean": null,
+   "korean": "감정치-1"
+  },
+  {
+   "key": "0305ba85e043",
+   "speaker_korean": null,
+   "korean": "전투중 주기적으로 MP-1"
+  },
+  {
+   "key": "9eff4da56885",
+   "speaker_korean": null,
+   "korean": "적 DEF×5"
+  },
+  {
+   "key": "ab18509731be",
+   "speaker_korean": null,
+   "korean": "미사용312"
+  },
+  {
+   "key": "3f5b6f46d412",
+   "speaker_korean": null,
+   "korean": "미사용313"
+  },
+  {
+   "key": "570919fea79a",
+   "speaker_korean": null,
+   "korean": "약한 적과도 뜨거운 승부 가능"
+  },
+  {
+   "key": "58758b06254c",
+   "speaker_korean": null,
+   "korean": "적 ATK+30%"
+  },
+  {
+   "key": "98d6643a35bc",
+   "speaker_korean": null,
+   "korean": "적 ATK+30% FOL×3"
+  },
+  {
+   "key": "41e3f1246620",
+   "speaker_korean": null,
+   "korean": "적 ATK+50% FOL×5"
+  },
+  {
+   "key": "e9837df8d2c2",
+   "speaker_korean": null,
+   "korean": "적 ATK+100% FOL×10"
+  },
+  {
+   "key": "33255ffaa49a",
+   "speaker_korean": null,
+   "korean": "획득 경험치-50%"
+  },
+  {
+   "key": "6da99fae7775",
+   "speaker_korean": null,
+   "korean": "획득 경험치-90%"
+  },
+  {
+   "key": "fad72f1959f0",
+   "speaker_korean": null,
+   "korean": "이동속도 30% 저하"
+  },
+  {
+   "key": "1afb794c2879",
+   "speaker_korean": null,
+   "korean": "일정시간마다 데몬즈 스톤을 생성"
+  },
+  {
+   "key": "e4908136617f",
+   "speaker_korean": null,
+   "korean": "사용하면 MP가…"
+  },
+  {
+   "key": "d16ecd03352f",
+   "speaker_korean": null,
+   "korean": "양측에게 HP 데미지"
+  },
+  {
+   "key": "b8592ecebaab",
+   "speaker_korean": null,
+   "korean": "양측에게 HP 데미지 광범위"
+  },
+  {
+   "key": "e02bcb80eb13",
+   "speaker_korean": null,
+   "korean": "양측에게 HP 데미지 초광범위"
+  },
+  {
+   "key": "5a1d519793ac",
+   "speaker_korean": null,
+   "korean": "양측에게 MP 데미지"
+  },
+  {
+   "key": "a1a88bb0c84d",
+   "speaker_korean": null,
+   "korean": "양측에게 MP 데미지 광범위"
+  },
+  {
+   "key": "6e967cb0cc61",
+   "speaker_korean": null,
+   "korean": "양측에게 MP 데미지 초광범위"
+  },
+  {
+   "key": "aa1b89dd54a5",
+   "speaker_korean": null,
+   "korean": "미사용344"
+  },
+  {
+   "key": "30d4b81bb9d8",
+   "speaker_korean": null,
+   "korean": "시간 경과에 따라 가격 상승"
+  },
+  {
+   "key": "f725f45bb534",
+   "speaker_korean": null,
+   "korean": "미사용346"
+  },
+  {
+   "key": "8e19646ec9d7",
+   "speaker_korean": null,
+   "korean": "미사용347"
+  },
+  {
+   "key": "f30599255271",
+   "speaker_korean": null,
+   "korean": "적 격파 시 Guts 회복량 +5%"
+  },
+  {
+   "key": "5ca9d34f1a80",
+   "speaker_korean": null,
+   "korean": "적 격파 시 Guts 회복량 +10%"
+  },
+  {
+   "key": "f58c96925f76",
+   "speaker_korean": null,
+   "korean": "적 격파 시 Guts 회복량 +20%"
+  },
+  {
+   "key": "6e3e4d5702b4",
+   "speaker_korean": null,
+   "korean": "적 격파 시 Guts 회복량 +30%"
+  },
+  {
+   "key": "a783c8bbbdd8",
+   "speaker_korean": null,
+   "korean": "적 1체 독상태"
+  },
+  {
+   "key": "eb58e965a42a",
+   "speaker_korean": null,
+   "korean": "적 1체 마비상태"
+  },
+  {
+   "key": "6ce9cf431344",
+   "speaker_korean": null,
+   "korean": "적 1체 석화상태"
+  },
+  {
+   "key": "116608c40f8a",
+   "speaker_korean": null,
+   "korean": "적 1체 동결상태"
+  },
+  {
+   "key": "393f8601bd2d",
+   "speaker_korean": null,
+   "korean": "적 하나를 즉사시킨다"
+  },
+  {
+   "key": "3244fb456ec6",
+   "speaker_korean": null,
+   "korean": "Guts가 한계일 것 같다"
+  },
+  {
+   "key": "d1caa742eaba",
+   "speaker_korean": null,
+   "korean": "생명이 위태롭다"
+  },
+  {
+   "key": "cc0331561021",
+   "speaker_korean": null,
+   "korean": "인생에 지장이 생길 것 같다"
+  },
+  {
+   "key": "5165ef622fc9",
+   "speaker_korean": null,
+   "korean": "기분이 이상해질 것 같다"
+  },
+  {
+   "key": "b1d4c5bf2a49",
+   "speaker_korean": null,
+   "korean": "정신이 위험해질 것 같다"
+  },
+  {
+   "key": "0e33a39c83e4",
+   "speaker_korean": null,
+   "korean": "지니면 마음이 무겁다"
+  },
+  {
+   "key": "f6ab03aa3e3d",
+   "speaker_korean": null,
+   "korean": "우울한 기분이 든다"
+  },
+  {
+   "key": "70d6eed61e37",
+   "speaker_korean": null,
+   "korean": "파괴확률1%"
+  },
+  {
+   "key": "5f3b27f511fb",
+   "speaker_korean": null,
+   "korean": "파괴확률10%"
+  },
+  {
+   "key": "63874beb5223",
+   "speaker_korean": null,
+   "korean": "파괴확률50%"
+  },
+  {
+   "key": "e6f52db2dec8",
+   "speaker_korean": null,
+   "korean": "유난히 반들반들하다"
+  },
+  {
+   "key": "e5bb0fd31b86",
+   "speaker_korean": null,
+   "korean": "프로텍트 브레이크시 Guts감소량-5"
+  },
+  {
+   "key": "12cdb5e50ddd",
+   "speaker_korean": null,
+   "korean": "프로텍트 브레이크시 Guts감소량-10"
+  },
+  {
+   "key": "cc595f0538e6",
+   "speaker_korean": null,
+   "korean": "프로텍트 브레이크시 Guts감소량-20"
+  },
+  {
+   "key": "63ad2562bcc4",
+   "speaker_korean": null,
+   "korean": "커맨드 입력으로…?"
+  },
+  {
+   "key": "9a04d51eb4b9",
+   "speaker_korean": null,
+   "korean": "커맨드 입력으로…?!"
+  },
+  {
+   "key": "5d2c8f78bdcd",
+   "speaker_korean": null,
+   "korean": "카운터 오라 POWER UP 1"
+  },
+  {
+   "key": "7217f38eb138",
+   "speaker_korean": null,
+   "korean": "카운터 오라 POWER UP 2"
+  },
+  {
+   "key": "49fe45036404",
+   "speaker_korean": null,
+   "korean": "카운터 오라 POWER UP 3"
+  },
+  {
+   "key": "14091c2ff8a6",
+   "speaker_korean": null,
+   "korean": "CA「스타 가드」 습득"
+  },
+  {
+   "key": "a3fecf4cf818",
+   "speaker_korean": null,
+   "korean": "공격시 광탄 발생"
+  },
+  {
+   "key": "98cd935db8f5",
+   "speaker_korean": null,
+   "korean": "공격시 화염탄 발생"
+  },
+  {
+   "key": "ff3dcd868cc0",
+   "speaker_korean": null,
+   "korean": "공격시 원거리 충격파 발생"
+  },
+  {
+   "key": "a67c90887490",
+   "speaker_korean": null,
+   "korean": "공격시 적에게 낙뢰 발생"
+  },
+  {
+   "key": "87722fde7894",
+   "speaker_korean": null,
+   "korean": "공격시 가끔 자신에…"
+  },
+  {
+   "key": "c56e096c7d6f",
+   "speaker_korean": null,
+   "korean": "배틀 스킬 「메테오 스웜」 습득"
+  },
+  {
+   "key": "fbabb3b03a58",
+   "speaker_korean": null,
+   "korean": "미사용383"
+  },
+  {
+   "key": "ef4cca88c01e",
+   "speaker_korean": null,
+   "korean": "미사용384"
+  },
+  {
+   "key": "44687b65c33a",
+   "speaker_korean": null,
+   "korean": "미사용385"
+  },
+  {
+   "key": "ebf0302df440",
+   "speaker_korean": null,
+   "korean": "미사용386"
+  },
+  {
+   "key": "f556881096f0",
+   "speaker_korean": null,
+   "korean": "미사용387"
+  },
+  {
+   "key": "8902c918b699",
+   "speaker_korean": null,
+   "korean": "미사용388"
+  },
+  {
+   "key": "d694f1fc529d",
+   "speaker_korean": null,
+   "korean": "미사용389"
+  },
+  {
+   "key": "250ae4adc93b",
+   "speaker_korean": null,
+   "korean": "방어력 1/2"
+  }
+ ]
+}

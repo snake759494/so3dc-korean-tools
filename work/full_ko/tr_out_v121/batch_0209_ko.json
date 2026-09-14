@@ -1,0 +1,275 @@
+{
+ "batch_id": "batch_0209",
+ "translations": [
+  {
+   "key": "a20cdf0aea95",
+   "speaker_korean": "바닐라",
+   "korean": "「하지만, 그분이 사시는 유적 입구는\n화산암으로 막혀 있어서\n들어갈 수 없어."
+  },
+  {
+   "key": "66cd5bda3ef8",
+   "speaker_korean": "페이트",
+   "korean": "「그건 네가 관리하고 있는\n거 아니야?"
+  },
+  {
+   "key": "4dcc793b9f33",
+   "speaker_korean": "바닐라",
+   "korean": "「난 전혀 상관없어.\n여긴 그냥 내 맘대로\n살고 있는 것뿐이거든."
+  },
+  {
+   "key": "7c671ef30a21",
+   "speaker_korean": "알벨",
+   "korean": "「쳇….\n그러니까 이런 곳에 오는 건\n쓸데없다고 말했잖아. 멍청한 놈."
+  },
+  {
+   "key": "991ff26ba877",
+   "speaker_korean": "넬",
+   "korean": "「너,\n그런 말 했었나?"
+  },
+  {
+   "key": "cc8f84518512",
+   "speaker_korean": "알벨",
+   "korean": "「나도 처음 듣는군."
+  },
+  {
+   "key": "a0dc0d6013af",
+   "speaker_korean": "페이트",
+   "korean": "「어떻게든 봉인을 풀 방법은\n없을까?"
+  },
+  {
+   "key": "bd31a04f88ee",
+   "speaker_korean": "바닐라",
+   "korean": "「…없는 것도 아니지만 말이야.\n마광석이 있으면 『배니시 링』을\n만들 수 있어. 그걸 쓰면 돼."
+  },
+  {
+   "key": "6a90fc601673",
+   "speaker_korean": "마리아",
+   "korean": "「배니시 링?"
+  },
+  {
+   "key": "c9ea6321170a",
+   "speaker_korean": "바닐라",
+   "korean": "「배니시라는 건 물질을 없애는\n⟦1⟧힘⟦2⟧을 말하는 거야. 그 힘을 가둬서\n누구나 쓸 수 있게 만든 게\n배니시 링이야."
+  },
+  {
+   "key": "7ea565b5f588",
+   "speaker_korean": "페이트",
+   "korean": "「그 배니시 링이라는 걸,\n네가 만든다는 거야?"
+  },
+  {
+   "key": "391ef69de747",
+   "speaker_korean": "바닐라",
+   "korean": "「이래 봬도 난\n크리에이터거든."
+  },
+  {
+   "key": "5b2c2c2f4fa6",
+   "speaker_korean": "바닐라",
+   "korean": "「마광석은… 그러니까.\n⟦1⟧아리그리프⟦2⟧에 지하수로가 있는 거 알아?\n거기 바닥 전체가 얼어붙은 곳에\n숨겨져 있을 거야."
+  },
+  {
+   "key": "9a02d5521ac4",
+   "speaker_korean": "바닐라",
+   "korean": "「꼭 배니시 링이\n필요한 거야?"
+  },
+  {
+   "key": "d8ae2868d7fc",
+   "speaker_korean": "페이트",
+   "korean": "「응.\n우린 꼭 후작급 ⟦1⟧드래곤⟦2⟧을\n만나러 가야 하거든."
+  },
+  {
+   "key": "6e0950b2a006",
+   "speaker_korean": "바닐라",
+   "korean": "「…."
+  },
+  {
+   "key": "a8ce09f0158f",
+   "speaker_korean": "바닐라",
+   "korean": "「납기는 언제야?"
+  },
+  {
+   "key": "2097d691f00c",
+   "speaker_korean": "마리아",
+   "korean": "「만들어 주는 거야!?"
+  },
+  {
+   "key": "ecc10bdaa989",
+   "speaker_korean": "바닐라",
+   "korean": "「뭐, 이쪽도 그걸로\n먹고 사는 거니까.\n⟦P⟧그럼, 납기는 언제야?"
+  },
+  {
+   "key": "cd47ac2a328d",
+   "speaker_korean": "마리아",
+   "korean": "「그건 당장이라도\n받고 싶은데…"
+  },
+  {
+   "key": "ed4d816b2a9b",
+   "speaker_korean": "바닐라",
+   "korean": "「개발비는\n얼마 줄 거야?"
+  },
+  {
+   "key": "09c520e7d88b",
+   "speaker_korean": "페이트",
+   "korean": "「음, 글쎄……"
+  },
+  {
+   "key": "1f0c1bfee120",
+   "speaker_korean": "바닐라",
+   "korean": "「그래서, 개발비는\n얼마 줄 건데?"
+  },
+  {
+   "key": "87ddc02a72d4",
+   "speaker_korean": "페이트",
+   "korean": "「음……"
+  },
+  {
+   "key": "669ca673776d",
+   "speaker_korean": "바닐라",
+   "korean": "「어서 와,\n천천히 있다 가."
+  },
+  {
+   "key": "0f82467f0d94",
+   "speaker_korean": null,
+   "korean": "크리에이터 ⟦1⟧바닐라⟦2⟧와 계약했다.\n⟦P⟧"
+  },
+  {
+   "key": "d53b314bc694",
+   "speaker_korean": "바닐라",
+   "korean": "⟦1⟧「이런 데 있으면 손님도 적어서 말이야.\n이사도 한번 생각 중이긴 한데.\n⟦P⟧"
+  },
+  {
+   "key": "24f776a66c80",
+   "speaker_korean": null,
+   "korean": "⟦1⟧30000폴⟦2⟧을 건네겠습니까?\n⟦P⟧"
+  },
+  {
+   "key": "fe4069f1091c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・이게 착수금이다."
+  },
+  {
+   "key": "d7380c68b83d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・땀 흘리며 일해."
+  },
+  {
+   "key": "8c95b5c9b0a2",
+   "speaker_korean": "바닐라",
+   "korean": "⟦1⟧「그 정도 돈만 있으면,\n더 좋은 곳으로\n이사할 텐데.\n⟦P⟧"
+  },
+  {
+   "key": "d5d0f8d5cdfb",
+   "speaker_korean": null,
+   "korean": "⟦1⟧30000폴⟦2⟧을 보여주겠습니까?\n⟦P⟧"
+  },
+  {
+   "key": "bb33a31c45fd",
+   "speaker_korean": "바닐라",
+   "korean": "⟦1⟧「그야 땀도 흘리고 있지만,\n그거랑 이건 별개 문제야.\n⟦P⟧"
+  },
+  {
+   "key": "fc59f0928ccd",
+   "speaker_korean": "바닐라",
+   "korean": "⟦1⟧「슬슬 여기도 질렸으니,\n이번엔 북적이는 곳으로\n가 볼까.\n⟦P⟧"
+  },
+  {
+   "key": "d4f37fc9e29d",
+   "speaker_korean": "바닐라",
+   "korean": "「아직 마광석을 못 구했어?\n마광석이 있는 곳은 ⟦1⟧아리그리프⟦2⟧\n지하수로야.\n잘 찾아봐."
+  },
+  {
+   "key": "dd392a71f740",
+   "speaker_korean": "바닐라",
+   "korean": "「어?\n배니시 봄 전부 써 버린 거야!?\n아껴 쓰라고 했잖아……\n아직 많이 있으니 괜찮긴 한데,\n이번엔 공짜로는 안 돼.\n⟦1⟧5000⟦2⟧폴, 더는 못 깎아줘."
+  },
+  {
+   "key": "99b74cdaa3f5",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・⟦2⟧5000⟦3⟧폴로 배니시 봄을 산다."
+  },
+  {
+   "key": "56317ecb63bf",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・안 사."
+  },
+  {
+   "key": "17b50dfc55df",
+   "speaker_korean": "바닐라",
+   "korean": "「안 사?\n마음 바뀌면 또 와."
+  },
+  {
+   "key": "d493c7386239",
+   "speaker_korean": "바닐라",
+   "korean": "「매번 고마워~.\n이번엔 헛되이 쓰면 안 돼."
+  },
+  {
+   "key": "52aa6c4441d4",
+   "speaker_korean": "바닐라",
+   "korean": "「돈이, 부족해.\n돈 모이면 또 와."
+  },
+  {
+   "key": "6b7d73cedd35",
+   "speaker_korean": "바닐라",
+   "korean": "「마광석, 가져왔구나.\n그럼 잠깐만 기다려.\n금방 만들어 줄 테니까."
+  },
+  {
+   "key": "486ae64ab080",
+   "speaker_korean": "바닐라",
+   "korean": "「다 됐어.\n이게 배니시 링이야."
+  },
+  {
+   "key": "0841519482f6",
+   "speaker_korean": "바닐라",
+   "korean": "「사실은 돈과 시간을\n더 들여야 하는 건데,\n둘 다 부족했으니까\n지울 수 있는 게 한정적이야.\n돈이랑 시간은 재능보다도\n훨씬 중요한 요소니까,\n어쩔 수 없지."
+  },
+  {
+   "key": "4b0714f5ab34",
+   "speaker_korean": "페이트",
+   "korean": "「온천이다.\n천연 온천은 처음 보네."
+  },
+  {
+   "key": "5e74125d8091",
+   "speaker_korean": "페이트",
+   "korean": "「생활용품이 늘어서 있다.\n그나저나 이런 곳에서 용케 사는군.\n먹을 건 대체 어떻게 구하는 걸까?"
+  },
+  {
+   "key": "0081165b8bdd",
+   "speaker_korean": "페이트",
+   "korean": "「서적이 잔뜩 꽂혀 있다.\n…본 적 없는 문자다.\n읽을 수 없겠는데."
+  },
+  {
+   "key": "2dc3cdcd03fb",
+   "speaker_korean": "페이트",
+   "korean": "「그렇군.\n용암을 끌어들이고 있는 건가.\n그나저나… 덥다……"
+  },
+  {
+   "key": "c037af657d1f",
+   "speaker_korean": "배니시 봄에 대해",
+   "korean": "배니시 봄은 맵 위에 있는 얼음으로 된 물질을\n없앨 수 있는 특수 아이템입니다.\n없앤 얼음은 맵을 전환하면\n다시 나타나지만 일부는 그렇지 않습니다.\n또 떨어지거나 움직이는 얼음에 부딪히면\n페널티로 맵의 처음 위치로\n돌아가게 됩니다. 주의하세요."
+  },
+  {
+   "key": "e6dafc8246e6",
+   "speaker_korean": "조작 방법",
+   "korean": "누르면 아래 창이 표시됩니다.\n이대로 얼음에 다가가면 없앨 수 있는\n얼음 주위에 녹색 테두리가 표시됩니다.\n그대로 누르면 얼음을 없앨 수 있습니다.\n⟦P⟧누르면 다시 하기가 되어,\n현재 맵의 처음 위치로 돌아갑니다.\n창을 표시하고 있는 동안은,\n사람과 이야기하거나 물건을 조사하는 게\n불가능해집니다.\n⟦P⟧배니시 봄 사용 횟수가 0이 되면\n물질을 없앨 수 없게 되니\n어딘가에서 보충해야 합니다."
+  },
+  {
+   "key": "e32333892295",
+   "speaker_korean": "바닐라",
+   "korean": "「그럼 마광석이 있는 방 입구는\n얼음에 가려져 있으니까,\n이 배니시 봄으로 얼음을\n날려버리고 가져와.\n배니시 봄은 10번밖에 없으니까\n이상한 거 부수지 말고."
+  },
+  {
+   "key": "e8154f4d31e7",
+   "speaker_korean": "바닐라",
+   "korean": "「그럼, 잘 부탁해."
+  },
+  {
+   "key": "b3cacba347ad",
+   "speaker_korean": "바닐라",
+   "korean": "「아, 맞다맞다.\n이 비밀 도구도 챙겨 가.\n이걸 장비하고 있으면,\n약한 적과 싸워도\n꽤 훈련이 될 거야."
+  },
+  {
+   "key": "de61e96d1a17",
+   "speaker_korean": null,
+   "korean": "⟦1⟧근성 바니⟦2⟧를 손에 넣었다."
+  }
+ ]
+}

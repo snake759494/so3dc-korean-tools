@@ -1,0 +1,595 @@
+{
+ "batch_id": "batch_0289",
+ "translations": [
+  {
+   "key": "55561cc43b63",
+   "speaker_korean": null,
+   "korean": "이세리얼・블래스트"
+  },
+  {
+   "key": "59f54d0bb512",
+   "speaker_korean": null,
+   "korean": "매지컬・댄스"
+  },
+  {
+   "key": "b21e89178a61",
+   "speaker_korean": null,
+   "korean": "드림・콤보"
+  },
+  {
+   "key": "f203fd7b7e04",
+   "speaker_korean": null,
+   "korean": "무한・쌍파참"
+  },
+  {
+   "key": "31127b2e6727",
+   "speaker_korean": null,
+   "korean": "무한・공파참"
+  },
+  {
+   "key": "37fde2cb55f4",
+   "speaker_korean": null,
+   "korean": "인피니티・아츠"
+  },
+  {
+   "key": "5430568eca70",
+   "speaker_korean": null,
+   "korean": "맥스・익스텐션"
+  },
+  {
+   "key": "5ccc4781c240",
+   "speaker_korean": null,
+   "korean": "버스트・에미션"
+  },
+  {
+   "key": "d697532c0a4a",
+   "speaker_korean": null,
+   "korean": "레디에이션・디바이스"
+  },
+  {
+   "key": "93d558fc43c0",
+   "speaker_korean": null,
+   "korean": "트라이・퍼널"
+  },
+  {
+   "key": "593147982670",
+   "speaker_korean": null,
+   "korean": "스타・폴"
+  },
+  {
+   "key": "6b933d951ddb",
+   "speaker_korean": null,
+   "korean": "캐논・블레이즈"
+  },
+  {
+   "key": "beee3e8ba98e",
+   "speaker_korean": null,
+   "korean": "메테오 스웜"
+  },
+  {
+   "key": "e1910ee239d2",
+   "speaker_korean": null,
+   "korean": "능력치 및 장비 상태와 설정된 배틀 스킬을 확인합니다"
+  },
+  {
+   "key": "fb289c6bb40e",
+   "speaker_korean": null,
+   "korean": "이름을 바꿔도 보이스 캐릭터명은 그대로입니다"
+  },
+  {
+   "key": "5cb368ef4783",
+   "speaker_korean": null,
+   "korean": "전투 중 플레이어 캐릭터 색을 선택할 수 있습니다"
+  },
+  {
+   "key": "20bee4720eac",
+   "speaker_korean": null,
+   "korean": "마그네틱・필드"
+  },
+  {
+   "key": "db297237fffb",
+   "speaker_korean": null,
+   "korean": "히라가나"
+  },
+  {
+   "key": "be9bd74d1ff9",
+   "speaker_korean": null,
+   "korean": "가타카나"
+  },
+  {
+   "key": "87b5955e314c",
+   "speaker_korean": null,
+   "korean": "영문"
+  },
+  {
+   "key": "db178c54daea",
+   "speaker_korean": null,
+   "korean": "한글자삭제"
+  },
+  {
+   "key": "01d207348b96",
+   "speaker_korean": null,
+   "korean": "디폴트"
+  },
+  {
+   "key": "db0e733f9eca",
+   "speaker_korean": null,
+   "korean": " 결정"
+  },
+  {
+   "key": "7a30a20fe329",
+   "speaker_korean": null,
+   "korean": "아이우에오  하히후헤호\n카키쿠케코  바비부베보\n가기구게고  파피푸페포\n사시스세소  마미무메모\n자지즈제조\n타치츠테토  라리루레로\n다지즈데도\n나니누네노\n아이우에오야유요츠"
+  },
+  {
+   "key": "5aa228d4258b",
+   "speaker_korean": null,
+   "korean": "야유요\n와오응"
+  },
+  {
+   "key": "514d89716440",
+   "speaker_korean": null,
+   "korean": "-"
+  },
+  {
+   "key": "9f18de36a96d",
+   "speaker_korean": null,
+   "korean": "아이우에오  하히후헤호\n카키쿠케코  바비부베보\n가기구게고  파피푸페포\n사시스세소  마미무메모\n자지즈제조  야유요\n타치츠테토  라리루레로\n다지즈데도  와오응\n나니누네노  부-\n아이우에오야유요츠"
+  },
+  {
+   "key": "0a7b3cd93480",
+   "speaker_korean": null,
+   "korean": "!=・:;"
+  },
+  {
+   "key": "7d7f9dc4d98a",
+   "speaker_korean": null,
+   "korean": "멤버"
+  },
+  {
+   "key": "199053e39493",
+   "speaker_korean": null,
+   "korean": "이름"
+  },
+  {
+   "key": "a54b80e5cc40",
+   "speaker_korean": null,
+   "korean": "컬러설정"
+  },
+  {
+   "key": "4989feafbf7e",
+   "speaker_korean": null,
+   "korean": "WARNING!"
+  },
+  {
+   "key": "f841478fd064",
+   "speaker_korean": null,
+   "korean": "이름 변경해도 시나리오\n보이스엔 영향 없습니다\n정말 변경하시겠습니까?"
+  },
+  {
+   "key": "a6b40adb0d22",
+   "speaker_korean": null,
+   "korean": "스테이터스 종료합니다\n괜찮으시겠습니까?"
+  },
+  {
+   "key": "3b181c21762e",
+   "speaker_korean": null,
+   "korean": "아"
+  },
+  {
+   "key": "bda1830a9664",
+   "speaker_korean": null,
+   "korean": "이"
+  },
+  {
+   "key": "4d339874e6a4",
+   "speaker_korean": null,
+   "korean": "우"
+  },
+  {
+   "key": "3c26c5aff867",
+   "speaker_korean": null,
+   "korean": "에"
+  },
+  {
+   "key": "552051e54c88",
+   "speaker_korean": null,
+   "korean": "오"
+  },
+  {
+   "key": "00f55f67e3a2",
+   "speaker_korean": null,
+   "korean": "하"
+  },
+  {
+   "key": "f614282abcc3",
+   "speaker_korean": null,
+   "korean": "히"
+  },
+  {
+   "key": "963bcdab4601",
+   "speaker_korean": null,
+   "korean": "후"
+  },
+  {
+   "key": "56c92c58d043",
+   "speaker_korean": null,
+   "korean": "헤"
+  },
+  {
+   "key": "0d3667041efd",
+   "speaker_korean": null,
+   "korean": "호"
+  },
+  {
+   "key": "610c9834ca82",
+   "speaker_korean": null,
+   "korean": "카"
+  },
+  {
+   "key": "04be32acbaee",
+   "speaker_korean": null,
+   "korean": "키"
+  },
+  {
+   "key": "0d80bcd144cd",
+   "speaker_korean": null,
+   "korean": "쿠"
+  },
+  {
+   "key": "697ca0902e5f",
+   "speaker_korean": null,
+   "korean": "케"
+  },
+  {
+   "key": "45cd56852c91",
+   "speaker_korean": null,
+   "korean": "코"
+  },
+  {
+   "key": "fc597d119255",
+   "speaker_korean": null,
+   "korean": "바"
+  },
+  {
+   "key": "968c5ecba8d0",
+   "speaker_korean": null,
+   "korean": "비"
+  },
+  {
+   "key": "b40dd7bd538b",
+   "speaker_korean": null,
+   "korean": "부"
+  },
+  {
+   "key": "97be75237228",
+   "speaker_korean": null,
+   "korean": "베"
+  },
+  {
+   "key": "0400e383cb64",
+   "speaker_korean": null,
+   "korean": "보"
+  },
+  {
+   "key": "1500cc0deff7",
+   "speaker_korean": null,
+   "korean": "가"
+  },
+  {
+   "key": "602330cf86d0",
+   "speaker_korean": null,
+   "korean": "기"
+  },
+  {
+   "key": "8cf4637cb1a5",
+   "speaker_korean": null,
+   "korean": "구"
+  },
+  {
+   "key": "1bb6a8c93907",
+   "speaker_korean": null,
+   "korean": "게"
+  },
+  {
+   "key": "9cdf28d1c2b9",
+   "speaker_korean": null,
+   "korean": "고"
+  },
+  {
+   "key": "589f4d426bb3",
+   "speaker_korean": null,
+   "korean": "파"
+  },
+  {
+   "key": "7e59e33ac9f3",
+   "speaker_korean": null,
+   "korean": "피"
+  },
+  {
+   "key": "e5b18258d3f5",
+   "speaker_korean": null,
+   "korean": "푸"
+  },
+  {
+   "key": "1eabf6ae0b57",
+   "speaker_korean": null,
+   "korean": "페"
+  },
+  {
+   "key": "4bf2129480cf",
+   "speaker_korean": null,
+   "korean": "포"
+  },
+  {
+   "key": "67eb987b6191",
+   "speaker_korean": null,
+   "korean": "사"
+  },
+  {
+   "key": "720cfce89ba3",
+   "speaker_korean": null,
+   "korean": "시"
+  },
+  {
+   "key": "3d5588cc1251",
+   "speaker_korean": null,
+   "korean": "스"
+  },
+  {
+   "key": "4ad214dbd5ca",
+   "speaker_korean": null,
+   "korean": "세"
+  },
+  {
+   "key": "c8246d3d6d8b",
+   "speaker_korean": null,
+   "korean": "소"
+  },
+  {
+   "key": "e52b97bc65fb",
+   "speaker_korean": null,
+   "korean": "마"
+  },
+  {
+   "key": "8fbf7631f966",
+   "speaker_korean": null,
+   "korean": "미"
+  },
+  {
+   "key": "b953b2bb44ad",
+   "speaker_korean": null,
+   "korean": "무"
+  },
+  {
+   "key": "b6c7e7afa0ab",
+   "speaker_korean": null,
+   "korean": "메"
+  },
+  {
+   "key": "eb1f5eff7c5a",
+   "speaker_korean": null,
+   "korean": "모"
+  },
+  {
+   "key": "2f80ad1cfc50",
+   "speaker_korean": null,
+   "korean": "자"
+  },
+  {
+   "key": "08e7746d54d3",
+   "speaker_korean": null,
+   "korean": "지"
+  },
+  {
+   "key": "dccec18a5856",
+   "speaker_korean": null,
+   "korean": "즈"
+  },
+  {
+   "key": "d02543c72bf0",
+   "speaker_korean": null,
+   "korean": "제"
+  },
+  {
+   "key": "68d66663de92",
+   "speaker_korean": null,
+   "korean": "조"
+  },
+  {
+   "key": "d630ee8841bd",
+   "speaker_korean": null,
+   "korean": "야"
+  },
+  {
+   "key": "144c5f898e8f",
+   "speaker_korean": null,
+   "korean": "유"
+  },
+  {
+   "key": "27c2df8ec07f",
+   "speaker_korean": null,
+   "korean": "요"
+  },
+  {
+   "key": "ced458bfaf17",
+   "speaker_korean": null,
+   "korean": "타"
+  },
+  {
+   "key": "883b0dfc5115",
+   "speaker_korean": null,
+   "korean": "치"
+  },
+  {
+   "key": "b023da5880b7",
+   "speaker_korean": null,
+   "korean": "츠"
+  },
+  {
+   "key": "4273b192cbac",
+   "speaker_korean": null,
+   "korean": "테"
+  },
+  {
+   "key": "cec8e0c8c391",
+   "speaker_korean": null,
+   "korean": "토"
+  },
+  {
+   "key": "3b4d1af44119",
+   "speaker_korean": null,
+   "korean": "라"
+  },
+  {
+   "key": "db45860537b8",
+   "speaker_korean": null,
+   "korean": "리"
+  },
+  {
+   "key": "b6afead9a94c",
+   "speaker_korean": null,
+   "korean": "루"
+  },
+  {
+   "key": "d47141c94f85",
+   "speaker_korean": null,
+   "korean": "레"
+  },
+  {
+   "key": "2b2a5c8ef304",
+   "speaker_korean": null,
+   "korean": "로"
+  },
+  {
+   "key": "cd04a7603901",
+   "speaker_korean": null,
+   "korean": "다"
+  },
+  {
+   "key": "8b00e367088b",
+   "speaker_korean": null,
+   "korean": "지"
+  },
+  {
+   "key": "6091e6ce5b7c",
+   "speaker_korean": null,
+   "korean": "즈"
+  },
+  {
+   "key": "18dd8b729e0f",
+   "speaker_korean": null,
+   "korean": "데"
+  },
+  {
+   "key": "1abdba5730ac",
+   "speaker_korean": null,
+   "korean": "도"
+  },
+  {
+   "key": "42823dbb5af7",
+   "speaker_korean": null,
+   "korean": "와"
+  },
+  {
+   "key": "6cb3e409797a",
+   "speaker_korean": null,
+   "korean": "오"
+  },
+  {
+   "key": "6ccb9ff5ce7d",
+   "speaker_korean": null,
+   "korean": "응"
+  },
+  {
+   "key": "49d07e185c46",
+   "speaker_korean": null,
+   "korean": "나"
+  },
+  {
+   "key": "60dd9b528aca",
+   "speaker_korean": null,
+   "korean": "니"
+  },
+  {
+   "key": "0b759368a864",
+   "speaker_korean": null,
+   "korean": "누"
+  },
+  {
+   "key": "6cb171be6f25",
+   "speaker_korean": null,
+   "korean": "네"
+  },
+  {
+   "key": "2048b40bda8a",
+   "speaker_korean": null,
+   "korean": "노"
+  },
+  {
+   "key": "51753f829013",
+   "speaker_korean": null,
+   "korean": "아"
+  },
+  {
+   "key": "f043db207ee9",
+   "speaker_korean": null,
+   "korean": "이"
+  },
+  {
+   "key": "e1e9ec3c1c23",
+   "speaker_korean": null,
+   "korean": "우"
+  },
+  {
+   "key": "ebb2278140d0",
+   "speaker_korean": null,
+   "korean": "에"
+  },
+  {
+   "key": "bd76476ec1d8",
+   "speaker_korean": null,
+   "korean": "오"
+  },
+  {
+   "key": "46954e15da6e",
+   "speaker_korean": null,
+   "korean": "야"
+  },
+  {
+   "key": "6edb42d48882",
+   "speaker_korean": null,
+   "korean": "유"
+  },
+  {
+   "key": "e12abd462baf",
+   "speaker_korean": null,
+   "korean": "요"
+  },
+  {
+   "key": "64b73ebc1b42",
+   "speaker_korean": null,
+   "korean": "츠"
+  },
+  {
+   "key": "b497904ccced",
+   "speaker_korean": null,
+   "korean": "아"
+  },
+  {
+   "key": "42c6c385078a",
+   "speaker_korean": null,
+   "korean": "이"
+  },
+  {
+   "key": "f64debc9cc23",
+   "speaker_korean": null,
+   "korean": "우"
+  },
+  {
+   "key": "2530f8333843",
+   "speaker_korean": null,
+   "korean": "에"
+  }
+ ]
+}

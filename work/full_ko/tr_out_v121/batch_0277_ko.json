@@ -1,0 +1,650 @@
+{
+ "batch_id": "batch_0277",
+ "translations": [
+  {
+   "key": "b7d6072cf831",
+   "speaker_korean": null,
+   "korean": "기공병단"
+  },
+  {
+   "key": "f440beb0acd4",
+   "speaker_korean": null,
+   "korean": "크림슨 블레이드"
+  },
+  {
+   "key": "6d6bfba219d8",
+   "speaker_korean": null,
+   "korean": "강철"
+  },
+  {
+   "key": "f57ecdeb7c68",
+   "speaker_korean": null,
+   "korean": "봉마단『암』"
+  },
+  {
+   "key": "2247c4efda46",
+   "speaker_korean": null,
+   "korean": "시력"
+  },
+  {
+   "key": "0f932aef7579",
+   "speaker_korean": null,
+   "korean": "포스필드"
+  },
+  {
+   "key": "88365a7c8000",
+   "speaker_korean": null,
+   "korean": "이케로스의 예언서"
+  },
+  {
+   "key": "ee57770c3ed6",
+   "speaker_korean": null,
+   "korean": "성주 세피라"
+  },
+  {
+   "key": "afa51c01efe0",
+   "speaker_korean": null,
+   "korean": "아이레"
+  },
+  {
+   "key": "cd66283196e8",
+   "speaker_korean": null,
+   "korean": "솔론"
+  },
+  {
+   "key": "ea3e94761845",
+   "speaker_korean": null,
+   "korean": "딜나"
+  },
+  {
+   "key": "c269bac7b019",
+   "speaker_korean": null,
+   "korean": "엘레나"
+  },
+  {
+   "key": "84d461726fcd",
+   "speaker_korean": null,
+   "korean": "오레아스"
+  },
+  {
+   "key": "2e78db932ef6",
+   "speaker_korean": null,
+   "korean": "샤알"
+  },
+  {
+   "key": "d94a56433937",
+   "speaker_korean": null,
+   "korean": "엘레노아"
+  },
+  {
+   "key": "0c756775beb8",
+   "speaker_korean": null,
+   "korean": "팔미라"
+  },
+  {
+   "key": "8aca4f9d456a",
+   "speaker_korean": null,
+   "korean": "이리스"
+  },
+  {
+   "key": "6b476a838bf8",
+   "speaker_korean": null,
+   "korean": "아페리스의 여"
+  },
+  {
+   "key": "0d928e11cbbf",
+   "speaker_korean": null,
+   "korean": "아페리스의 성녀"
+  },
+  {
+   "key": "01fb4ccd0bc6",
+   "speaker_korean": null,
+   "korean": "인형술사"
+  },
+  {
+   "key": "ae4a1cfff197",
+   "speaker_korean": null,
+   "korean": "시문"
+  },
+  {
+   "key": "0dde4db56f6d",
+   "speaker_korean": null,
+   "korean": "10계 성판"
+  },
+  {
+   "key": "31802ebeb130",
+   "speaker_korean": null,
+   "korean": "광아단『빛』"
+  },
+  {
+   "key": "a275122335c4",
+   "speaker_korean": null,
+   "korean": "돌마스터"
+  },
+  {
+   "key": "cfa2d5c989b8",
+   "speaker_korean": null,
+   "korean": "환원"
+  },
+  {
+   "key": "230ec577ff42",
+   "speaker_korean": null,
+   "korean": "레이리아"
+  },
+  {
+   "key": "86f5aa2a1770",
+   "speaker_korean": null,
+   "korean": "포스터"
+  },
+  {
+   "key": "75ac09897e4c",
+   "speaker_korean": null,
+   "korean": "체적저항률"
+  },
+  {
+   "key": "90044f8f0bb4",
+   "speaker_korean": null,
+   "korean": "광석"
+  },
+  {
+   "key": "08b02ef5e982",
+   "speaker_korean": null,
+   "korean": "융점"
+  },
+  {
+   "key": "b096799351dc",
+   "speaker_korean": null,
+   "korean": "은"
+  },
+  {
+   "key": "13ee9c2b825d",
+   "speaker_korean": null,
+   "korean": "수은"
+  },
+  {
+   "key": "8e1e3ca46268",
+   "speaker_korean": null,
+   "korean": "이온화 경향"
+  },
+  {
+   "key": "0c113a781cec",
+   "speaker_korean": null,
+   "korean": "미개행성 보호조약"
+  },
+  {
+   "key": "20a36fe33102",
+   "speaker_korean": null,
+   "korean": "미개행성"
+  },
+  {
+   "key": "24e14b0edba7",
+   "speaker_korean": null,
+   "korean": "워프 속도"
+  },
+  {
+   "key": "94ac82207a33",
+   "speaker_korean": null,
+   "korean": "중력자"
+  },
+  {
+   "key": "4b0e8c7915a8",
+   "speaker_korean": null,
+   "korean": "디플로"
+  },
+  {
+   "key": "136609d29cd3",
+   "speaker_korean": null,
+   "korean": "기동고속함"
+  },
+  {
+   "key": "d86f55c97bd7",
+   "speaker_korean": null,
+   "korean": "이글"
+  },
+  {
+   "key": "55add8310e05",
+   "speaker_korean": null,
+   "korean": "소형고속정"
+  },
+  {
+   "key": "248566088e78",
+   "speaker_korean": null,
+   "korean": "수송함"
+  },
+  {
+   "key": "be8950986b7e",
+   "speaker_korean": null,
+   "korean": "마나 클리너"
+  },
+  {
+   "key": "9c26c13bfd87",
+   "speaker_korean": null,
+   "korean": "시공전이 실드"
+  },
+  {
+   "key": "826fba5b4dae",
+   "speaker_korean": null,
+   "korean": "트랜스포터"
+  },
+  {
+   "key": "595b54f044fc",
+   "speaker_korean": null,
+   "korean": "문장"
+  },
+  {
+   "key": "431bfa39fe7b",
+   "speaker_korean": null,
+   "korean": "타임게이트"
+  },
+  {
+   "key": "6f1c42131792",
+   "speaker_korean": null,
+   "korean": "엘리미네이트 캐논"
+  },
+  {
+   "key": "8dc348f820b6",
+   "speaker_korean": null,
+   "korean": "중력워프 코어"
+  },
+  {
+   "key": "0ed07a9988be",
+   "speaker_korean": null,
+   "korean": "문장술"
+  },
+  {
+   "key": "ba484ab98de8",
+   "speaker_korean": null,
+   "korean": "문장술사"
+  },
+  {
+   "key": "280067afcdb6",
+   "speaker_korean": null,
+   "korean": "문장력"
+  },
+  {
+   "key": "3606452ad018",
+   "speaker_korean": null,
+   "korean": "아공간 워프"
+  },
+  {
+   "key": "f3a060428127",
+   "speaker_korean": null,
+   "korean": "천문단위"
+  },
+  {
+   "key": "cd83f163f785",
+   "speaker_korean": null,
+   "korean": "과학탐사함"
+  },
+  {
+   "key": "8238ec11c035",
+   "speaker_korean": null,
+   "korean": "절대실시등급"
+  },
+  {
+   "key": "34773681d4b8",
+   "speaker_korean": null,
+   "korean": "기공술"
+  },
+  {
+   "key": "993e8849bbdc",
+   "speaker_korean": null,
+   "korean": "인비저블"
+  },
+  {
+   "key": "9ce0ddc2a0ed",
+   "speaker_korean": null,
+   "korean": "오파츠"
+  },
+  {
+   "key": "616bc2eba195",
+   "speaker_korean": null,
+   "korean": "무저항 알루미늄"
+  },
+  {
+   "key": "b1c267e755bf",
+   "speaker_korean": null,
+   "korean": "영력"
+  },
+  {
+   "key": "ad3d21eeafcd",
+   "speaker_korean": null,
+   "korean": "하이랜더"
+  },
+  {
+   "key": "3a6edb3c328e",
+   "speaker_korean": null,
+   "korean": "페더포크"
+  },
+  {
+   "key": "172473c4f9e5",
+   "speaker_korean": null,
+   "korean": "레조니안"
+  },
+  {
+   "key": "c4434bd84605",
+   "speaker_korean": null,
+   "korean": "익스펠"
+  },
+  {
+   "key": "05a902512c45",
+   "speaker_korean": null,
+   "korean": "테트라제네스"
+  },
+  {
+   "key": "b2ebfc960541",
+   "speaker_korean": null,
+   "korean": "에디피안"
+  },
+  {
+   "key": "92991383632a",
+   "speaker_korean": null,
+   "korean": "리칸트로프"
+  },
+  {
+   "key": "1888b41e3b51",
+   "speaker_korean": null,
+   "korean": "지구인"
+  },
+  {
+   "key": "ea85b49ffa98",
+   "speaker_korean": null,
+   "korean": "FD공간"
+  },
+  {
+   "key": "223b21c712de",
+   "speaker_korean": null,
+   "korean": "기술국가 그리텐"
+  },
+  {
+   "key": "9c04024bd7ca",
+   "speaker_korean": null,
+   "korean": "군사국가 아리그리프"
+  },
+  {
+   "key": "1863734e2421",
+   "speaker_korean": null,
+   "korean": "성왕국 시하츠"
+  },
+  {
+   "key": "82f951c9c010",
+   "speaker_korean": null,
+   "korean": "성전 카난"
+  },
+  {
+   "key": "5c652740b74e",
+   "speaker_korean": null,
+   "korean": "제5우주기지"
+  },
+  {
+   "key": "44721aa8fd44",
+   "speaker_korean": null,
+   "korean": "드래곤 로드"
+  },
+  {
+   "key": "f17097e7e8bd",
+   "speaker_korean": null,
+   "korean": "괴력의 셸비"
+  },
+  {
+   "key": "375e3ad76824",
+   "speaker_korean": null,
+   "korean": "정의로운 알벨"
+  },
+  {
+   "key": "7689df2353d1",
+   "speaker_korean": null,
+   "korean": "크리에이션 엔진"
+  },
+  {
+   "key": "2a088a46a6a7",
+   "speaker_korean": null,
+   "korean": "중력통신기"
+  },
+  {
+   "key": "51671ed6286b",
+   "speaker_korean": null,
+   "korean": "중력통신"
+  },
+  {
+   "key": "eb25c57f6a4c",
+   "speaker_korean": null,
+   "korean": "중력워프 엔진"
+  },
+  {
+   "key": "5f3caea4bbe2",
+   "speaker_korean": null,
+   "korean": "전투함"
+  },
+  {
+   "key": "51f854ed0bc3",
+   "speaker_korean": null,
+   "korean": "천본화"
+  },
+  {
+   "key": "3c7a7914539c",
+   "speaker_korean": null,
+   "korean": "전기음성도"
+  },
+  {
+   "key": "8ab2e14fac8e",
+   "speaker_korean": null,
+   "korean": "황강광"
+  },
+  {
+   "key": "4f2027887819",
+   "speaker_korean": null,
+   "korean": "포드"
+  },
+  {
+   "key": "5ee4fa695ead",
+   "speaker_korean": null,
+   "korean": "마검 크림슨・헤이트"
+  },
+  {
+   "key": "b32097d7325c",
+   "speaker_korean": null,
+   "korean": "클라우스트로 4호성"
+  },
+  {
+   "key": "5af009c72b6a",
+   "speaker_korean": null,
+   "korean": "스캐너"
+  },
+  {
+   "key": "f5ddb4ef6147",
+   "speaker_korean": null,
+   "korean": "아이레・두카키스"
+  },
+  {
+   "key": "b86dc69cd3c7",
+   "speaker_korean": null,
+   "korean": "오레아스・루맥"
+  },
+  {
+   "key": "98eee19beb32",
+   "speaker_korean": null,
+   "korean": "샤알・차이트"
+  },
+  {
+   "key": "e7bdee60bc95",
+   "speaker_korean": null,
+   "korean": "솔론 솔류트"
+  },
+  {
+   "key": "0939e46df4d0",
+   "speaker_korean": null,
+   "korean": "딜나 해밀턴"
+  },
+  {
+   "key": "6b456a5dfc1a",
+   "speaker_korean": null,
+   "korean": "레이리아・차이트"
+  },
+  {
+   "key": "0fbfb3b21b91",
+   "speaker_korean": null,
+   "korean": "문장유전학"
+  },
+  {
+   "key": "d744b6338c43",
+   "speaker_korean": null,
+   "korean": "Intervente Device"
+  },
+  {
+   "key": "ac11616a32f3",
+   "speaker_korean": null,
+   "korean": "ID"
+  },
+  {
+   "key": "90110fddb22a",
+   "speaker_korean": null,
+   "korean": "실드"
+  },
+  {
+   "key": "cd681f06ddcd",
+   "speaker_korean": null,
+   "korean": "간토바스너 13세"
+  },
+  {
+   "key": "f97698239e9a",
+   "speaker_korean": null,
+   "korean": "드래곤 로어"
+  },
+  {
+   "key": "ea0ffeff3a37",
+   "speaker_korean": null,
+   "korean": "그레고리 폰 델마인 y세"
+  },
+  {
+   "key": "2239b9fd1da4",
+   "speaker_korean": null,
+   "korean": "마타린 백작"
+  },
+  {
+   "key": "be2f30621a1f",
+   "speaker_korean": null,
+   "korean": "토록코"
+  },
+  {
+   "key": "7493398464c1",
+   "speaker_korean": null,
+   "korean": "우르자 석굴사원"
+  },
+  {
+   "key": "86cdbb703b45",
+   "speaker_korean": null,
+   "korean": "아드레이・라즈버드"
+  },
+  {
+   "key": "90141ebdae53",
+   "speaker_korean": null,
+   "korean": "행상성인 산타"
+  },
+  {
+   "key": "6e4303888c2b",
+   "speaker_korean": null,
+   "korean": "산타"
+  },
+  {
+   "key": "b509cbf873bf",
+   "speaker_korean": null,
+   "korean": "피난시설"
+  },
+  {
+   "key": "6862fdf3279d",
+   "speaker_korean": null,
+   "korean": "워프엔진 코어"
+  },
+  {
+   "key": "303242fe3de9",
+   "speaker_korean": null,
+   "korean": "FD인"
+  },
+  {
+   "key": "018e96293a1c",
+   "speaker_korean": null,
+   "korean": "데메트리오 <2〉"
+  },
+  {
+   "key": "c290e55af6c5",
+   "speaker_korean": null,
+   "korean": "카르나스"
+  },
+  {
+   "key": "aa68456900a6",
+   "speaker_korean": null,
+   "korean": "스테이션"
+  },
+  {
+   "key": "f1e4447511d8",
+   "speaker_korean": null,
+   "korean": "시포트 왕국"
+  },
+  {
+   "key": "89818b321d25",
+   "speaker_korean": null,
+   "korean": "엘리쿠르인"
+  },
+  {
+   "key": "f227f9fc2e3b",
+   "speaker_korean": null,
+   "korean": "드래곤"
+  },
+  {
+   "key": "bb274ff9f487",
+   "speaker_korean": null,
+   "korean": "알파르인"
+  },
+  {
+   "key": "b9e51d552284",
+   "speaker_korean": null,
+   "korean": "엑스큐셔너 <2〉"
+  },
+  {
+   "key": "0e93a2dcf2de",
+   "speaker_korean": null,
+   "korean": "루시드"
+  },
+  {
+   "key": "7e9a1a0b5ca8",
+   "speaker_korean": null,
+   "korean": "아르디온인 <2〉"
+  },
+  {
+   "key": "4410cac9837d",
+   "speaker_korean": null,
+   "korean": "FD인 <2〉"
+  },
+  {
+   "key": "f6f6455bbef6",
+   "speaker_korean": null,
+   "korean": "휴먼"
+  },
+  {
+   "key": "963a715908a1",
+   "speaker_korean": null,
+   "korean": "펠푸르"
+  },
+  {
+   "key": "063f23014053",
+   "speaker_korean": null,
+   "korean": "레서 펠푸르"
+  },
+  {
+   "key": "fb1866075faf",
+   "speaker_korean": null,
+   "korean": "섹터 카파"
+  },
+  {
+   "key": "225ddd93f527",
+   "speaker_korean": null,
+   "korean": "섹터 알파"
+  },
+  {
+   "key": "5ba2392d581d",
+   "speaker_korean": null,
+   "korean": "제16우주기지"
+  }
+ ]
+}

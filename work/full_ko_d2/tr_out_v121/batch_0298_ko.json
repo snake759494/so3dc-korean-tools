@@ -1,0 +1,620 @@
+{
+ "batch_id": "batch_0298",
+ "translations": [
+  {
+   "key": "579bfb085e05",
+   "speaker_korean": null,
+   "korean": "드래곤・트레저"
+  },
+  {
+   "key": "d89112879b28",
+   "speaker_korean": null,
+   "korean": "드래곤즈・던전"
+  },
+  {
+   "key": "451a85161e74",
+   "speaker_korean": null,
+   "korean": "티아마트"
+  },
+  {
+   "key": "325ccb50c693",
+   "speaker_korean": null,
+   "korean": "레프트핸드・리자드"
+  },
+  {
+   "key": "53b28893a24f",
+   "speaker_korean": null,
+   "korean": "월광건틀릿"
+  },
+  {
+   "key": "9388dc86aa8c",
+   "speaker_korean": null,
+   "korean": "잭 포테이토"
+  },
+  {
+   "key": "4ce79bcedb3f",
+   "speaker_korean": null,
+   "korean": "아이언・커튼"
+  },
+  {
+   "key": "f16096e8313d",
+   "speaker_korean": null,
+   "korean": "아이언・레이지"
+  },
+  {
+   "key": "c6864df46462",
+   "speaker_korean": null,
+   "korean": "올・슬레이어"
+  },
+  {
+   "key": "d597831fa637",
+   "speaker_korean": null,
+   "korean": "머슬・가든"
+  },
+  {
+   "key": "563475d4d7c8",
+   "speaker_korean": null,
+   "korean": "공주님의 실험장"
+  },
+  {
+   "key": "4e49493cd76a",
+   "speaker_korean": null,
+   "korean": "못잊을 과거"
+  },
+  {
+   "key": "adea4b77ee70",
+   "speaker_korean": null,
+   "korean": "레무르공방"
+  },
+  {
+   "key": "f299cf9130f9",
+   "speaker_korean": null,
+   "korean": "쇼핑센터"
+  },
+  {
+   "key": "68972b4f9f18",
+   "speaker_korean": null,
+   "korean": "골동품점 로쿠몬도"
+  },
+  {
+   "key": "83b6e2197da8",
+   "speaker_korean": null,
+   "korean": "기간트 드라이브"
+  },
+  {
+   "key": "2e5c1c997321",
+   "speaker_korean": null,
+   "korean": "세인트루시아"
+  },
+  {
+   "key": "20a0cd926ec8",
+   "speaker_korean": null,
+   "korean": "해질녘의 반각"
+  },
+  {
+   "key": "e32fb9c9addd",
+   "speaker_korean": null,
+   "korean": "정상 통로"
+  },
+  {
+   "key": "290a014b65d2",
+   "speaker_korean": null,
+   "korean": "러브・스트리트"
+  },
+  {
+   "key": "7f42e6eb915d",
+   "speaker_korean": null,
+   "korean": "래피드・래빗"
+  },
+  {
+   "key": "ef5742b3bad5",
+   "speaker_korean": null,
+   "korean": "깜짝 돈・키・호테"
+  },
+  {
+   "key": "b81feda73031",
+   "speaker_korean": null,
+   "korean": "코스프"
+  },
+  {
+   "key": "de3b088a062d",
+   "speaker_korean": null,
+   "korean": "아이레의 축복"
+  },
+  {
+   "key": "66d07d9b3bb4",
+   "speaker_korean": null,
+   "korean": "딜나의 숨결"
+  },
+  {
+   "key": "659a3ad81440",
+   "speaker_korean": null,
+   "korean": "엘레노아 망치"
+  },
+  {
+   "key": "118cd0dd1f5c",
+   "speaker_korean": null,
+   "korean": "페어리 티어"
+  },
+  {
+   "key": "68b1a1e1ad6e",
+   "speaker_korean": null,
+   "korean": "만화당"
+  },
+  {
+   "key": "d65668cec31b",
+   "speaker_korean": null,
+   "korean": "루미나와 라돌의 작은 가게"
+  },
+  {
+   "key": "5acb10216b4b",
+   "speaker_korean": null,
+   "korean": "루미나와 라돌의 궁극 가게"
+  },
+  {
+   "key": "fbffe3037e12",
+   "speaker_korean": null,
+   "korean": "루미나와 라돌의 지고 가게"
+  },
+  {
+   "key": "8f7cdcacdf2c",
+   "speaker_korean": null,
+   "korean": "디버그 모드"
+  },
+  {
+   "key": "687ff98d8873",
+   "speaker_korean": null,
+   "korean": "산타모니카"
+  },
+  {
+   "key": "d2f4c4ba2025",
+   "speaker_korean": null,
+   "korean": "태고의 책"
+  },
+  {
+   "key": "42e77624edd2",
+   "speaker_korean": null,
+   "korean": "컬소어 수련장의 굳게 닫힌 문을\n여는 열쇠"
+  },
+  {
+   "key": "5cf34b04ae04",
+   "speaker_korean": null,
+   "korean": "하얗게 안개 낀\n안개 바다에 숨은 은자의 샘\n굳건한 부모자식은 뭘 생각할까"
+  },
+  {
+   "key": "70ad07acfd13",
+   "speaker_korean": null,
+   "korean": "어둑한 산의 동굴에\n다섯 속성이 다투고\n그들을 비추는 빛은 무엇인가"
+  },
+  {
+   "key": "b403589dc8fe",
+   "speaker_korean": null,
+   "korean": "신들의 궁병이 지키던 낡은 회랑\n관에 잠든 것은 태양왕\n말없는 유해는 무엇을 말하는가"
+  },
+  {
+   "key": "256fc31f144c",
+   "speaker_korean": null,
+   "korean": "세 종류의 병사가 모인 곳\n주인 없는 옥좌엔 누가 앉는가"
+  },
+  {
+   "key": "407a69ca970c",
+   "speaker_korean": null,
+   "korean": "날개 달린 신의 사자, 그 제물이\n바라보는 곳에 있는 건 희망인가 절망인가"
+  },
+  {
+   "key": "4e4b16d21760",
+   "speaker_korean": null,
+   "korean": "구리가 잠든 동굴의 끝\n호숫가를 바라보는 최북단의 현자\n뿌리내린 지하에 봉인된 것은 태고의 힘인가"
+  },
+  {
+   "key": "b4874d0ec3f0",
+   "speaker_korean": null,
+   "korean": "작열지옥\n긴귀족 거인이 내려다보는 붉은 쌍둥이\n안에 숨긴 힘을 풀어내는 자는 누구인가"
+  },
+  {
+   "key": "77b19d7ff01a",
+   "speaker_korean": null,
+   "korean": "보통 마력이 결정화되어 생성된 광물이라 하지만, 자세한 건 불명. 이걸로 만든 무구는 명품이 될 게 틀림없다"
+  },
+  {
+   "key": "5a1a9c559100",
+   "speaker_korean": null,
+   "korean": "어둠의 심연, 죽음, 영원한 정적을 다스리는 마성의 보석. 숨겨진 힘을 끌어내면, 분명 파괴의 힘이 될 것이다"
+  },
+  {
+   "key": "47c185a76f39",
+   "speaker_korean": null,
+   "korean": "바다에 살며, 바위 표면에 붙어사는 둥근 생물. 표피가 매우 단단하고 몹시 그로테스크. 식용은 되지만 즐겨 먹는 사람도 적지 않다."
+  },
+  {
+   "key": "d5d54c16f9dd",
+   "speaker_korean": null,
+   "korean": "행동불능이 된 주인을 대신하는 신기한 인형. 주인의 HP를 20%까지 회복시킨다"
+  },
+  {
+   "key": "5cb15f32d7e5",
+   "speaker_korean": null,
+   "korean": "존재 자체가 신격화된 와인. 브랜드만 홀로 앞서 나가 투기의 대상이 되기도 한다. 가격은 늘 오름세."
+  },
+  {
+   "key": "3583f5a2cdb4",
+   "speaker_korean": null,
+   "korean": "싸구려 와인. 사내(어디?) 연간 소비량 №1"
+  },
+  {
+   "key": "cf40b7a01d8c",
+   "speaker_korean": null,
+   "korean": "DRC가 만드는 백와인의 고급품. 의외로 매장에서는 좀처럼 볼 수 없다"
+  },
+  {
+   "key": "4c5ed29bc487",
+   "speaker_korean": null,
+   "korean": "진하지만 부드럽고, 만듦새는 무겁지만 질리지 않는다. 모순된 요소를 양립시킨 걸작"
+  },
+  {
+   "key": "a8a72040d8ac",
+   "speaker_korean": null,
+   "korean": "이 생산자의 리슬링, 피노・그리 모두 올해 가장 감동한 와인 중 하나. 게다가 싸다"
+  },
+  {
+   "key": "55bc0b0f0b0b",
+   "speaker_korean": null,
+   "korean": "갈로는 대량 소비형 싸구려 와인을 만드는 한편, 단일 밭의 고품질 와인도 소량 생산한다. 이건 후자"
+  },
+  {
+   "key": "faff46c603f4",
+   "speaker_korean": null,
+   "korean": "싸구려 와인. 사내(어디?) 연간 소비량 №2"
+  },
+  {
+   "key": "e31d8dd429d9",
+   "speaker_korean": null,
+   "korean": "긴조, 다이긴조 모두 목넘김이 좋고, 향이 좋아 누구나 권할 수 있는 술"
+  },
+  {
+   "key": "a827fa3828b0",
+   "speaker_korean": null,
+   "korean": "모든 것이 갖춰진 균형 좋은 명주. 마시는 이에게 청량한 인상을 주는 건 사용된 물 덕분일까"
+  },
+  {
+   "key": "98e7daf63060",
+   "speaker_korean": null,
+   "korean": "거칠고, 풋풋한 햇술을 일 년 재우면 모난 데 없는 어른 같은 맛이 된다. 이건 그런 술"
+  },
+  {
+   "key": "0959d4307422",
+   "speaker_korean": null,
+   "korean": "전투 스킬 「Guts 익스텐션」을 배울 수 있는 책"
+  },
+  {
+   "key": "62c1a17599ed",
+   "speaker_korean": null,
+   "korean": "아이용 스테이크. 하지만 너무 호화로운 처지라 할 수밖에 없다."
+  },
+  {
+   "key": "00b41d105f98",
+   "speaker_korean": null,
+   "korean": "재료를 너무 넣어 정작 떡이 파묻혀 버린 웃음거리 요리. 하지만 재료가 좋아 맛있다. 먹기는 힘들지만."
+  },
+  {
+   "key": "0489c822e103",
+   "speaker_korean": null,
+   "korean": "돼지고기 다짐육을 조리해 밀가루 피에 싸서 찐 중화풍 만두."
+  },
+  {
+   "key": "f6fc89ea87ad",
+   "speaker_korean": null,
+   "korean": "매실을 소금에 절이고, 햇볕에 말린 뒤 담근 아이에겐 조금 매운 음식."
+  },
+  {
+   "key": "0ec09123aa53",
+   "speaker_korean": null,
+   "korean": "고급 킹크랩을 통째로 소금물에 삶은 음식. 다음 기회를 위해 가장 맛있는 다리가 어딘지 정도는 기억해두고 싶다"
+  },
+  {
+   "key": "3fe5176963c0",
+   "speaker_korean": null,
+   "korean": "고기, 채소를 볶은 것에 향신료와 밀가루를 섞어 만든 루를 지은 쌀밥에 얹은 요리"
+  },
+  {
+   "key": "cff7ea64b1ba",
+   "speaker_korean": null,
+   "korean": "스펀지를 두꺼운 초콜릿 층으로 코팅한 케이크. 오래된 호텔 이름을 따서 지었다고 한다."
+  },
+  {
+   "key": "57c6cad0e86c",
+   "speaker_korean": null,
+   "korean": "살구씨를 갈아, 우유 같은 액체로 만든 것에 한천을 더해 굳힌 것. 달콤쌉쌀한 맛이 기분 좋다"
+  },
+  {
+   "key": "b9b79535cb48",
+   "speaker_korean": null,
+   "korean": "홋카이도, 특히 북부 가정에서 만드는 절임. 김치와 매우 흡사하다. 라기보다 그냥 김치."
+  },
+  {
+   "key": "032ef8011962",
+   "speaker_korean": null,
+   "korean": "잘 익은 달콤한 바나나에 단 초콜릿을 끼얹은 디저트. 혼자만의 상상이지만 비터초콜릿도 괜찮지 않을까. 해본 적은 없지만."
+  },
+  {
+   "key": "74430f45f206",
+   "speaker_korean": null,
+   "korean": "타르트 반죽에 아몬드 크림을 부어 넣고, 그 위에 배 반쪽을 깔아 구워낸 과자"
+  },
+  {
+   "key": "5c0dbc52fe82",
+   "speaker_korean": null,
+   "korean": "매머드로 보이는 동물의 고기를 와일드하게 구운 것. 일단 맛없지는 않아 보인다"
+  },
+  {
+   "key": "24eb2c2c0412",
+   "speaker_korean": null,
+   "korean": "채소를 섞은 쇼트파스타 위에 적당한 크기로 찢은 생햄을 곁들인 샐러드. 생햄의 짠맛과 샐러드의 궁합이 아주 좋다"
+  },
+  {
+   "key": "27680c6d8bd4",
+   "speaker_korean": null,
+   "korean": "소형 곡도. 다루기 쉬워, 도적이나 암살자가 즐겨 사용한다"
+  },
+  {
+   "key": "a13f5fe48ea4",
+   "speaker_korean": null,
+   "korean": "어느 여신이 몸에 걸쳤다고도 벗어 던지고 갔다고도 전해지는 전설의 방어구. 아쉽게도 여성 전용"
+  },
+  {
+   "key": "9328f7111f32",
+   "speaker_korean": null,
+   "korean": "마법으로 강화가 이루어진 플레이트 아머. 주문 공격을 높은 확률로 무효화한다"
+  },
+  {
+   "key": "efe8eeafac27",
+   "speaker_korean": null,
+   "korean": "오리하르콘을 사용해 만든 체인 메일. 원래 소재의 흔적이 남은 색조"
+  },
+  {
+   "key": "f715ff386957",
+   "speaker_korean": null,
+   "korean": "마법 금속 미스릴로 만들어진 체인 메일"
+  },
+  {
+   "key": "e113d10a0e5b",
+   "speaker_korean": null,
+   "korean": "특수 코팅을 한 레더 아머. 검게 빛나는 독특한 외관이 특징적"
+  },
+  {
+   "key": "164e39ffca9d",
+   "speaker_korean": null,
+   "korean": "매우 견고하게 만들어진 체인 메일. 금속 플레이트도 사용되어 플레이트 아머를 연상시키는 구조지만 아주 민첩성이 뛰어나다"
+  },
+  {
+   "key": "c461ca6aeffc",
+   "speaker_korean": null,
+   "korean": "숲의 요정족 엘프가 만들었다는 마법 방어 효과 높은 방어구."
+  },
+  {
+   "key": "2281bb9dc20a",
+   "speaker_korean": null,
+   "korean": "회사라면 도산, 사원이라면 성희롱 발각, 디버거라면 정보 유출. 굳이 비유하자면 그런 느낌일까"
+  },
+  {
+   "key": "25d96a242cec",
+   "speaker_korean": null,
+   "korean": "사소한 뒤틀림을 고치려다 벌어진 참사. 이제 돌이킬 수 없다."
+  },
+  {
+   "key": "9e40a028278a",
+   "speaker_korean": null,
+   "korean": "나도 모르게 태클 걸고 싶어지는 물건. 허점투성이."
+  },
+  {
+   "key": "b5e4a4141ca7",
+   "speaker_korean": null,
+   "korean": "점수로 치면 3점 나왔을 때 같은, 시말서? 같은 부적"
+  },
+  {
+   "key": "8ffda31259e8",
+   "speaker_korean": null,
+   "korean": "사소한 부주의로 그 프로젝트는 실패하고 말았다."
+  },
+  {
+   "key": "0be98aafdb13",
+   "speaker_korean": null,
+   "korean": "안일하게 거친 줄로 문질러 죽은 물고기 눈처럼 되어버린 인형의 눈동자."
+  },
+  {
+   "key": "88c5a95f9e36",
+   "speaker_korean": null,
+   "korean": "항상 위험이 따르지만, 쓸 가치는 있을지도 모르는 약"
+  },
+  {
+   "key": "dc9acd88220d",
+   "speaker_korean": null,
+   "korean": "장비하면 손가락 꼬임. 너무 뒤틀림."
+  },
+  {
+   "key": "a7287f97d5ec",
+   "speaker_korean": null,
+   "korean": "사대정령인 불의 정령을 봉인한 보주. 어떤 목적에 사용되는지는 불명"
+  },
+  {
+   "key": "98d6bc179373",
+   "speaker_korean": null,
+   "korean": "사대정령인 물의 정령을 봉인한 보주. 어떤 목적에 사용되는지는 불명"
+  },
+  {
+   "key": "6511c51564fd",
+   "speaker_korean": null,
+   "korean": "사대정령인 바람의 정령을 봉인한 보주. 어떤 목적에 사용되는지는 불명"
+  },
+  {
+   "key": "5c544aa6829d",
+   "speaker_korean": null,
+   "korean": "사대정령인 땅의 정령을 봉인한 보주. 어떤 목적에 사용되는지는 불명"
+  },
+  {
+   "key": "5bc3edf117a5",
+   "speaker_korean": null,
+   "korean": "흉포한 무지개를 본뜬 불길한 반지. 지닌 이에게 좋은 결과는 없을 듯하지만・・・"
+  },
+  {
+   "key": "44cb6882d5fc",
+   "speaker_korean": null,
+   "korean": "흉포한 무지개를 본뜬 불길한 팔찌. 지닌 이에게 좋은 결과는 없을 듯하지만・・・"
+  },
+  {
+   "key": "2083425d7aa1",
+   "speaker_korean": null,
+   "korean": "흉포한 무지개를 본뜬 불길한 머리 장식. 지닌 이에게 좋은 결과는 없을 듯하지만・・・"
+  },
+  {
+   "key": "bda527205a0c",
+   "speaker_korean": null,
+   "korean": "나보다 적이 더 좋아할 듯한 십자가. 얼른 버리는 게 상책"
+  },
+  {
+   "key": "5d2fb23d6d5e",
+   "speaker_korean": null,
+   "korean": "흉포한 무지개를 본뜬 불길한 문장. 지닌 이에게 좋은 결과는 없을 듯하지만・・・"
+  },
+  {
+   "key": "e8817ad676da",
+   "speaker_korean": null,
+   "korean": "연구에 몰두한 결과, 광기를 품게 된 자가 적었다는 두루마리"
+  },
+  {
+   "key": "44f2ee89075f",
+   "speaker_korean": null,
+   "korean": "버니 레이스의 패자가 손에 넣는 우승 트로피. 축하합니다!"
+  },
+  {
+   "key": "b40d74d649a8",
+   "speaker_korean": null,
+   "korean": "마계 바다에 번식하는 정체불명 멍게. 독성은 강하지만 삶고 굽고 찌면 맛있다고 한다."
+  },
+  {
+   "key": "b6258fbc1708",
+   "speaker_korean": null,
+   "korean": "사치에 사치를 거듭하고, 맛에 맛을 거듭해 완성된 궁극의 떡국. 돈의 힘이 소박함을 날려버린다"
+  },
+  {
+   "key": "d89641efc61e",
+   "speaker_korean": null,
+   "korean": "만 알에 하나 발견된다는 금빛 알갱이를 모아 만든 희귀한 낫토. 비할 데 없는 감칠맛이 입에 퍼진다고 한다"
+  },
+  {
+   "key": "874b5a2307aa",
+   "speaker_korean": null,
+   "korean": "토실토실 살찐 신선한 굴을 아낌없이, 이번에도 신선한 버터로 구워낸 단순한 요리."
+  },
+  {
+   "key": "d6822340e7ff",
+   "speaker_korean": null,
+   "korean": "광대가 신을 법한 코믹한 신발. 하지만 그 끝은 보기와 달리 훌륭한 무기"
+  },
+  {
+   "key": "52281f302f59",
+   "speaker_korean": null,
+   "korean": "발끝에 날카로운 가시가 달린 신발. 이걸 신고 춤추면 훌륭한 무술이 되리라"
+  },
+  {
+   "key": "87bb4f4339d5",
+   "speaker_korean": null,
+   "korean": "주문의 달인에 어울리는 장식성과 기능성을 겸비한 지팡이. 들면 한 사람 몫"
+  },
+  {
+   "key": "931866aea629",
+   "speaker_korean": null,
+   "korean": "특수한 고대 문자가 수놓인 로브. 분명히 강한 마력을 느낄 수 있다"
+  },
+  {
+   "key": "e85aa3692955",
+   "speaker_korean": null,
+   "korean": "현자가 걸치기에 어울리는 위엄 넘치는 로브."
+  },
+  {
+   "key": "8e3cafa98810",
+   "speaker_korean": null,
+   "korean": "연금술사가 손에 넣기를 바라고, 동경하는 비보. 이것이 있으면 위대한 현자도 인정해줄지 모른다"
+  },
+  {
+   "key": "c853e5ace317",
+   "speaker_korean": null,
+   "korean": "예전엔 수많은 강적을 쓰러뜨렸을 명검의 말로. 명장이라면 혹시…?"
+  },
+  {
+   "key": "f7ff0c7876d0",
+   "speaker_korean": null,
+   "korean": "왠지 예스러운 보석. 괴팍한 세공사라면 이 가치를 알아볼지도 모른다"
+  },
+  {
+   "key": "c0e0c1683de9",
+   "speaker_korean": null,
+   "korean": "기계적인 장정의 수수께끼 사전. 일반인에게는 쓸모없는 내용이 상세히 빼곡히 담겨 있다"
+  },
+  {
+   "key": "71524ddb11c7",
+   "speaker_korean": null,
+   "korean": "은제 반지. 손질을 게을리하면 광택이 흐려진다"
+  },
+  {
+   "key": "fef7ebe564bc",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책. 합성으로 무기에 부여할 수 있다. 땅 속성 공격으로 HP가 회복된다"
+  },
+  {
+   "key": "6db4b38382b2",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책. 합성으로 무기에 부여할 수 있다. 땅 속성 공격을 무효화한다"
+  },
+  {
+   "key": "424541e0268c",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책. 합성으로 무기에 부여할 수 있다. 땅 속성 공격을 반감한다"
+  },
+  {
+   "key": "8e10f68e93fc",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책. 합성으로 무기에 부여할 수 있다. 물 속성 공격으로 HP가 회복된다"
+  },
+  {
+   "key": "40408a7ec0cb",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책. 합성으로 무기에 부여할 수 있다. 물 속성 공격을 무효화한다"
+  },
+  {
+   "key": "1a587a54de89",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책. 합성으로 무기에 부여할 수 있다. 물 속성 공격을 반감한다"
+  },
+  {
+   "key": "b7f554793b97",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책. 합성으로 무기에 부여할 수 있다. 불 속성 공격으로 HP가 회복된다"
+  },
+  {
+   "key": "ff3b675873db",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책. 합성으로 무기에 부여할 수 있다. 불 속성 공격을 무효화한다"
+  },
+  {
+   "key": "7a99d7a93092",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책. 합성으로 무기에 부여할 수 있다. 불 속성 공격을 반감한다"
+  },
+  {
+   "key": "c6b8910615fb",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책. 합성으로 무기 부여 가능. 바람 속성 공격으로 HP가 회복된다"
+  },
+  {
+   "key": "50a1fc48371e",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책. 합성으로 무기에 부여할 수 있다. 바람 속성 공격을 무효화한다"
+  },
+  {
+   "key": "af995470d74d",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책. 합성으로 무기에 부여할 수 있다. 바람 속성 공격을 반감한다"
+  }
+ ]
+}

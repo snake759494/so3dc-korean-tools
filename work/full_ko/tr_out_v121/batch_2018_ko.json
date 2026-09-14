@@ -1,0 +1,50 @@
+{
+ "batch_id": "batch_2018",
+ "translations": [
+  {
+   "key": "0268da7992d4",
+   "speaker_korean": null,
+   "korean": "주문 데미지 1/5 파괴확률30%"
+  },
+  {
+   "key": "6f35adabb3ae",
+   "speaker_korean": null,
+   "korean": "주문 데미지 1/10 파괴확률30%"
+  },
+  {
+   "key": "84fb5106a2a0",
+   "speaker_korean": null,
+   "korean": "주문 데미지 1/10 파괴확률15%"
+  },
+  {
+   "key": "f0cb3544dd4d",
+   "speaker_korean": null,
+   "korean": "주문 데미지만큼 HP 회복 파괴확률30%"
+  },
+  {
+   "key": "10fff763a3ef",
+   "speaker_korean": null,
+   "korean": "주문 데미지만큼 HP 회복 파괴확률20%"
+  },
+  {
+   "key": "1db0c816d8a7",
+   "speaker_korean": null,
+   "korean": "주문 데미지만큼 HP 회복 파괴확률10%"
+  },
+  {
+   "key": "3e88631770c9",
+   "speaker_korean": null,
+   "korean": "주문 데미지만큼 MP 회복 파괴확률30%"
+  },
+  {
+   "key": "d32f7019e042",
+   "speaker_korean": null,
+   "korean": "주문 데미지만큼 MP 회복 파괴확률20%"
+  },
+  {
+   "key": "9abb0cf869e8",
+   "speaker_korean": null,
+   "korean": "주문 데미지만큼 MP 회복 파괴확률10%"
+  }
+ ]
+}

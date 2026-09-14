@@ -1,0 +1,380 @@
+{
+ "batch_id": "batch_0170",
+ "translations": [
+  {
+   "key": "1bacd17abd65",
+   "speaker_korean": null,
+   "korean": "마리아"
+  },
+  {
+   "key": "e5b83d818589",
+   "speaker_korean": "쿼크 대원(위생부원)",
+   "korean": "⟦1⟧「이대로 계속 여기 둘 수는\n없는 노릇이니,\n⟦P⟧박사님의 시신은 함저 보관실에\n냉동 상태로 안치해 두었습니다.\n⟦P⟧모든 것이 끝나면,\n정식으로 장례를 치러서\n보내드리도록 하죠.\n⟦P⟧"
+  },
+  {
+   "key": "18e1e402d85f",
+   "speaker_korean": null,
+   "korean": "여기서 마리아가 페이트 일행과\n헤어져 자란 사연의 OA를 넣습니다\n⟦P⟧"
+  },
+  {
+   "key": "ebe61b96a092",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「솔직히, 박사님들을 원망했었어.\n너희들을 질투하기도 했어.\n⟦P⟧바보 같지, 나…\n조금이라도 좋으니까, 제대로\n얘기 나눌 수 있었다면 좋았을 텐데…\n⟦P⟧"
+  },
+  {
+   "key": "76a60c572d3d",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「미안하지만, 혼자 있게 해줘…\n누구에게도 약한 모습은 보이고 싶지 않아.\n⟦P⟧"
+  },
+  {
+   "key": "e07c4033fc21",
+   "speaker_korean": null,
+   "korean": "대답이 없다…\n이미 완전히 숨이 끊겼다.\n⟦P⟧"
+  },
+  {
+   "key": "026d7ac25b04",
+   "speaker_korean": "페이트",
+   "korean": "「아버지……⟦1⟧문베이스⟦2⟧에\n대체 뭐가 있는 거야?\n저기, 대답해줘…"
+  },
+  {
+   "key": "418014bb7c32",
+   "speaker_korean": "소피아",
+   "korean": "「⟦1⟧페이트⟦2⟧……"
+  },
+  {
+   "key": "ab7d69a2733c",
+   "speaker_korean": "페이트",
+   "korean": "「……그래, 다행이다."
+  },
+  {
+   "key": "de0894fa0fc4",
+   "speaker_korean": "마리아",
+   "korean": "「……언제까지\n그렇게 우울해 있을 셈이야?"
+  },
+  {
+   "key": "4d4e296195c0",
+   "speaker_korean": "소피아",
+   "korean": "「그런, 너무해!"
+  },
+  {
+   "key": "0e069a1a2770",
+   "speaker_korean": "페이트",
+   "korean": "「나도 갈게…⟦1⟧문베이스⟦2⟧로.\n거기서 아버지가 남긴 걸 받을 거야."
+  },
+  {
+   "key": "cbbf8916774e",
+   "speaker_korean": "마리아",
+   "korean": "「응."
+  },
+  {
+   "key": "d64fbd59a723",
+   "speaker_korean": "페이트",
+   "korean": "「미안해…걱정 끼쳐서."
+  },
+  {
+   "key": "c2d252d7cbb8",
+   "speaker_korean": "소피아",
+   "korean": "「아니, 괜찮아."
+  },
+  {
+   "key": "fd8a7a97dfbe",
+   "speaker_korean": "클리프",
+   "korean": "「좋았어.\n그럼 바로 ⟦1⟧문베이스⟦2⟧로\n향하는 거지?"
+  },
+  {
+   "key": "02cdf1873dbc",
+   "speaker_korean": "마리아",
+   "korean": "「그래, 그럴 생각이야.\n승무원들에게는 이미 그렇게\n전해뒀어."
+  },
+  {
+   "key": "43ae86ae4169",
+   "speaker_korean": "마리아",
+   "korean": "「네 아버지는 우리에게 뭔가를 맡기셨어!\n아들인…친아들인 네가\n그런 걸로 어쩌려는 거야!"
+  },
+  {
+   "key": "ce7893e910e9",
+   "speaker_korean": "소피아",
+   "korean": "「그래도, 무리하면 안 돼?"
+  },
+  {
+   "key": "4392991cf15f",
+   "speaker_korean": "페이트",
+   "korean": "「어!? 방금 뭐라고…"
+  },
+  {
+   "key": "f1cc333d4090",
+   "speaker_korean": "마리아",
+   "korean": "「너…네가 무슨 말을 하는지\n알고는 있는 거야?\n어쩌면 두 번 다시 고향으로\n돌아가지 못할지도 몰라?"
+  },
+  {
+   "key": "9c0693a4ffa4",
+   "speaker_korean": "넬",
+   "korean": "「알고 있는 셈이야."
+  },
+  {
+   "key": "f93d8cd52636",
+   "speaker_korean": "클리프",
+   "korean": "「모른다니까!"
+  },
+  {
+   "key": "dc50e7fe81f3",
+   "speaker_korean": "넬",
+   "korean": "「너희들 덕분에\n⟦1⟧아리그리프⟦2⟧와의 전쟁은 끝났어.\n그 자리에서의 내 역할도\n이제 끝났다고 생각해……"
+  },
+  {
+   "key": "3792cdc28675",
+   "speaker_korean": "넬",
+   "korean": "「그러니까 이번엔 너희들에게 도움이 되고 싶어.\n그게 전쟁을 끝내준 너희들에게\n내가 할 수 있는 유일한 보답이라고 생각하니까."
+  },
+  {
+   "key": "c1e432e00e36",
+   "speaker_korean": "넬",
+   "korean": "「하지만 내가 있으면\n짐이 된다고 하면…포기할게."
+  },
+  {
+   "key": "b211dff07cf4",
+   "speaker_korean": "클리프",
+   "korean": "「짐짝 취급할 일은 없지만\n……그렇지?"
+  },
+  {
+   "key": "c68a4d356998",
+   "speaker_korean": "페이트",
+   "korean": "「…좋아요.\n같이 가요."
+  },
+  {
+   "key": "ca716f765fa4",
+   "speaker_korean": "클리프",
+   "korean": "「엉!?"
+  },
+  {
+   "key": "efd963d15973",
+   "speaker_korean": "소피아",
+   "korean": "「괜찮아?"
+  },
+  {
+   "key": "dbb4ba128942",
+   "speaker_korean": "페이트",
+   "korean": "「그래, 괜찮아. 이미 정했어.\n괜찮지?"
+  },
+  {
+   "key": "15ab2ef68c1c",
+   "speaker_korean": "마리아",
+   "korean": "「알았어.\n네가 그렇게 말한다면 나도 반대는 안 할게."
+  },
+  {
+   "key": "8153e0f61ee2",
+   "speaker_korean": "클리프",
+   "korean": "「하아, 어쩔 수 없지."
+  },
+  {
+   "key": "7c48565ee27b",
+   "speaker_korean": "넬",
+   "korean": "「그래, 나야말로."
+  },
+  {
+   "key": "2cb87f9523d4",
+   "speaker_korean": "페이트",
+   "korean": "「잘 부탁해."
+  },
+  {
+   "key": "b406032a1d0c",
+   "speaker_korean": "마리아",
+   "korean": "「뭐?"
+  },
+  {
+   "key": "1f007da7e483",
+   "speaker_korean": "미라쥬",
+   "korean": "『⟦1⟧아쿠아엘리⟦2⟧에서\n통신이 들어와 있습니다만……\n어떻게 할까요?"
+  },
+  {
+   "key": "a81683670e1a",
+   "speaker_korean": "마리아",
+   "korean": "「알았어, 지금 갈게."
+  },
+  {
+   "key": "dd85e798a535",
+   "speaker_korean": "넬",
+   "korean": "「⟦1⟧문베이스⟦2⟧라.\n대체 어떤 곳일까. 기대되네."
+  },
+  {
+   "key": "3318de23a2bc",
+   "speaker_korean": "알벨",
+   "korean": "「⟦1⟧문베이스⟦2⟧라…재미있군.\n이세계가 어떤 곳인지\n찬찬히 구경 좀 해볼까."
+  },
+  {
+   "key": "6c9d68fe53cb",
+   "speaker_korean": "로저",
+   "korean": "「⟦1⟧문베이스⟦2⟧라, 대체 어떤 곳이지?\n맛있는 먹을 것 잔뜩 있으면 좋겠다!"
+  },
+  {
+   "key": "605e2266399f",
+   "speaker_korean": "알벨",
+   "korean": "「그래, 알고 있다.\n그게 어쨌다는 거지?"
+  },
+  {
+   "key": "b50a78f9bdfb",
+   "speaker_korean": "로저",
+   "korean": "「응? 그래, 그럴지도."
+  },
+  {
+   "key": "c27f4cd9454a",
+   "speaker_korean": "알벨",
+   "korean": "「네놈들 탓에 전쟁은 끝났고,\n⟦1⟧복스⟦2⟧ 그 녀석도 죽었다."
+  },
+  {
+   "key": "33ebbf03b1a6",
+   "speaker_korean": "알벨",
+   "korean": "「그 땅에 내 마음을 불태울 놈은 이제 없다.\n그렇다면 새로운 땅에서 그걸 찾으면 될 뿐."
+  },
+  {
+   "key": "8586c1d7f660",
+   "speaker_korean": "알벨",
+   "korean": "「알겠느냐, 멍청아."
+  },
+  {
+   "key": "1d9f5e5a51c6",
+   "speaker_korean": "로저",
+   "korean": "「이렇게 재밌어 보이는 걸 보여줬으면\n이제 돌아갈 수 없잖아.\n끝까지 같이 가게 해달라고."
+  },
+  {
+   "key": "fcc3ac2cb06d",
+   "speaker_korean": "로저",
+   "korean": "「나…짐짝인가?"
+  },
+  {
+   "key": "95251ac8dfe7",
+   "speaker_korean": "알벨",
+   "korean": "「하긴 네놈들이\n이 몸을 짐짝이라 한다면\n얘기는 달라지겠지만 말이다."
+  },
+  {
+   "key": "da089ba848ea",
+   "speaker_korean": "로저",
+   "korean": "「그래, 맡겨두라니까!"
+  },
+  {
+   "key": "3698318d03d1",
+   "speaker_korean": "소피아",
+   "korean": "「…그러네, 응.\n우울해하는 건 안 어울리니까."
+  },
+  {
+   "key": "e937f632fb3a",
+   "speaker_korean": "마리아",
+   "korean": "「너, 네가 무슨 말을 하는지\n알고는 있는 거야?\n어쩌면 두 번 다시 고향으로\n돌아가지 못할지도 몰라?"
+  },
+  {
+   "key": "1592bfa6580d",
+   "speaker_korean": "마리아",
+   "korean": "「네가 어쩌든 상관없어.\n나는 ⟦1⟧문베이스⟦2⟧에 갈 거야.\n…설령 혼자라 해도!"
+  },
+  {
+   "key": "f9cdc4417d45",
+   "speaker_korean": "마리아",
+   "korean": "「그녀는 괜찮아."
+  },
+  {
+   "key": "79e5b17726d3",
+   "speaker_korean": "마리아",
+   "korean": "「그는 괜찮아."
+  },
+  {
+   "key": "76e0a723a104",
+   "speaker_korean": "소피아",
+   "korean": "「아버지를 막 여의었잖아!?\n조금 더 다정한 말을 해줘도 되잖아!!"
+  },
+  {
+   "key": "ab82af823efd",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「자, 그럼…\n드디어 다 끝났네.\n⟦P⟧이걸로 쿼크는 정식으로 해산.\n이제부턴, 다들 각자의 길을\n걸어가게 되는 거야.\n⟦P⟧"
+  },
+  {
+   "key": "f49ee071b070",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「그 얘기 말인데,\n이걸로 정말 괜찮았던 걸까?\n⟦P⟧"
+  },
+  {
+   "key": "c146b638a91c",
+   "speaker_korean": null,
+   "korean": "이그제큐셔너는 분명\n사라졌지만, 세계는 아직도\n깊은 혼란 속에 있다.\n⟦P⟧쿼크에게는 아직 이 은하계를 위해\n할 수 있는 일이 있지 않을까?\n⟦P⟧"
+  },
+  {
+   "key": "a0ad2eaf616a",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「은하 연방이 거의 형태를 잃어버린\n지금에 와서는, 쿼크가 존재할 이유가\n없어졌어.\n⟦P⟧"
+  },
+  {
+   "key": "f34f5890a092",
+   "speaker_korean": null,
+   "korean": "그렇다면, 해산하는 게 당연하잖아?\n⟦P⟧"
+  },
+  {
+   "key": "5ca30339e444",
+   "speaker_korean": null,
+   "korean": "남의 미래에 일일이 간섭하다 보면,\n그 녀석들과…\n루시퍼 일당이 했던 짓과\n다를 게 없어.\n⟦P⟧"
+  },
+  {
+   "key": "4bacb9a3a24c",
+   "speaker_korean": null,
+   "korean": "옳든, 그르든\n상관없어.\n한 사람 한 사람이 생각하고\n길을 선택하는 데 의미가 있어.\n⟦P⟧"
+  },
+  {
+   "key": "ee5921401a77",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「그것도 그렇네.\n⟦P⟧남을 이끌겠다는 건\n그저 오만에 지나지 않는\n걸지도 모르겠다…\n⟦P⟧"
+  },
+  {
+   "key": "262eaf04e322",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「그럼, 앞으로 마리아는\n어떻게 할 생각이야?\n쿼크는 해산하는 거지?\n⟦P⟧"
+  },
+  {
+   "key": "c88fb6ac6207",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「나를 아무도 모르는 곳에서\n조용히 지낼 생각이야.\n⟦P⟧"
+  },
+  {
+   "key": "cdfe798f2596",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「이제 싸우는 일에는 지쳤어.\n⟦P⟧"
+  },
+  {
+   "key": "06d0e41abcb3",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「누군가 멋진 사람을 찾아서\n평범하게 나이를 먹어가고 싶어.\n⟦P⟧"
+  },
+  {
+   "key": "8f8572279819",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「그렇구나.\n근데 말이야, 그 상대라는 건\n아직 정해지지 않은 거지?\n⟦P⟧"
+  },
+  {
+   "key": "8f8da6e18f51",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「이래 봬도, 일단 두 명 정도는\n짚이는 사람이 있어.\n⟦P⟧"
+  },
+  {
+   "key": "db0d6a0f7789",
+   "speaker_korean": null,
+   "korean": "아직 제대로 이야기를 나눈\n건 아니지만 말이야.\n⟦P⟧"
+  },
+  {
+   "key": "58b0ae75ca0e",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「그, 그거 놀랍네…\n그거, 나도 아는\n사람인 거야?\n⟦P⟧"
+  },
+  {
+   "key": "71935f4e915b",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「그러네…\n너한테라면, 알려줘도 괜찮으려나?\n⟦P⟧"
+  },
+  {
+   "key": "2df58ba8c879",
+   "speaker_korean": null,
+   "korean": "그중 한 명이, 지금 이렇게 내 눈앞에\n있어주는 사람이고,\n다른 한 명이, 내가 선택하지 않은 사람이야.\n⟦P⟧"
+  },
+  {
+   "key": "283dd8a54c34",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「그리고…\n자기들의 미래는, 자기들이 만들어\n나가야 하니까.\n⟦P⟧"
+  }
+ ]
+}

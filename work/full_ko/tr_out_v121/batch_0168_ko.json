@@ -1,0 +1,360 @@
+{
+ "batch_id": "batch_0168",
+ "translations": [
+  {
+   "key": "3b9f351ef7e4",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『무슨 소리인가?"
+  },
+  {
+   "key": "c803a16ffdac",
+   "speaker_korean": "마리아",
+   "korean": "「시치미 떼지 마.\n정보 없는 박사는 몰라도\n⟦1⟧페이트⟦2⟧의 신병까지\n원할 리 없잖아?"
+  },
+  {
+   "key": "a2e987f94dce",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『우리 쪽도 아마\n자네와 별 차이 없을 걸세.\n⟦1⟧반데인⟦2⟧은 미안하지만\n잘 모르겠네.\n뭐, 어느 정도 짐작은 가네만."
+  },
+  {
+   "key": "a95a5ff445ce",
+   "speaker_korean": "클리프",
+   "korean": "「그래서… 어쩔 거냐?\n얌전히 이 녀석을 넘길 거냐?"
+  },
+  {
+   "key": "c379f820f264",
+   "speaker_korean": "페이트",
+   "korean": "「말도 안 돼!\n아버지한테 물어보고 싶은 게\n있단 말이야!!"
+  },
+  {
+   "key": "08fa3924b8a9",
+   "speaker_korean": "마리아",
+   "korean": "「당연하지.\n너도 박사님도 그런 놈들에게 안 넘겨.\n그런 짓, 내가 용납 못 해."
+  },
+  {
+   "key": "bc97e3edd996",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧마리아⟦2⟧."
+  },
+  {
+   "key": "0871802ae0c5",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『박사님 신병 확보만 확인되면,\n반데인 함은 ⟦1⟧아쿠아엘리⟦2⟧로\n대처할 수 있을 걸세."
+  },
+  {
+   "key": "5313d7097dce",
+   "speaker_korean": "마리아",
+   "korean": "「인질 교환 타이밍이\n승부처라는 거네.\n아마 그쪽은 어딘가 제3의 장소를\n교환 장소로 지정해 올 거야.\n그때 어떻게든 해보는 수밖에."
+  },
+  {
+   "key": "bc4bf0270325",
+   "speaker_korean": "클리프",
+   "korean": "「어떻게든 한다, 라.\n작전이고 나발이고 없구먼."
+  },
+  {
+   "key": "53e1a2a731ec",
+   "speaker_korean": "마리아",
+   "korean": "「어쩔 수 없잖아.\n상황이 압도적으로 우리한테\n불리하니까."
+  },
+  {
+   "key": "6369d07f41c8",
+   "speaker_korean": "미라쥬",
+   "korean": "「당신이 좋아하는\n패턴이지 않나요?"
+  },
+  {
+   "key": "4c852124fec8",
+   "speaker_korean": "클리프",
+   "korean": "「뭐, 그렇긴 한데 말이지."
+  },
+  {
+   "key": "c82975ceb7df",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『잘 부탁하네.\n나머지는 자네들 몫일세."
+  },
+  {
+   "key": "344185929bee",
+   "speaker_korean": "클리프",
+   "korean": "「뭐, 너희들 위해서\n하는 건 아니지만 말이야."
+  },
+  {
+   "key": "ee01fb3171da",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『그래도 말이야.\n박사와 그를 ⟦1⟧반데인⟦2⟧의\n손에 넘길 순 없네."
+  },
+  {
+   "key": "36babdb1c194",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『우리는 그리 오래 걸리지 않고\n도착할 수 있을 걸세.\n그때까지 버텨주게."
+  },
+  {
+   "key": "fd2b85e6a3ea",
+   "speaker_korean": "마리아",
+   "korean": "「알겠어."
+  },
+  {
+   "key": "034e96c2beed",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『행운을 비네."
+  },
+  {
+   "key": "64f38f58dabe",
+   "speaker_korean": "페이트",
+   "korean": "「무슨 일이 있어도 아버지 일행을\n구해야 해."
+  },
+  {
+   "key": "7af14a12f1c7",
+   "speaker_korean": "클리프",
+   "korean": "「헤헤, 팔이 근질거리는군."
+  },
+  {
+   "key": "8161ca142f03",
+   "speaker_korean": "마리아",
+   "korean": "「믿고 있을게."
+  },
+  {
+   "key": "0074ff526618",
+   "speaker_korean": "클리프",
+   "korean": "「맡겨두라고."
+  },
+  {
+   "key": "c44ac74672ec",
+   "speaker_korean": "마리엣타",
+   "korean": "「리더, ⟦1⟧다스바누⟦2⟧에서\n통신이 들어왔습니다."
+  },
+  {
+   "key": "715b8c378b06",
+   "speaker_korean": "마리아",
+   "korean": "「스크린으로."
+  },
+  {
+   "key": "5deb9820823c",
+   "speaker_korean": "비위그",
+   "korean": "『신병 교환은\n너희 아래에 있는 행성에서 한다."
+  },
+  {
+   "key": "c87cc1fe907e",
+   "speaker_korean": "페이트",
+   "korean": "(⟦1⟧에리클⟦2⟧에서?"
+  },
+  {
+   "key": "c74f2eb6e3a1",
+   "speaker_korean": "비위그",
+   "korean": "『지금 보내는 지점으로 전송 강하해라.\n…쓸데없는 생각은 하지 마라."
+  },
+  {
+   "key": "e58fce4f079c",
+   "speaker_korean": "마리엣타",
+   "korean": "「⟦1⟧다스바누⟦2⟧에서 좌표가\n전송되어 왔습니다.\n<147.5834A34.8874》입니다."
+  },
+  {
+   "key": "32c10878b2e3",
+   "speaker_korean": "페이트",
+   "korean": "「이건…"
+  },
+  {
+   "key": "9f2317d8a284",
+   "speaker_korean": "클리프",
+   "korean": "「아아, 저기로군…"
+  },
+  {
+   "key": "3ce26b86236b",
+   "speaker_korean": "마리아",
+   "korean": "「알고 있어?"
+  },
+  {
+   "key": "369d696d0a95",
+   "speaker_korean": "클리프",
+   "korean": "「아아, 알고 있지."
+  },
+  {
+   "key": "7965d08e07a6",
+   "speaker_korean": "마리아",
+   "korean": "「그렇네…… 박사님한테 왜\n유전자 조작 같은 걸 했는지\n물어보려면, 반드시 구해내고 말겠어."
+  },
+  {
+   "key": "ce8ee4cb4286",
+   "speaker_korean": "페이트",
+   "korean": "「울고 있지 않으면 좋겠는데.\n울보니까 말이야, ⟦1⟧소피아⟦2⟧…"
+  },
+  {
+   "key": "057abd7ea398",
+   "speaker_korean": "비위그",
+   "korean": "『지금 보낸 타이밍에 전송해라.\n다시 말하지만, 쓸데없는 잔재주 부리지 마라."
+  },
+  {
+   "key": "3d71958ea928",
+   "speaker_korean": "비위그",
+   "korean": "『아아, 알고 있다."
+  },
+  {
+   "key": "a6e26f37c882",
+   "speaker_korean": "마리아",
+   "korean": "「그래, 알고 있어.\n그쪽이야말로 알고 있겠지?\n그와 ⟦1⟧로키시 박사⟦2⟧, 에스테드 양⟦3⟧\n두 사람의 교환이야."
+  },
+  {
+   "key": "85aeb3f93266",
+   "speaker_korean": "클리프",
+   "korean": "「우리 쪽이 한 번에 전송 가능한 건 6명인가.\n뭐, 저쪽도 크게 다르지 않은 숫자겠지."
+  },
+  {
+   "key": "77d4657f10f4",
+   "speaker_korean": "마리아",
+   "korean": "「아마도."
+  },
+  {
+   "key": "9990dee8fde3",
+   "speaker_korean": "클리프",
+   "korean": "「6명 정도면,\n뭐, 어떻게든 되겠지."
+  },
+  {
+   "key": "144494f6f23f",
+   "speaker_korean": "페이트",
+   "korean": "「아버지가 인질로 잡혀 있어.\n조심해서 움직여줘."
+  },
+  {
+   "key": "521535820431",
+   "speaker_korean": "클리프",
+   "korean": "「걱정도 팔자다, 너는.\n좀 더 날 믿으라고."
+  },
+  {
+   "key": "e252b33c7572",
+   "speaker_korean": "페이트",
+   "korean": "「알고 있어.\n알고 있는데… 그래도…"
+  },
+  {
+   "key": "fdef08e33823",
+   "speaker_korean": "마리아",
+   "korean": "「진정해."
+  },
+  {
+   "key": "21bb8d9ef89c",
+   "speaker_korean": "마리아",
+   "korean": "「괜찮아… 날 믿어.\n다들 무사히 되찾아 올게."
+  },
+  {
+   "key": "48fe980f0606",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧마리아⟦2⟧…"
+  },
+  {
+   "key": "36f5630692db",
+   "speaker_korean": "마리아",
+   "korean": "「⟦1⟧미라쥬⟦2⟧,\n전송 준비를 부탁해."
+  },
+  {
+   "key": "005252cfe053",
+   "speaker_korean": "미라쥬",
+   "korean": "「알겠습니다."
+  },
+  {
+   "key": "3f9d4a778cd9",
+   "speaker_korean": "클리프",
+   "korean": "「나도 거들지."
+  },
+  {
+   "key": "fe8830c58092",
+   "speaker_korean": "클리프",
+   "korean": "「이봐, ⟦1⟧스팅⟦2⟧.\n너도 와라."
+  },
+  {
+   "key": "9a289d258610",
+   "speaker_korean": "스팅",
+   "korean": "「알았어~"
+  },
+  {
+   "key": "d4764a9ea23b",
+   "speaker_korean": "마리아",
+   "korean": "「⟦1⟧랭커⟦2⟧, 들려?"
+  },
+  {
+   "key": "e67a47220b23",
+   "speaker_korean": "랭커",
+   "korean": "『뭡니까, 아가씨?"
+  },
+  {
+   "key": "597a39767b3a",
+   "speaker_korean": "마리아",
+   "korean": "「장비 레벨 A 전투원을\n3명 준비해 둬.\n인선은 맡길게.\n우리랑 같이\n강하해줘야 하니까."
+  },
+  {
+   "key": "fc7534345225",
+   "speaker_korean": "랭커",
+   "korean": "『A입니까요?\n그거 큰일이네요."
+  },
+  {
+   "key": "a131f470ed54",
+   "speaker_korean": "랭커",
+   "korean": "『알겠습니다요.\n바로 준비시키겠습니다."
+  },
+  {
+   "key": "3059cbda4228",
+   "speaker_korean": "마리아",
+   "korean": "「부탁해."
+  },
+  {
+   "key": "3939120c64c0",
+   "speaker_korean": "페이트",
+   "korean": "「아니, 진짜 ⟦1⟧쿼크⟦2⟧의 리더\n답다는 생각이 들어서."
+  },
+  {
+   "key": "c75f242dc9be",
+   "speaker_korean": "마리아",
+   "korean": "「뭐야, 이제 와서…\n처음부터 그렇게 말했잖아."
+  },
+  {
+   "key": "3e2564420636",
+   "speaker_korean": "페이트",
+   "korean": "「그야\n그렇긴 한데 말이야."
+  },
+  {
+   "key": "88fefd4a1af6",
+   "speaker_korean": "마리아",
+   "korean": "「뭐, 됐어.\n아직 지정 시간까지는 여유가 있으니까.\n그때까지 마음대로 하고 있어도 돼.\n지금은 너한테 부탁할 것도 없고.\n시간 되면 선내 방송으로 부를게."
+  },
+  {
+   "key": "6409bcb0c920",
+   "speaker_korean": "마리아",
+   "korean": "「⟦1⟧반데인⟦2⟧의 ⟦3⟧엘리미네이트 라이플⟦4⟧이\n상대라면 슈트도 소용없겠지만,\n없는 것보단 낫겠지."
+  },
+  {
+   "key": "66e6a5dea7c2",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『자네 아버님 일은 유감이었네."
+  },
+  {
+   "key": "13126b66f1dd",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『하지만 이걸로 연방의 희망은\n끊겨버린 걸지도 모르겠군.\n자네들만으로는…"
+  },
+  {
+   "key": "2229894e41c3",
+   "speaker_korean": "마리아",
+   "korean": "「무슨 소리야?\n당신들은 대체\n뭘 알고 있는 거야?"
+  },
+  {
+   "key": "037bdbd505a9",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『통신으로는 좀 그렇군…\n이쪽으로 오겠나?"
+  },
+  {
+   "key": "39433a20bf66",
+   "speaker_korean": "마리아",
+   "korean": "「괜찮아?\n우리는 반은하연방 조직이라고?"
+  },
+  {
+   "key": "bc2aba9f3d2e",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『상관없네, ⟦1⟧아쿠아엘리⟦2⟧는 내 배야.\n함장인 나한테 대체 누가 불만을 말한다는 건가?\n아무 문제도 없네.\n뭐, 불만을 말하는 놈은 그동안 영창에라도\n처넣어 두면 되고."
+  },
+  {
+   "key": "768f92de36ff",
+   "speaker_korean": "마리아",
+   "korean": "「…실례 좀\n하겠어."
+  },
+  {
+   "key": "12bde340d976",
+   "speaker_korean": "비스콤 제독",
+   "korean": "『음."
+  }
+ ]
+}

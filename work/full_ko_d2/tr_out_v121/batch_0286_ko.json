@@ -1,0 +1,630 @@
+{
+ "batch_id": "batch_0286",
+ "translations": [
+  {
+   "key": "b25f87f83c8f",
+   "speaker_korean": null,
+   "korean": "실행 중"
+  },
+  {
+   "key": "093ec85bc703",
+   "speaker_korean": null,
+   "korean": "미계약"
+  },
+  {
+   "key": "003206972f81",
+   "speaker_korean": null,
+   "korean": "계약됨"
+  },
+  {
+   "key": "fb65f4f49b7a",
+   "speaker_korean": null,
+   "korean": "전원"
+  },
+  {
+   "key": "69092c924eb6",
+   "speaker_korean": null,
+   "korean": "이 팀만"
+  },
+  {
+   "key": "8b391ed64806",
+   "speaker_korean": null,
+   "korean": "역시 중단 안 함"
+  },
+  {
+   "key": "95992d7973f7",
+   "speaker_korean": null,
+   "korean": "개발을 중단하면 결과물이 제출되지 않습니다\n그래도 중단하시겠습니까?"
+  },
+  {
+   "key": "9fb60ea6fc1f",
+   "speaker_korean": null,
+   "korean": "개발 재개"
+  },
+  {
+   "key": "07d971d4f4a5",
+   "speaker_korean": null,
+   "korean": "개발 종료"
+  },
+  {
+   "key": "56f4e215954b",
+   "speaker_korean": null,
+   "korean": "크리에이션에 성공했습니다"
+  },
+  {
+   "key": "cfdeee4e4f44",
+   "speaker_korean": null,
+   "korean": " 다음"
+  },
+  {
+   "key": "4535e0df0ad1",
+   "speaker_korean": null,
+   "korean": "회"
+  },
+  {
+   "key": "bf1d78c5625f",
+   "speaker_korean": null,
+   "korean": "신규 재개"
+  },
+  {
+   "key": "f2569d2a6798",
+   "speaker_korean": null,
+   "korean": "결과물 제출 요청하시겠습니까?"
+  },
+  {
+   "key": "dfe1b463435c",
+   "speaker_korean": null,
+   "korean": "아이템을 한 번도 못 만들었습니다\n이 라인은 중지됩니다"
+  },
+  {
+   "key": "864f1bddc912",
+   "speaker_korean": null,
+   "korean": "하찮은 놈을 일격에 죽인다는\n하찮은 최종 웨폰"
+  },
+  {
+   "key": "2a7bb1b1e7f4",
+   "speaker_korean": null,
+   "korean": "지정 불가"
+  },
+  {
+   "key": "dfa53c24162c",
+   "speaker_korean": null,
+   "korean": "미정"
+  },
+  {
+   "key": "f46385158416",
+   "speaker_korean": null,
+   "korean": "E 메인 메뉴"
+  },
+  {
+   "key": "dbe66b44e08a",
+   "speaker_korean": null,
+   "korean": "문장술을 사용할 수 있습니다"
+  },
+  {
+   "key": "e4d734c017c2",
+   "speaker_korean": null,
+   "korean": "스킬을 설정할 수 있습니다"
+  },
+  {
+   "key": "cd13940948fb",
+   "speaker_korean": null,
+   "korean": "아이템을 사용합니다"
+  },
+  {
+   "key": "d81064ce5e34",
+   "speaker_korean": null,
+   "korean": "장비품을 변경합니다"
+  },
+  {
+   "key": "93ef2332285e",
+   "speaker_korean": null,
+   "korean": "개인정보를 조회합니다"
+  },
+  {
+   "key": "24a074b55318",
+   "speaker_korean": null,
+   "korean": "조작 환경을 설정합니다"
+  },
+  {
+   "key": "b0d5a45d5a83",
+   "speaker_korean": null,
+   "korean": "전투 명령과 리더·대열 변경을 합니다"
+  },
+  {
+   "key": "6316ea3f8dbe",
+   "speaker_korean": null,
+   "korean": "″PlayStation 2″ 전용 메모리카드(8MB)에 모험 기록을 만듭니다"
+  },
+  {
+   "key": "e9aad22b5a2d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧비룡⟦2⟧이란, 일반적으로는 ⟦3⟧드래곤족⟦4⟧ 중에서 날개를 가지고 하늘을 달릴 수 있는 종족의 총칭이지만, ⟦5⟧에리쿨 2호성⟦6⟧에서는 주로 브라스드래곤을 가리켜 이렇게 부르는 듯하다.\n본래라면 하늘을 날 수 있는 ⟦7⟧드래곤족⟦8⟧은 모두 ⟦9⟧비룡⟦10⟧에 포함되어야 하겠지만, ⟦11⟧아리그리프 왕국⟦12⟧ 내에서는 ⟦13⟧에어드래곤⟦14⟧이 특별한 존재이기 때문에, 그 분류에서는 제외되어 있는 듯하다."
+  },
+  {
+   "key": "ed3ba1051b68",
+   "speaker_korean": null,
+   "korean": "⟦1⟧사페리오 마을⟦2⟧에 자리 잡고 사는 개구리 같은 모습을 한 종족으로, 한밤중에 흐릿하게 눈이 빛나는 것에서 이런 이름으로 불린다.\n이들은 폐로도 아가미로도 모두 호흡이 가능하기 때문에, 지상과 수중 어디서든 생활할 수 있다.\n하지만 크게 다른 두 환경에서 생활할 수 있다는 것은, 반대로 말하면 어느 한쪽만으로는 생활할 수 있는 몸 구조가 아니라는 뜻이기도 하다.\n대기 중에서는 건조해지는 피부에, 강한 수압을 견디지 못하는 연약한 몸. 그들에게 생존이 허락된 곳은 맑은 물을 채운 얕은 물가뿐이다."
+  },
+  {
+   "key": "3efd4fcb8bce",
+   "speaker_korean": null,
+   "korean": "⟦1⟧성왕국 시하츠⟦2⟧와 ⟦3⟧군사국가 아리그리프⟦4⟧.\n이 두 나라의 원류가 된, ⟦5⟧고대왕국 시포트⟦6⟧의 수도였던 도시.\n지금으로부터 약 300년 전 전쟁에서, 당시 이 도시를 점령하고 있던 ⟦7⟧기술국가 그리텐⟦8⟧의 ⟦9⟧기공병단⟦10⟧에 대항하기 위해, 훗날 여왕이 되는 ⟦11⟧실비아 1세⟦12⟧가 ⟦13⟧성주 세피라⟦14⟧의 힘을 해방하여 ⟦15⟧그리텐 왕국⟦16⟧의 군대와 함께 이 도시를 물속에 가라앉혔다고 전해진다.\n⟦P⟧현재 이 도시는 ⟦17⟧산마이트 공화국⟦18⟧의 영토가 되어 있으며, 수중 생활에 적응한 다양한 ⟦19⟧아인들⟦20⟧이 살고 있다는 이야기다."
+  },
+  {
+   "key": "6d407c9d94e2",
+   "speaker_korean": null,
+   "korean": "현재 ⟦1⟧레젤브성⟦2⟧을 지배하고 있는 군사활동가.\n게릴라전과 테러의 달인으로, 지금으로부터 10년 전 부패해 있던 상층부를 혁명으로 타도하고 현재의 지위를 얻었다."
+  },
+  {
+   "key": "c0c2a64a89e5",
+   "speaker_korean": null,
+   "korean": "본래대로라면 섹터R에 있는 감옥행성으로 보내졌어야 할 ⟦1⟧레젤브인⟦2⟧ 중범죄자.\n그는 ⟦3⟧레젤브⟦4⟧에서 합계 징역 687년의 형벌을 받았는데, 감옥행성으로 이송되던 중 호송선의 엔진에 손을 써서 탈주를 시도했다.\n하지만 그 결과 우주선은 수리가 불가능할 정도로 파괴되어 버려, ⟦5⟧뱅가드 3호성⟦6⟧에서의 생활을 강요받게 된다."
+  },
+  {
+   "key": "a81df649cd05",
+   "speaker_korean": null,
+   "korean": "육체적으로 뛰어난 ⟦1⟧클라우스트로인⟦2⟧이면서도, 신궁류체술을 극한까지 익혀 '마음'과 '기술'과 '몸' 모두를 단련한 여성.\n⟦3⟧클리프⟦4⟧와는 같은 문파로, 자주 대련을 나누곤\n했다는 모양이다.\n참고로, 지금까지 서로의 전적은 1036전 982승 11패 43무.\n누가 누구인지는 굳이 말하지 않는 편이 행복할 것이다…."
+  },
+  {
+   "key": "9c52d8603e13",
+   "speaker_korean": null,
+   "korean": "⟦1⟧사페리오 마을⟦2⟧에 사는 ⟦3⟧아인⟦4⟧으로, 특별히 눈에 띄는 능력이 있는 건 아니지만, 좋아하게 되면 외곬, 싫어하게 되어도 외곬인 어떤 의미로 한결같고 알기 쉬운 소년.\n사실 꽤 겁이 많아서 어둠 같은 것을 잘 못하는 편이다."
+  },
+  {
+   "key": "576ee9cc8e7b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧사페리오 마을⟦2⟧에 사는 ⟦3⟧아인⟦4⟧으로, 별을 읽는 힘을 지닌 유서 깊은 일족 출신.\n고대어로 쓰인 책을 너무 많이 읽은 탓인지 다소 예스러운 말투를 쓰는 구석이 있지만, 실제로는 아직 어린아이다."
+  },
+  {
+   "key": "f2f12b258a06",
+   "speaker_korean": null,
+   "korean": "⟦1⟧은하연방⟦2⟧의 세력권 밖에 존재하는 미지의 우주역을 탐사하기 위해 만들어진 전장 1km 전후의 대형함.\n이 함선은 몇 개월에서 몇 년 단위의 장기 항행을 하는 일도 드물지 않으며, 전투를 포함한 모든 활동을 단독으로 수행할 수 있도록 만들어져 있다."
+  },
+  {
+   "key": "64e2a5dc6d0c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧루시퍼⟦2⟧가 ⟦3⟧이터널 스피어⟦4⟧에 찾아온 이래로, ⟦5⟧에리쿨 2호성⟦6⟧을 덮치고 있는 사악한 파동을 말한다.\n이 파동은 생물의 정신과 육체를 좀먹는 힘을 지니고 있으며, 야생에 서식하던 많은 생물들이 이 파동의 영향으로 흉포화되고 있다.\n예전 은하연방 역사로 미루어 보면, ⟦7⟧쿼드라틱 키⟦8⟧에 의해 일어나는 생체오염의 일종이 아닐까 생각되지만, 그것을 검증할 방법은 유감스럽게도 없다."
+  },
+  {
+   "key": "b934b274aee9",
+   "speaker_korean": null,
+   "korean": "서기 시대에 ⟦1⟧지구⟦2⟧에서 정의된 거리 단위의 하나로, 태양에서 ⟦3⟧지구⟦4⟧까지 거리의 평균값을 기준으로 정의한 것.\n이것은 미터법으로 환산하면 대략 1억 4960만km의 길이가 된다.\n접촉한 생명체가 사는 행성과 그 항성계의 항성까지 거리를 측정했을 때, 대부분이 이 값과 비슷한 수치를 나타냈기 때문에\n⟦5⟧우주력⟦6⟧ 이후의 시대가 되어서도, 이 단위는 사라지지 않고 널리 사용되고 있는 것이다."
+  },
+  {
+   "key": "4542549e994c",
+   "speaker_korean": null,
+   "korean": "비교적 안전한 미지의 우주역을 탐사하기 위해 만들어진 전장 1km 전후의 대형함.\n몇 개월에서 몇 년 단위의 장기 항행을 하는 일도 적지 않으며, 단독으로 행동할 수 있도록 만들어져 있다."
+  },
+  {
+   "key": "07d2e3de6beb",
+   "speaker_korean": null,
+   "korean": "⟦1⟧은하연방⟦2⟧에 소속되어 있던 ⟦3⟧전투전용함⟦4⟧ 중 하나로, ⟦5⟧디플로⟦6⟧와의 함대전 도중 힘을 해방시킨\n⟦7⟧마리아⟦8⟧에 의해 말 그대로 소멸되어\n버린다.\n책임자는 ⟦9⟧실링 준장⟦10⟧.\n표면상으로는 ⟦11⟧아르디온 제국⟦12⟧과 교전 중 신형 어뢰의 폭발 사고로 인해 격침된 것으로 되어 있다."
+  },
+  {
+   "key": "d5f18946d8e2",
+   "speaker_korean": null,
+   "korean": "→ ⟦1⟧FD 공간⟦2⟧.\n⟦P⟧"
+  },
+  {
+   "key": "48aff13ba6d8",
+   "speaker_korean": null,
+   "korean": "→ ⟦1⟧FD인⟦2⟧."
+  },
+  {
+   "key": "48bd3ebab14c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧사페리오 마을⟦2⟧에 사는 ⟦3⟧메노딕스족⟦4⟧ 아주머니로, 어디에나 있을 법한, 요리를 무척 좋아하는 배포 큰 어머니.\n아마 이 세상에서 가장 걱정이 없는 인물 중 하나일 것이다."
+  },
+  {
+   "key": "c64fe10576d4",
+   "speaker_korean": null,
+   "korean": "⟦1⟧사페리오 마을⟦2⟧에 사는 ⟦3⟧아인⟦4⟧ 소년으로, 별로 닮지 않은 남동생 ⟦5⟧레자드⟦6⟧와 함께 살고 있다.\n조금은 나쁜 척 해보고 싶은 나이대."
+  },
+  {
+   "key": "98332b697b9e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧사페리오 마을⟦2⟧에 사는 ⟦3⟧아인⟦4⟧ 소년.\n그런대로 머리는 좋지만 살짝 삐딱한 성격이라서, 그 사고방향이 늘 비건설적인 쪽으로만 향하곤 한다.\n사실 안경을 벗으면 미남이라거나…."
+  },
+  {
+   "key": "edd0d25e4fbd",
+   "speaker_korean": null,
+   "korean": "⟦1⟧사페리오 마을⟦2⟧에 사는 ⟦3⟧아인⟦4⟧ 소년.\n마음씨는 착하고 힘이 세다.\n공부는 조금 서투르지만, 항상 웃음을 잃지 않는다.\n뭐, 보통이라면 인기인이 되어도 이상하지 않을 성격일 텐데….\n주변 멤버들의 개성이 너무 강한 탓에 고생만 하는 모양이다."
+  },
+  {
+   "key": "45b0d243f4ee",
+   "speaker_korean": null,
+   "korean": "예전에 ⟦1⟧마리아⟦2⟧가 어릴 적,\n⟦3⟧제17우주기지⟦4⟧에서 피난할 때 탑승했던 ⟦5⟧수송선⟦6⟧.\n⟦7⟧제17우주기지⟦8⟧를 파괴한 ⟦9⟧아르디온 제국⟦10⟧ 부대의 추격을 받아 격침되고 만다."
+  },
+  {
+   "key": "ae113ba107de",
+   "speaker_korean": null,
+   "korean": "FD인 <에프디진〉"
+  },
+  {
+   "key": "353a6b7a6055",
+   "speaker_korean": null,
+   "korean": "FD인 <2〉"
+  },
+  {
+   "key": "6e76bd8ba74e",
+   "speaker_korean": null,
+   "korean": "E 장비"
+  },
+  {
+   "key": "3b7bcf1e176f",
+   "speaker_korean": null,
+   "korean": "E 아이템"
+  },
+  {
+   "key": "6350a9f8b938",
+   "speaker_korean": null,
+   "korean": "E 설정"
+  },
+  {
+   "key": "544185c6343c",
+   "speaker_korean": null,
+   "korean": "버튼 위치를 초기화합니다"
+  },
+  {
+   "key": "c094804f00cd",
+   "speaker_korean": null,
+   "korean": "버튼 위치를 변경합니다"
+  },
+  {
+   "key": "2f99ed87982e",
+   "speaker_korean": null,
+   "korean": "윈도우 색상을 초기화합니다"
+  },
+  {
+   "key": "ee535b7ad956",
+   "speaker_korean": null,
+   "korean": "윈도우 색상을 변경합니다"
+  },
+  {
+   "key": "734a441a7ccf",
+   "speaker_korean": null,
+   "korean": "전투 종료 후 배틀 컬렉션을 수집함"
+  },
+  {
+   "key": "b1b9c6a81df7",
+   "speaker_korean": null,
+   "korean": "전투 종료 후 배틀 컬렉션 수집을 안 함"
+  },
+  {
+   "key": "5bb5fae62ea9",
+   "speaker_korean": null,
+   "korean": "STAR OCEAN Till the End of Time의 DVD-ROM에서 불러옵니다"
+  },
+  {
+   "key": "cc3f6405119b",
+   "speaker_korean": null,
+   "korean": "전투를 풀 액티브 모드로 합니다"
+  },
+  {
+   "key": "b5811825ae0e",
+   "speaker_korean": null,
+   "korean": "E 메모리카드"
+  },
+  {
+   "key": "8c3aada5db6f",
+   "speaker_korean": null,
+   "korean": "데이터를 이어받을 수 있습니다. MEMORY CARD 삽입구를 선택해 주세요"
+  },
+  {
+   "key": "3f8409653941",
+   "speaker_korean": null,
+   "korean": "배틀 컬렉션 데이터를 불러옵니다. MEMORY CARD 삽입구를 선택해 주세요. 취소할 수 있습니다."
+  },
+  {
+   "key": "b25acab1775f",
+   "speaker_korean": null,
+   "korean": "다른 애플리케이션이 사용 중입니다"
+  },
+  {
+   "key": "4f13efc5ef45",
+   "speaker_korean": null,
+   "korean": "불러왔습니다"
+  },
+  {
+   "key": "9c868e2df94a",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time의\n배틀 컬렉션 데이터를\n불러오는 중입니다\n″PlayStation 2″ 전용 메모리카드(8MB)를\n빼거나 꽂지 말아 주세요"
+  },
+  {
+   "key": "ba976c21ca11",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time의\n배틀 컬렉션 데이터를\n정상적으로 불러왔습니다"
+  },
+  {
+   "key": "8e502719212a",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time의\n배틀 컬렉션 데이터를\n불러오는 데 실패했습니다"
+  },
+  {
+   "key": "51347acb1d34",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time의\n배틀 컬렉션 데이터가 없습니다\n이대로 게임을 시작하면, 게임 본편에서\n배틀 컬렉션을 할 수 없습니다\n이대로 시작하시겠습니까?"
+  },
+  {
+   "key": "215378418f5d",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time의\n배틀 컬렉션 데이터가\n손상되었을 가능성이 있습니다\n불러올 수 없습니다"
+  },
+  {
+   "key": "400a0b250b1f",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time의\n배틀 컬렉션 데이터가 없습니다"
+  },
+  {
+   "key": "2b1fe6a8b578",
+   "speaker_korean": null,
+   "korean": "E 작전"
+  },
+  {
+   "key": "bdea933c20b0",
+   "speaker_korean": null,
+   "korean": "GtK 수치 저하를 억제하며 싸웁니다. 프로텍트·카운터가 늘고, 자발 공격 빈도가 줄어듭니다."
+  },
+  {
+   "key": "ae3bd6dc06af",
+   "speaker_korean": null,
+   "korean": "작전을 종료합니다\n괜찮겠습니까?"
+  },
+  {
+   "key": "bebedde217cf",
+   "speaker_korean": null,
+   "korean": "⟦1⟧<리니어 시프트〉\n⟦2⟧세로 일렬로 늘어선\n정통적인 대형"
+  },
+  {
+   "key": "99c7e97cd05d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧<와이드 시프트〉\n⟦2⟧넓게 흩어져 싸우는 대형"
+  },
+  {
+   "key": "3ef72445bc2c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧<어설트 시프트〉\n⟦2⟧근접전 중심의 공격 대형"
+  },
+  {
+   "key": "6198a3eff996",
+   "speaker_korean": null,
+   "korean": "⟦1⟧<트라이 시프트〉\n⟦2⟧삼각형 대형"
+  },
+  {
+   "key": "2d2b9cf8ec34",
+   "speaker_korean": null,
+   "korean": "⟦1⟧<인버스 트라이 시프트〉\n⟦2⟧역삼각형 대형"
+  },
+  {
+   "key": "b8b8c378290a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧<이스케이프 시프트〉\n⟦2⟧삼십육계 줄행랑\n얼른 도망칠 때 편한 대형"
+  },
+  {
+   "key": "bc27ce66dd43",
+   "speaker_korean": null,
+   "korean": "⟦1⟧<스피어 시프트〉\n⟦2⟧한 명을 앞세워\n창 모양의 용감한 대형"
+  },
+  {
+   "key": "4ff9e095c741",
+   "speaker_korean": null,
+   "korean": "⟦1⟧<백가드〉\n⟦2⟧두 명 앞에 세워\n공격 자세 중시 대형"
+  },
+  {
+   "key": "ed38c43c0cd7",
+   "speaker_korean": null,
+   "korean": "⟦1⟧<어퍼가드〉\n⟦2⟧위쪽 습격을 경계하는 대형"
+  },
+  {
+   "key": "c75d8992bf44",
+   "speaker_korean": null,
+   "korean": "⟦1⟧<언더가드〉\n⟦2⟧아래쪽 습격을 경계하는 대형"
+  },
+  {
+   "key": "37736a265729",
+   "speaker_korean": null,
+   "korean": "상품을 살 수 있습니다"
+  },
+  {
+   "key": "40ee34521423",
+   "speaker_korean": null,
+   "korean": "⟦1⟧소지 폴 부족으로 개발 불가합니다\n코스트를 조정해 주세요⟦2⟧"
+  },
+  {
+   "key": "288775c5a9b4",
+   "speaker_korean": null,
+   "korean": "위 아이템으로 합성합니다\n괜찮겠습니까?"
+  },
+  {
+   "key": "6d0674b1dd1a",
+   "speaker_korean": null,
+   "korean": "개발을 시작합니다"
+  },
+  {
+   "key": "22a3ff0505ca",
+   "speaker_korean": null,
+   "korean": "모든 라인이 종료되었습니다\n개발을 완료합니다"
+  },
+  {
+   "key": "862adaa544fd",
+   "speaker_korean": null,
+   "korean": "E 아이템 크리에이션"
+  },
+  {
+   "key": "1790b2886807",
+   "speaker_korean": null,
+   "korean": "E 팀 편성"
+  },
+  {
+   "key": "4f223e5067ca",
+   "speaker_korean": null,
+   "korean": "「히히, 전부 잘게 썰어주지!"
+  },
+  {
+   "key": "42ac9742ddd6",
+   "speaker_korean": null,
+   "korean": "크리에이션에 성공했습니다"
+  },
+  {
+   "key": "0c406651b691",
+   "speaker_korean": null,
+   "korean": "아이템을 한 번도 못 만들었습니다\n이 라인은 중지됩니다"
+  },
+  {
+   "key": "24e40ace2711",
+   "speaker_korean": null,
+   "korean": "F 메인 메뉴"
+  },
+  {
+   "key": "4db285c6cf96",
+   "speaker_korean": null,
+   "korean": "F 장비"
+  },
+  {
+   "key": "ca0b44a4c852",
+   "speaker_korean": null,
+   "korean": "F 아이템"
+  },
+  {
+   "key": "52158bd72dfd",
+   "speaker_korean": null,
+   "korean": "F 설정"
+  },
+  {
+   "key": "ccf789e5fa67",
+   "speaker_korean": null,
+   "korean": "F 메모리카드"
+  },
+  {
+   "key": "3477a3b841e7",
+   "speaker_korean": null,
+   "korean": "F 작전"
+  },
+  {
+   "key": "49797696125d",
+   "speaker_korean": null,
+   "korean": "F 아이템 크리에이션"
+  },
+  {
+   "key": "9b378a97c94b",
+   "speaker_korean": null,
+   "korean": "G 메인 메뉴"
+  },
+  {
+   "key": "41395a98a4be",
+   "speaker_korean": null,
+   "korean": "G 장비"
+  },
+  {
+   "key": "63ae65232b9c",
+   "speaker_korean": null,
+   "korean": "G 아이템"
+  },
+  {
+   "key": "f13b764e343b",
+   "speaker_korean": null,
+   "korean": "G 설정"
+  },
+  {
+   "key": "73d59d0d7f3b",
+   "speaker_korean": null,
+   "korean": "G 메모리카드"
+  },
+  {
+   "key": "f4ebee1e0faf",
+   "speaker_korean": null,
+   "korean": "G 작전"
+  },
+  {
+   "key": "0f3ac900b21a",
+   "speaker_korean": null,
+   "korean": "G 아이템 크리에이션"
+  },
+  {
+   "key": "693f187d49f9",
+   "speaker_korean": null,
+   "korean": "G 팀 편성"
+  },
+  {
+   "key": "db3e11913e6f",
+   "speaker_korean": null,
+   "korean": "S 메인 메뉴"
+  },
+  {
+   "key": "dafbbb38c756",
+   "speaker_korean": null,
+   "korean": "S 장비"
+  },
+  {
+   "key": "6c101ad3e56b",
+   "speaker_korean": null,
+   "korean": "S 아이템"
+  },
+  {
+   "key": "dc62951e1fc5",
+   "speaker_korean": null,
+   "korean": "S 설정"
+  },
+  {
+   "key": "d46b079473ff",
+   "speaker_korean": null,
+   "korean": "S 메모리카드"
+  },
+  {
+   "key": "a56fedcb5d78",
+   "speaker_korean": null,
+   "korean": "S 작전"
+  },
+  {
+   "key": "a72af3ae1771",
+   "speaker_korean": null,
+   "korean": "S 아이템 크리에이션"
+  },
+  {
+   "key": "65e78bfcd9e7",
+   "speaker_korean": null,
+   "korean": "S 팀 편성"
+  },
+  {
+   "key": "ff12f16617fd",
+   "speaker_korean": null,
+   "korean": "I 메인 메뉴"
+  },
+  {
+   "key": "5bfcb9c0f045",
+   "speaker_korean": null,
+   "korean": "I 장비"
+  },
+  {
+   "key": "1711d13249a4",
+   "speaker_korean": null,
+   "korean": "I 아이템"
+  },
+  {
+   "key": "fee25cd511f1",
+   "speaker_korean": null,
+   "korean": "I 설정"
+  },
+  {
+   "key": "d8207bd6fd24",
+   "speaker_korean": null,
+   "korean": "I 메모리카드"
+  },
+  {
+   "key": "f56769e00c46",
+   "speaker_korean": null,
+   "korean": "I 작전"
+  },
+  {
+   "key": "6080bc1f4883",
+   "speaker_korean": null,
+   "korean": "I 아이템 크리에이션"
+  },
+  {
+   "key": "20aa1afd4101",
+   "speaker_korean": null,
+   "korean": "I 팀 편성"
+  }
+ ]
+}

@@ -1,0 +1,585 @@
+{
+ "batch_id": "batch_0299",
+ "translations": [
+  {
+   "key": "6d4c588513b0",
+   "speaker_korean": null,
+   "korean": "배니시 링"
+  },
+  {
+   "key": "cf956cac2975",
+   "speaker_korean": null,
+   "korean": "폴"
+  },
+  {
+   "key": "85bc6f1c54c1",
+   "speaker_korean": null,
+   "korean": "⟦1⟧선택중⟦2⟧  결정  캔슬  리트라이"
+  },
+  {
+   "key": "2d1a3a4465cc",
+   "speaker_korean": null,
+   "korean": "디스크에서 데이터를 불러오는 중입니다."
+  },
+  {
+   "key": "17b61c551b6d",
+   "speaker_korean": null,
+   "korean": "디스크 트레이가 열려 있습니다."
+  },
+  {
+   "key": "e449703ef644",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・이대로 이벤트를 계속한다."
+  },
+  {
+   "key": "beb2bb152e60",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・이 이벤트는 건너뛴다."
+  },
+  {
+   "key": "24476086a5ba",
+   "speaker_korean": null,
+   "korean": "Speed Limit ⟦1⟧⟦2⟧km/h⟦3⟧\n(최고 속도 제한)"
+  },
+  {
+   "key": "314be8692a38",
+   "speaker_korean": null,
+   "korean": "Minimum Speed ⟦1⟧⟦2⟧km/h⟦3⟧\n(최저 속도 제한)"
+  },
+  {
+   "key": "f13c22bc39da",
+   "speaker_korean": null,
+   "korean": "⟦1⟧루irri"
+  },
+  {
+   "key": "98306d6bcb14",
+   "speaker_korean": null,
+   "korean": "⟦1⟧⟦G:d65082eb⟧Ⅲ요E.."
+  },
+  {
+   "key": "6376eb1b3bd9",
+   "speaker_korean": null,
+   "korean": "⟦1⟧A루si니니〜타쿠I.."
+  },
+  {
+   "key": "6ccca53562c8",
+   "speaker_korean": null,
+   "korean": "⟦1⟧루sII☆ riIP.."
+  },
+  {
+   "key": "01c14140b96b",
+   "speaker_korean": null,
+   "korean": "Reduce Speed ⟦1⟧⟦2⟧km/h⟦3⟧\n(정지 최고 속도 제한)"
+  },
+  {
+   "key": "9ddf07916a6f",
+   "speaker_korean": null,
+   "korean": "⟦1⟧루10PI니니 tMT.."
+  },
+  {
+   "key": "aa3fc23d3255",
+   "speaker_korean": null,
+   "korean": "⟦1⟧uνPe〜e후.."
+  },
+  {
+   "key": "c276a3aa6409",
+   "speaker_korean": null,
+   "korean": "Ⅱ타:후ξ"
+  },
+  {
+   "key": "bc7da5648b87",
+   "speaker_korean": null,
+   "korean": "⟦1⟧ ⟦2⟧"
+  },
+  {
+   "key": "825128cf56c5",
+   "speaker_korean": null,
+   "korean": "⟦1⟧에러가 발생했습니다.⟦2⟧\n″PlayStation BB Unit″에\n동봉된 설명서 안내에 따라\n″PlayStation BB Unit″을\n복구해 주십시오."
+  },
+  {
+   "key": "79f4f0fb5e33",
+   "speaker_korean": null,
+   "korean": "잔여"
+  },
+  {
+   "key": "dd1e99cd5825",
+   "speaker_korean": null,
+   "korean": "해머"
+  },
+  {
+   "key": "bfda2dd5a0a5",
+   "speaker_korean": null,
+   "korean": "봄"
+  },
+  {
+   "key": "1d35da4de87e",
+   "speaker_korean": null,
+   "korean": "축하합니다.\n맵 달성률이 100%가 되었습니다.\n멋진 아이템을 선물로 드립니다."
+  },
+  {
+   "key": "bbe36a9d6508",
+   "speaker_korean": null,
+   "korean": "리트라이"
+  },
+  {
+   "key": "b8eaf9755e86",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・이대로 계속한다."
+  },
+  {
+   "key": "2ac9615e4e4b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・이벤트 스킵."
+  },
+  {
+   "key": "2125dc9e0851",
+   "speaker_korean": null,
+   "korean": "⟦1⟧오리하르콘⟦2⟧ 획득."
+  },
+  {
+   "key": "a63e387912e0",
+   "speaker_korean": null,
+   "korean": "⟦1⟧배니시 봄⟦2⟧ 획득."
+  },
+  {
+   "key": "8a0b593bf2f0",
+   "speaker_korean": null,
+   "korean": "⟦1⟧배니시 해머⟦2⟧ 획득."
+  },
+  {
+   "key": "9e9328aacec2",
+   "speaker_korean": null,
+   "korean": "⟦1⟧묘익천사의 보주⟦2⟧ 획득."
+  },
+  {
+   "key": "bb28859d5396",
+   "speaker_korean": null,
+   "korean": "⟦1⟧배니시 링⟦2⟧ 획득."
+  },
+  {
+   "key": "725ed95448ba",
+   "speaker_korean": null,
+   "korean": "⟦1⟧아쿠아베리⟦2⟧ 획득."
+  },
+  {
+   "key": "6c86381bcfde",
+   "speaker_korean": null,
+   "korean": "⟦1⟧블랙베리⟦2⟧ 획득."
+  },
+  {
+   "key": "6925fdafb183",
+   "speaker_korean": null,
+   "korean": "⟦1⟧메데세트라의 휘석⟦2⟧ 획득."
+  },
+  {
+   "key": "fd85db8adb9b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧블루베리⟦2⟧ 획득."
+  },
+  {
+   "key": "ea13a90eecdd",
+   "speaker_korean": null,
+   "korean": "⟦1⟧인페리아 소드⟦2⟧ 획득."
+  },
+  {
+   "key": "a380049c7af8",
+   "speaker_korean": null,
+   "korean": "⟦1⟧완숙 베리⟦2⟧ 획득."
+  },
+  {
+   "key": "77561bbecd35",
+   "speaker_korean": null,
+   "korean": "⟦1⟧초숙성 베리⟦2⟧ 획득."
+  },
+  {
+   "key": "24915a3d874a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧조합 소재⟦2⟧ 획득."
+  },
+  {
+   "key": "d058360e8ff7",
+   "speaker_korean": null,
+   "korean": "⟦1⟧요리 소재⟦2⟧ 획득."
+  },
+  {
+   "key": "1a33c4650a76",
+   "speaker_korean": null,
+   "korean": "⟦1⟧못생긴 반지⟦2⟧ 획득."
+  },
+  {
+   "key": "7f8e184196e7",
+   "speaker_korean": null,
+   "korean": "⟦1⟧무거운 반지⟦2⟧ 획득."
+  },
+  {
+   "key": "1b4066690119",
+   "speaker_korean": null,
+   "korean": "⟦1⟧헐렁한 반지⟦2⟧ 획득."
+  },
+  {
+   "key": "f6d0e89a968c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧촌티 나는 피어스⟦2⟧ 획득."
+  },
+  {
+   "key": "d49a388456c6",
+   "speaker_korean": null,
+   "korean": "⟦1⟧굴욕의 피어스⟦2⟧ 획득."
+  },
+  {
+   "key": "0306a7651741",
+   "speaker_korean": null,
+   "korean": "⟦1⟧흐물흐물한 피어스⟦2⟧ 획득."
+  },
+  {
+   "key": "b850e15a1fa1",
+   "speaker_korean": null,
+   "korean": "⟦1⟧무거운 팔찌⟦2⟧ 획득."
+  },
+  {
+   "key": "f7f80c038051",
+   "speaker_korean": null,
+   "korean": "⟦1⟧엉터리 팔찌⟦2⟧ 획득."
+  },
+  {
+   "key": "50500e7ae2bb",
+   "speaker_korean": null,
+   "korean": "⟦1⟧웃기는 팔찌⟦2⟧ 획득."
+  },
+  {
+   "key": "f94add933ccf",
+   "speaker_korean": null,
+   "korean": "⟦1⟧부끄러운 귀걸이⟦2⟧ 획득."
+  },
+  {
+   "key": "2eda7231a85b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧싸구려 슬레이어⟦2⟧ 획득."
+  },
+  {
+   "key": "8ccfdd7f5fac",
+   "speaker_korean": null,
+   "korean": "⟦1⟧땅의 소요정⟦2⟧ 획득."
+  },
+  {
+   "key": "cd9fae2fc9f9",
+   "speaker_korean": null,
+   "korean": "⟦1⟧물의 소요정⟦2⟧ 획득."
+  },
+  {
+   "key": "ec7876310515",
+   "speaker_korean": null,
+   "korean": "⟦1⟧불의 소요정⟦2⟧ 획득."
+  },
+  {
+   "key": "103dfa262b09",
+   "speaker_korean": null,
+   "korean": "⟦1⟧바람의 소요정⟦2⟧ 획득."
+  },
+  {
+   "key": "af957a7c6316",
+   "speaker_korean": null,
+   "korean": "⟦1⟧별의 소요정⟦2⟧ 획득."
+  },
+  {
+   "key": "eeda78ff6fee",
+   "speaker_korean": null,
+   "korean": "⟦1⟧트라이 엠블럼⟦2⟧ 획득."
+  },
+  {
+   "key": "5b7da5b01e18",
+   "speaker_korean": null,
+   "korean": "⟦1⟧트라이 엠블럼⟦2⟧ 획득."
+  },
+  {
+   "key": "57d569718d12",
+   "speaker_korean": null,
+   "korean": "⟦1⟧바니 슈즈⟦2⟧ 획득."
+  },
+  {
+   "key": "c8d0da2632fe",
+   "speaker_korean": null,
+   "korean": "⟦1⟧합성 소재⟦2⟧ 획득."
+  },
+  {
+   "key": "8c8afd9760af",
+   "speaker_korean": null,
+   "korean": "⟦1⟧멍게⟦2⟧ 획득."
+  },
+  {
+   "key": "461eacb59a88",
+   "speaker_korean": null,
+   "korean": "⟦1⟧킹두리안⟦2⟧ 획득."
+  },
+  {
+   "key": "752e81ef6eb7",
+   "speaker_korean": null,
+   "korean": "⟦1⟧데몬즈 스톤⟦2⟧ 획득."
+  },
+  {
+   "key": "643e1dd9e8ff",
+   "speaker_korean": null,
+   "korean": "⟦1⟧릴리스의 권속⟦2⟧ 획득."
+  },
+  {
+   "key": "c07f1669eca0",
+   "speaker_korean": null,
+   "korean": "⟦1⟧바니의 부적⟦2⟧ 획득."
+  },
+  {
+   "key": "c7f781483a3d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧설계도⟦2⟧ 획득."
+  },
+  {
+   "key": "d467b8f89115",
+   "speaker_korean": null,
+   "korean": "⟦1⟧호신도〓용천〓⟦2⟧ 획득."
+  },
+  {
+   "key": "80cc6e067d5a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧아리그리프 왕의 편지⟦2⟧ 획득."
+  },
+  {
+   "key": "cd92671bd2ff",
+   "speaker_korean": null,
+   "korean": "⟦1⟧크림슨・헤이트⟦2⟧ 획득."
+  },
+  {
+   "key": "ee989d3a0edb",
+   "speaker_korean": null,
+   "korean": "⟦1⟧매지컬 베리⟦2⟧ 획득."
+  },
+  {
+   "key": "acc5d8c38c97",
+   "speaker_korean": null,
+   "korean": "⟦1⟧트레저 주얼⟦2⟧ 획득."
+  },
+  {
+   "key": "feca9b78199e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧단조 소재⟦2⟧ 획득."
+  },
+  {
+   "key": "a000a643dc55",
+   "speaker_korean": null,
+   "korean": "⟦1⟧셰이크⟦2⟧ 획득."
+  },
+  {
+   "key": "772846f26868",
+   "speaker_korean": null,
+   "korean": "⟦1⟧로세티 극단 공연 티켓⟦2⟧ 획득."
+  },
+  {
+   "key": "84e1d55287ff",
+   "speaker_korean": null,
+   "korean": "⟦1⟧이리스의 무녀화⟦2⟧ 획득."
+  },
+  {
+   "key": "4efbe8f537ad",
+   "speaker_korean": null,
+   "korean": "⟦1⟧텔레그래프⟦2⟧ 획득."
+  },
+  {
+   "key": "d6c687882f35",
+   "speaker_korean": null,
+   "korean": "⟦1⟧파라켈수스의 원탁⟦2⟧ 획득."
+  },
+  {
+   "key": "1ef0e450796c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧멀티 플라스크⟦2⟧ 획득."
+  },
+  {
+   "key": "cf7cc8e2ad5c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧인챈트 북(불・무효)⟦2⟧ 획득."
+  },
+  {
+   "key": "8185f69aba40",
+   "speaker_korean": null,
+   "korean": "⟦1⟧얼럿 주얼⟦2⟧ 획득."
+  },
+  {
+   "key": "4296693e0622",
+   "speaker_korean": null,
+   "korean": "⟦1⟧세이프티 주얼⟦2⟧ 획득."
+  },
+  {
+   "key": "5128a3fc11fe",
+   "speaker_korean": null,
+   "korean": "⟦1⟧듀얼 아머⟦2⟧ 획득."
+  },
+  {
+   "key": "c9b52c27d3fd",
+   "speaker_korean": null,
+   "korean": "⟦1⟧스파이크 슈즈⟦2⟧ 획득."
+  },
+  {
+   "key": "85bc3561390d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧룬 클로크⟦2⟧ 획득."
+  },
+  {
+   "key": "bde8b567f6ad",
+   "speaker_korean": null,
+   "korean": "⟦1⟧레이저 실드⟦2⟧ 획득."
+  },
+  {
+   "key": "64abe78570fa",
+   "speaker_korean": null,
+   "korean": "⟦1⟧레이저 프로텍터⟦2⟧ 획득."
+  },
+  {
+   "key": "f815a8c1b313",
+   "speaker_korean": null,
+   "korean": "⟦1⟧트래핑 카드 1⟦2⟧ 획득."
+  },
+  {
+   "key": "00c4d562530e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧트래핑 카드 EX1⟦2⟧ 획득."
+  },
+  {
+   "key": "5a1d61116dcc",
+   "speaker_korean": null,
+   "korean": "⟦1⟧선라이즈 사전⟦2⟧ 획득."
+  },
+  {
+   "key": "39ccf0a1592c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧카본 프로텍터⟦2⟧ 획득."
+  },
+  {
+   "key": "bf89729b7998",
+   "speaker_korean": null,
+   "korean": "⟦1⟧NC 프로그램 디스크⟦2⟧ 획득."
+  },
+  {
+   "key": "5b1d89ba7f60",
+   "speaker_korean": null,
+   "korean": "⟦1⟧마인드 세이프티⟦2⟧ 획득."
+  },
+  {
+   "key": "f5a87992c6bc",
+   "speaker_korean": null,
+   "korean": "⟦1⟧라이프 세이프티⟦2⟧ 획득."
+  },
+  {
+   "key": "36013fb4ecdb",
+   "speaker_korean": null,
+   "korean": "⟦1⟧레이저 웨폰⟦2⟧ 획득."
+  },
+  {
+   "key": "be326ef5a8b2",
+   "speaker_korean": null,
+   "korean": "⟦1⟧태고의 서적1⟦2⟧ 획득."
+  },
+  {
+   "key": "cfba11ac461d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧태고의 서적2⟦2⟧ 획득."
+  },
+  {
+   "key": "254ec9aaaa98",
+   "speaker_korean": null,
+   "korean": "⟦1⟧태고의 서적3⟦2⟧ 획득."
+  },
+  {
+   "key": "89d79ecae2e1",
+   "speaker_korean": null,
+   "korean": "⟦1⟧태고의 서적4⟦2⟧ 획득."
+  },
+  {
+   "key": "4f6127c290a8",
+   "speaker_korean": null,
+   "korean": "⟦1⟧태고의 서적5⟦2⟧ 획득."
+  },
+  {
+   "key": "ecb55fcbc817",
+   "speaker_korean": null,
+   "korean": "⟦1⟧태고의 서적6⟦2⟧ 획득."
+  },
+  {
+   "key": "9e1c95269982",
+   "speaker_korean": null,
+   "korean": "⟦1⟧태고의 서적7⟦2⟧ 획득."
+  },
+  {
+   "key": "c1432080514e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧기계 소재⟦2⟧ 획득."
+  },
+  {
+   "key": "461bd92f0c88",
+   "speaker_korean": null,
+   "korean": "⟦1⟧바니1/144⟦2⟧ 획득."
+  },
+  {
+   "key": "f29f288e2784",
+   "speaker_korean": null,
+   "korean": "⟦1⟧스틸 체인⟦2⟧ 획득."
+  },
+  {
+   "key": "53bda309fdac",
+   "speaker_korean": null,
+   "korean": "⟦1⟧천사의 흉상⟦2⟧ 획득."
+  },
+  {
+   "key": "bdf2c339d545",
+   "speaker_korean": null,
+   "korean": "⟦1⟧동광⟦2⟧ 획득."
+  },
+  {
+   "key": "fda34bbd3b5c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧집필 소재⟦2⟧ 획득."
+  },
+  {
+   "key": "b8c417fbb17d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧세공 소재⟦2⟧ 획득."
+  },
+  {
+   "key": "600a8e9919af",
+   "speaker_korean": null,
+   "korean": "⟦1⟧바니1/60⟦2⟧ 획득."
+  },
+  {
+   "key": "2299204488cc",
+   "speaker_korean": null,
+   "korean": "⟦1⟧프레시 세이지⟦2⟧ 획득."
+  },
+  {
+   "key": "b7fbeb270916",
+   "speaker_korean": null,
+   "korean": "⟦1⟧트래핑 카드 EX16⟦2⟧ 획득."
+  },
+  {
+   "key": "5e871d2b6683",
+   "speaker_korean": null,
+   "korean": "⟦1⟧오르골 부품⟦2⟧ 획득."
+  },
+  {
+   "key": "a02fbf0a5db4",
+   "speaker_korean": null,
+   "korean": "⟦1⟧연금 소재⟦2⟧ 획득."
+  },
+  {
+   "key": "93d4754205ff",
+   "speaker_korean": null,
+   "korean": "⟦1⟧얼럿 오브⟦2⟧ 획득."
+  },
+  {
+   "key": "eaa62a9a1dfb",
+   "speaker_korean": null,
+   "korean": "⟦1⟧한정 돌핀⟦2⟧ 획득."
+  },
+  {
+   "key": "e812b9fdaff3",
+   "speaker_korean": null,
+   "korean": "⟦1⟧금 조각상⟦2⟧ 획득."
+  }
+ ]
+}

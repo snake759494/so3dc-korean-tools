@@ -1,0 +1,330 @@
+{
+ "batch_id": "batch_0190",
+ "translations": [
+  {
+   "key": "3f9b468f25b4",
+   "speaker_korean": "페이트",
+   "korean": "(아직 ⟦1⟧오르골⟦2⟧ 부품을 손에 넣지 못했어.\n이 안 어딘가에 있을 거야."
+  },
+  {
+   "key": "0d03107323f2",
+   "speaker_korean": "페이트",
+   "korean": "「이건…\n비밀번호 입력 화면이구나.\n⟦P⟧세 자리 숫자를\n입력하면 되는 건가."
+  },
+  {
+   "key": "6cec8f5bdf73",
+   "speaker_korean": null,
+   "korean": "비밀번호 입력 화면에 잘 왔다!\n이 ⟦1⟧노턴 님⟦2⟧이 안내해 줄 테니\n고맙게 생각해줘! 아니, 생각해!\n⟦P⟧여기서 비밀번호를 입력하는 거다만,\n입력 실수는 3번까지다!\n3번 틀리면, 그땐 Get out of here!\n강제 배제형이다! 각오하고 덤벼라!\n⟦P⟧하지만 지금 이 몸의 따뜻한 부정이 폭발!\n힌트를 주지!\n⟦P⟧이 유적 어딘가에 비밀의 숫자가 있다!\n그걸 입력하기만 하면 된다!\n바보라도 알 거라고.\n⟦P⟧자, 비밀번호를 입력해라!"
+  },
+  {
+   "key": "010e5e546848",
+   "speaker_korean": null,
+   "korean": "첫 번째 숫자를\n입력해 주세요."
+  },
+  {
+   "key": "af92913e1224",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・0"
+  },
+  {
+   "key": "8502a8447e17",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・1"
+  },
+  {
+   "key": "b0757937e4c3",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・2"
+  },
+  {
+   "key": "10aa21d2f73d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・3"
+  },
+  {
+   "key": "320c22ca1e13",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・4"
+  },
+  {
+   "key": "cf29382c4928",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・5"
+  },
+  {
+   "key": "d525db7cfbf9",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・6"
+  },
+  {
+   "key": "2a59b65d46b3",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・7"
+  },
+  {
+   "key": "7d17d7254e46",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・8"
+  },
+  {
+   "key": "40f719b2bf98",
+   "speaker_korean": null,
+   "korean": "두 번째 숫자를\n입력해 주세요."
+  },
+  {
+   "key": "3f63a3ee93bc",
+   "speaker_korean": null,
+   "korean": "세 번째 숫자를\n입력해 주세요."
+  },
+  {
+   "key": "05aab0eec636",
+   "speaker_korean": null,
+   "korean": "⟦1⟧입력한 비밀번호⟦2⟧ ⟦3⟧ ⟦4⟧ ⟦5⟧"
+  },
+  {
+   "key": "777183b16871",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・OK"
+  },
+  {
+   "key": "15a85298be9b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・캔슬"
+  },
+  {
+   "key": "e5b1e39a4429",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・계속하기"
+  },
+  {
+   "key": "4e12a8657876",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・그만두기"
+  },
+  {
+   "key": "ff1ee6d5e8f2",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・9"
+  },
+  {
+   "key": "b5b601f38cc5",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・설명 보기"
+  },
+  {
+   "key": "b5c596d26645",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・설명 안 보기"
+  },
+  {
+   "key": "11ab455e3263",
+   "speaker_korean": "페이트",
+   "korean": "「이제 비밀번호를 입력할\n필요는 없을 것 같아."
+  },
+  {
+   "key": "93bd7802f799",
+   "speaker_korean": "페이트",
+   "korean": "「어딘가에서 문이 열리는\n소리가 난 것 같아."
+  },
+  {
+   "key": "2385802575b7",
+   "speaker_korean": null,
+   "korean": "안 됐군.\n네놈은 그냥 강제 배제다!"
+  },
+  {
+   "key": "ffdef4eb1cb6",
+   "speaker_korean": "페이트",
+   "korean": "(이건…\n역시 ⟦1⟧노턴⟦2⟧이라는 남자는 나와 같은\n선진 행성 사람이었나.\n⟦P⟧그런데, 왜 이런 별에 있는 거지?"
+  },
+  {
+   "key": "57c048484b8e",
+   "speaker_korean": "페이트",
+   "korean": "「약속이니까.\n⟦1⟧노키아⟦2⟧가 애쓴 걸\n헛되게 하지 않을게."
+  },
+  {
+   "key": "6776dcbce009",
+   "speaker_korean": "클리프",
+   "korean": "「이제 됐냐?\n그럼 여긴 박살 내주마."
+  },
+  {
+   "key": "ed8ac4b1ebd8",
+   "speaker_korean": null,
+   "korean": "⟦1⟧오르골 부품⟦2⟧을 손에 넣었다."
+  },
+  {
+   "key": "479e7cf75d83",
+   "speaker_korean": "페이트",
+   "korean": "「…안 되겠어.\n잠겨 있어.\n⟦P⟧문이 튼튼하게 만들어져서\n부술 수 있을 것 같지 않아."
+  },
+  {
+   "key": "32fee40927ef",
+   "speaker_korean": "클리프",
+   "korean": "「참 나… 모처럼 충고해\n줬더니만…\n이건 몰수다."
+  },
+  {
+   "key": "99d2d357726d",
+   "speaker_korean": "페이트",
+   "korean": "(⟦1⟧클라우스트로인⟦2⟧… ⟦3⟧지구인⟦4⟧을 훨씬 뛰어넘는\n신체 능력을 가졌다는 얘기였는데,\n정말이었구나….\n그리고, ⟦5⟧쿼크⟦6⟧라니…\n그 반연방 입장을 취하는 조직의?"
+  },
+  {
+   "key": "e28bb0e78550",
+   "speaker_korean": "클리프",
+   "korean": "「좀 심하게 해버린 것 같군.\n조금 더 살살 해줬어야 했는데 말이야.\n쓸 만한 건 이놈 정도고,\n나머지는 죄다 못 쓰게 됐구먼.\n…자, 받아라."
+  },
+  {
+   "key": "128e363f6dae",
+   "speaker_korean": "페이트",
+   "korean": "「이건… ⟦1⟧통신기⟦2⟧?"
+  },
+  {
+   "key": "a8fa2c7c8076",
+   "speaker_korean": "클리프",
+   "korean": "「없으면 곤란하잖냐?\n뭔지는 모르겠다만,\n안 가지고 있는 것 같아서 말이지."
+  },
+  {
+   "key": "4b1310ad3a70",
+   "speaker_korean": "페이트",
+   "korean": "「어, 아….\n맞다, 위험한 순간에 정말 고마웠어.\n덕분에 살았어."
+  },
+  {
+   "key": "afbb44706d1b",
+   "speaker_korean": "클리프",
+   "korean": "「어이쿠, 고맙다는 말은 아직 일러.\n뭐니 뭐니 해도 난 널 채가려고\n온 거니까 말이야."
+  },
+  {
+   "key": "cd3da8a5e8b4",
+   "speaker_korean": "페이트",
+   "korean": "「엣!?"
+  },
+  {
+   "key": "9ccba515236a",
+   "speaker_korean": "클리프",
+   "korean": "「그렇게 경계하지 말라니까….\n딱히 잡아먹으려는\n것도 아니고 말이야.\n실은 말이지, 내 두목이\n널 만나고 싶어 하거든.\n그래서 내가 일부러\n널 찾으러 온 거야."
+  },
+  {
+   "key": "f1d8a427551a",
+   "speaker_korean": "페이트",
+   "korean": "「두목이라니 ⟦1⟧쿼크⟦2⟧의?"
+  },
+  {
+   "key": "cc2764489be6",
+   "speaker_korean": "클리프",
+   "korean": "「아,\n⟦1⟧쿼크⟦2⟧의 리더다."
+  },
+  {
+   "key": "2abb144d83e1",
+   "speaker_korean": "클리프",
+   "korean": "「참 나, 고생했다.\n⟦1⟧하이다⟦2⟧에 있다길래 마중 나갔더니\n그 지경이 돼 있질 않나.\n여기서도 얌전히 있으면\n될 걸, 스스로 귀찮은 일에\n끼어들고 있으니 말이야."
+  },
+  {
+   "key": "ea354e664d23",
+   "speaker_korean": "페이트",
+   "korean": "「그런 거 내가 알 바 아니잖아.\n⟦1⟧하이다⟦2⟧가 그렇게 된 것도\n내 탓이 아니고…."
+  },
+  {
+   "key": "ae9030363f7b",
+   "speaker_korean": "클리프",
+   "korean": "「농담이다, 신경 쓰지 마라.\n아무튼 이 몸을 따라와 줘야겠다.\n미안하지만 불평은 안 받아준다."
+  },
+  {
+   "key": "cba0f92ea613",
+   "speaker_korean": "클리프",
+   "korean": "「아버지 만나고 싶지 않냐?\n지금 아버지는 ⟦1⟧반데인⟦2⟧에게\n붙잡혀 있다고."
+  },
+  {
+   "key": "fc17879aa46b",
+   "speaker_korean": "페이트",
+   "korean": "「아버지가!?\n왜 그런 거야!"
+  },
+  {
+   "key": "5c0eeb6280fa",
+   "speaker_korean": "클리프",
+   "korean": "「그런 걸 내가 어찌 아냐. 내가 아는 건\n네 아버지가 ⟦1⟧하이다⟦2⟧의 ⟦3⟧피난 시설⟦4⟧에서\n납치됐다는 것뿐이다."
+  },
+  {
+   "key": "535278423356",
+   "speaker_korean": "클리프",
+   "korean": "「어머니의 무사함은 확인됐다.\n무사히 ⟦1⟧제6 심우주 기지⟦2⟧에\n도착했을 거다."
+  },
+  {
+   "key": "342210a49e35",
+   "speaker_korean": "페이트",
+   "korean": "「…어떻게 네가\n그런 걸 알고 있는 거지?\n넌 대체 뭘 알고 있는 거야?"
+  },
+  {
+   "key": "1e5302acd0ff",
+   "speaker_korean": "클리프",
+   "korean": "「대단한 건 몰라… 글쎄,\n굳이 말하자면 네 아버지인\n⟦1⟧록시 박사⟦2⟧가 무슨 연구를 했는지\n정도는 알고 있다."
+  },
+  {
+   "key": "19c5a2f0f675",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧문장유전자학⟦2⟧이겠지.\n아버지는 ⟦3⟧문장유전자학⟦4⟧의 권위자니까\n네가 알고 있어도 이상하지 않아."
+  },
+  {
+   "key": "8267c193b536",
+   "speaker_korean": "클리프",
+   "korean": "「그래, ⟦1⟧문장유전자학⟦2⟧이다.\n그래서 19년 전에――――이런,\n그런 건 지금 아무래도 좋다."
+  },
+  {
+   "key": "14129b47d808",
+   "speaker_korean": "클리프",
+   "korean": "「됐잖냐.\n어차피 이 별에서 나갈\n방법도 없잖아?\n날 따라오면 아마\n전부 알게 될 거다.\n게다가 아버지를 만날\n수도 있을 거고."
+  },
+  {
+   "key": "8af9cc78a13e",
+   "speaker_korean": "페이트",
+   "korean": "「네 말을 믿는다면,\n아버지는 ⟦1⟧반데인⟦2⟧에게 붙잡혀 있잖아.\n어떻게 만날 수 있다는 거야?"
+  },
+  {
+   "key": "1cfa89849277",
+   "speaker_korean": "클리프",
+   "korean": "「뻔하잖냐.\n우리 ⟦1⟧쿼크⟦2⟧가 아버지를\n구해낼 거니까."
+  },
+  {
+   "key": "a57f9042f002",
+   "speaker_korean": "페이트",
+   "korean": "「왜 반은하연방 조직이\n아버지를 도와줘야 하는데?"
+  },
+  {
+   "key": "12342ca9f9b2",
+   "speaker_korean": "클리프",
+   "korean": "「뭐…그것도 여러 사정이 있어서 말이지…\n됐잖냐, 자세한 얘기는."
+  },
+  {
+   "key": "ae77278b6b7d",
+   "speaker_korean": "클리프",
+   "korean": "「어떻게 할 거냐?\n올 거냐, 안 올 거냐…어느 쪽이냐?"
+  },
+  {
+   "key": "064dd4211385",
+   "speaker_korean": "페이트",
+   "korean": "「알았어…같이 가자."
+  },
+  {
+   "key": "3d858b6dd444",
+   "speaker_korean": "페이트",
+   "korean": "「다만, 그 전에 잠깐 ⟦1⟧위플 마을⟦2⟧에\n들러 줄 수 없을까?\n이 아이를 데려다줘야 해서."
+  },
+  {
+   "key": "43464915f58c",
+   "speaker_korean": "클리프",
+   "korean": "「뭐, 좋다.\n개인적으론 너무 얽히는 것도\n어떨까 싶다만."
+  },
+  {
+   "key": "4210591a39d5",
+   "speaker_korean": "페이트",
+   "korean": "「이런 때 무슨\n생각을 하는 거야, 나는!\n기다려, ⟦1⟧노키아⟦2⟧.\n지금 꺼내 줄 테니까!"
+  },
+  {
+   "key": "d85f7ab4d07f",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧노키아⟦2⟧, 정신 차려!"
+  },
+  {
+   "key": "b451f44857d8",
+   "speaker_korean": "노키아",
+   "korean": "×U%…\n&%조G…&…"
+  }
+ ]
+}

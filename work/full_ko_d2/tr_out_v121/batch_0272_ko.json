@@ -1,0 +1,645 @@
+{
+ "batch_id": "batch_0272",
+ "translations": [
+  {
+   "key": "9fa8fde2a38d",
+   "speaker_korean": null,
+   "korean": "밴시 케이프"
+  },
+  {
+   "key": "91ea36df878c",
+   "speaker_korean": null,
+   "korean": "크라켄 케이프"
+  },
+  {
+   "key": "2f20797cc3d4",
+   "speaker_korean": null,
+   "korean": "못생긴 반지"
+  },
+  {
+   "key": "87c0b198d539",
+   "speaker_korean": null,
+   "korean": "무거운 반지"
+  },
+  {
+   "key": "d94ba0495f87",
+   "speaker_korean": null,
+   "korean": "헐렁한 반지"
+  },
+  {
+   "key": "78a678bd0707",
+   "speaker_korean": null,
+   "korean": "촌티 나는 피어스"
+  },
+  {
+   "key": "24e8b2bf4fff",
+   "speaker_korean": null,
+   "korean": "굴욕의 피어스"
+  },
+  {
+   "key": "e586a4225e58",
+   "speaker_korean": null,
+   "korean": "흐물흐물한 피어스"
+  },
+  {
+   "key": "af04132b7dea",
+   "speaker_korean": null,
+   "korean": "무거운 팔찌"
+  },
+  {
+   "key": "87a834366c46",
+   "speaker_korean": null,
+   "korean": "엉터리 팔찌"
+  },
+  {
+   "key": "1f0d212f02bc",
+   "speaker_korean": null,
+   "korean": "웃기는 팔찌"
+  },
+  {
+   "key": "a9602f9fc02f",
+   "speaker_korean": null,
+   "korean": "부끄러운 귀걸이"
+  },
+  {
+   "key": "86a076c78bff",
+   "speaker_korean": null,
+   "korean": "황당한 머리장식"
+  },
+  {
+   "key": "33dc9fc809a4",
+   "speaker_korean": null,
+   "korean": "굴욕의 머리장식"
+  },
+  {
+   "key": "5d6d59819e27",
+   "speaker_korean": null,
+   "korean": "부끄러운 인형"
+  },
+  {
+   "key": "38e755527062",
+   "speaker_korean": null,
+   "korean": "너무 깎은 피규어"
+  },
+  {
+   "key": "5900464b9647",
+   "speaker_korean": null,
+   "korean": "이형의 피규어"
+  },
+  {
+   "key": "773fc5f217f6",
+   "speaker_korean": null,
+   "korean": "이상한 덩어리"
+  },
+  {
+   "key": "a1c0220b6aab",
+   "speaker_korean": null,
+   "korean": "굴욕의 덩어리"
+  },
+  {
+   "key": "27f18faf40eb",
+   "speaker_korean": null,
+   "korean": "지나친 물건"
+  },
+  {
+   "key": "a2eead528d4a",
+   "speaker_korean": null,
+   "korean": "착각의 산물"
+  },
+  {
+   "key": "2506a6135c61",
+   "speaker_korean": null,
+   "korean": "휘어진 머리장식"
+  },
+  {
+   "key": "a77b4665b42e",
+   "speaker_korean": null,
+   "korean": "부러진 머리장식"
+  },
+  {
+   "key": "8a427b8b97e8",
+   "speaker_korean": null,
+   "korean": "움찔하는 십자가"
+  },
+  {
+   "key": "bd14ee3fd4db",
+   "speaker_korean": null,
+   "korean": "끊어진 목걸이"
+  },
+  {
+   "key": "3e7be5c608ee",
+   "speaker_korean": null,
+   "korean": "이상한 목걸이"
+  },
+  {
+   "key": "de90659e97ee",
+   "speaker_korean": null,
+   "korean": "웃기는 목걸이"
+  },
+  {
+   "key": "f172b5e5cca2",
+   "speaker_korean": null,
+   "korean": "구멍난 부츠"
+  },
+  {
+   "key": "fb18ab183309",
+   "speaker_korean": null,
+   "korean": "무거운 신발"
+  },
+  {
+   "key": "f928537c80d0",
+   "speaker_korean": null,
+   "korean": "미끈미끈한 부츠"
+  },
+  {
+   "key": "216f59c3b665",
+   "speaker_korean": null,
+   "korean": "착각의 부적"
+  },
+  {
+   "key": "ecf4a98096b1",
+   "speaker_korean": null,
+   "korean": "위험한 부적"
+  },
+  {
+   "key": "a6773ef52e03",
+   "speaker_korean": null,
+   "korean": "부끄러운 부적"
+  },
+  {
+   "key": "b906b68c5c06",
+   "speaker_korean": null,
+   "korean": "부서진 문장"
+  },
+  {
+   "key": "f1e76d842aeb",
+   "speaker_korean": null,
+   "korean": "휘어진 문장"
+  },
+  {
+   "key": "058249a2528f",
+   "speaker_korean": null,
+   "korean": "위조 문장"
+  },
+  {
+   "key": "678c2e816971",
+   "speaker_korean": null,
+   "korean": "깨진 수정구"
+  },
+  {
+   "key": "015d685d9bab",
+   "speaker_korean": null,
+   "korean": "꿈틀대는 수정구"
+  },
+  {
+   "key": "c9e2ac0b74ff",
+   "speaker_korean": null,
+   "korean": "흐린 글라스 아이"
+  },
+  {
+   "key": "788d594a9f79",
+   "speaker_korean": null,
+   "korean": "해피 포션"
+  },
+  {
+   "key": "60f29465ec2d",
+   "speaker_korean": null,
+   "korean": "슈퍼 보틀"
+  },
+  {
+   "key": "e0b8353c1a2f",
+   "speaker_korean": null,
+   "korean": "버블리 포션"
+  },
+  {
+   "key": "0976bdd57e02",
+   "speaker_korean": null,
+   "korean": "미라클 파워"
+  },
+  {
+   "key": "e735cb187e74",
+   "speaker_korean": null,
+   "korean": "화장지"
+  },
+  {
+   "key": "eba77b362c25",
+   "speaker_korean": null,
+   "korean": "쭈글쭈글한 두루마리"
+  },
+  {
+   "key": "322e9bb3ea02",
+   "speaker_korean": null,
+   "korean": "비전서"
+  },
+  {
+   "key": "baad54a1a3ab",
+   "speaker_korean": null,
+   "korean": "오의서"
+  },
+  {
+   "key": "77197d2570a8",
+   "speaker_korean": null,
+   "korean": "삼증주"
+  },
+  {
+   "key": "e578ba83304a",
+   "speaker_korean": null,
+   "korean": "숙취 100%"
+  },
+  {
+   "key": "6c6a2f5c70a7",
+   "speaker_korean": null,
+   "korean": "시큼한 와인"
+  },
+  {
+   "key": "0f6902b69bb7",
+   "speaker_korean": null,
+   "korean": "짭짤한 와인"
+  },
+  {
+   "key": "68789fb3c77e",
+   "speaker_korean": null,
+   "korean": "들러붙은 책"
+  },
+  {
+   "key": "c91ccb4dabe6",
+   "speaker_korean": null,
+   "korean": "너덜너덜한 책"
+  },
+  {
+   "key": "77e8bc8f339a",
+   "speaker_korean": null,
+   "korean": "판독불명"
+  },
+  {
+   "key": "d0b4e66c31b1",
+   "speaker_korean": null,
+   "korean": "구멍난 갑옷"
+  },
+  {
+   "key": "31368ff8874d",
+   "speaker_korean": null,
+   "korean": "얄팍한 갑옷"
+  },
+  {
+   "key": "5d9917a3cf44",
+   "speaker_korean": null,
+   "korean": "조악한 갑옷"
+  },
+  {
+   "key": "c753241ce7c4",
+   "speaker_korean": null,
+   "korean": "오른쪽으로 굽은 검"
+  },
+  {
+   "key": "45d79b5c24d1",
+   "speaker_korean": null,
+   "korean": "녹슨 도끼"
+  },
+  {
+   "key": "d07c9cdf47e0",
+   "speaker_korean": null,
+   "korean": "이 빠진 칼날"
+  },
+  {
+   "key": "9adf5af227b0",
+   "speaker_korean": null,
+   "korean": "허름한 지팡이"
+  },
+  {
+   "key": "fcf6cd5fb540",
+   "speaker_korean": null,
+   "korean": "삐걱대는 너클"
+  },
+  {
+   "key": "803567497f78",
+   "speaker_korean": null,
+   "korean": "무가동 총"
+  },
+  {
+   "key": "05a9e66fec6d",
+   "speaker_korean": null,
+   "korean": "싸구려 회"
+  },
+  {
+   "key": "095e0ec00508",
+   "speaker_korean": null,
+   "korean": "덜 단 카레"
+  },
+  {
+   "key": "9755e11ebb69",
+   "speaker_korean": null,
+   "korean": "맛없는 스튜"
+  },
+  {
+   "key": "ad5617f5618a",
+   "speaker_korean": null,
+   "korean": "질긴 스테이크"
+  },
+  {
+   "key": "ba73a91677d3",
+   "speaker_korean": null,
+   "korean": "맛없는 디저트"
+  },
+  {
+   "key": "073a26541733",
+   "speaker_korean": null,
+   "korean": "매운 케이크"
+  },
+  {
+   "key": "7cace9279727",
+   "speaker_korean": null,
+   "korean": "콘 시드"
+  },
+  {
+   "key": "09faa2448620",
+   "speaker_korean": null,
+   "korean": "마기 시드"
+  },
+  {
+   "key": "e3625ad560c7",
+   "speaker_korean": null,
+   "korean": "스트레 시드"
+  },
+  {
+   "key": "86fb9b5435c8",
+   "speaker_korean": null,
+   "korean": "인트 시드"
+  },
+  {
+   "key": "5c994a9b44f0",
+   "speaker_korean": null,
+   "korean": "데프 시드"
+  },
+  {
+   "key": "a7f4e92978df",
+   "speaker_korean": null,
+   "korean": "덱스 시드"
+  },
+  {
+   "key": "7cb3c4069fb3",
+   "speaker_korean": null,
+   "korean": "아길리 시드"
+  },
+  {
+   "key": "76f057397939",
+   "speaker_korean": null,
+   "korean": "콘 시드+"
+  },
+  {
+   "key": "7d925b32c8c0",
+   "speaker_korean": null,
+   "korean": "마기 시드+"
+  },
+  {
+   "key": "6e4042470435",
+   "speaker_korean": null,
+   "korean": "스트레 시드+"
+  },
+  {
+   "key": "3332beb37a28",
+   "speaker_korean": null,
+   "korean": "인트 시드+"
+  },
+  {
+   "key": "754819b622a3",
+   "speaker_korean": null,
+   "korean": "데프 시드+"
+  },
+  {
+   "key": "c91d7eddd3a3",
+   "speaker_korean": null,
+   "korean": "덱스 시드+"
+  },
+  {
+   "key": "322db5f0b4e3",
+   "speaker_korean": null,
+   "korean": "아길리 시드+"
+  },
+  {
+   "key": "089969954884",
+   "speaker_korean": null,
+   "korean": "메데세트라의 휘석"
+  },
+  {
+   "key": "317722767b38",
+   "speaker_korean": null,
+   "korean": "릴리스의 권속"
+  },
+  {
+   "key": "d0bdb05c9253",
+   "speaker_korean": null,
+   "korean": "불의 보주"
+  },
+  {
+   "key": "601170feed6d",
+   "speaker_korean": null,
+   "korean": "물의 보주"
+  },
+  {
+   "key": "20feda6150a4",
+   "speaker_korean": null,
+   "korean": "바람 보주"
+  },
+  {
+   "key": "65ed07f04aff",
+   "speaker_korean": null,
+   "korean": "땅의 보주"
+  },
+  {
+   "key": "ee45356aeadd",
+   "speaker_korean": null,
+   "korean": "데몬즈 스톤"
+  },
+  {
+   "key": "6e4ebcddfaa0",
+   "speaker_korean": null,
+   "korean": "인세인 링"
+  },
+  {
+   "key": "044e4a4812c0",
+   "speaker_korean": null,
+   "korean": "소 피어스"
+  },
+  {
+   "key": "bc2e47cc079c",
+   "speaker_korean": null,
+   "korean": "데들리 뱅글"
+  },
+  {
+   "key": "92b48351a496",
+   "speaker_korean": null,
+   "korean": "플러터 티아라"
+  },
+  {
+   "key": "0809dbf4a96c",
+   "speaker_korean": null,
+   "korean": "리버스 스태추"
+  },
+  {
+   "key": "340b4405db18",
+   "speaker_korean": null,
+   "korean": "위험한 머리장식"
+  },
+  {
+   "key": "fd2dc6bfa750",
+   "speaker_korean": null,
+   "korean": "치킨 네커"
+  },
+  {
+   "key": "b6f4f16b25de",
+   "speaker_korean": null,
+   "korean": "밀키 부츠"
+  },
+  {
+   "key": "d6c52305df19",
+   "speaker_korean": null,
+   "korean": "사심의 부적"
+  },
+  {
+   "key": "62d978d0e7b2",
+   "speaker_korean": null,
+   "korean": "스킬라의 문장"
+  },
+  {
+   "key": "f3b95598363a",
+   "speaker_korean": null,
+   "korean": "빈곤신의 수정구"
+  },
+  {
+   "key": "e61a6d84410b",
+   "speaker_korean": null,
+   "korean": "광기의 서"
+  },
+  {
+   "key": "54a71fea02ef",
+   "speaker_korean": null,
+   "korean": "재앙신의 성배"
+  },
+  {
+   "key": "7376f03ead5b",
+   "speaker_korean": null,
+   "korean": "사자의 서"
+  },
+  {
+   "key": "93b39a3d12f0",
+   "speaker_korean": null,
+   "korean": "페텐봄"
+  },
+  {
+   "key": "49c8b4280ddf",
+   "speaker_korean": null,
+   "korean": "페테피요봄"
+  },
+  {
+   "key": "22228ba14afc",
+   "speaker_korean": null,
+   "korean": "배니시 봄"
+  },
+  {
+   "key": "0607291717af",
+   "speaker_korean": null,
+   "korean": "배니시 해머"
+  },
+  {
+   "key": "c0e38cba3793",
+   "speaker_korean": null,
+   "korean": "마광석"
+  },
+  {
+   "key": "249fdee81820",
+   "speaker_korean": null,
+   "korean": "연약한 쇠파이프"
+  },
+  {
+   "key": "14c3b475ee38",
+   "speaker_korean": null,
+   "korean": "라이트 스톤"
+  },
+  {
+   "key": "f766d1d10741",
+   "speaker_korean": null,
+   "korean": "근성 바니"
+  },
+  {
+   "key": "da45e8d959d6",
+   "speaker_korean": null,
+   "korean": "만능 해독제 시제품"
+  },
+  {
+   "key": "2361c113a1b3",
+   "speaker_korean": null,
+   "korean": "미사용508"
+  },
+  {
+   "key": "34b6655f178f",
+   "speaker_korean": null,
+   "korean": "미사용509"
+  },
+  {
+   "key": "78b9d4f80d3d",
+   "speaker_korean": null,
+   "korean": "스타 가드"
+  },
+  {
+   "key": "955807b84842",
+   "speaker_korean": null,
+   "korean": "스플래시 스타"
+  },
+  {
+   "key": "dfc86f163b38",
+   "speaker_korean": null,
+   "korean": "투기 비전서"
+  },
+  {
+   "key": "0ff85b4696d2",
+   "speaker_korean": null,
+   "korean": "참획자의 반지"
+  },
+  {
+   "key": "7fcf529f86f6",
+   "speaker_korean": null,
+   "korean": "축하 우승 트로피"
+  },
+  {
+   "key": "424f0ea24191",
+   "speaker_korean": null,
+   "korean": "힐 유닛"
+  },
+  {
+   "key": "c255b95fb8ae",
+   "speaker_korean": null,
+   "korean": "슈퍼 힐 유닛"
+  },
+  {
+   "key": "88b6edee2fe7",
+   "speaker_korean": null,
+   "korean": "미라클 힐 유닛"
+  },
+  {
+   "key": "e65bbfab901a",
+   "speaker_korean": null,
+   "korean": "첫 포인트 획득 기념품"
+  },
+  {
+   "key": "ddb683970d02",
+   "speaker_korean": null,
+   "korean": "이프리트의 결정체"
+  },
+  {
+   "key": "2e5230a3012f",
+   "speaker_korean": null,
+   "korean": "펜리르의 결정체"
+  },
+  {
+   "key": "a1080766713a",
+   "speaker_korean": null,
+   "korean": "미사용521"
+  },
+  {
+   "key": "f62436dd4ba7",
+   "speaker_korean": null,
+   "korean": "이모션・토렌트"
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "batch_id": "batch_0204",
+ "translations": [
+  {
+   "key": "9d665ee9ee86",
+   "speaker_korean": "페이트",
+   "korean": "「아무래도 저기가\n⟦1⟧성전 카난⟦2⟧의 입구인 것 같다"
+  },
+  {
+   "key": "37f66d6445a8",
+   "speaker_korean": "페이트",
+   "korean": "「으악!!\n그럴 리가…!\n분명 쓰러뜨렸는데…!!"
+  },
+  {
+   "key": "189ac0d77aa7",
+   "speaker_korean": "넬",
+   "korean": "「왜 그래?\n빨리 ⟦1⟧구리⟦2⟧를 실어"
+  },
+  {
+   "key": "6e8344990ec4",
+   "speaker_korean": "기술자",
+   "korean": "「⟦1⟧넬 님⟦2⟧,\n그게…"
+  },
+  {
+   "key": "c9a8a552fb32",
+   "speaker_korean": "기술자",
+   "korean": "「밖을…"
+  },
+  {
+   "key": "605676106f69",
+   "speaker_korean": "넬",
+   "korean": "「뭐가 있다는 거야?"
+  },
+  {
+   "key": "108809549f53",
+   "speaker_korean": "기술자",
+   "korean": "「여기서 광차를 타면\n정련소로 갈 수 있습니다\n정련소로 가시겠습니까?"
+  },
+  {
+   "key": "4ff49132e24d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・정련소 간다"
+  },
+  {
+   "key": "461c5a9cef4d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・안 간다"
+  },
+  {
+   "key": "930ae0c516e4",
+   "speaker_korean": "페이트",
+   "korean": "「어둡네…"
+  },
+  {
+   "key": "fc685e119c1a",
+   "speaker_korean": "클리프",
+   "korean": "「저기 꺼진 횃불,\n아직 붙는 거냐?"
+  },
+  {
+   "key": "8a9dc9e15e89",
+   "speaker_korean": "클리프",
+   "korean": "「오, 다 왔다고"
+  },
+  {
+   "key": "aaf2312bb759",
+   "speaker_korean": "클리프",
+   "korean": "「횃불을 붙이면서\n갈 수밖에 없겠군, 이거야"
+  },
+  {
+   "key": "d78ae27bddd6",
+   "speaker_korean": "페이트",
+   "korean": "(이쪽에서는\n열리지 않는 것 같다"
+  },
+  {
+   "key": "aa9f6ac1d43b",
+   "speaker_korean": "페이트",
+   "korean": "「어두워서 잘 안 보이지만,\n저쪽에 뭔가 있는 것 같다…"
+  },
+  {
+   "key": "54c4f88e70ed",
+   "speaker_korean": "페이트",
+   "korean": "「낙반이 심하다\n여긴 지나갈 수 없겠다"
+  },
+  {
+   "key": "1d1e0773ed17",
+   "speaker_korean": null,
+   "korean": "⟦1⟧라이트 스톤⟦2⟧을 손에 넣었다"
+  },
+  {
+   "key": "554ab8ed44ab",
+   "speaker_korean": "페이트",
+   "korean": "「이걸 장비하면 라이트처럼\n주변을 밝힐 수 있을 것 같다\n⟦P⟧이러면 탐색이 편해지겠군"
+  },
+  {
+   "key": "6349c7882979",
+   "speaker_korean": "페이트",
+   "korean": "「철창이다\n도저히 부술 수 없을 것 같다"
+  },
+  {
+   "key": "0e9b401a90b9",
+   "speaker_korean": "페이트",
+   "korean": "「어둠 속에서 습격당하면 불리하다\n라이트로 적을 확인하자!"
+  },
+  {
+   "key": "ddedbceab2f9",
+   "speaker_korean": "페이트",
+   "korean": "「…어두워서 읽을 수 없군"
+  },
+  {
+   "key": "ca34910e2ee1",
+   "speaker_korean": "페이트",
+   "korean": "「음,\n『두 개의 분신이여, 한 줄기 어둠을 자아내라』\n그랬던가"
+  },
+  {
+   "key": "28b2e5040cad",
+   "speaker_korean": "페이트",
+   "korean": "「이건, 문자인가?\n무슨 언어일까?"
+  },
+  {
+   "key": "0e8323ed51ae",
+   "speaker_korean": "넬",
+   "korean": "「이건 ⟦1⟧드래곤 로어⟦2⟧야\n용족에게 전해지는 고대 문자야"
+  },
+  {
+   "key": "f8d73b225fb2",
+   "speaker_korean": "넬",
+   "korean": "「음…,\n『두 개의 분신이여, 한 줄기 어둠을 자아내라』\n라고 적혀 있는 것 같아"
+  },
+  {
+   "key": "13b7009f33d1",
+   "speaker_korean": "클리프",
+   "korean": "「뭔가\n수수께끼 같은 말이군"
+  },
+  {
+   "key": "229b7e464616",
+   "speaker_korean": "페이트",
+   "korean": "「후우…\n이제 없는 것 같다"
+  },
+  {
+   "key": "5787ea86379e",
+   "speaker_korean": "페이트",
+   "korean": "「뭔가 문자가 적혀 있다\n해독할 수 없을 것 같다"
+  },
+  {
+   "key": "0761c5304196",
+   "speaker_korean": "페이트",
+   "korean": "「철창이 내려져 있어서\n지나갈 수 없을 것 같다"
+  },
+  {
+   "key": "c3e3957492d0",
+   "speaker_korean": "페이트",
+   "korean": "「어디선가 철창\n열리는 소리가 났다"
+  },
+  {
+   "key": "07bd155fe481",
+   "speaker_korean": "페이트",
+   "korean": "「안 되겠다\n무거워서 열리지 않는다"
+  },
+  {
+   "key": "037bb1fd439a",
+   "speaker_korean": "페이트",
+   "korean": "「안 되겠다, 무거워서 열리지 않는다\n뭔가 적혀 있다\n『문지기의 눈을 속여야 한다』"
+  },
+  {
+   "key": "b8bf823adf19",
+   "speaker_korean": "페이트",
+   "korean": "「철창이다\n열리지 않을 것 같다"
+  },
+  {
+   "key": "6a8df1730a46",
+   "speaker_korean": "페이트",
+   "korean": "「아까 몬스터에게서\n손에 넣은 열쇠를 쓰면…"
+  },
+  {
+   "key": "46ff48fe376b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧철창 열쇠⟦2⟧를 손에 넣었다"
+  },
+  {
+   "key": "2d0eee4a8d27",
+   "speaker_korean": null,
+   "korean": "⟦1⟧15000폴⟦2⟧을 손에 넣었다"
+  },
+  {
+   "key": "308768973f11",
+   "speaker_korean": null,
+   "korean": "⟦1⟧실버 대거⟦2⟧를 손에 넣었다"
+  },
+  {
+   "key": "ef86fccd8fa2",
+   "speaker_korean": "페이트",
+   "korean": "「『네 종과 겨루라\n독무대는 누구도 원치 않는다』\n라고 적혀 있다고 한다"
+  },
+  {
+   "key": "3943eacedfb1",
+   "speaker_korean": "페이트",
+   "korean": "「어두워서 읽을 수 없군"
+  },
+  {
+   "key": "d1d4a10713b2",
+   "speaker_korean": "페이트",
+   "korean": "「뭔가 적혀 있다\n해독할 수 없을 것 같다"
+  },
+  {
+   "key": "88ea1f840f77",
+   "speaker_korean": "넬",
+   "korean": "「음…,\n『네 종과 겨루라, 독무대는 누구도 원치 않는다』\n라고 적혀 있는 것 같아"
+  }
+ ]
+}

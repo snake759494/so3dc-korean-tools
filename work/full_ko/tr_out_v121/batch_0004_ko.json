@@ -1,0 +1,305 @@
+{
+ "batch_id": "batch_0004",
+ "translations": [
+  {
+   "key": "42ff2b46c1ac",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・제4장 엑스큐셔너 출현"
+  },
+  {
+   "key": "f596e078e260",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・제5장 FD 세계"
+  },
+  {
+   "key": "e6b41f290f5e",
+   "speaker_korean": "로빈 윈드",
+   "korean": "⟦1⟧「그럼, 다시 한번 질문.\n제1장의 어디로 가 보고 싶은 거야?\n⟦P⟧"
+  },
+  {
+   "key": "a5f22cddbf0e",
+   "speaker_korean": null,
+   "korean": "・뱅가드 출현 이후"
+  },
+  {
+   "key": "c3ba5b2a30db",
+   "speaker_korean": null,
+   "korean": "・긴급 피난통로"
+  },
+  {
+   "key": "0385aa52ce15",
+   "speaker_korean": null,
+   "korean": "・수송함 헤루아"
+  },
+  {
+   "key": "b8d838008f1f",
+   "speaker_korean": null,
+   "korean": "・페소트 추락"
+  },
+  {
+   "key": "96cfaadc2ca9",
+   "speaker_korean": null,
+   "korean": "・노키아 사라진 아침"
+  },
+  {
+   "key": "16596d0928ac",
+   "speaker_korean": null,
+   "korean": "・노턴 퇴치 완료"
+  },
+  {
+   "key": "ec43ab25ccca",
+   "speaker_korean": null,
+   "korean": "・이글에…"
+  },
+  {
+   "key": "afe692c8b08d",
+   "speaker_korean": "로빈 윈드",
+   "korean": "⟦1⟧「그럼 조심해.\n절대로 무모한 짓만은 하지 말고.\n⟦P⟧"
+  },
+  {
+   "key": "3ea896740053",
+   "speaker_korean": "로빈 윈드",
+   "korean": "⟦1⟧「그럼, 다시 한번 질문.\n제2장의 어디로 가 보고 싶은 거야?\n⟦P⟧"
+  },
+  {
+   "key": "796815ce9264",
+   "speaker_korean": null,
+   "korean": "・아리그리프 추락 직후"
+  },
+  {
+   "key": "cad9c516c946",
+   "speaker_korean": null,
+   "korean": "・넬과의 만남"
+  },
+  {
+   "key": "74abaa0a822a",
+   "speaker_korean": null,
+   "korean": "・아리아스 도착"
+  },
+  {
+   "key": "4e2b49cef669",
+   "speaker_korean": null,
+   "korean": "・컬소어 처형장 종료"
+  },
+  {
+   "key": "95fd92832725",
+   "speaker_korean": null,
+   "korean": "・아미나와의 만남"
+  },
+  {
+   "key": "35d43d38e8bb",
+   "speaker_korean": null,
+   "korean": "・시랜드 성"
+  },
+  {
+   "key": "6916b2a9b4c1",
+   "speaker_korean": null,
+   "korean": "・아미나・디오르의 재회"
+  },
+  {
+   "key": "74cbdf29332d",
+   "speaker_korean": null,
+   "korean": "・결전 직전"
+  },
+  {
+   "key": "f67767ce8137",
+   "speaker_korean": "로빈 윈드",
+   "korean": "⟦1⟧「그럼, 다시 한번 질문.\n제3장의 어디로 가 보고 싶은 거야?\n⟦P⟧"
+  },
+  {
+   "key": "4e8dc7174d91",
+   "speaker_korean": null,
+   "korean": "・종전 직후"
+  },
+  {
+   "key": "22fa26ce16aa",
+   "speaker_korean": null,
+   "korean": "・세피라, 수호로"
+  },
+  {
+   "key": "8a65fdc47efc",
+   "speaker_korean": null,
+   "korean": "・마리아의 고백"
+  },
+  {
+   "key": "e25e76e57b55",
+   "speaker_korean": null,
+   "korean": "・2국 회담"
+  },
+  {
+   "key": "29845566adf5",
+   "speaker_korean": null,
+   "korean": "・아리그리프 성으로"
+  },
+  {
+   "key": "cda57db7ffbc",
+   "speaker_korean": null,
+   "korean": "・크로셀 퇴치 후"
+  },
+  {
+   "key": "feb506daf501",
+   "speaker_korean": "로빈 윈드",
+   "korean": "⟦1⟧「그럼, 다시 한번 질문.\n제4장의 어디로 가 보고 싶은 거야?\n⟦P⟧"
+  },
+  {
+   "key": "7f59c069fa99",
+   "speaker_korean": null,
+   "korean": "・디프로 함내"
+  },
+  {
+   "key": "d8344d7c8f45",
+   "speaker_korean": null,
+   "korean": "・처형장"
+  },
+  {
+   "key": "fcaaaf7450d4",
+   "speaker_korean": null,
+   "korean": "・아쿠아엘리"
+  },
+  {
+   "key": "d6453cf68e07",
+   "speaker_korean": null,
+   "korean": "・문베이스"
+  },
+  {
+   "key": "731e0fc9cfd2",
+   "speaker_korean": null,
+   "korean": "・디스트럭션"
+  },
+  {
+   "key": "d8fabe3cdcd5",
+   "speaker_korean": null,
+   "korean": "・지구 붕괴"
+  },
+  {
+   "key": "71fd6ab0f3cd",
+   "speaker_korean": null,
+   "korean": "・스트림 도착"
+  },
+  {
+   "key": "0cc0d31906cd",
+   "speaker_korean": "로빈 윈드",
+   "korean": "⟦1⟧「아, 맞다 맞다.\n3장에서 데려간 사람은 누구로 할래?\n⟦P⟧"
+  },
+  {
+   "key": "31b248e0d24f",
+   "speaker_korean": "로빈 윈드",
+   "korean": "⟦1⟧「참고로 ⟦2⟧로저⟦3⟧는\n⟦4⟧달그림자⟦5⟧에게서 구해 줬어?\n⟦P⟧"
+  },
+  {
+   "key": "a374e5170ee4",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・구했다."
+  },
+  {
+   "key": "a5c17c31f81f",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・방치했다."
+  },
+  {
+   "key": "af87a13bb982",
+   "speaker_korean": "로빈 윈드",
+   "korean": "⟦1⟧「그런데, ⟦2⟧스프레⟦3⟧는\n데리고 갔어?\n⟦P⟧"
+  },
+  {
+   "key": "220ce2f9017c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・데려갔다"
+  },
+  {
+   "key": "4b4c207c31b0",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・데려가지 않았다"
+  },
+  {
+   "key": "798e2b07f8b5",
+   "speaker_korean": "로빈 윈드",
+   "korean": "⟦1⟧「그럼, 다시 한번 질문.\n제5장의 어디로 가 보고 싶은 거야?\n⟦P⟧"
+  },
+  {
+   "key": "2f31eabc88a3",
+   "speaker_korean": null,
+   "korean": "・레코다 마을"
+  },
+  {
+   "key": "2fa8ae0dcb11",
+   "speaker_korean": null,
+   "korean": "・제미티 시"
+  },
+  {
+   "key": "2e31e3ed3165",
+   "speaker_korean": null,
+   "korean": "・스피어사 도착"
+  },
+  {
+   "key": "d02946fde53e",
+   "speaker_korean": null,
+   "korean": "・스트림으로 (미처리)"
+  },
+  {
+   "key": "bc4a7f460ea7",
+   "speaker_korean": null,
+   "korean": "・에리클 귀환"
+  },
+  {
+   "key": "2bc2f3ef38de",
+   "speaker_korean": null,
+   "korean": "・세피라 입수 후"
+  },
+  {
+   "key": "6d948b8ea95b",
+   "speaker_korean": "로빈 윈드",
+   "korean": "⟦1⟧「마지막으로 동료로 삼은 사람은 누구야?\n필요 없으면 캔슬해 줘.\n그리고, 아까랑 같은 사람은 선택하지 말아 줘.\n⟦P⟧"
+  },
+  {
+   "key": "2ff46e4ca8e8",
+   "speaker_korean": "서큐버스",
+   "korean": "⟦1⟧「자~, 원하는 게 뭐지?\n⟦P⟧"
+  },
+  {
+   "key": "9dfda3ec82dc",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・사전 전부 ON으로"
+  },
+  {
+   "key": "0023ec931c37",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・버니 레이스 포인트를 MAX로"
+  },
+  {
+   "key": "f8736c836106",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・소지금 늘리기"
+  },
+  {
+   "key": "4a342db34512",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・주인공 HP 반감"
+  },
+  {
+   "key": "ac4a4f8cbda3",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・장인을 전부 동료로 넣기"
+  },
+  {
+   "key": "52363482d972",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・배니시 링을 ON으로 하기"
+  },
+  {
+   "key": "64b463a70571",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・감정도 조정하기"
+  },
+  {
+   "key": "e2422e7872f0",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・다음 ↓"
+  },
+  {
+   "key": "32fa04f86e49",
+   "speaker_korean": "서큐버스",
+   "korean": "⟦1⟧「그래…\n그럼 안녕♥\n⟦P⟧"
+  }
+ ]
+}

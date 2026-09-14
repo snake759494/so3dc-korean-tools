@@ -1,0 +1,205 @@
+{
+ "batch_id": "batch_0224",
+ "translations": [
+  {
+   "key": "113f29527fe9",
+   "speaker_korean": null,
+   "korean": "나선의 탑 4층"
+  },
+  {
+   "key": "cf2f22393730",
+   "speaker_korean": null,
+   "korean": "나선의 탑 5층"
+  },
+  {
+   "key": "72aa272e213a",
+   "speaker_korean": null,
+   "korean": "나선의 탑 7층"
+  },
+  {
+   "key": "27d13f43775e",
+   "speaker_korean": null,
+   "korean": "나선의 탑 8층"
+  },
+  {
+   "key": "7363e354968b",
+   "speaker_korean": null,
+   "korean": "나선의 탑 9층"
+  },
+  {
+   "key": "c3a0fc5efa34",
+   "speaker_korean": "넬",
+   "korean": "「너희들,\n일단 고맙다는 말부터 해두지."
+  },
+  {
+   "key": "5f3cde68cef5",
+   "speaker_korean": "넬",
+   "korean": "「고마워.\n⟦1⟧세피라⟦2⟧를 지킬 수 있었던 건\n다 너희들 덕분이야."
+  },
+  {
+   "key": "6651d711934c",
+   "speaker_korean": "페이트",
+   "korean": "「그런,\n그만해 주세요."
+  },
+  {
+   "key": "62d8580a68e5",
+   "speaker_korean": "페이트",
+   "korean": "「애초에 다 내 잘못이야….\n내가 여기 오지 않았다면 그들도\n⟦1⟧세피라⟦2⟧를 눈치채지 못했을 텐데."
+  },
+  {
+   "key": "c1b3403e5e01",
+   "speaker_korean": "넬",
+   "korean": "「그건 아니지.\n그놈들이 온 건 그놈들 뜻이었어.\n네 잘못이 아니야."
+  },
+  {
+   "key": "e8bb3bfa83ee",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧넬씨⟦2⟧…."
+  },
+  {
+   "key": "e1ca51e39d72",
+   "speaker_korean": "넬",
+   "korean": "「아까 너희들 얘기로는,\n우리 세계 말고도\n많은 세계가 있다는 거지?"
+  },
+  {
+   "key": "5c40457838b9",
+   "speaker_korean": "넬",
+   "korean": "「⟦1⟧세피라⟦2⟧는 그중에서도\n희귀한 『⟦3⟧오파츠⟦4⟧』라는\n물건이라던데."
+  },
+  {
+   "key": "618514903269",
+   "speaker_korean": "마리아",
+   "korean": "「그러네.\n적어도 연방의 데이터베이스에는\n⟦1⟧세피라⟦2⟧가 발하는 파동 데이터는 없어."
+  },
+  {
+   "key": "d8ce761ffda8",
+   "speaker_korean": "넬",
+   "korean": "「그렇다면 언젠가는… 누군가가 그 힘을\n탐내서 찾아왔을지도 몰라.\n이르든 늦든… 말이야.\n그게 지금이었을 뿐이지.\n그러니까, 네가\n신경 쓸 일이 아니야."
+  },
+  {
+   "key": "7984e6e57795",
+   "speaker_korean": "페이트",
+   "korean": "「아, 응.\n돌아가자, ⟦1⟧시랜드⟦2⟧로."
+  },
+  {
+   "key": "d276d44bcc98",
+   "speaker_korean": "페이트",
+   "korean": "「이 녀석…,\n살아있는 건가!?"
+  },
+  {
+   "key": "f2fb63d3951d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧세인트 스톤⟦2⟧을 손에 넣었다."
+  },
+  {
+   "key": "1ad14c8d9f48",
+   "speaker_korean": "페이트",
+   "korean": "「잠겨 있네.\n열 수 없을 것 같아."
+  },
+  {
+   "key": "b8ba23301c63",
+   "speaker_korean": "페이트",
+   "korean": "「공방인가….\n여기서 얻은 세인트 스톤을 써서\n뭔가 만들 수 없을까…."
+  },
+  {
+   "key": "c44d83648872",
+   "speaker_korean": null,
+   "korean": "⟦1⟧세인트 아뮬렛⟦2⟧을 손에 넣었다."
+  },
+  {
+   "key": "da731ea84c3d",
+   "speaker_korean": "페이트",
+   "korean": "「꽤 강력한\n부적이 만들어졌군."
+  },
+  {
+   "key": "976db4607b7c",
+   "speaker_korean": "페이트",
+   "korean": "「잠겨 있어서,\n열 수 없을 것 같군."
+  },
+  {
+   "key": "fc7f407e5fcc",
+   "speaker_korean": "넬",
+   "korean": "「너,\n괜찮은 거야!?"
+  },
+  {
+   "key": "ee809b5447c5",
+   "speaker_korean": "시하츠 병사",
+   "korean": "「⟦1⟧넬님⟦2⟧…,\n죄송…합니다.\n⟦P⟧놈들에게, 성전으로의…\n침입을 허용하고…\n말았습니다."
+  },
+  {
+   "key": "fc2a065dc62e",
+   "speaker_korean": "넬",
+   "korean": "「그런 모양이군.\n하지만, 걱정할 필요 없어.\n⟦1⟧세피라⟦2⟧는 우리가\n반드시 지켜낼 테니까."
+  },
+  {
+   "key": "b95d0d846378",
+   "speaker_korean": "시하츠 병사",
+   "korean": "「다행…이야…."
+  },
+  {
+   "key": "5c49a77e41e9",
+   "speaker_korean": "넬",
+   "korean": "「윽!"
+  },
+  {
+   "key": "9e0687351204",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧넬씨⟦2⟧,\n우리도 어서 서두르자!!"
+  },
+  {
+   "key": "342a8a814015",
+   "speaker_korean": "넬",
+   "korean": "「그래…정신 바짝 차려야지.\n⟦P⟧원래, 이 안쪽은 왕가 사람이나\n신의 사자만이 들어올 수 있다고\n여겨지는 성역이야.\n⟦P⟧도적을 막기 위한 함정이 무수히\n설치되어 있다는\n이야기도 있어."
+  },
+  {
+   "key": "1e4a84821b27",
+   "speaker_korean": "클리프",
+   "korean": "「그 자식들이 거기서 나가떨어져 주면\n우리야 편하지."
+  },
+  {
+   "key": "606c72fbd8d2",
+   "speaker_korean": "마리아",
+   "korean": "「별로 기대는 안 되네.\n그들은 고성능 ⟦1⟧스캐너⟦2⟧를\n가지고 있을 테니까."
+  },
+  {
+   "key": "f19b6b0fe6cf",
+   "speaker_korean": "클리프",
+   "korean": "「그렇겠지."
+  },
+  {
+   "key": "c30a96e8a3ac",
+   "speaker_korean": "페이트",
+   "korean": "「어쨌든 서두르자!"
+  },
+  {
+   "key": "f7b147589463",
+   "speaker_korean": "페이트",
+   "korean": "「이미 숨을 거두셨군요.\n부디, 평안히 잠드시길."
+  },
+  {
+   "key": "2051010fd7bc",
+   "speaker_korean": null,
+   "korean": "⟦1⟧카운터 오라 습득서2⟦2⟧를 손에 넣었다."
+  },
+  {
+   "key": "60f069f2e4d5",
+   "speaker_korean": null,
+   "korean": "⟦1⟧예언서1⟦2⟧을 손에 넣었다."
+  },
+  {
+   "key": "bdcdf6565f60",
+   "speaker_korean": null,
+   "korean": "⟦1⟧피요한⟦2⟧을 손에 넣었다."
+  },
+  {
+   "key": "a4a6ee298378",
+   "speaker_korean": "페이트",
+   "korean": "「젠장! 이게 무슨 강함이야…!\n강력한 결계라도 친 것 같아….\n결계를 깨부술\n강력한 부적이라도 있으면…."
+  },
+  {
+   "key": "aebfacd48ea1",
+   "speaker_korean": "페이트",
+   "korean": "「젠장! 이게 무슨 강함이야…!\n그래도 못 이길 정도는 아니군…."
+  }
+ ]
+}

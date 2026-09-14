@@ -1,0 +1,655 @@
+{
+ "batch_id": "batch_0027",
+ "translations": [
+  {
+   "key": "bd51e9b8faf2",
+   "speaker_korean": null,
+   "korean": "⟦1⟧인증 디스크⟦2⟧ obtained."
+  },
+  {
+   "key": "2e49fadac8e6",
+   "speaker_korean": null,
+   "korean": "⟦1⟧스미티 해머⟦2⟧ obtained."
+  },
+  {
+   "key": "405adf5f1c19",
+   "speaker_korean": null,
+   "korean": "⟦1⟧제트 스펠⟦2⟧ obtained."
+  },
+  {
+   "key": "f4f88f7003b5",
+   "speaker_korean": null,
+   "korean": "⟦1⟧예언서5⟦2⟧ obtained."
+  },
+  {
+   "key": "78920ae88544",
+   "speaker_korean": null,
+   "korean": "⟦1⟧첫 포인트 획득 기념품⟦2⟧ obtained."
+  },
+  {
+   "key": "4f4827d61bd5",
+   "speaker_korean": null,
+   "korean": "⟦1⟧자이언트 킹크랩⟦2⟧ obtained."
+  },
+  {
+   "key": "2c830cc4a13b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧부러진 마검⟦2⟧ obtained."
+  },
+  {
+   "key": "29ee5a3e9639",
+   "speaker_korean": null,
+   "korean": "⟦1⟧로마네콩티DRC⟦2⟧ obtained."
+  },
+  {
+   "key": "1f5f1910f247",
+   "speaker_korean": null,
+   "korean": "⟦1⟧'축' 1000 기념 트로피⟦2⟧ obtained."
+  },
+  {
+   "key": "946e578e345f",
+   "speaker_korean": null,
+   "korean": "나이트 오브 드라군"
+  },
+  {
+   "key": "65aaa2c1d1c4",
+   "speaker_korean": null,
+   "korean": "성수기사단"
+  },
+  {
+   "key": "404935eabe12",
+   "speaker_korean": null,
+   "korean": "토네이도"
+  },
+  {
+   "key": "e2e30f0a6241",
+   "speaker_korean": null,
+   "korean": "혈검기사단"
+  },
+  {
+   "key": "aee6b73a1126",
+   "speaker_korean": null,
+   "korean": "셔우드"
+  },
+  {
+   "key": "568534021f7f",
+   "speaker_korean": null,
+   "korean": "부르주아지"
+  },
+  {
+   "key": "f4637989df16",
+   "speaker_korean": null,
+   "korean": "전장의 백합"
+  },
+  {
+   "key": "497812bd02df",
+   "speaker_korean": null,
+   "korean": "우린 시시하지 않아!"
+  },
+  {
+   "key": "634fba2d7a59",
+   "speaker_korean": null,
+   "korean": "트윈비스트 야호~"
+  },
+  {
+   "key": "07b7f09d1e53",
+   "speaker_korean": null,
+   "korean": "듀크 오브 헬"
+  },
+  {
+   "key": "5a3e03c1928b",
+   "speaker_korean": null,
+   "korean": "아머 나이츠"
+  },
+  {
+   "key": "286bb4dd9bcf",
+   "speaker_korean": null,
+   "korean": "무형의 진리"
+  },
+  {
+   "key": "bbebff2fa50d",
+   "speaker_korean": null,
+   "korean": "인섹트 로드"
+  },
+  {
+   "key": "4001e2ea333a",
+   "speaker_korean": null,
+   "korean": "언데드 마스터"
+  },
+  {
+   "key": "3e1a2087b936",
+   "speaker_korean": null,
+   "korean": "마법 쓰고픈 부대"
+  },
+  {
+   "key": "e105b0c302ce",
+   "speaker_korean": null,
+   "korean": "레드럼"
+  },
+  {
+   "key": "8ee400e3c68f",
+   "speaker_korean": null,
+   "korean": "드래곤 아이즈"
+  },
+  {
+   "key": "d36421fc3e9e",
+   "speaker_korean": null,
+   "korean": "리치맨"
+  },
+  {
+   "key": "21dd35270207",
+   "speaker_korean": null,
+   "korean": "가라 트윈비스트"
+  },
+  {
+   "key": "ef3dc7f61484",
+   "speaker_korean": null,
+   "korean": "정령술사에게 4호"
+  },
+  {
+   "key": "6d28fe934cb5",
+   "speaker_korean": null,
+   "korean": "더블 엣지"
+  },
+  {
+   "key": "6f86f1fa08b6",
+   "speaker_korean": null,
+   "korean": "고요한 망치"
+  },
+  {
+   "key": "7b48d4f90c43",
+   "speaker_korean": null,
+   "korean": "팀『불꽃의 세 도사』"
+  },
+  {
+   "key": "1606605b5f2e",
+   "speaker_korean": null,
+   "korean": "기간토마키아"
+  },
+  {
+   "key": "ea524a410b2a",
+   "speaker_korean": null,
+   "korean": "임페리얼 가드"
+  },
+  {
+   "key": "91c2588622b5",
+   "speaker_korean": null,
+   "korean": "와일드 블러드"
+  },
+  {
+   "key": "3b07f2f0359f",
+   "speaker_korean": null,
+   "korean": "OK 킬러"
+  },
+  {
+   "key": "747632943f41",
+   "speaker_korean": null,
+   "korean": "장미의 기사"
+  },
+  {
+   "key": "f29798495746",
+   "speaker_korean": null,
+   "korean": "지지마라 트윈비스트"
+  },
+  {
+   "key": "a709f43aba86",
+   "speaker_korean": null,
+   "korean": "서풍의 제피로스"
+  },
+  {
+   "key": "f127e042b369",
+   "speaker_korean": null,
+   "korean": "북풍의 보레아스"
+  },
+  {
+   "key": "26e4528332ce",
+   "speaker_korean": null,
+   "korean": "남풍의 노토스"
+  },
+  {
+   "key": "1f49320c8e09",
+   "speaker_korean": null,
+   "korean": "동풍의 에우로스"
+  },
+  {
+   "key": "4a1d1b77b850",
+   "speaker_korean": null,
+   "korean": "블러디 스트림"
+  },
+  {
+   "key": "8943f06b3972",
+   "speaker_korean": null,
+   "korean": "팀『불꽃의 세 전사』"
+  },
+  {
+   "key": "7c8945679086",
+   "speaker_korean": null,
+   "korean": "무 대륙의 전사들"
+  },
+  {
+   "key": "24d14bf4b66d",
+   "speaker_korean": null,
+   "korean": "불의 천사"
+  },
+  {
+   "key": "a88a19358bd7",
+   "speaker_korean": null,
+   "korean": "바빌론의 기사"
+  },
+  {
+   "key": "f1193348f52a",
+   "speaker_korean": null,
+   "korean": "나타났다!! 트윈비스트"
+  },
+  {
+   "key": "192daa014c80",
+   "speaker_korean": null,
+   "korean": "데몬 서머너"
+  },
+  {
+   "key": "c1706408561e",
+   "speaker_korean": null,
+   "korean": "부화한 개구리 전사"
+  },
+  {
+   "key": "7903cc0c99bc",
+   "speaker_korean": null,
+   "korean": "트윈비스트"
+  },
+  {
+   "key": "7c9dd186636a",
+   "speaker_korean": null,
+   "korean": "보안 하고 있나요?"
+  },
+  {
+   "key": "8ab6d646f77d",
+   "speaker_korean": null,
+   "korean": "베오울프"
+  },
+  {
+   "key": "9b5f2b4d1641",
+   "speaker_korean": null,
+   "korean": "고스트 헌터즈"
+  },
+  {
+   "key": "d2854d13da0c",
+   "speaker_korean": null,
+   "korean": "아아아아아아아아"
+  },
+  {
+   "key": "28e6c1b9b81f",
+   "speaker_korean": null,
+   "korean": "크루프 산적단"
+  },
+  {
+   "key": "12e6002aebb9",
+   "speaker_korean": null,
+   "korean": "나이트 오브 갓즈"
+  },
+  {
+   "key": "9b8489f25903",
+   "speaker_korean": null,
+   "korean": "이름 미정"
+  },
+  {
+   "key": "650c4ef7a78b",
+   "speaker_korean": null,
+   "korean": "시간틈의 전사들"
+  },
+  {
+   "key": "4ed4ea4ffea3",
+   "speaker_korean": null,
+   "korean": "강철기사단"
+  },
+  {
+   "key": "eb8f71d2440f",
+   "speaker_korean": null,
+   "korean": "아서왕과 밥상의 기사"
+  },
+  {
+   "key": "01b113b706aa",
+   "speaker_korean": null,
+   "korean": "존재 없는 반역자"
+  },
+  {
+   "key": "0d180c8d4267",
+   "speaker_korean": null,
+   "korean": "칠흑의 마전사"
+  },
+  {
+   "key": "897421996454",
+   "speaker_korean": null,
+   "korean": "마룡의눈"
+  },
+  {
+   "key": "59ea2e892d14",
+   "speaker_korean": null,
+   "korean": "등장! 해동 참치단"
+  },
+  {
+   "key": "f236854e2101",
+   "speaker_korean": null,
+   "korean": "페이트와 동료들"
+  },
+  {
+   "key": "191ea9746639",
+   "speaker_korean": null,
+   "korean": "페이트와 동료 설명"
+  },
+  {
+   "key": "1139635bcb39",
+   "speaker_korean": null,
+   "korean": "나이트 오브 드라군 설명"
+  },
+  {
+   "key": "1c830c9fa9a1",
+   "speaker_korean": null,
+   "korean": "데몬로드 설명"
+  },
+  {
+   "key": "81f48b0d2e59",
+   "speaker_korean": null,
+   "korean": "성수기사단 설명"
+  },
+  {
+   "key": "48bc2fd97aba",
+   "speaker_korean": null,
+   "korean": "토네이도 설명"
+  },
+  {
+   "key": "c0fa2acea74f",
+   "speaker_korean": null,
+   "korean": "혈검기사단 설명"
+  },
+  {
+   "key": "692764500080",
+   "speaker_korean": null,
+   "korean": "셔우드 설명"
+  },
+  {
+   "key": "d4c808bb5940",
+   "speaker_korean": null,
+   "korean": "부르주아지 설명"
+  },
+  {
+   "key": "6d49b2fa6e17",
+   "speaker_korean": null,
+   "korean": "전장의 백합 설명"
+  },
+  {
+   "key": "7b03a11a7623",
+   "speaker_korean": null,
+   "korean": "우린 시시하지 않아! 설명"
+  },
+  {
+   "key": "2a7410d7eee4",
+   "speaker_korean": null,
+   "korean": "트윈비스트 야호~ 설명"
+  },
+  {
+   "key": "debaf57e484d",
+   "speaker_korean": null,
+   "korean": "듀크 오브 헬 설명"
+  },
+  {
+   "key": "ca73d3de9b8d",
+   "speaker_korean": null,
+   "korean": "아머 나이츠 설명"
+  },
+  {
+   "key": "897c7a0468f6",
+   "speaker_korean": null,
+   "korean": "왓쇼이! 왓쇼이! 설명"
+  },
+  {
+   "key": "148d21dbc998",
+   "speaker_korean": null,
+   "korean": "팀『불꽃의 세 총사』 설명"
+  },
+  {
+   "key": "fb19218d8300",
+   "speaker_korean": null,
+   "korean": "언데드 마스터 설명"
+  },
+  {
+   "key": "9fa37b469031",
+   "speaker_korean": null,
+   "korean": "마법 쓰고픈 부대 설명"
+  },
+  {
+   "key": "743a62fb370e",
+   "speaker_korean": null,
+   "korean": "레드럼 설명"
+  },
+  {
+   "key": "84b2ad109b85",
+   "speaker_korean": null,
+   "korean": "드래곤 아이즈 설명"
+  },
+  {
+   "key": "63e75aa03468",
+   "speaker_korean": null,
+   "korean": "리치맨 설명"
+  },
+  {
+   "key": "39ba9f3266c2",
+   "speaker_korean": null,
+   "korean": "가라 트윈비스트 설명"
+  },
+  {
+   "key": "614341817c96",
+   "speaker_korean": null,
+   "korean": "정령술사에게 4호 설명"
+  },
+  {
+   "key": "f830cc03c547",
+   "speaker_korean": null,
+   "korean": "더블 엣지 설명"
+  },
+  {
+   "key": "3d7e54645aba",
+   "speaker_korean": null,
+   "korean": "고요한 망치 설명"
+  },
+  {
+   "key": "c9a752186095",
+   "speaker_korean": null,
+   "korean": "팀『불꽃의 세 도사』 설명"
+  },
+  {
+   "key": "207b92aa7224",
+   "speaker_korean": null,
+   "korean": "기간토마키아 설명"
+  },
+  {
+   "key": "1f3990faab27",
+   "speaker_korean": null,
+   "korean": "임페리얼 가드 설명"
+  },
+  {
+   "key": "59f103f13e34",
+   "speaker_korean": null,
+   "korean": "마탄의 사수 설명"
+  },
+  {
+   "key": "d97c29cb3735",
+   "speaker_korean": null,
+   "korean": "OK 킬러 설명"
+  },
+  {
+   "key": "3f7efe9b7cfa",
+   "speaker_korean": null,
+   "korean": "장미의 기사 설명"
+  },
+  {
+   "key": "c23ecfebe434",
+   "speaker_korean": null,
+   "korean": "지지마라 트윈비스트 설명"
+  },
+  {
+   "key": "19aaad1debbd",
+   "speaker_korean": null,
+   "korean": "서풍의 제피로스 설명"
+  },
+  {
+   "key": "ce4e675f94f5",
+   "speaker_korean": null,
+   "korean": "북풍의 보레아스 설명"
+  },
+  {
+   "key": "e97398e3d079",
+   "speaker_korean": null,
+   "korean": "남풍의 노토스 설명"
+  },
+  {
+   "key": "6d1000b999e9",
+   "speaker_korean": null,
+   "korean": "동풍의 에우로스 설명"
+  },
+  {
+   "key": "0082f32acf5e",
+   "speaker_korean": null,
+   "korean": "블러디 스트림 설명"
+  },
+  {
+   "key": "75d9869704d4",
+   "speaker_korean": null,
+   "korean": "팀『불꽃의 세 전사』 설명"
+  },
+  {
+   "key": "7884e3a53a4c",
+   "speaker_korean": null,
+   "korean": "무 대륙의 전사들 설명"
+  },
+  {
+   "key": "c91d31269daf",
+   "speaker_korean": null,
+   "korean": "불의 천사 설명"
+  },
+  {
+   "key": "4a580d5c3b95",
+   "speaker_korean": null,
+   "korean": "바빌론의 기사 설명"
+  },
+  {
+   "key": "6a8c4e43ae5a",
+   "speaker_korean": null,
+   "korean": "나타났다!! 트윈비스트 설명"
+  },
+  {
+   "key": "ff8747ab9ac7",
+   "speaker_korean": null,
+   "korean": "데몬 서머너 설명"
+  },
+  {
+   "key": "6a9bbedddfe1",
+   "speaker_korean": null,
+   "korean": "티아마트 설명"
+  },
+  {
+   "key": "3b3eb05db082",
+   "speaker_korean": null,
+   "korean": "버서커 설명"
+  },
+  {
+   "key": "5449f9a80137",
+   "speaker_korean": null,
+   "korean": "부화한 개구리 전사 설명"
+  },
+  {
+   "key": "400fb78af44d",
+   "speaker_korean": null,
+   "korean": "트윈비스트 설명"
+  },
+  {
+   "key": "bed8f13bd2a9",
+   "speaker_korean": null,
+   "korean": "보안 하고 있나요? 설명"
+  },
+  {
+   "key": "9d121e5b9eb8",
+   "speaker_korean": null,
+   "korean": "베오울프 설명"
+  },
+  {
+   "key": "35f7a5acff22",
+   "speaker_korean": null,
+   "korean": "고스트 헌터즈 설명"
+  },
+  {
+   "key": "c0d9db9c93e8",
+   "speaker_korean": null,
+   "korean": "아아아아아아아아 설명"
+  },
+  {
+   "key": "1e9c114f788c",
+   "speaker_korean": null,
+   "korean": "크루프 산적단 설명"
+  },
+  {
+   "key": "0e13b29c4b47",
+   "speaker_korean": null,
+   "korean": "나이트 오브 갓즈 설명"
+  },
+  {
+   "key": "8b38f7bd00cf",
+   "speaker_korean": null,
+   "korean": "투기장 랭킹"
+  },
+  {
+   "key": "c811ffde6b78",
+   "speaker_korean": null,
+   "korean": "팀명"
+  },
+  {
+   "key": "ba272f1f2fca",
+   "speaker_korean": null,
+   "korean": "변동"
+  },
+  {
+   "key": "ffae48d73e62",
+   "speaker_korean": null,
+   "korean": "이전"
+  },
+  {
+   "key": "c0f090939c94",
+   "speaker_korean": null,
+   "korean": "・이 팀과 대결하기"
+  },
+  {
+   "key": "0240d7f9540d",
+   "speaker_korean": null,
+   "korean": "・다른 팀을 선택하기"
+  },
+  {
+   "key": "861efdafb71e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧스플래시 스타⟦2⟧ obtained."
+  },
+  {
+   "key": "ef5b4a5e4c4b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧참획자의 반지⟦2⟧ obtained."
+  },
+  {
+   "key": "39733a68d7e6",
+   "speaker_korean": null,
+   "korean": "⟦1⟧'축' 우승 트로피⟦2⟧ obtained."
+  },
+  {
+   "key": "8b6f6b5b579b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧피요논⟦2⟧ obtained."
+  },
+  {
+   "key": "00b40e8d6b34",
+   "speaker_korean": null,
+   "korean": "⟦1⟧투기 비전서⟦2⟧ obtained."
+  },
+  {
+   "key": "3fc5ceb9aca0",
+   "speaker_korean": null,
+   "korean": "⟦1⟧레자드 플라스크⟦2⟧ obtained."
+  }
+ ]
+}

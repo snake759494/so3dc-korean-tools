@@ -1,0 +1,650 @@
+{
+ "batch_id": "batch_0284",
+ "translations": [
+  {
+   "key": "9e10b01d8e9f",
+   "speaker_korean": null,
+   "korean": "여기선 세이브할 수 없습니다"
+  },
+  {
+   "key": "4ef0d30d162d",
+   "speaker_korean": null,
+   "korean": "포맷하는 중입니다"
+  },
+  {
+   "key": "c6b476f61e12",
+   "speaker_korean": null,
+   "korean": "데이터를 이어받을 수 있습니다  MEMORY CARD 삽입구를 선택하세요"
+  },
+  {
+   "key": "f1aef6ce4c53",
+   "speaker_korean": null,
+   "korean": "선택해 주세요"
+  },
+  {
+   "key": "5aa69c13d469",
+   "speaker_korean": null,
+   "korean": "로드 중입니다"
+  },
+  {
+   "key": "75570bda479f",
+   "speaker_korean": null,
+   "korean": "배틀 컬렉션 데이터를 로드합니다  MEMORY CARD 삽입구를 선택해 주세요  로 캔슬할 수 있습니다"
+  },
+  {
+   "key": "4ac4da14cd4e",
+   "speaker_korean": null,
+   "korean": "로드 완료"
+  },
+  {
+   "key": "ceefde3a872a",
+   "speaker_korean": null,
+   "korean": "이어받기 로드"
+  },
+  {
+   "key": "d384a473230a",
+   "speaker_korean": null,
+   "korean": "파일이 손상되었습니다"
+  },
+  {
+   "key": "4f225796709c",
+   "speaker_korean": null,
+   "korean": "다른 데이터가 사용 중입니다"
+  },
+  {
+   "key": "798874ce4e11",
+   "speaker_korean": null,
+   "korean": "맵 이름"
+  },
+  {
+   "key": "5b52393f8084",
+   "speaker_korean": null,
+   "korean": "로드했습니다"
+  },
+  {
+   "key": "656e245d2253",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터를\n체크하고 있습니다\n″PlayStation 2″ 본체의 전원 OFF나 리셋\n″PlayStation 2″ 전용 메모리카드(8MB)나\n컨트롤러를 빼거나 꽂지 말아 주세요\n또한, 디스크 트레이를 열지 말아 주세요"
+  },
+  {
+   "key": "c60e0322f60c",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터를\n정상적으로 로드했습니다"
+  },
+  {
+   "key": "bdd532ffc6d9",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터를\n로드하는 데 실패했습니다"
+  },
+  {
+   "key": "e381b940c35f",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터가 없습니다\n이대로 게임을 시작하면, 본편에서\n배틀 컬렉션을 진행할 수 없습니다\n이대로 시작하시겠습니까?"
+  },
+  {
+   "key": "b1a5b0d7f600",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터가\n손상되었을 가능성이 있습니다\n로드할 수 없습니다"
+  },
+  {
+   "key": "9484eef7cfb2",
+   "speaker_korean": null,
+   "korean": "여기서 배틀 컬렉션 데이터를 불러오지 않으면\n게임 본편에서 배틀 컬렉션을 진행할 수\n없습니다\n그래도 괜찮으시겠습니까?"
+  },
+  {
+   "key": "3b92ae76d5c7",
+   "speaker_korean": null,
+   "korean": "Star Ocean Till the End of Time D.C.의\n배틀 컬렉션 데이터가 없습니다"
+  },
+  {
+   "key": "7d9615815aa6",
+   "speaker_korean": null,
+   "korean": "″PlayStation 2″ 전용 메모리카드(8MB)가\n삽입되어 있지 않습니다"
+  },
+  {
+   "key": "781599e6a0f4",
+   "speaker_korean": null,
+   "korean": "작전 변경"
+  },
+  {
+   "key": "a896af3cc468",
+   "speaker_korean": null,
+   "korean": "전투 시 행동 지침을 결정합니다"
+  },
+  {
+   "key": "43bc815de8a1",
+   "speaker_korean": null,
+   "korean": "각자의 힘과 기술로 적과 싸웁니다"
+  },
+  {
+   "key": "197de51af103",
+   "speaker_korean": null,
+   "korean": "Guts 감소를 억제하며 싸웁니다 프로텍트와 카운터가 많아지고 자발적인 공격 빈도가 낮아집니다"
+  },
+  {
+   "key": "2e7df1288683",
+   "speaker_korean": null,
+   "korean": "스킬을 스택하면서 싸웁니다 스택 릴리스는 하지 않습니다"
+  },
+  {
+   "key": "7ea2ce22e7f4",
+   "speaker_korean": null,
+   "korean": "자유롭게 전투합니다 각 캐릭터의 개성이 가장 잘 발휘됩니다"
+  },
+  {
+   "key": "2f1ec9ce24a7",
+   "speaker_korean": null,
+   "korean": "배틀 멤버를 변경할 수 있습니다"
+  },
+  {
+   "key": "af51c5e35ace",
+   "speaker_korean": null,
+   "korean": "대형을 바꿀 수 있습니다"
+  },
+  {
+   "key": "48d4fee6b643",
+   "speaker_korean": null,
+   "korean": "전력 공격"
+  },
+  {
+   "key": "7d070580e149",
+   "speaker_korean": null,
+   "korean": "Guts 중시"
+  },
+  {
+   "key": "2e3cef9371b8",
+   "speaker_korean": null,
+   "korean": "스택 중시"
+  },
+  {
+   "key": "8e58e9a2727e",
+   "speaker_korean": null,
+   "korean": "자유 OK"
+  },
+  {
+   "key": "161af4350851",
+   "speaker_korean": null,
+   "korean": "작전 메뉴"
+  },
+  {
+   "key": "a25865f45dc1",
+   "speaker_korean": null,
+   "korean": "리더 설정"
+  },
+  {
+   "key": "d1b93216a4f4",
+   "speaker_korean": null,
+   "korean": "리더 :"
+  },
+  {
+   "key": "e4bd2092cdd3",
+   "speaker_korean": null,
+   "korean": "전력으로 공격하라!"
+  },
+  {
+   "key": "39396fdb36a6",
+   "speaker_korean": null,
+   "korean": "밸런스 있게 행동하라!"
+  },
+  {
+   "key": "b5a7f29d3347",
+   "speaker_korean": null,
+   "korean": "Guts를 아껴라!"
+  },
+  {
+   "key": "946b46c08db2",
+   "speaker_korean": null,
+   "korean": "집중 공격하라!"
+  },
+  {
+   "key": "145af04f5aa4",
+   "speaker_korean": null,
+   "korean": "필살기를 쓰지 마라!"
+  },
+  {
+   "key": "cc191b7706e9",
+   "speaker_korean": null,
+   "korean": "아무것도 하지마!"
+  },
+  {
+   "key": "3f3db5fbeade",
+   "speaker_korean": null,
+   "korean": "회복에 전념하라!"
+  },
+  {
+   "key": "58dd1d18e52f",
+   "speaker_korean": null,
+   "korean": "공격에 전념하라!"
+  },
+  {
+   "key": "7a481abc9851",
+   "speaker_korean": null,
+   "korean": "아군을 지원하라!"
+  },
+  {
+   "key": "b6c5e128d9f8",
+   "speaker_korean": null,
+   "korean": "문장술을 쓰지 마라!"
+  },
+  {
+   "key": "fd60f5d3f750",
+   "speaker_korean": null,
+   "korean": "더미"
+  },
+  {
+   "key": "a1d9e7d48102",
+   "speaker_korean": null,
+   "korean": "작전 설정 종료합니다\n그러시겠습니까?"
+  },
+  {
+   "key": "6a0fbdc43c5f",
+   "speaker_korean": null,
+   "korean": "교체를 종료합니다\n그러시겠습니까?"
+  },
+  {
+   "key": "35cb0b91fab4",
+   "speaker_korean": null,
+   "korean": "대형 설정 종료합니다\n그러시겠습니까?"
+  },
+  {
+   "key": "62415c578278",
+   "speaker_korean": null,
+   "korean": "종료확인"
+  },
+  {
+   "key": "541c94181706",
+   "speaker_korean": null,
+   "korean": "밸런스 있게 행동합니다"
+  },
+  {
+   "key": "f67616c4343a",
+   "speaker_korean": null,
+   "korean": "Guts 소비를 억제하며 싸웁니다"
+  },
+  {
+   "key": "e49fcfc5ab04",
+   "speaker_korean": null,
+   "korean": "적 하나에 공격을 집중합니다"
+  },
+  {
+   "key": "9b716a653d23",
+   "speaker_korean": null,
+   "korean": "필살기 없이 싸웁니다"
+  },
+  {
+   "key": "96d2af3bb765",
+   "speaker_korean": null,
+   "korean": "명령이 있을 때까지 대기합니다"
+  },
+  {
+   "key": "3fe5181e05b5",
+   "speaker_korean": null,
+   "korean": "동료의 회복에 전념합니다"
+  },
+  {
+   "key": "76142e2510a4",
+   "speaker_korean": null,
+   "korean": "공격에 전념합니다"
+  },
+  {
+   "key": "27a547e2e149",
+   "speaker_korean": null,
+   "korean": "문장술을 사용하지 않습니다"
+  },
+  {
+   "key": "50f6ab7c0fa4",
+   "speaker_korean": null,
+   "korean": "리니어 시프트"
+  },
+  {
+   "key": "e792bd703f15",
+   "speaker_korean": null,
+   "korean": "와이드 시프트"
+  },
+  {
+   "key": "0e262a95d0dd",
+   "speaker_korean": null,
+   "korean": "어설트 시프트"
+  },
+  {
+   "key": "2c1df0715030",
+   "speaker_korean": null,
+   "korean": "트라이 시프트"
+  },
+  {
+   "key": "483dc41db716",
+   "speaker_korean": null,
+   "korean": "인버스 트라이 시프트"
+  },
+  {
+   "key": "4b8d42be1754",
+   "speaker_korean": null,
+   "korean": "이스케이프 시프트"
+  },
+  {
+   "key": "92a14bd80ab0",
+   "speaker_korean": null,
+   "korean": "스피어 시프트"
+  },
+  {
+   "key": "0dc7bb4aeb46",
+   "speaker_korean": null,
+   "korean": "백 가드"
+  },
+  {
+   "key": "e76713d6cf5f",
+   "speaker_korean": null,
+   "korean": "어퍼 가드"
+  },
+  {
+   "key": "4dba1f8f0f32",
+   "speaker_korean": null,
+   "korean": "언더 가드"
+  },
+  {
+   "key": "a57f238ad646",
+   "speaker_korean": null,
+   "korean": "⟦1⟧<리니어 시프트〉\n⟦2⟧세로 일렬\n늘어선 정통 대형"
+  },
+  {
+   "key": "edbd009d703f",
+   "speaker_korean": null,
+   "korean": "⟦1⟧<와이드 시프트〉\n⟦2⟧넓게 산개해 싸우는 대형"
+  },
+  {
+   "key": "d9f3c65e9c8a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧<어설트 시프트〉\n⟦2⟧근접전 위주 공격형 대형"
+  },
+  {
+   "key": "c5e1207bd6fc",
+   "speaker_korean": null,
+   "korean": "⟦1⟧<트라이 시프트〉\n⟦2⟧삼각형으로 선 대형"
+  },
+  {
+   "key": "d231c5071167",
+   "speaker_korean": null,
+   "korean": "⟦1⟧<인버스 트라이 시프트〉\n⟦2⟧역삼각형으로 선 대형"
+  },
+  {
+   "key": "9716862d54ca",
+   "speaker_korean": null,
+   "korean": "⟦1⟧<이스케이프 시프트〉\n⟦2⟧삼십육계 줄행랑\n빨리 도망갈 때 편리한 대형"
+  },
+  {
+   "key": "5fee3185e34b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧<스피어 시프트〉\n⟦2⟧한 명을 앞세워\n창 모양의 용맹한 대형"
+  },
+  {
+   "key": "321fad1dbf00",
+   "speaker_korean": null,
+   "korean": "⟦1⟧<백 가드〉\n⟦2⟧두 명을 앞세워\n공격 자세를 중시한 대형"
+  },
+  {
+   "key": "337cf78e4273",
+   "speaker_korean": null,
+   "korean": "⟦1⟧<어퍼 가드〉\n⟦2⟧위쪽 습격을 경계하는 대형"
+  },
+  {
+   "key": "b4fc82d4203d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧<언더 가드〉\n⟦2⟧아래쪽 습격을 경계하는 대형"
+  },
+  {
+   "key": "a65c9396679b",
+   "speaker_korean": null,
+   "korean": "상품을 살 수 있습니다  로 자세히 볼 수 있습니다"
+  },
+  {
+   "key": "b31cf2d2559e",
+   "speaker_korean": null,
+   "korean": "소지품을 판매할 수 있습니다"
+  },
+  {
+   "key": "a83282f1a4cd",
+   "speaker_korean": null,
+   "korean": "정산 후 나갑니다"
+  },
+  {
+   "key": "0bcf630c7894",
+   "speaker_korean": null,
+   "korean": "구매"
+  },
+  {
+   "key": "67b251d60287",
+   "speaker_korean": null,
+   "korean": "판매"
+  },
+  {
+   "key": "a422a24442a1",
+   "speaker_korean": null,
+   "korean": "정산"
+  },
+  {
+   "key": "25e331e09c32",
+   "speaker_korean": null,
+   "korean": "현재"
+  },
+  {
+   "key": "eabaf5a09b36",
+   "speaker_korean": null,
+   "korean": "총계"
+  },
+  {
+   "key": "a3de4c3c1ec6",
+   "speaker_korean": null,
+   "korean": "정산후"
+  },
+  {
+   "key": "f00a88ee0cb4",
+   "speaker_korean": null,
+   "korean": "구매확인"
+  },
+  {
+   "key": "58ad08454cf8",
+   "speaker_korean": null,
+   "korean": "아이템을 구매합니다\n그러시겠습니까?"
+  },
+  {
+   "key": "9d2f5fa3f0cd",
+   "speaker_korean": null,
+   "korean": "판매확인"
+  },
+  {
+   "key": "44305c11e9c9",
+   "speaker_korean": null,
+   "korean": "아이템을 판매합니다\n그러시겠습니까?"
+  },
+  {
+   "key": "0bf22ed355bf",
+   "speaker_korean": null,
+   "korean": "아이템을 전부 판매합니다\n정말 괜찮으시겠습니까?"
+  },
+  {
+   "key": "711eac74e68b",
+   "speaker_korean": null,
+   "korean": "거래하지 않았습니다"
+  },
+  {
+   "key": "e2305696eba9",
+   "speaker_korean": null,
+   "korean": "를 눌러 주세요"
+  },
+  {
+   "key": "0151bf61f038",
+   "speaker_korean": null,
+   "korean": "폴이 부족합니다"
+  },
+  {
+   "key": "856b5d68b548",
+   "speaker_korean": null,
+   "korean": "전부"
+  },
+  {
+   "key": "2332c7a11073",
+   "speaker_korean": null,
+   "korean": "⟦1⟧개⟦2⟧"
+  },
+  {
+   "key": "4e7d0a942f60",
+   "speaker_korean": null,
+   "korean": " 설명 전환\n 상세 정보\n 수 줄이기   수 늘리기"
+  },
+  {
+   "key": "5accfbf7a552",
+   "speaker_korean": null,
+   "korean": "전부판매"
+  },
+  {
+   "key": "205a9133bea4",
+   "speaker_korean": null,
+   "korean": "뒤로팔기"
+  },
+  {
+   "key": "7c7e2933cb68",
+   "speaker_korean": null,
+   "korean": "⟦1⟧라인 상태가 좋지 않습니다\n개발을 계속할 수 없게 되었습니다⟦2⟧"
+  },
+  {
+   "key": "fb57ebc0c2a7",
+   "speaker_korean": null,
+   "korean": "⟦1⟧현재 소지한 폴로는 개발할 수 없습니다\n비용을 조정해 주세요⟦2⟧"
+  },
+  {
+   "key": "26dedf273f85",
+   "speaker_korean": null,
+   "korean": "⟦1⟧개조에 필요한 소재가 부족하여\n레시피를 지정할 수 없습니다⟦2⟧"
+  },
+  {
+   "key": "cf8a49ba77b8",
+   "speaker_korean": null,
+   "korean": "⟦1⟧라인에 대한 지시가 충분하지 않아\n이대로는 시작할 수 없습니다⟦2⟧"
+  },
+  {
+   "key": "3dbe2f196143",
+   "speaker_korean": null,
+   "korean": "라인 수"
+  },
+  {
+   "key": "fa340e50c94d",
+   "speaker_korean": null,
+   "korean": "크리에이션을 실행하시겠습니까?"
+  },
+  {
+   "key": "a57bc23c4ca8",
+   "speaker_korean": null,
+   "korean": "닫기"
+  },
+  {
+   "key": "f12b31392c2a",
+   "speaker_korean": null,
+   "korean": "뒤로결정"
+  },
+  {
+   "key": "b69c2231431c",
+   "speaker_korean": null,
+   "korean": "소비하는 아이템"
+  },
+  {
+   "key": "21d2d14abca0",
+   "speaker_korean": null,
+   "korean": "합성할 무기"
+  },
+  {
+   "key": "9207383ad004",
+   "speaker_korean": null,
+   "korean": "합성되는 아이템"
+  },
+  {
+   "key": "a8c8931c7137",
+   "speaker_korean": null,
+   "korean": "어느 무기에\n합성할까요?"
+  },
+  {
+   "key": "de80eee85704",
+   "speaker_korean": null,
+   "korean": "무엇을\n합성할까요?"
+  },
+  {
+   "key": "8cb64205ed3d",
+   "speaker_korean": null,
+   "korean": "위 아이템으로 합성합니다\n그러시겠습니까?"
+  },
+  {
+   "key": "1a3ba66b950e",
+   "speaker_korean": null,
+   "korean": "뭘\n개조할까요?"
+  },
+  {
+   "key": "16b1947b3da7",
+   "speaker_korean": null,
+   "korean": "개발을 시작합니다"
+  },
+  {
+   "key": "1ffc03a736b8",
+   "speaker_korean": null,
+   "korean": "모든 라인이 종료되었습니다\n개발을 완료합니다"
+  },
+  {
+   "key": "6af7a8cbf0d9",
+   "speaker_korean": null,
+   "korean": "크리에이션"
+  },
+  {
+   "key": "452fc3a11e22",
+   "speaker_korean": null,
+   "korean": "아이템 크리에이션"
+  },
+  {
+   "key": "2bee91c05bc8",
+   "speaker_korean": null,
+   "korean": "팀 편성"
+  },
+  {
+   "key": "ead4b1bd4194",
+   "speaker_korean": null,
+   "korean": "크리에이션을 실행합니다"
+  },
+  {
+   "key": "c7870b76e996",
+   "speaker_korean": null,
+   "korean": "공방의 기능을 확장합니다"
+  },
+  {
+   "key": "e723893c0bbd",
+   "speaker_korean": null,
+   "korean": "크리에이터의 인사이동을 합니다"
+  },
+  {
+   "key": "e5a66a3fb13c",
+   "speaker_korean": null,
+   "korean": "감정합니다"
+  },
+  {
+   "key": "5eb3941ca179",
+   "speaker_korean": null,
+   "korean": "크리에이터를 배치합니다"
+  },
+  {
+   "key": "933e5b581c69",
+   "speaker_korean": null,
+   "korean": "실행 중입니다 명령 가능"
+  },
+  {
+   "key": "f929ca8e83e8",
+   "speaker_korean": null,
+   "korean": "개발할 아이템을 지정합니다"
+  },
+  {
+   "key": "c6fe71ef66b2",
+   "speaker_korean": null,
+   "korean": "팀을 결정합니다"
+  },
+  {
+   "key": "ab42ccf72a25",
+   "speaker_korean": null,
+   "korean": "크리에이션 실행"
+  }
+ ]
+}

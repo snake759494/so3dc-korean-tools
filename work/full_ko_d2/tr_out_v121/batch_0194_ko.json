@@ -1,0 +1,385 @@
+{
+ "batch_id": "batch_0194",
+ "translations": [
+  {
+   "key": "4aef915238dd",
+   "speaker_korean": null,
+   "korean": "⟦1⟧인챈트 북(물・무효)⟦2⟧을 손에 넣었다."
+  },
+  {
+   "key": "aaf3ae7208d5",
+   "speaker_korean": "페이트",
+   "korean": "「여기가… 소문의 산적단 아지트인가?\n혹시 ⟦1⟧아미나⟦2⟧가 붙잡혀 있을지도."
+  },
+  {
+   "key": "08f7c437319a",
+   "speaker_korean": "클리프",
+   "korean": "「그 가능성은\n부정 못 하겠다."
+  },
+  {
+   "key": "1149c855e07a",
+   "speaker_korean": "넬",
+   "korean": "「그렇겠네.\n조사해 볼까?"
+  },
+  {
+   "key": "019561329f20",
+   "speaker_korean": "넬",
+   "korean": "「그럼, 나는 이 주변을 조사하고 오지.\n너희는 안쪽을 부탁해."
+  },
+  {
+   "key": "97e97b14baab",
+   "speaker_korean": null,
+   "korean": "⟦1⟧헤비 아머⟦2⟧를 손에 넣었다."
+  },
+  {
+   "key": "5d6281451c3a",
+   "speaker_korean": null,
+   "korean": "일7서루\n백연L무해P잠I／은자7천\n호⟦G:e453d621⟧인⟦G:41bbefcd⟧L견고m친자θ하°사m"
+  },
+  {
+   "key": "56127511050b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧콘 시드⟦2⟧를 손에 넣었다."
+  },
+  {
+   "key": "986bbfb01725",
+   "speaker_korean": null,
+   "korean": "⟦1⟧트래핑 카드 EX5⟦2⟧를 손에 넣었다."
+  },
+  {
+   "key": "bebc07901d48",
+   "speaker_korean": "로저",
+   "korean": "「이 누나 말이야?"
+  },
+  {
+   "key": "f8865dbee910",
+   "speaker_korean": "클리프",
+   "korean": "「어떠냐?\n괜찮아?"
+  },
+  {
+   "key": "5b7838537442",
+   "speaker_korean": "넬",
+   "korean": "「일단 숨은 붙어 있지만…괜찮다고\n장담할 만큼 낙관할 순 없겠네."
+  },
+  {
+   "key": "782ea38b48e0",
+   "speaker_korean": "아미나",
+   "korean": "「으윽…… 으응…."
+  },
+  {
+   "key": "d804565000d3",
+   "speaker_korean": "로저",
+   "korean": "「이 몸은 여기서 작별이다.\n누나, 찾아서 다행이다."
+  },
+  {
+   "key": "613be5b129d9",
+   "speaker_korean": "로저",
+   "korean": "「그럼 간다!"
+  },
+  {
+   "key": "60e34c451343",
+   "speaker_korean": "클리프",
+   "korean": "「이봐, 서두르자."
+  },
+  {
+   "key": "4fde47802b94",
+   "speaker_korean": "페이트",
+   "korean": "「일단 마을로\n데려가자!"
+  },
+  {
+   "key": "66c9d3f97146",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧아미나⟦2⟧! ⟦3⟧아미나⟦4⟧!"
+  },
+  {
+   "key": "05832fa162ce",
+   "speaker_korean": "로저",
+   "korean": "「헤헤, 피차일반이잖아.\n신경 쓰지 말라고."
+  },
+  {
+   "key": "4f4a969956d7",
+   "speaker_korean": "페이트",
+   "korean": "「안개는 여기서\n나오는 건가?"
+  },
+  {
+   "key": "a4f468204d36",
+   "speaker_korean": "클리프",
+   "korean": "「그렇다곤 해도….\n어떻게 하면 되는 거야?"
+  },
+  {
+   "key": "38b13a493155",
+   "speaker_korean": "넬",
+   "korean": "「…온다."
+  },
+  {
+   "key": "572f4a51e9ff",
+   "speaker_korean": "넬",
+   "korean": "「…안개가 사라졌어."
+  },
+  {
+   "key": "44950dfded6b",
+   "speaker_korean": "페이트",
+   "korean": "「어서 가자.\n⟦1⟧아미나⟦2⟧를 찾아야 해."
+  },
+  {
+   "key": "2bfd4791b88b",
+   "speaker_korean": "로저",
+   "korean": "「그건 그렇고\n아무리 봐도 수상한 곳이잖아?"
+  },
+  {
+   "key": "2341677a8c65",
+   "speaker_korean": "로저",
+   "korean": "「잠깐, 뭔가\n위험한 거 아니야?"
+  },
+  {
+   "key": "756e46984dbf",
+   "speaker_korean": "???",
+   "korean": "「누구야!?"
+  },
+  {
+   "key": "f13526d623f9",
+   "speaker_korean": "???",
+   "korean": "「…형들, 누구야?\n딸꾹…."
+  },
+  {
+   "key": "d52bec78dd6c",
+   "speaker_korean": "페이트",
+   "korean": "「…⟦1⟧아미나⟦2⟧는 아니네."
+  },
+  {
+   "key": "4158c33e3847",
+   "speaker_korean": "클리프",
+   "korean": "「뭐야,\n이 꼬맹이는?"
+  },
+  {
+   "key": "ecf8ca388fd3",
+   "speaker_korean": "페이트",
+   "korean": "「아마 산적한테 붙잡힌\n남자애인 것 같은데.\n괜찮아… 우린 수상한 사람 아니야."
+  },
+  {
+   "key": "15393fde6231",
+   "speaker_korean": "???",
+   "korean": "「그럼 도와줘!\n날 여기서 꺼내달라고!"
+  },
+  {
+   "key": "726b32363cc7",
+   "speaker_korean": "페이트",
+   "korean": "「무슨 일이야?\n왜 그런 곳에\n갇혀 있는 거야?"
+  },
+  {
+   "key": "ccb465528a0f",
+   "speaker_korean": "???",
+   "korean": "「난 아무 잘못도\n안 했는데… 으앙!"
+  },
+  {
+   "key": "0c56379ab17a",
+   "speaker_korean": "페이트",
+   "korean": "「그래?\n다른 사람은 없어?"
+  },
+  {
+   "key": "ac8682b4ca16",
+   "speaker_korean": "???",
+   "korean": "「없어… 딸꾹."
+  },
+  {
+   "key": "2a71be32d2e3",
+   "speaker_korean": "페이트",
+   "korean": "「그럼 여자애 못 봤어?\n⟦1⟧아미나⟦2⟧라고 하는데…."
+  },
+  {
+   "key": "663971520e7b",
+   "speaker_korean": "???",
+   "korean": "「…."
+  },
+  {
+   "key": "520fc68e3289",
+   "speaker_korean": "???",
+   "korean": "「열받아! 그런 거 아무래도\n상관없잖아, 등신아!!\n⟦P⟧빨리 꺼내주기만\n하면 되는 거잖아!!"
+  },
+  {
+   "key": "bde12d8489b4",
+   "speaker_korean": "???",
+   "korean": "「윽…."
+  },
+  {
+   "key": "f478fd2e3f4e",
+   "speaker_korean": "클리프",
+   "korean": "「이야, 이야, 그게 본성이냐?\n내숭 떨고 있었나 보군."
+  },
+  {
+   "key": "85a2ab2ac2da",
+   "speaker_korean": "???",
+   "korean": "「실수했다… 그만…."
+  },
+  {
+   "key": "dc40d6dbb023",
+   "speaker_korean": "페이트",
+   "korean": "「그런 것 같네…."
+  },
+  {
+   "key": "8adfe6e0e722",
+   "speaker_korean": "???",
+   "korean": "「아, 이제 그만할래, 그만할래!\n빨리 꺼내줘, 형들!\n자, 어서!"
+  },
+  {
+   "key": "034178440a31",
+   "speaker_korean": "페이트",
+   "korean": "「대체 넌 누구야?"
+  },
+  {
+   "key": "bc9464f91c8e",
+   "speaker_korean": "???",
+   "korean": "「이 몸?"
+  },
+  {
+   "key": "a306308f64cf",
+   "speaker_korean": "???",
+   "korean": "「이 몸은 ⟦1⟧로저⟦2⟧다.\n⟦3⟧로저 님⟦4⟧이시다.\n단장이라고! 대단하다고!"
+  },
+  {
+   "key": "64c919eaea68",
+   "speaker_korean": "클리프",
+   "korean": "「그런 걸 물어본 게\n아니거든."
+  },
+  {
+   "key": "f5acab51c08f",
+   "speaker_korean": "로저",
+   "korean": "「시끄럽네, 덩치야!\n애초에 사람이 도움을 청하고 있는데\n보통은 얼른 꺼내주는 게\n맞는 거 아니냐?\n의리인정이란 건 중요한 거라고.\n아빠도 그랬단 말이야.\n메라, 틀림없다니까!!"
+  },
+  {
+   "key": "454ec55898c8",
+   "speaker_korean": "로저",
+   "korean": "「형들은\n그런 것도 몰라?"
+  },
+  {
+   "key": "97c80403690a",
+   "speaker_korean": "페이트",
+   "korean": "「이 녀석…."
+  },
+  {
+   "key": "b1f4f5d5a5fe",
+   "speaker_korean": "넬",
+   "korean": "「무슨 일이야, 둘 다?\n무슨 일 있었어?"
+  },
+  {
+   "key": "c8187432746a",
+   "speaker_korean": "페이트",
+   "korean": "「그게…."
+  },
+  {
+   "key": "9b02f9d7f204",
+   "speaker_korean": "로저",
+   "korean": "「응?\n아름다운 목소리가 들렸는데…."
+  },
+  {
+   "key": "7591c2c97e5b",
+   "speaker_korean": "로저",
+   "korean": "「오오, 메라 아름다운 누님.\n이 불쌍한 이 몸을\n여기서 꺼내주시옵소서!!"
+  },
+  {
+   "key": "ebdc1e1f5a7f",
+   "speaker_korean": "넬",
+   "korean": "「…뭐야, 이 애는?\n산적 일당이야?"
+  },
+  {
+   "key": "ef51a75c163f",
+   "speaker_korean": "로저",
+   "korean": "「그건 큰 오해입니다, 누님.\n실은 이 몸은―――――"
+  },
+  {
+   "key": "90c778096dd5",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧아미나⟦2⟧는 여기 없는 것 같아.\n다른 곳으로 가자."
+  },
+  {
+   "key": "ed74c9e27d77",
+   "speaker_korean": "클리프",
+   "korean": "「그러게.\n이 녀석 상대하는 것도 귀찮고."
+  },
+  {
+   "key": "f2d4e90ae42a",
+   "speaker_korean": "로저",
+   "korean": "「그, 그런 너무하잖아!\n도와달라니까――――"
+  },
+  {
+   "key": "cfc6bbae902f",
+   "speaker_korean": "???",
+   "korean": "「뭐냐?\n네놈들은!?"
+  },
+  {
+   "key": "ccde76e295e5",
+   "speaker_korean": "로저",
+   "korean": "「이런, 등신들이\n돌아왔군!\n⟦P⟧지금부터 이 몸의 부하들이 네놈들을\n아주 묵사발로 만들어줄 테니까!!\n각오해라!!"
+  },
+  {
+   "key": "8f78467f22ab",
+   "speaker_korean": "산적",
+   "korean": "「뭐라고!?"
+  },
+  {
+   "key": "f6f385398842",
+   "speaker_korean": "클리프",
+   "korean": "「저기, 부하라는 게\n설마…."
+  },
+  {
+   "key": "bd27286a7b5e",
+   "speaker_korean": "페이트",
+   "korean": "「아, 우리를 말하는 건가?"
+  },
+  {
+   "key": "f10508e2a2ce",
+   "speaker_korean": "넬",
+   "korean": "「아마 그렇겠지."
+  },
+  {
+   "key": "268613c76b41",
+   "speaker_korean": "페이트",
+   "korean": "「하아…."
+  },
+  {
+   "key": "3f4695f1efdc",
+   "speaker_korean": "넬",
+   "korean": "「하아…."
+  },
+  {
+   "key": "8a02a40a1892",
+   "speaker_korean": "산적",
+   "korean": "「젠장!!"
+  },
+  {
+   "key": "95783d9c2fe8",
+   "speaker_korean": "로저",
+   "korean": "「이제 와서 무릎 꿇어도 늦었다.\n절대 봐주지 않을 거다.\n해치워라, 얘들아!!"
+  },
+  {
+   "key": "333a70981036",
+   "speaker_korean": "로저",
+   "korean": "「살았다. 고마워."
+  },
+  {
+   "key": "b56e5ecf7f36",
+   "speaker_korean": "클리프",
+   "korean": "「뭐, 뭐야?\n이 녀석 꼬리가 나 있잖아!!"
+  },
+  {
+   "key": "76e8687f85e0",
+   "speaker_korean": "로저",
+   "korean": "「바보 취급하지 마, 등신아!!\n이 몸의 꼬리는 동료들 사이에서도\n최고로 부드럽다고 소문났다고!!"
+  },
+  {
+   "key": "7b306af06fc9",
+   "speaker_korean": "넬",
+   "korean": "「⟦1⟧선마이트 공화국⟦2⟧의 ⟦3⟧아인⟦4⟧이군…\n⟦5⟧메노딕스족⟦6⟧인가?"
+  },
+  {
+   "key": "942020b64499",
+   "speaker_korean": "로저",
+   "korean": "「맞아요, 누님."
+  },
+  {
+   "key": "f68136d61f28",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧선마이트 공화국⟦2⟧?"
+  }
+ ]
+}

@@ -1,0 +1,380 @@
+{
+ "batch_id": "batch_0225",
+ "translations": [
+  {
+   "key": "652097106720",
+   "speaker_korean": "페이트",
+   "korean": "「이 녀석은…!\n아직도 이런 놈이\n남아 있었나…!!"
+  },
+  {
+   "key": "75e37dcf0122",
+   "speaker_korean": "페이트",
+   "korean": "「잠겨 있어서\n열릴 것 같지 않군."
+  },
+  {
+   "key": "9041a8d64d81",
+   "speaker_korean": "페이트",
+   "korean": "「이건…스위치 같은데….\n완전히 파괴되어 있어.\n역시 그놈들 짓인가?"
+  },
+  {
+   "key": "1527005a55e3",
+   "speaker_korean": "페이트",
+   "korean": "「스위치는 완전히 파괴되어 있어서\n움직일 것 같지 않군."
+  },
+  {
+   "key": "50304409aef5",
+   "speaker_korean": "페이트",
+   "korean": "「안 되나….\n잠겨 있어서\n열릴 것 같지 않아."
+  },
+  {
+   "key": "38fb32bc8e13",
+   "speaker_korean": null,
+   "korean": "⟦1⟧매지컬 펜⟦2⟧을 손에 넣었다."
+  },
+  {
+   "key": "9dcb48597983",
+   "speaker_korean": "페이트",
+   "korean": "「안 되겠어.\n잠겨 있어서\n열릴 것 같지 않아."
+  },
+  {
+   "key": "b7f6bcf984ba",
+   "speaker_korean": "페이트",
+   "korean": "「또 가디언이…!!"
+  },
+  {
+   "key": "cf15dae87921",
+   "speaker_korean": "페이트",
+   "korean": "「이제 더 이상\n아무 일도 없는 모양이군."
+  },
+  {
+   "key": "03065f2f3410",
+   "speaker_korean": "페이트",
+   "korean": "「또 지진인가…!?"
+  },
+  {
+   "key": "beddee6672b9",
+   "speaker_korean": "페이트",
+   "korean": "「가라앉았나….\n분명 그놈들이 뭔가 하고 있는 게\n틀림없어…."
+  },
+  {
+   "key": "3ecd463dcbe3",
+   "speaker_korean": "페이트",
+   "korean": "「잠겨 있어서\n열 수 없을 것 같군…."
+  },
+  {
+   "key": "5051b86c7fe6",
+   "speaker_korean": null,
+   "korean": "⟦1⟧22000폴⟦2⟧을 손에 넣었다."
+  },
+  {
+   "key": "50543213eb96",
+   "speaker_korean": null,
+   "korean": "⟦1⟧에너미 오브⟦2⟧를 손에 넣었다."
+  },
+  {
+   "key": "dea5834bb702",
+   "speaker_korean": "페이트",
+   "korean": "「『긍지를 걸고 증표를 얻어라』\n라고 적혀 있다."
+  },
+  {
+   "key": "66100cec20c3",
+   "speaker_korean": "페이트",
+   "korean": "「자물쇠가 걸려 있어서\n열릴 것 같지 않군."
+  },
+  {
+   "key": "dd9073890416",
+   "speaker_korean": "페이트",
+   "korean": "「…아무 일도 없군.\n대체 이 방에는 뭐가 있는 걸까?"
+  },
+  {
+   "key": "91f4fb684db1",
+   "speaker_korean": null,
+   "korean": "⟦1⟧가장 왼쪽 방에는 누가 들어갑니까?"
+  },
+  {
+   "key": "868d96028c74",
+   "speaker_korean": null,
+   "korean": "⟦1⟧왼쪽에서 2번째 방에는 누가 들어갑니까?"
+  },
+  {
+   "key": "0f90d276fa52",
+   "speaker_korean": null,
+   "korean": "⟦1⟧왼쪽에서 3번째 방에는 누가 들어갑니까?"
+  },
+  {
+   "key": "dcce75e6ebee",
+   "speaker_korean": null,
+   "korean": "⟦1⟧오른쪽 끝 방에는 누가 들어갑니까?"
+  },
+  {
+   "key": "7a83fb77faff",
+   "speaker_korean": null,
+   "korean": "이걸로 괜찮습니까?\n⟦1⟧・좌측----⟦2⟧\n⟦3⟧・왼쪽 2번째----⟦4⟧\n⟦5⟧・왼쪽 3번째----⟦6⟧\n⟦7⟧・우측----⟦8⟧"
+  },
+  {
+   "key": "097e604819bd",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・이걸로 결정한다."
+  },
+  {
+   "key": "122a2f8d8ea8",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・역시 그만둔다."
+  },
+  {
+   "key": "1095c31947c6",
+   "speaker_korean": "페이트",
+   "korean": "「안 되나….\n적이 꽤 만만치 않군.\n누굴 보낼지 잘 생각해야겠어."
+  },
+  {
+   "key": "4cd96d02c40c",
+   "speaker_korean": "페이트",
+   "korean": "「더 이상 싸울 필요는 없겠군."
+  },
+  {
+   "key": "46545ab8eb49",
+   "speaker_korean": "페이트",
+   "korean": "「젠장!!\n아직도 남아 있는 건가!!"
+  },
+  {
+   "key": "2abf94e577fa",
+   "speaker_korean": null,
+   "korean": "⟦1⟧스톤 체크⟦2⟧를 손에 넣었다."
+  },
+  {
+   "key": "3da51f7ee987",
+   "speaker_korean": "페이트",
+   "korean": "「『어리석은 자여 나아가라\n   그리고 붉은 보주에 손을 대라』\n라고 적혀 있다."
+  },
+  {
+   "key": "317a275252a5",
+   "speaker_korean": "페이트",
+   "korean": "「『탐색을 쉬지 않는 자가 승자다』\n라고 적혀 있다."
+  },
+  {
+   "key": "aec4e7b34c74",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・보석을 만져 본다."
+  },
+  {
+   "key": "ee9118697317",
+   "speaker_korean": "페이트",
+   "korean": "「가라앉았나.\n방금 그 흔들림은 대체….\n보석이\n회전하기 시작했군."
+  },
+  {
+   "key": "a5825a186653",
+   "speaker_korean": "페이트",
+   "korean": "「보석의 회전이 멈췄다."
+  },
+  {
+   "key": "55f4b6311ddd",
+   "speaker_korean": null,
+   "korean": "⟦1⟧54000폴⟦2⟧을 손에 넣었다."
+  },
+  {
+   "key": "6267856f37b7",
+   "speaker_korean": "페이트",
+   "korean": "「튼튼하게 만들어진 문이군.\n자물쇠도 단단히 걸려 있어서\n열 수 없을 것 같다."
+  },
+  {
+   "key": "d7b6021410a8",
+   "speaker_korean": "넬",
+   "korean": "「이 안쪽이 안치소야….\n그곳에 ⟦1⟧세피라⟦2⟧가 있을 거야."
+  },
+  {
+   "key": "3ac8afae9249",
+   "speaker_korean": "마리아",
+   "korean": "「그럼, ⟦1⟧반덴⟦2⟧ 놈들도\n이 안에 있다는 거네."
+  },
+  {
+   "key": "db39675df4f2",
+   "speaker_korean": "넬",
+   "korean": "「아마도."
+  },
+  {
+   "key": "0b02e2fa9f69",
+   "speaker_korean": "마리아",
+   "korean": "「다들, 준비 됐어?"
+  },
+  {
+   "key": "72ecdafc2a3f",
+   "speaker_korean": "클리프",
+   "korean": "「그렇게 놔둘까 보냐!"
+  },
+  {
+   "key": "7e1f7babaaac",
+   "speaker_korean": "마리아",
+   "korean": "「맞아!\n욕심부리는 건\n좋지 않아!"
+  },
+  {
+   "key": "87265d4c2ec6",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧세피라⟦2⟧에서 떨어져!!"
+  },
+  {
+   "key": "ad088144c0ff",
+   "speaker_korean": "반덴 병사",
+   "korean": "「음!?\n네놈은…라인갓인가?"
+  },
+  {
+   "key": "d0c3f042af49",
+   "speaker_korean": "반덴 병사",
+   "korean": "「의문의 에너지 내뿜는 ⟦1⟧오파츠⟦2⟧를 조사하러\n와봤더니, 설마 네가 직접 올 줄이야.\n딱 불나방 꼴이로군.\n찾아다닐 수고를 덜었군!!"
+  },
+  {
+   "key": "77583a25677a",
+   "speaker_korean": "넬",
+   "korean": "「우리나라의 보물,\n돌려받겠어!!"
+  },
+  {
+   "key": "9656d50f9844",
+   "speaker_korean": "반덴 병사",
+   "korean": "「그렇게는 안 되지.\n이만한 ⟦1⟧오파츠⟦2⟧를 순순히 포기할까 보냐.\n거기 애송이까지 몽땅 가져가겠다!"
+  },
+  {
+   "key": "80e537d0583b",
+   "speaker_korean": "페이트",
+   "korean": "「그래.\n어서 ⟦1⟧시랜드⟦2⟧로 돌아가서\n폐하께 ⟦3⟧세피라⟦4⟧가 무사하다고 알리자."
+  },
+  {
+   "key": "35a81a3ee12c",
+   "speaker_korean": "마리아",
+   "korean": "「역시 이 에너지파는,\n지금까지 관측된 적 없는 파형이네.\n분명 이 별에 있어야 할\n수준의 물건이 아니야."
+  },
+  {
+   "key": "14fdedc378f3",
+   "speaker_korean": "클리프",
+   "korean": "「역시 ⟦1⟧오파츠⟦2⟧인가."
+  },
+  {
+   "key": "9506d6d6a408",
+   "speaker_korean": "마리아",
+   "korean": "「현시점에서는 그렇게밖에\n말할 수 없네."
+  },
+  {
+   "key": "372841f4433e",
+   "speaker_korean": "클리프",
+   "korean": "「그렇기 때문에\n신기인 거겠지만 말이야."
+  },
+  {
+   "key": "85ff0cbf451f",
+   "speaker_korean": "넬",
+   "korean": "「어쨌든 무사해서 다행이야.\n이걸로 폐하를 슬프게 하지 않아도 되겠어."
+  },
+  {
+   "key": "30b20e0708fb",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧세피라⟦2⟧는 무사했어.\n어서 ⟦3⟧시랜드⟦4⟧로 돌아가자."
+  },
+  {
+   "key": "bebd5940db31",
+   "speaker_korean": "페이트",
+   "korean": "(…가만히 가져갈 수는\n없겠지."
+  },
+  {
+   "key": "c8b4effc7bbf",
+   "speaker_korean": "소피아",
+   "korean": "「이게, ⟦1⟧세피라⟦2⟧?"
+  },
+  {
+   "key": "003eb6b1fb3a",
+   "speaker_korean": "페이트",
+   "korean": "「그래.\n우리 추측이 틀리지 않았다면,\n이게 특수 ⟦1⟧AD⟦2⟧일 거야."
+  },
+  {
+   "key": "71e6d0ff97bb",
+   "speaker_korean": "소피아",
+   "korean": "「⟦1⟧블레어 씨⟦2⟧…저예요….\n들리세요? ⟦3⟧블레어 씨⟦4⟧?\n…꺄악!!"
+  },
+  {
+   "key": "bfe560f4aca9",
+   "speaker_korean": "블레어",
+   "korean": "『…려…\n…들려."
+  },
+  {
+   "key": "290981c33d67",
+   "speaker_korean": "소피아",
+   "korean": "「⟦1⟧블레어 씨⟦2⟧! 다행이에요!\n이쪽은 ⟦3⟧세피라⟦4⟧를 입수했어요."
+  },
+  {
+   "key": "c0fe39a92972",
+   "speaker_korean": "블레어",
+   "korean": "『그래. 그런 것 같네.\n역시 ⟦1⟧세피라⟦2⟧가\n⟦3⟧AD⟦4⟧였던 모양이네."
+  },
+  {
+   "key": "41d8d35bae1d",
+   "speaker_korean": "소피아",
+   "korean": "「네.\n저희는 이제부터\n어떻게 하면 될까요?"
+  },
+  {
+   "key": "8af50833f123",
+   "speaker_korean": "블레어",
+   "korean": "『그게 말인데,\n잠시 대기하고 있었으면 해."
+  },
+  {
+   "key": "33cb6f2535dd",
+   "speaker_korean": "소피아",
+   "korean": "「어째서인가요?\n한시라도 빨리 오너를 설득해서,\n언인스톨을 해야 하는데."
+  },
+  {
+   "key": "5bb819010552",
+   "speaker_korean": "블레어",
+   "korean": "『그게 말이지,\n오너가 있는 공간을\n아직 좁히지 못했어."
+  },
+  {
+   "key": "47703f28e352",
+   "speaker_korean": "블레어",
+   "korean": "『⟦1⟧AD⟦2⟧를 입수해 준 건 좋은데,\n공간의 액세스 포인트를\n모르면 의미가 없어."
+  },
+  {
+   "key": "5ffcc19e0eb4",
+   "speaker_korean": "소피아",
+   "korean": "「그런 건가요…."
+  },
+  {
+   "key": "53919d248b1c",
+   "speaker_korean": "블레어",
+   "korean": "『지금, ⟦1⟧단죄자⟦2⟧의 움직임 등으로,\n검색을 걸고 있는데….\n조금 더 시간이 걸릴 것 같아."
+  },
+  {
+   "key": "c31b4599b204",
+   "speaker_korean": "블레어",
+   "korean": "『오너가 있는 공간이 확정되면,\n⟦1⟧세피라⟦2⟧를 통해 연락할게.\n그때까지 준비를 갖추거나 하면서,\n대기하고 있어 줄래?"
+  },
+  {
+   "key": "f7ac97c3037f",
+   "speaker_korean": "블레어",
+   "korean": "『그럼."
+  },
+  {
+   "key": "b469ef243b19",
+   "speaker_korean": "소피아",
+   "korean": "「잠시\n대기하고 있어 달래."
+  },
+  {
+   "key": "3b7b599ecfbb",
+   "speaker_korean": "마리아",
+   "korean": "「대기?"
+  },
+  {
+   "key": "3c13f113af0e",
+   "speaker_korean": "소피아",
+   "korean": "「네.\n아직 오너가 있는 공간을\n특정하지 못했다고 해요."
+  },
+  {
+   "key": "c1bb6bc0fc07",
+   "speaker_korean": "클리프",
+   "korean": "「이동 수단이 있어봤자,\n목적지를 모르면\n어쩔 도리가 없잖냐."
+  },
+  {
+   "key": "8edf9e68db08",
+   "speaker_korean": "페이트",
+   "korean": "「그래.\n일단 ⟦1⟧시랜드⟦2⟧로 돌아가서\n대기하고 있자."
+  },
+  {
+   "key": "d6417c8aac87",
+   "speaker_korean": null,
+   "korean": "⟦1⟧세피라⟦2⟧를 손에 넣었다."
+  }
+ ]
+}

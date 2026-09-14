@@ -1,0 +1,30 @@
+{
+ "batch_id": "batch_2020",
+ "translations": [
+  {
+   "key": "cfbe76d792f1",
+   "speaker_korean": null,
+   "korean": "수호 고양이"
+  },
+  {
+   "key": "9f25befc571a",
+   "speaker_korean": null,
+   "korean": "사심의 부적"
+  },
+  {
+   "key": "2dc914fd6ceb",
+   "speaker_korean": null,
+   "korean": "안개의 부적"
+  },
+  {
+   "key": "1c5cd8bb8df4",
+   "speaker_korean": null,
+   "korean": "바니의 부적"
+  },
+  {
+   "key": "3ea8e9764e36",
+   "speaker_korean": null,
+   "korean": "순무 가쓰오 볶음"
+  }
+ ]
+}

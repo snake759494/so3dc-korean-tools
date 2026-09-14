@@ -1,0 +1,320 @@
+{
+ "batch_id": "batch_0106",
+ "translations": [
+  {
+   "key": "55e64fda56fe",
+   "speaker_korean": "로저",
+   "korean": "「그런 말 들으면 쑥스럽잖아.\n…아빠, 무사히 구해오면 좋겠다!!"
+  },
+  {
+   "key": "f434e572e0c5",
+   "speaker_korean": "페이트",
+   "korean": "「응, 고마워."
+  },
+  {
+   "key": "86d07bbbdaac",
+   "speaker_korean": "로저",
+   "korean": "「나도 말이야.\n아~ 사실은 나도 같이\n따라가고 싶은 건데 말이지."
+  },
+  {
+   "key": "5fdd58173fbc",
+   "speaker_korean": "페이트",
+   "korean": "「…어라, ⟦1⟧알벨⟦2⟧은?"
+  },
+  {
+   "key": "0d669e907877",
+   "speaker_korean": "마리아",
+   "korean": "「이별 인사도 없이…라.\n끝까지 여전하네."
+  },
+  {
+   "key": "8148c7459984",
+   "speaker_korean": "페이트",
+   "korean": "「인사 정도는 하고 싶었는데."
+  },
+  {
+   "key": "221be838a0d3",
+   "speaker_korean": "아리그리프 13세",
+   "korean": "「그래, 맡겨 두게."
+  },
+  {
+   "key": "aa1eb1078b4c",
+   "speaker_korean": "마리아",
+   "korean": "「나야."
+  },
+  {
+   "key": "1f227497746e",
+   "speaker_korean": "마리에타",
+   "korean": "『리더, 수리 완료했습니다."
+  },
+  {
+   "key": "489ae6843714",
+   "speaker_korean": "마리아",
+   "korean": "「벌써? 꽤 빨랐네."
+  },
+  {
+   "key": "b2d2d6201e0c",
+   "speaker_korean": "마리에타",
+   "korean": "『네, 열심히 했으니까요."
+  },
+  {
+   "key": "27f15ee3009a",
+   "speaker_korean": "페이트",
+   "korean": "「……여러모로 고마웠어."
+  },
+  {
+   "key": "ce46091a0871",
+   "speaker_korean": "마리아",
+   "korean": "「그래, 고마워. 신세 졌어.\n1분 후에 4명 전송 수용해."
+  },
+  {
+   "key": "30827e316c64",
+   "speaker_korean": "페이트",
+   "korean": "「폐하, 저희는 저희 세계로 돌아가겠습니다.\n방금 그 함대가 소멸했으니,\n이 별은 원래 상태로 돌아갈 것입니다."
+  },
+  {
+   "key": "5fc17d2bb994",
+   "speaker_korean": "시하트 27세",
+   "korean": "「그렇습니까…\n그것 참 다행입니다."
+  },
+  {
+   "key": "04d7987eceaf",
+   "speaker_korean": "로저",
+   "korean": "「잘 지내라!!"
+  },
+  {
+   "key": "e139a3f5bf2c",
+   "speaker_korean": "월터",
+   "korean": "「자, 그런 말 하지 마."
+  },
+  {
+   "key": "2c8995aabe68",
+   "speaker_korean": "아리그리프 13세",
+   "korean": "「내가 그 얘기는 전해두지."
+  },
+  {
+   "key": "c7a52028eca2",
+   "speaker_korean": "파린",
+   "korean": "⟦1⟧「갑니다~ 그런 거예요~!\n⟦P⟧"
+  },
+  {
+   "key": "726fa27a7a14",
+   "speaker_korean": "타이네브",
+   "korean": "⟦1⟧「윽, 으윽…"
+  },
+  {
+   "key": "5121b4c7db5f",
+   "speaker_korean": "파린",
+   "korean": "⟦1⟧「아, 뜨겁고 아파요…"
+  },
+  {
+   "key": "098c9b02d0bb",
+   "speaker_korean": "넬",
+   "korean": "⟦1⟧「그리고, 파린!\n⟦P⟧"
+  },
+  {
+   "key": "730a84510615",
+   "speaker_korean": "타이네브",
+   "korean": "⟦1⟧「알겠습니다.\n⟦P⟧"
+  },
+  {
+   "key": "cc5d1168f488",
+   "speaker_korean": "넬",
+   "korean": "⟦1⟧「둘 다 아직 멀었네.\n⟦P⟧"
+  },
+  {
+   "key": "a41fbabafd2f",
+   "speaker_korean": "넬",
+   "korean": "⟦1⟧「넌 술법에 너무 의존해!\n언제나 타이네브가 막아\n줄 거라고 생각하지 마.\n⟦P⟧"
+  },
+  {
+   "key": "eeea852ac06f",
+   "speaker_korean": "넬",
+   "korean": "⟦1⟧「응!?\n⟦P⟧"
+  },
+  {
+   "key": "f2c1225301c9",
+   "speaker_korean": "넬",
+   "korean": "⟦1⟧「타이네브!\n그냥 때리기만 해선 능사가 아니잖아.\n⟦P⟧상대가 반드시 받아줄 거라면\n그래도 괜찮을지 모르지만,\n첫 일격을 피하기라도 하면\n어쩔 셈이야?\n⟦P⟧무작정 공격만 퍼붓지 말고\n적의 움직임을 더 잘 봐!\n⟦P⟧"
+  },
+  {
+   "key": "0e3a6e3b30d4",
+   "speaker_korean": "???",
+   "korean": "⟦1⟧「아, 있다 있어.\n어~이!\n⟦P⟧"
+  },
+  {
+   "key": "abdc8ed7a6a1",
+   "speaker_korean": "넬",
+   "korean": "⟦1⟧「뭐야, 페이트잖아.\n⟦P⟧"
+  },
+  {
+   "key": "f9dd32bacff2",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「뭐야는 무슨, 뭐야는!\n어제부터 계속 찾고 있었단 말이야.\n⟦P⟧"
+  },
+  {
+   "key": "817669c85579",
+   "speaker_korean": "넬",
+   "korean": "⟦1⟧「그거 참 미안하게 됐네.\n그래서!?\n⟦P⟧"
+  },
+  {
+   "key": "9bc18e09c071",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「그래서!?\n…라니, 그게 다냐.\n⟦P⟧"
+  },
+  {
+   "key": "29651ad9f240",
+   "speaker_korean": "넬",
+   "korean": "⟦1⟧「그 밖에 뭐라고?\n⟦P⟧"
+  },
+  {
+   "key": "3d102e8d8c84",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「됐어, 이제.\n⟦P⟧"
+  },
+  {
+   "key": "134da2c776e6",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「그건 그렇고…\n이런 데서 셋이 모여서 훈련이라도\n하고 있었던 거야?\n⟦P⟧"
+  },
+  {
+   "key": "28cbb28c6d80",
+   "speaker_korean": null,
+   "korean": "그렇다고 해도…\n파린과 둘이 함께 덤벼도\n전혀 상대가 안 됐지만요.\n⟦P⟧"
+  },
+  {
+   "key": "877684892c61",
+   "speaker_korean": "타이네브",
+   "korean": "⟦1⟧「네!\n넬 님께 대련 상대를\n부탁드리고 있었습니다.\n⟦P⟧"
+  },
+  {
+   "key": "e5d39a1f1fe8",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「그렇군…\n어쨌든 다치지 않게 조심해.\n⟦P⟧"
+  },
+  {
+   "key": "0800a4d0ad54",
+   "speaker_korean": null,
+   "korean": "아무튼 이 녀석은 봐주는 게\n지지리도 서툴러서 말이야.\n⟦P⟧"
+  },
+  {
+   "key": "0e9cc75d2866",
+   "speaker_korean": "넬",
+   "korean": "⟦1⟧「그건 무슨 의미야?\n⟦P⟧"
+  },
+  {
+   "key": "5aed4759a6ba",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「일단은, 말 그대로의 의미랄까?\n의외로 발끈하는 타입이잖아.\n너 말이야.\n⟦P⟧"
+  },
+  {
+   "key": "f66820b16016",
+   "speaker_korean": "파린",
+   "korean": "⟦1⟧「그리고…\n일단 꾹 참았다가\n나중에 터지는 타입이에요…\n⟦P⟧"
+  },
+  {
+   "key": "7e5f515d5762",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「아, 맞아 맞아.\n그리고, 의외로 질투가 심하지…\n⟦P⟧"
+  },
+  {
+   "key": "e23418516fae",
+   "speaker_korean": "타이네브",
+   "korean": "⟦1⟧「애초에 페이트 님이랑 클레어 님이\n잠깐 같이 있는 걸 봤다고\n너무 신경질 내시는 거예요.\n⟦P⟧"
+  },
+  {
+   "key": "a4cbcbf57156",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「어…!?\n⟦P⟧"
+  },
+  {
+   "key": "9840c3d47e24",
+   "speaker_korean": "파린",
+   "korean": "⟦1⟧「바~보~야~!\n말이 많아요…\n⟦P⟧"
+  },
+  {
+   "key": "abb91b57d4b2",
+   "speaker_korean": "타이네브",
+   "korean": "⟦1⟧「아차!\n말해버렸다.\n어떡하지, 파린!?\n⟦P⟧"
+  },
+  {
+   "key": "aaf900158c8d",
+   "speaker_korean": "파린",
+   "korean": "⟦1⟧「타이네브 머릿속에는\n장수풍뎅이라도 들어있는 거예요!?\n⟦P⟧휘말리면 귀찮아질 것 같아서\n입 다물고 있으라고 그렇게\n신신당부했잖아요!\n⟦P⟧"
+  },
+  {
+   "key": "f43013eddc3a",
+   "speaker_korean": null,
+   "korean": "그치만 나, 네가 말할 때까지\n그런 아수라장이 될 줄은\n전혀 몰랐단 말이야!\n⟦P⟧"
+  },
+  {
+   "key": "d9f0679b9d7f",
+   "speaker_korean": "파린",
+   "korean": "⟦1⟧「쉿~!\n목소리가 너무 커요!\n⟦P⟧"
+  },
+  {
+   "key": "220c1116ec7c",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「자, 잠깐만!\n무슨 얘기야.\n그건 일 얘기를 하고 있었을 뿐인데…\n⟦P⟧"
+  },
+  {
+   "key": "4d0847201c7b",
+   "speaker_korean": "넬",
+   "korean": "⟦1⟧「그래, 물론 그렇겠지.\n딱히 난 그런 거 신경 안 써.\n⟦P⟧"
+  },
+  {
+   "key": "d50241e24488",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「앗!\n야, 잠깐!\n오해도 안 풀고 가지 말라고!\n⟦P⟧"
+  },
+  {
+   "key": "a65d33001fcb",
+   "speaker_korean": "타이네브",
+   "korean": "⟦1⟧「죄송합니다~!\n⟦P⟧"
+  },
+  {
+   "key": "eb1323e61901",
+   "speaker_korean": "파린",
+   "korean": "⟦1⟧「살아 계셔 주세요~!\n⟦P⟧"
+  },
+  {
+   "key": "5d55373aa6e1",
+   "speaker_korean": "타이네브 & 파린",
+   "korean": "⟦1⟧「페이트 님이 없는 생활 같은 건,\n저희는 이제 상상도 안 되니까요♥\n⟦P⟧"
+  },
+  {
+   "key": "21c511ff3f1e",
+   "speaker_korean": "타이네브",
+   "korean": "⟦1⟧「각오하세요, 넬 님!\n⟦P⟧"
+  },
+  {
+   "key": "c6e204e68830",
+   "speaker_korean": "파린",
+   "korean": "⟦1⟧「홍련의 불꽃이여.\n이 몸을 휘감아 적을 멸하라!\n스피큘!\n⟦P⟧"
+  },
+  {
+   "key": "e77aa35ba706",
+   "speaker_korean": "타이네브",
+   "korean": "⟦1⟧「아류 오의!\n무빙동곤 구십구탄!!\n⟦P⟧"
+  },
+  {
+   "key": "53a5a4024d6b",
+   "speaker_korean": "넬",
+   "korean": "⟦1⟧「무르네!\n⟦P⟧"
+  },
+  {
+   "key": "e7ae8442db2e",
+   "speaker_korean": "파린",
+   "korean": "⟦1⟧「헉! 네, 넵…\n⟦P⟧"
+  },
+  {
+   "key": "761c87c37197",
+   "speaker_korean": "파린",
+   "korean": "⟦1⟧「조심할게요…\n⟦P⟧"
+  },
+  {
+   "key": "2ae50c81a9fc",
+   "speaker_korean": "타이네브",
+   "korean": "⟦1⟧「미안~안, 파린!\n⟦P⟧"
+  }
+ ]
+}

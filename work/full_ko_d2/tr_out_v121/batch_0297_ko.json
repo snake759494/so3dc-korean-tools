@@ -1,0 +1,630 @@
+{
+ "batch_id": "batch_0297",
+ "translations": [
+  {
+   "key": "5e4e47a7299b",
+   "speaker_korean": null,
+   "korean": "나보다 적이 좋아할 조각상゜얼른 버리는 게 상책"
+  },
+  {
+   "key": "f1c11d61f1ca",
+   "speaker_korean": null,
+   "korean": "나보다 적이 좋아할 머리 장식゜얼른 버리는 게 상책"
+  },
+  {
+   "key": "84dc7d83fc23",
+   "speaker_korean": null,
+   "korean": "아무리 애써도 전혀 보상받지 못할 것 같은 목걸이"
+  },
+  {
+   "key": "a555d12e4d5e",
+   "speaker_korean": null,
+   "korean": "신발 너머로 미끌거리는 감촉이 느껴지는 찝찝한 부츠"
+  },
+  {
+   "key": "307125933002",
+   "speaker_korean": null,
+   "korean": "아무리 애써도 전혀 보상받지 못할 것 같은 부적"
+  },
+  {
+   "key": "29a0888722f3",
+   "speaker_korean": null,
+   "korean": "흉포한 무지개를 본뜬 불길한 문장゜주인에게 좋은 결과를 가져올 것 같진 않지만…"
+  },
+  {
+   "key": "5128819f49e7",
+   "speaker_korean": null,
+   "korean": "안을 들여다보면, 몹시 초라해 가난의 신처럼 보이는 존재가 보이는 수정구"
+  },
+  {
+   "key": "515937c08cea",
+   "speaker_korean": null,
+   "korean": "연구에 몰두한 나머지, 주변이 안 보이게 된 자가 적었다는 두루마리"
+  },
+  {
+   "key": "6f1082d92333",
+   "speaker_korean": null,
+   "korean": "흉악한 악마를 연상시키는 부조가 새겨진 성배゜주인에게 좋은 결과를 가져올 것 같진 않지만…"
+  },
+  {
+   "key": "6fbf3e3b29fd",
+   "speaker_korean": null,
+   "korean": "사후 세계를 상세히 적었다는 두루마리゜진위는 불명"
+  },
+  {
+   "key": "91d22c24c734",
+   "speaker_korean": null,
+   "korean": "터뜨리면 적도 나도 아무도 좋을 게 없을 것 같은 폭탄"
+  },
+  {
+   "key": "6185857f3837",
+   "speaker_korean": null,
+   "korean": "얼음 덩어리를 없앨 수 있는 폭탄゜과용 주의"
+  },
+  {
+   "key": "355b29ddb652",
+   "speaker_korean": null,
+   "korean": "금 간 벽을 없앨 수 있는 마법의 망치゜과용 주의"
+  },
+  {
+   "key": "1308a2378f4f",
+   "speaker_korean": null,
+   "korean": "어둠을 밝히는 강한 빛을 내는 돌゜사용하려면 장착해야 한다"
+  },
+  {
+   "key": "e96ccc95f51e",
+   "speaker_korean": null,
+   "korean": "배틀 스킬 「스타・폴」을 익힐 수 있는 책"
+  },
+  {
+   "key": "30fde9f18f29",
+   "speaker_korean": null,
+   "korean": "약한 적을 강하게 만드는 수수께끼 조각상゜획득 EXP도 늘지만, 강한 적엔 효과가 적다"
+  },
+  {
+   "key": "56c1c70f12e4",
+   "speaker_korean": null,
+   "korean": "성왕국 시하츠 최고의 기술을 모아 만든 마검"
+  },
+  {
+   "key": "5c52bcdec7a7",
+   "speaker_korean": null,
+   "korean": "라벨에 글자가 있지만 얼룩져서 조금밖에 못 읽는다゜By-P●●●Y?"
+  },
+  {
+   "key": "5a3d039d2721",
+   "speaker_korean": null,
+   "korean": "장착하면 카운터 오라 「스타 가드」를 사용할 수 있게 되는 팔찌"
+  },
+  {
+   "key": "47663e95fcc7",
+   "speaker_korean": null,
+   "korean": "합성용 소재゜공격 시 추가로 광탄 발사 가능"
+  },
+  {
+   "key": "409b36938f29",
+   "speaker_korean": null,
+   "korean": "살육을 반복했다는 광전사의 영혼이 깃든 반지"
+  },
+  {
+   "key": "b7b245883336",
+   "speaker_korean": null,
+   "korean": "투기장의 패자가 손에 넣을 수 있는 우승 트로피゜축하합니다!"
+  },
+  {
+   "key": "f59dbe52280e",
+   "speaker_korean": null,
+   "korean": "처음 포인트를 획득한 기념으로 받아 주세요゜언젠가 좋은 추억이 될 것입니다"
+  },
+  {
+   "key": "e405e0763e08",
+   "speaker_korean": null,
+   "korean": "버니 레이스의 패자가 받을 수 있는 기념 트로피゜축하합니다!"
+  },
+  {
+   "key": "451d9dc06d7e",
+   "speaker_korean": null,
+   "korean": "세인트 스톤으로 정제하는 대가디언용 부적"
+  },
+  {
+   "key": "f2826976279a",
+   "speaker_korean": null,
+   "korean": "대지의 정령゜무기에 깃들면 특별한 힘을 발휘한다"
+  },
+  {
+   "key": "6cbe3df3d30e",
+   "speaker_korean": null,
+   "korean": "물의 정령゜무기에 깃들면 특별한 힘을 발휘한다"
+  },
+  {
+   "key": "22e154831ecb",
+   "speaker_korean": null,
+   "korean": "불의 정령゜무기에 깃들면 특별한 힘을 발휘한다"
+  },
+  {
+   "key": "f1c8aebe501d",
+   "speaker_korean": null,
+   "korean": "바람의 정령゜무기에 깃들면 특별한 힘을 발휘한다"
+  },
+  {
+   "key": "b56f4ca5a184",
+   "speaker_korean": null,
+   "korean": "양의 정령゜무기에 깃들면 특별한 힘을 발휘한다"
+  },
+  {
+   "key": "86138dc9d4cf",
+   "speaker_korean": null,
+   "korean": "마계 바다에 번식하는 수수께끼의 멍게゜독성이 매우 강하지만 삶고 굽고 찌면 상당히 맛있다는데"
+  },
+  {
+   "key": "d4c1f68b0775",
+   "speaker_korean": null,
+   "korean": "사치에 사치를, 맛에 맛을 거듭해 완성한 궁극의 오조니゜황금의 힘이 소박함을 날려버린다"
+  },
+  {
+   "key": "32389dfb4b0b",
+   "speaker_korean": null,
+   "korean": "책에만 이름이 남았다는 전설의 황제 요리゜기의 힘으로 양손으로 냄비를 끓이고, 손바닥으로 계란을 구워야 만들 수 있다고"
+  },
+  {
+   "key": "3701b35fa899",
+   "speaker_korean": null,
+   "korean": "용의 비늘처럼 거대한 교자゜피의 단단함도 비늘급?"
+  },
+  {
+   "key": "c67fac8b64b4",
+   "speaker_korean": null,
+   "korean": "최고의 기술과 센스의 콜라보゜진정한 이상이 거기 있다"
+  },
+  {
+   "key": "9454ac33e960",
+   "speaker_korean": null,
+   "korean": "초절정이라는 관을 쓴 훠궈゜보통 사람은 못 먹을 매운맛과 감칠맛이 공존한다"
+  },
+  {
+   "key": "26163c3e45a7",
+   "speaker_korean": null,
+   "korean": "심해산 수수께끼의 거대 킹크랩을 소금물에 삶은 것"
+  },
+  {
+   "key": "413e621cf954",
+   "speaker_korean": null,
+   "korean": "만 알 중 하나 꼴로 나온다는 금빛 낟알을 모아 만든 희귀한 낫토゜비할 데 없는 감칠맛이 입안 가득 퍼진다는데"
+  },
+  {
+   "key": "bcd7c25f3461",
+   "speaker_korean": null,
+   "korean": "장기간 숙성시켜 최고의 타이밍에 잘라낸 치즈"
+  },
+  {
+   "key": "5c84f9d6e258",
+   "speaker_korean": null,
+   "korean": "통통하게 살찐 신선한 굴을 역시 신선한 버터로 사치스럽게 구워낸 단순한 요리"
+  },
+  {
+   "key": "a0900233dc56",
+   "speaker_korean": null,
+   "korean": "요리사의 혼이 마법의 힘이 되어 깃든 샐러드゜신선함이 사그라들지 않는다"
+  },
+  {
+   "key": "d8b53d269cc7",
+   "speaker_korean": null,
+   "korean": "절로 미소가 지어지는 맛의 텐더로인 스테이크"
+  },
+  {
+   "key": "c29b110cc5e3",
+   "speaker_korean": null,
+   "korean": "너무 맛있어서 눈물이 뚝뚝 흐른다는 리조토의 걸작"
+  },
+  {
+   "key": "e987afa61fdd",
+   "speaker_korean": null,
+   "korean": "겉모습과 맛을 모두 잡은 아이스크림゜진가는 미묘"
+  },
+  {
+   "key": "9d7a28f7efdb",
+   "speaker_korean": null,
+   "korean": "슬라임 같은(?) 탄력과 식감이 매력(?)인 젤리"
+  },
+  {
+   "key": "2799af4de3b3",
+   "speaker_korean": null,
+   "korean": "마계에서 자란다는 두리안゜이라고만 들어도 정말 사양하고 싶지만…"
+  },
+  {
+   "key": "ac4489523465",
+   "speaker_korean": null,
+   "korean": "리리엔산 자허토르테゜더 이상의 설명은 불필요"
+  },
+  {
+   "key": "63d3be5250dd",
+   "speaker_korean": null,
+   "korean": "반짝반짝 빛나는 파스타゜상당히 수상하지만 맛은 확실"
+  },
+  {
+   "key": "f4df4f151486",
+   "speaker_korean": null,
+   "korean": "열매를 그 자리에서 갈아 만든 손메밀국수゜향이 훌륭하다"
+  },
+  {
+   "key": "bfa89dc5f36e",
+   "speaker_korean": null,
+   "korean": "궁극의 라멘゜사람을 얕보는 듯한 이름은 장인의 여유가 빚어낸 재주인가"
+  },
+  {
+   "key": "08c99a93d447",
+   "speaker_korean": null,
+   "korean": "상황에 따라 한손도 양손도 다룰 수 있게 자루를 길게 만든 장검"
+  },
+  {
+   "key": "d2635a0bd5b8",
+   "speaker_korean": null,
+   "korean": "자루에 매의 문장이 새겨진 단도゜명장의 솜씨임에 틀림없다"
+  },
+  {
+   "key": "4ea6e444bb0a",
+   "speaker_korean": null,
+   "korean": "얼음처럼 차가운 크리스탈 칼날이 특징인 단도"
+  },
+  {
+   "key": "44648e9d4237",
+   "speaker_korean": null,
+   "korean": "자루가 긴 창゜원심력으로 파괴력 배가"
+  },
+  {
+   "key": "276e5b9adc95",
+   "speaker_korean": null,
+   "korean": "아득한 옛날 아페리스의 사자에게서 받았다는 전설의 마검"
+  },
+  {
+   "key": "fac2f04fe747",
+   "speaker_korean": null,
+   "korean": "명장의 손에 갈고 닦여, 경이로운 절삭력을 갖추게 된 명도"
+  },
+  {
+   "key": "b343822ac0cc",
+   "speaker_korean": null,
+   "korean": "광대가 신을 법한 우스꽝스러운 신발゜하지만 그 끝은 겉보기와 달리 훌륭한 무기"
+  },
+  {
+   "key": "5d8c5ccee37b",
+   "speaker_korean": null,
+   "korean": "발끝에 예리한 가시가 달린 신발゜이걸 신고 춤추는 것만으로도 훌륭한 무술이 될 것이다"
+  },
+  {
+   "key": "9d3815541a9b",
+   "speaker_korean": null,
+   "korean": "낫 같은 칼날이 발끝에 달린 신발゜약간 다가가기 어려운 분위기가 있다"
+  },
+  {
+   "key": "5f4d08fd6552",
+   "speaker_korean": null,
+   "korean": "화려한 장식, 우스꽝스러운 디자인, 공격성과, 불균형한 광란이라는 말이 딱 어울리는 신발"
+  },
+  {
+   "key": "dfb6adfbf2c2",
+   "speaker_korean": null,
+   "korean": "매우 단단한 떡갈나무로 만든 지팡이゜공격력도 높다"
+  },
+  {
+   "key": "53ceea5b25a3",
+   "speaker_korean": null,
+   "korean": "동화 속 마법사가 흔히 든 예스러운 이미지의 지팡이"
+  },
+  {
+   "key": "b9bfa306f786",
+   "speaker_korean": null,
+   "korean": "주문의 달인에 걸맞은 장식성과 기능성을 겸비한 지팡이゜이걸 들 수 있다면 한몫"
+  },
+  {
+   "key": "6b2f953407a1",
+   "speaker_korean": null,
+   "korean": "금속판을 물고기나 용의 비늘 모양으로 붙인 갑옷"
+  },
+  {
+   "key": "709f182d522e",
+   "speaker_korean": null,
+   "korean": "두꺼운 금속을 쓴 판금 갑옷゜방어력은 높지만, 무겁다"
+  },
+  {
+   "key": "7d8bba56ab75",
+   "speaker_korean": null,
+   "korean": "전신 판금 갑옷゜정교하게 만든 일품"
+  },
+  {
+   "key": "e850e4bf8503",
+   "speaker_korean": null,
+   "korean": "용감한 전사에 걸맞은 만듦새의 갑옷゜이게 어울리면 한몫"
+  },
+  {
+   "key": "44496d3c8203",
+   "speaker_korean": null,
+   "korean": "금속제 큼직한 고리를 이어 붙여 만든 갑옷゜소박한 만듦새로 방어력도 그럭저럭"
+  },
+  {
+   "key": "83879050e96f",
+   "speaker_korean": null,
+   "korean": "강철 사슬을 엮어 만든 체인메일"
+  },
+  {
+   "key": "ad2c8178caa0",
+   "speaker_korean": null,
+   "korean": "교회의 축복으로 마력이 깃든 체인메일"
+  },
+  {
+   "key": "dd78fbfb70f1",
+   "speaker_korean": null,
+   "korean": "질 좋은 금속으로 만든 체인메일゜곱게 갈고닦여 반짝반짝 빛난다"
+  },
+  {
+   "key": "6a6560113b06",
+   "speaker_korean": null,
+   "korean": "숙련된 전사에 걸맞은 디자인과 성능의 갑옷゜가볍고 튼튼하게 만들어졌다"
+  },
+  {
+   "key": "c88119aa3669",
+   "speaker_korean": null,
+   "korean": "천으로 된 옷゜맨몸보다는 낫다"
+  },
+  {
+   "key": "1696e6936125",
+   "speaker_korean": null,
+   "korean": "은실을 엮어 만든 매우 공들인 로브"
+  },
+  {
+   "key": "b9a7f872fe81",
+   "speaker_korean": null,
+   "korean": "특수한 고대 문자가 수놓인 로브゜강한 마력이 담긴 게 분명하다"
+  },
+  {
+   "key": "07704be4b4dc",
+   "speaker_korean": null,
+   "korean": "현자가 걸치기에 걸맞은 위엄 가득한 로브"
+  },
+  {
+   "key": "0b4a9a62511b",
+   "speaker_korean": null,
+   "korean": "눈부신 금빛을 내뿜는 카레라이스゜늘 배고픈 사람에게 주면 좋을지도"
+  },
+  {
+   "key": "a4561b38c798",
+   "speaker_korean": null,
+   "korean": "영혼의 구성 성분이 봉인되어 있다는 전설의 광석゜슬픔에 잠긴 그 사람에게 부디"
+  },
+  {
+   "key": "01cf631cf5b6",
+   "speaker_korean": null,
+   "korean": "연금술사가 얻기를 바라며 동경하는 비보゜이게 있으면 위대한 현자도 인정해줄지도"
+  },
+  {
+   "key": "119fc2b2dc23",
+   "speaker_korean": null,
+   "korean": "한때는 수많은 강적을 쓰러뜨렸을 명검의 말로"
+  },
+  {
+   "key": "6f96d70c1db9",
+   "speaker_korean": null,
+   "korean": "물리적 효과는 없지만 사람에 따라(예: 밝히는 영감)정신적 효과가 있을지도"
+  },
+  {
+   "key": "ffd07ceec1e8",
+   "speaker_korean": null,
+   "korean": "초절정으로 파괴하기 위한 유닛゜천재 과학자라면 탐낼지도゜설령 자칭이라 해도"
+  },
+  {
+   "key": "e0fae5f8cf4d",
+   "speaker_korean": null,
+   "korean": "도구는 중요합니다゜솜씨 좋은 기계 장인은 좋은 도구를 압니다"
+  },
+  {
+   "key": "f8f8f58de06c",
+   "speaker_korean": null,
+   "korean": "왠지 예스러운 보석゜숙련된 세공사라면 이 가치를 알아볼지도"
+  },
+  {
+   "key": "45fa98836710",
+   "speaker_korean": null,
+   "korean": "고크스제 돌고래 인형 한정품゜귀여운 걸 좋아하는 언니들이 앞다퉈 사들인다는데"
+  },
+  {
+   "key": "13e364518ed8",
+   "speaker_korean": null,
+   "korean": "기계적인 장정의 수수께끼 사전゜일반인에겐 쓸모없는 내용이 빼곡히 담겨 있다"
+  },
+  {
+   "key": "de8a5c0a1c4a",
+   "speaker_korean": null,
+   "korean": "뜻 모를 제목이 붙은 수상한 고서゜이런 걸 원하는 건 별종뿐일 것이다"
+  },
+  {
+   "key": "ffae1119bcb2",
+   "speaker_korean": null,
+   "korean": "은제 반지゜손질을 게을리하면 광택이 흐려진다"
+  },
+  {
+   "key": "146f7c7d3645",
+   "speaker_korean": null,
+   "korean": "예리하게 벼려진 특수 합금제 발톱이 달린 건틀릿"
+  },
+  {
+   "key": "83506a6d1aa6",
+   "speaker_korean": null,
+   "korean": "가볍고 내구성이 뛰어난 특수소재 방어구"
+  },
+  {
+   "key": "1f0b91af4c5c",
+   "speaker_korean": null,
+   "korean": "고출력 레이저를 이용한 근접 전투 무기゜소유자의 의지에 따라 검이나 창 같은 개별 형태의 칼날을 형성한다"
+  },
+  {
+   "key": "c6685f73e69b",
+   "speaker_korean": null,
+   "korean": "순금 조각상゜특별한 효과는 없는 듯하다゜환금하는 게 유일한 활용법일까"
+  },
+  {
+   "key": "20e528d5d6d9",
+   "speaker_korean": null,
+   "korean": "은제 조각상゜특별한 효과는 없는 듯하다゜환금하는 게 유일한 활용법일까"
+  },
+  {
+   "key": "0664a1bb1eea",
+   "speaker_korean": null,
+   "korean": "강철제 조각상゜특별한 효과는 없는 듯하다゜환금하는 게 유일한 활용법일까"
+  },
+  {
+   "key": "5a6ec173a6dc",
+   "speaker_korean": null,
+   "korean": "히트업 게이지 증가량이 늘어나는 효과를 지닌 문장"
+  },
+  {
+   "key": "e5c44dee53c8",
+   "speaker_korean": null,
+   "korean": "전투 중 일정 시간마다 MP 회복 효과를 지닌 문장"
+  },
+  {
+   "key": "6d61383d3285",
+   "speaker_korean": null,
+   "korean": "특수한 힘의 돌゜합성 소재"
+  },
+  {
+   "key": "d78950027307",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책゜합성으로 무기에 부여゜적의 땅 속성 공격에 HP 회복"
+  },
+  {
+   "key": "8315dcbb330e",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책゜합성으로 무기에 부여゜적의 땅 속성 공격 무효화"
+  },
+  {
+   "key": "5e706811df2c",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책゜합성으로 무기에 부여゜적의 땅 속성 공격 절반 감소"
+  },
+  {
+   "key": "70644533a786",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책゜합성으로 무기에 부여゜적의 물 속성 공격에 HP 회복"
+  },
+  {
+   "key": "6ff61426f41f",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책゜합성으로 무기에 부여゜적의 물 속성 공격 무효화"
+  },
+  {
+   "key": "8ce230fedcc2",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책゜합성으로 무기에 부여゜적의 물 속성 공격 절반 감소"
+  },
+  {
+   "key": "d7b268e6a1e7",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책゜합성으로 무기에 부여゜적의 불 속성 공격에 HP 회복"
+  },
+  {
+   "key": "42c5ecf4e9f3",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책゜합성으로 무기에 부여゜적의 불 속성 공격 무효화"
+  },
+  {
+   "key": "923298968ee5",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책゜합성으로 무기에 부여゜적의 불 속성 공격 절반 감소"
+  },
+  {
+   "key": "d981bbdd1d68",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책゜합성으로 무기에 부여゜적의 바람 속성 공격에 HP 회복"
+  },
+  {
+   "key": "a05e23b7caa4",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책゜합성으로 무기에 부여゜적의 바람 속성 공격 무효화"
+  },
+  {
+   "key": "5e0f0da79275",
+   "speaker_korean": null,
+   "korean": "방어 속성을 지닌 책゜합성으로 무기에 부여゜적의 바람 속성 공격 절반 감소"
+  },
+  {
+   "key": "48adecb91fcb",
+   "speaker_korean": null,
+   "korean": "공격 속성을 지닌 책゜합성으로 무기에 부여 가능"
+  },
+  {
+   "key": "3ab4ea78ac59",
+   "speaker_korean": null,
+   "korean": "크리티컬 효과를 지닌 책゜합성으로 부여 가능"
+  },
+  {
+   "key": "8712084cc222",
+   "speaker_korean": null,
+   "korean": "공격 히트 수 상승 효과를 지닌 책゜합성으로 부여 가능"
+  },
+  {
+   "key": "6467d3f6d526",
+   "speaker_korean": null,
+   "korean": "자루가 어쩐지 꿈틀거리고 있다゜여관에 묵으면 밤에 뭔가 튀어나올 것 같다"
+  },
+  {
+   "key": "c52aaf00df76",
+   "speaker_korean": null,
+   "korean": "스킬 세팅 후 사용 가능한, 주문 「메테오 스웜」 습득용 두루마리"
+  },
+  {
+   "key": "1081242db79a",
+   "speaker_korean": null,
+   "korean": "마시면 눈앞의 상대에게 첫눈에 반한다!"
+  },
+  {
+   "key": "763bea37e304",
+   "speaker_korean": null,
+   "korean": "풀 죽었을 때는 이걸 벌컥 마셔봅시다゜행복해질 수 있어요!"
+  },
+  {
+   "key": "8aff182d45fa",
+   "speaker_korean": null,
+   "korean": "한 번 마시면 눈앞의 상대에게 첫눈에 반한다!농축환원 100% 일품!"
+  },
+  {
+   "key": "f3c1bf819d6d",
+   "speaker_korean": null,
+   "korean": "고도의 약품형 폭탄 파피 특제"
+  },
+  {
+   "key": "735fefcdd189",
+   "speaker_korean": null,
+   "korean": "대지의 인공생명체゜무기에 깃들면 특별한 힘을 발휘한다"
+  },
+  {
+   "key": "3d2aac21c1cf",
+   "speaker_korean": null,
+   "korean": "물의 인공생명체゜무기에 깃들면 특별한 힘을 발휘한다"
+  },
+  {
+   "key": "121824316681",
+   "speaker_korean": null,
+   "korean": "불의 인공생명체゜무기에 깃들면 특별한 힘을 발휘한다"
+  },
+  {
+   "key": "1874e0518746",
+   "speaker_korean": null,
+   "korean": "바람의 인공생명체゜무기에 깃들면 특별한 힘을 발휘한다"
+  },
+  {
+   "key": "2ba4727996d8",
+   "speaker_korean": null,
+   "korean": "양의 인공생명체゜무기에 깃들면 특별한 힘을 발휘한다"
+  },
+  {
+   "key": "c3b7f8ace6e6",
+   "speaker_korean": null,
+   "korean": "카운터 오라를 익힐 수 있는 서적゜프로텍트 시 자동으로 반격할 수 있다"
+  },
+  {
+   "key": "852528db95bc",
+   "speaker_korean": null,
+   "korean": "전투 중, 공격 판정이 있는 배틀 스피어를 발사한다゜잘 굴려서 사용하자"
+  }
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "batch_id": "batch_0239",
+ "translations": [
+  {
+   "key": "7b45b3672f46",
+   "speaker_korean": null,
+   "korean": "시련의 회랑"
+  },
+  {
+   "key": "f7d855774a72",
+   "speaker_korean": "미라쥬",
+   "korean": "「네…하지만, 빨리 의사한테\n보이는 게 좋을 것 같아요."
+  },
+  {
+   "key": "162168ce8ea3",
+   "speaker_korean": "클리프",
+   "korean": "「오, ⟦1⟧미라쥬⟦2⟧ 아니냐."
+  },
+  {
+   "key": "6772c05d3a7b",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧미라쥬 씨⟦2⟧!?"
+  },
+  {
+   "key": "d9d4da2c0f3f",
+   "speaker_korean": "미라쥬",
+   "korean": "「⟦1⟧클리프⟦2⟧,\n⟦3⟧페이트 씨⟦4⟧."
+  },
+  {
+   "key": "01af6c8296ec",
+   "speaker_korean": "클리프",
+   "korean": "「너, 뭐 하는 거냐?"
+  },
+  {
+   "key": "5e42a707fd20",
+   "speaker_korean": "미라쥬",
+   "korean": "「소문을 듣고 당신들 뒤를\n쫓아왔어요.\n그런데 여기까지 오니,\n앞서 걷고 있던 그녀가\n갑자기 쓰러져서……."
+  },
+  {
+   "key": "211202f799cd",
+   "speaker_korean": "미라쥬",
+   "korean": "「아, 그건 상관없어요.\n얼른 이 아이를 의사에게 보여야 해요."
+  },
+  {
+   "key": "a7779e4c857a",
+   "speaker_korean": "클리프",
+   "korean": "「그렇게 심각한 거냐?"
+  },
+  {
+   "key": "f701bf3c89c9",
+   "speaker_korean": "미라쥬",
+   "korean": "「네."
+  },
+  {
+   "key": "d63f56d1c6c5",
+   "speaker_korean": "미라쥬",
+   "korean": "「두 분 다, 드디어 만났네요."
+  },
+  {
+   "key": "3fa4d38ea9f5",
+   "speaker_korean": "넬",
+   "korean": "「왜…그녀가 여기 있는 거야?"
+  },
+  {
+   "key": "675bfc21ca49",
+   "speaker_korean": "페이트",
+   "korean": "「몰라!\n하지만 빨리 의사한테 보여야 해!!"
+  },
+  {
+   "key": "f7b1b5e5612c",
+   "speaker_korean": "넬",
+   "korean": "「⟦1⟧아미나⟦2⟧를 데리고\n먼저 숙소로 가 있어.\n내가 의사를 데려올게."
+  },
+  {
+   "key": "0715985d9427",
+   "speaker_korean": "페이트",
+   "korean": "「부탁드립니다!!"
+  },
+  {
+   "key": "6afb05f1f41f",
+   "speaker_korean": "페이트",
+   "korean": "(여긴…, 그리운 곳…….\n마음이 편안해지는 곳…….\n그리고…… 영원히 잠드는 곳……."
+  },
+  {
+   "key": "0eaf1c904a53",
+   "speaker_korean": "페이트",
+   "korean": "(나는…….\n나는 왜 여기에……."
+  },
+  {
+   "key": "8fb2b3eb7907",
+   "speaker_korean": "클리프",
+   "korean": "「멍하니 있을 틈 없어!!\n온다!!"
+  },
+  {
+   "key": "dd78cf3d155d",
+   "speaker_korean": "이세리아 퀸",
+   "korean": "「여기서, 끝을 내죠!!"
+  },
+  {
+   "key": "4d64177e9b05",
+   "speaker_korean": null,
+   "korean": "아쿠아엘리 좌현 플레이룸"
+  },
+  {
+   "key": "f2010e515967",
+   "speaker_korean": "COM",
+   "korean": "⟦1⟧『이 방은, ⟦2⟧포스필드⟦3⟧를\n사용한 플레이룸입니다.\n⟦P⟧⟦4⟧쿼드 스캐너⟦5⟧의 데이터를 이용해\n의사 공간을 만들어내는 것이 가능하게\n되어 있습니다.\n어떻게 하시겠습니까?\n⟦P⟧"
+  },
+  {
+   "key": "3ecabae04e18",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧(자, 어떻게 할까?\n⟦P⟧"
+  },
+  {
+   "key": "1a92b4ade62f",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧(지금은 됐어…\n⟦P⟧"
+  },
+  {
+   "key": "c8cf1bcdadc2",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・무기점으로 이동"
+  },
+  {
+   "key": "68fd05f2c570",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・도구점으로 이동"
+  },
+  {
+   "key": "8e823176ef59",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・팩토리로 이동한다"
+  },
+  {
+   "key": "82e48d524187",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・사용 안함"
+  },
+  {
+   "key": "78733410ab98",
+   "speaker_korean": null,
+   "korean": "아쿠아엘리 우현 플레이룸"
+  },
+  {
+   "key": "4f84056e5da2",
+   "speaker_korean": "고지식한 문지기",
+   "korean": "「……무슨 용무냐?"
+  },
+  {
+   "key": "c393a3d8e22d",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧월터 공⟦2⟧께 안내를 부탁드립니다."
+  },
+  {
+   "key": "c104643c629a",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧페이트 라인갓⟦2⟧입니다.\n⟦3⟧알벨 녹스 공⟦4⟧과\n합류하기 위해 왔습니다."
+  },
+  {
+   "key": "2c2e2e0d064d",
+   "speaker_korean": "월터",
+   "korean": "「잘 왔구먼. 이쪽일세."
+  },
+  {
+   "key": "38deff59d258",
+   "speaker_korean": "가벼운 문지기",
+   "korean": "「잠깐 기다려."
+  },
+  {
+   "key": "0fd25dcc2613",
+   "speaker_korean": "넬",
+   "korean": "「왜 하필 이럴 때\n⟦1⟧질풍⟦2⟧이 있는 거야, 진짜.\n⟦P⟧상주하는 곳은\n아닐 텐데 말이야."
+  },
+  {
+   "key": "e3e6d70f9218",
+   "speaker_korean": "클리프",
+   "korean": "「뭐, 할 수밖에 없잖아.\n저놈들을 처리하지 않으면,\n갱도에 못 들어가."
+  },
+  {
+   "key": "f72f51a331b2",
+   "speaker_korean": "페이트",
+   "korean": "「저놈들도 병력 증강을 위해\n⟦1⟧에어드래곤⟦2⟧을 확보하는 게\n필요한 거 아닐까."
+  },
+  {
+   "key": "8f972084c3c1",
+   "speaker_korean": "넬",
+   "korean": "「그럴지도 모르겠네……."
+  },
+  {
+   "key": "675dc841d60c",
+   "speaker_korean": "넬",
+   "korean": "「⟦1⟧타이네브⟦2⟧."
+  },
+  {
+   "key": "3831756f2fe5",
+   "speaker_korean": "넬",
+   "korean": "「당신들은 여기서 기다리고 있어.\n저놈들은 우리가 처리할게."
+  },
+  {
+   "key": "dcfabee493e0",
+   "speaker_korean": "파린",
+   "korean": "「네~!"
+  },
+  {
+   "key": "d05290cd3fdb",
+   "speaker_korean": "타이네브",
+   "korean": "「예!"
+  },
+  {
+   "key": "da0690c6b392",
+   "speaker_korean": "질풍",
+   "korean": "「음?"
+  },
+  {
+   "key": "d7df0812e168",
+   "speaker_korean": "질풍",
+   "korean": "「네놈들이!?"
+  },
+  {
+   "key": "cd83b7d99e47",
+   "speaker_korean": "클리프",
+   "korean": "「이제 남은 건 너뿐이군."
+  },
+  {
+   "key": "8d6114db29ec",
+   "speaker_korean": "넬",
+   "korean": "「각오는 됐어?"
+  }
+ ]
+}

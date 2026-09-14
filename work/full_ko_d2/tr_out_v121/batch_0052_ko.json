@@ -1,0 +1,240 @@
+{
+ "batch_id": "batch_0052",
+ "translations": [
+  {
+   "key": "7a99917409d1",
+   "speaker_korean": "클리프",
+   "korean": "「드디어 햇빛 아래로 나왔군.\n오래 눅눅한 데 처박혀 있으면\n곰팡이가 슬겠다고."
+  },
+  {
+   "key": "e393f22276b9",
+   "speaker_korean": "페이트",
+   "korean": "「설명, 계속해 주세요."
+  },
+  {
+   "key": "fec13bb8332f",
+   "speaker_korean": "페이트",
+   "korean": "「기술을 원한다, 협력하라고 하지만,\n구체적으로 뭘 시키겠다는 겁니까?"
+  },
+  {
+   "key": "8ea6f4f1e21f",
+   "speaker_korean": "넬",
+   "korean": "「설명은 해 주지.\n하지만, 거부는 못 하게 할 거야."
+  },
+  {
+   "key": "94f462ca0030",
+   "speaker_korean": "페이트",
+   "korean": "「그건… 모르겠는데요.\n저는 하기 싫은 일은 안 합니다.\n게다가, 저희에게도 할 수 있는 일과\n할 수 없는 일이 있으니까요."
+  },
+  {
+   "key": "421d8b4d98d9",
+   "speaker_korean": "넬",
+   "korean": "「기술 협력 요청이라는 얘기는\n했다고 생각하는데?"
+  },
+  {
+   "key": "df282a03dc39",
+   "speaker_korean": "페이트",
+   "korean": "「그러니까, 그 구체적인 내용을\n알고 싶다는 겁니다."
+  },
+  {
+   "key": "de7bc8b7e508",
+   "speaker_korean": "넬",
+   "korean": "「그럼, 감옥에서 대답하기 전에\n확인했어야 하는 거 아닌가?\n너희는 이미 협력하겠다고,\n설령 임시방편이었다 해도 말했어.\n그걸 조건으로 감옥에서 꺼내 줬으니,\n그쪽에 거부권은 없을 텐데."
+  },
+  {
+   "key": "cb7105a14c52",
+   "speaker_korean": "페이트",
+   "korean": "「그건……."
+  },
+  {
+   "key": "add71720ce16",
+   "speaker_korean": "넬",
+   "korean": "「그건 계약 위반이라는 거라고\n생각하는데?"
+  },
+  {
+   "key": "dc3861b07d65",
+   "speaker_korean": "클리프",
+   "korean": "「애초에 정당한 계약도 아니라고\n보는데 말이야."
+  },
+  {
+   "key": "d607e9c8b864",
+   "speaker_korean": "넬",
+   "korean": "「…협력 안 하겠다고?"
+  },
+  {
+   "key": "2f4ef13bd04e",
+   "speaker_korean": "클리프",
+   "korean": "「난 그런 말 한 적 없다고."
+  },
+  {
+   "key": "c24f9d87e5d5",
+   "speaker_korean": "페이트",
+   "korean": "「무, 무슨 소리 하는 거야!?\n⟦1⟧미개 행성 보호 조약⟦2⟧은 어쩌고!?"
+  },
+  {
+   "key": "40d8aaff8ca1",
+   "speaker_korean": "클리프",
+   "korean": "「이제 와서 따질 일인가 싶다만.\n이 경우엔…."
+  },
+  {
+   "key": "c2ad036329fc",
+   "speaker_korean": "페이트",
+   "korean": "「그건 그럴지도 모르지만…."
+  },
+  {
+   "key": "b11dec13fec8",
+   "speaker_korean": "클리프",
+   "korean": "「그건 사양이라고."
+  },
+  {
+   "key": "2286e4164600",
+   "speaker_korean": "넬",
+   "korean": "「그럼 지금은 잠자코 따라와.\n구체적인 요청 내용에 관해서는\n도시를 나가면, 반드시 말해 줄게."
+  },
+  {
+   "key": "32f45b1f0d56",
+   "speaker_korean": "넬",
+   "korean": "「OK… 도시 밖에 내 부하가\n마차를 준비해 뒀어.\n출구는 동쪽이다…… 서두르자!"
+  },
+  {
+   "key": "a76781328dfd",
+   "speaker_korean": "넬",
+   "korean": "「나와."
+  },
+  {
+   "key": "224bacd0d5b8",
+   "speaker_korean": "클리프",
+   "korean": "「사느냐 죽느냐 둘 중 하나라니…\n그건 협박이라고 하는 부류잖냐."
+  },
+  {
+   "key": "9b8f848a1e43",
+   "speaker_korean": "클리프",
+   "korean": "「이봐, 도와주자고."
+  },
+  {
+   "key": "025a5671a781",
+   "speaker_korean": "넬",
+   "korean": "「저기 말이야…."
+  },
+  {
+   "key": "00d9927e7a26",
+   "speaker_korean": "넬",
+   "korean": "「의논은 좋은데, 나중에 하지 그래?\n아직 여기는 안전권이 아니야.\n느긋하게 잡담할 상황이 아니야."
+  },
+  {
+   "key": "1838b754ae9c",
+   "speaker_korean": null,
+   "korean": "다시 감옥으로 돌아가고 싶다면,\n별로 상관없지만."
+  },
+  {
+   "key": "dcd1d30ca050",
+   "speaker_korean": "페이트",
+   "korean": "「…알겠습니다."
+  },
+  {
+   "key": "874edba27632",
+   "speaker_korean": "페이트",
+   "korean": "「어?"
+  },
+  {
+   "key": "3d77b60b61f2",
+   "speaker_korean": "호기심 많은 구경꾼 아가씨",
+   "korean": "「유성일까?"
+  },
+  {
+   "key": "7554fa66a0a4",
+   "speaker_korean": "당황한 구경꾼 남자",
+   "korean": "「바보 같은 소리 마,\n이런 유성이 어디 있냐."
+  },
+  {
+   "key": "be32e7e81cdd",
+   "speaker_korean": "호기심 많은 구경꾼 아가씨",
+   "korean": "「그럼, 대체 뭐라는 거야!?"
+  },
+  {
+   "key": "a4b08a9b5992",
+   "speaker_korean": "당황해하는 구경꾼 남자",
+   "korean": "「그런 걸…\n내가 어떻게 알아!!"
+  },
+  {
+   "key": "15cbc2d89c89",
+   "speaker_korean": "당황한 구경꾼 남자",
+   "korean": "「뭐야, 이건?"
+  },
+  {
+   "key": "acb66fce204d",
+   "speaker_korean": "거만한 남자",
+   "korean": "「이봐, 비켜 비켜."
+  },
+  {
+   "key": "6e22742a25e1",
+   "speaker_korean": "늙은 병사",
+   "korean": "「방해다, 길을 비키지 못할까!"
+  },
+  {
+   "key": "da0cd4156389",
+   "speaker_korean": "험상궂은 얼굴의 병사",
+   "korean": "「이건 또 뭐냐!?"
+  },
+  {
+   "key": "eea4f9cdd9e2",
+   "speaker_korean": "늙은 병사",
+   "korean": "「⟦1⟧시하츠⟦2⟧의 신병기인가?"
+  },
+  {
+   "key": "57a9f77032d8",
+   "speaker_korean": "병사",
+   "korean": "「공격하라~!!"
+  },
+  {
+   "key": "af1d18479925",
+   "speaker_korean": "병사",
+   "korean": "「사람…인가?"
+  },
+  {
+   "key": "1956f34907e1",
+   "speaker_korean": "병사",
+   "korean": "「사람이 들어 있었다!!"
+  },
+  {
+   "key": "3786710d384d",
+   "speaker_korean": "페이트",
+   "korean": "「저, 저기… 저희는…."
+  },
+  {
+   "key": "02ee84255f9a",
+   "speaker_korean": "페이트",
+   "korean": "「자, 잠깐만 기다려 줘!!"
+  },
+  {
+   "key": "be953a806ac9",
+   "speaker_korean": "클리프",
+   "korean": "「…포기해.\n될 대로 될 수밖에 없다고."
+  },
+  {
+   "key": "4fc22c531940",
+   "speaker_korean": "클리프",
+   "korean": "「뒤…한번 봐 봐."
+  },
+  {
+   "key": "12c32e251866",
+   "speaker_korean": "페이트",
+   "korean": "「농담이 아니……."
+  },
+  {
+   "key": "0f281dce68d1",
+   "speaker_korean": "페이트",
+   "korean": "「우와아아아앗!!!!"
+  },
+  {
+   "key": "d581ee34e3d5",
+   "speaker_korean": "병사",
+   "korean": "「이봐, 뭔가 움직이고 있어…."
+  },
+  {
+   "key": "beb9c63c1dbb",
+   "speaker_korean": "병사",
+   "korean": "「뭐냐!?"
+  }
+ ]
+}

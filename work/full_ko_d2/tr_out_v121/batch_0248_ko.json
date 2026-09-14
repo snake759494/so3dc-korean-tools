@@ -1,0 +1,695 @@
+{
+ "batch_id": "batch_0248",
+ "translations": [
+  {
+   "key": "6358f1cb6f65",
+   "speaker_korean": null,
+   "korean": "맹수 조련사 딸 격파"
+  },
+  {
+   "key": "f8662a9405fd",
+   "speaker_korean": null,
+   "korean": "페이트 격파"
+  },
+  {
+   "key": "6156b97ec0bd",
+   "speaker_korean": null,
+   "korean": "공주·기사 단독 격파"
+  },
+  {
+   "key": "d453b2753c0e",
+   "speaker_korean": null,
+   "korean": "악랄 태그 단독 격파"
+  },
+  {
+   "key": "b22ca2859479",
+   "speaker_korean": null,
+   "korean": "호피 콤비 단독 격파"
+  },
+  {
+   "key": "243fe64ff95e",
+   "speaker_korean": null,
+   "korean": "맹수 조련사 딸 단독 격파"
+  },
+  {
+   "key": "2fd83f2bcf6c",
+   "speaker_korean": null,
+   "korean": "페이트 단독 격파"
+  },
+  {
+   "key": "8a88814ddf30",
+   "speaker_korean": null,
+   "korean": "공주·기사 노데미지 격파"
+  },
+  {
+   "key": "acafd4313ecd",
+   "speaker_korean": null,
+   "korean": "악랄 태그 노데미지 격파"
+  },
+  {
+   "key": "89d248eb3063",
+   "speaker_korean": null,
+   "korean": "호피 콤비 노데미지 격파"
+  },
+  {
+   "key": "a869e7b96e99",
+   "speaker_korean": null,
+   "korean": "맹수 조련사 딸 노데미지 격파"
+  },
+  {
+   "key": "516f9fd2c5e5",
+   "speaker_korean": null,
+   "korean": "페이트 노데미지 격파"
+  },
+  {
+   "key": "e2677ca8be21",
+   "speaker_korean": null,
+   "korean": "유니버스 페이트 격파"
+  },
+  {
+   "key": "1e7fd9da73d9",
+   "speaker_korean": null,
+   "korean": "FD페이트 격파"
+  },
+  {
+   "key": "12cf51db6982",
+   "speaker_korean": null,
+   "korean": "오토 전투 승리"
+  },
+  {
+   "key": "bbdc2785d5ef",
+   "speaker_korean": null,
+   "korean": "배틀 스피어 찌르기 5회 달성"
+  },
+  {
+   "key": "9da0b23f1a26",
+   "speaker_korean": null,
+   "korean": "60분 이상 전투"
+  },
+  {
+   "key": "8188b8b54ce4",
+   "speaker_korean": null,
+   "korean": "120분 이상 전투"
+  },
+  {
+   "key": "124da94ce4fc",
+   "speaker_korean": null,
+   "korean": "1분간 공격받지 않음"
+  },
+  {
+   "key": "f6f4ee43d82d",
+   "speaker_korean": null,
+   "korean": "5m 이내 적 접근 없이 승리"
+  },
+  {
+   "key": "619c254f5ea8",
+   "speaker_korean": null,
+   "korean": "전투중 이동거리 42.195km"
+  },
+  {
+   "key": "4358c526eec2",
+   "speaker_korean": null,
+   "korean": "타이탄・피스트"
+  },
+  {
+   "key": "18240d075873",
+   "speaker_korean": null,
+   "korean": "페이탈・퓨리"
+  },
+  {
+   "key": "bbe7aea856a2",
+   "speaker_korean": null,
+   "korean": "워터・게이트"
+  },
+  {
+   "key": "393bfda99576",
+   "speaker_korean": null,
+   "korean": "페스티브・어벤저"
+  },
+  {
+   "key": "368aa1d47b6f",
+   "speaker_korean": null,
+   "korean": "아군 전원의 HP를 회복하는 주문"
+  },
+  {
+   "key": "0ac29431f3ec",
+   "speaker_korean": null,
+   "korean": "아군 한 명의 독을 치료하는 주문"
+  },
+  {
+   "key": "95190b2d0f85",
+   "speaker_korean": null,
+   "korean": "아군 한명의 독・마비・석화・동결을\n치료하는 주문"
+  },
+  {
+   "key": "d41420f1c320",
+   "speaker_korean": null,
+   "korean": "행동불능인 아군 한 명을\n부활시키는 주문"
+  },
+  {
+   "key": "a46c64061455",
+   "speaker_korean": null,
+   "korean": "전자기장을 발생시켜\n적을 불태우는 주문"
+  },
+  {
+   "key": "e1ecb70f6cb6",
+   "speaker_korean": null,
+   "korean": "HP 낮은 적을 즉사시키는 주문"
+  },
+  {
+   "key": "0bb6af007323",
+   "speaker_korean": null,
+   "korean": "아군 1명의 HP 회복 주문"
+  },
+  {
+   "key": "650b50b2e377",
+   "speaker_korean": null,
+   "korean": "아군 1명의 공격・방어・명중・회피\n마법방어를 상승시키는 주문"
+  },
+  {
+   "key": "58049b60120f",
+   "speaker_korean": null,
+   "korean": "초중력장을 만들어내 적의\n이동속도를 저하시키는 주문"
+  },
+  {
+   "key": "0a9ad0e5ae29",
+   "speaker_korean": null,
+   "korean": "아군 1명의 주문 데미지를 반감시키는 주문"
+  },
+  {
+   "key": "623f545a096c",
+   "speaker_korean": null,
+   "korean": "아군을 보조하라!"
+  },
+  {
+   "key": "59666cb92c1d",
+   "speaker_korean": null,
+   "korean": "쇠파이프 온리 승리"
+  },
+  {
+   "key": "1ecd20806874",
+   "speaker_korean": null,
+   "korean": "노턴 쇠파이프 온리 승리"
+  },
+  {
+   "key": "2ba6e6503c98",
+   "speaker_korean": null,
+   "korean": "쇠파이프 99999 데미지"
+  },
+  {
+   "key": "197416e522e9",
+   "speaker_korean": null,
+   "korean": "루시퍼 쇠파이프 온리 승리"
+  },
+  {
+   "key": "b3254431be0b",
+   "speaker_korean": null,
+   "korean": "레나스 쇠파이프 온리 승리"
+  },
+  {
+   "key": "8aa9394c1d51",
+   "speaker_korean": null,
+   "korean": "적을 자신에게 유인한다"
+  },
+  {
+   "key": "ac4d24e58c50",
+   "speaker_korean": null,
+   "korean": "적 능력치와 입수 가능한 아이템을 조사한다"
+  },
+  {
+   "key": "250c7f22ef26",
+   "speaker_korean": null,
+   "korean": "공격력 30%업 방어력 30%다운 소비Guts1/2\n로 발동ON/OFF"
+  },
+  {
+   "key": "f9a869bfd0e0",
+   "speaker_korean": null,
+   "korean": "경험치 획득량이 40%업 소비Guts3배\n로 발동ON/OFF\n⟦1⟧전투중 발동ON/OFF는 한 번뿐"
+  },
+  {
+   "key": "ced778871e69",
+   "speaker_korean": null,
+   "korean": "카운터 오라의 발생 방향 및\n효과를 결정합니다\n로 발동ON/OFF"
+  },
+  {
+   "key": "1b802186521e",
+   "speaker_korean": null,
+   "korean": "HP·MP의 데미지 비율이 같아지도록\n회복·감소를 자동으로 실행\n로 발동ON/OFF"
+  },
+  {
+   "key": "716d8bbff216",
+   "speaker_korean": null,
+   "korean": "방어력이 20%다운되는 대신\n독·마비·석화·동결·기절 효과를 약화시킨다\n로 발동ON/OFF"
+  },
+  {
+   "key": "525bc0111701",
+   "speaker_korean": null,
+   "korean": "오라는 전방에 발생\n효과:기절"
+  },
+  {
+   "key": "a10fe3add56f",
+   "speaker_korean": null,
+   "korean": "오라는 전방 광범위에 발생\n효과:70% 확률로 기절"
+  },
+  {
+   "key": "b7856a64593d",
+   "speaker_korean": null,
+   "korean": "오라는 주위에 발생\n효과:데미지"
+  },
+  {
+   "key": "2c3033dbebd9",
+   "speaker_korean": null,
+   "korean": "오라는 날아가 적을 유도\n효과:데미지"
+  },
+  {
+   "key": "f79c00626d65",
+   "speaker_korean": null,
+   "korean": "오라는 확산해 다수의 적을 유도\n효과:데미지"
+  },
+  {
+   "key": "8b9a65c3c156",
+   "speaker_korean": null,
+   "korean": "오라는 확산 후 자신에게 흡수\n효과:HP·MP 회복"
+  },
+  {
+   "key": "61a7bc66099e",
+   "speaker_korean": null,
+   "korean": "별 전방에 다수 발생\n효과:데미지"
+  },
+  {
+   "key": "e0f1f57f0308",
+   "speaker_korean": null,
+   "korean": "HP보호"
+  },
+  {
+   "key": "57432d038fe0",
+   "speaker_korean": null,
+   "korean": "MP보호"
+  },
+  {
+   "key": "cc43b6d588c2",
+   "speaker_korean": null,
+   "korean": "HP를 보호합니다"
+  },
+  {
+   "key": "e4f647f788ed",
+   "speaker_korean": null,
+   "korean": "MP를 보호합니다"
+  },
+  {
+   "key": "c29cb3be823f",
+   "speaker_korean": null,
+   "korean": "발동:"
+  },
+  {
+   "key": "621aec214385",
+   "speaker_korean": null,
+   "korean": "나무21"
+  },
+  {
+   "key": "d72e638d71d8",
+   "speaker_korean": null,
+   "korean": "나무22"
+  },
+  {
+   "key": "3094b1d2b272",
+   "speaker_korean": null,
+   "korean": "나무24"
+  },
+  {
+   "key": "cdc599889fdc",
+   "speaker_korean": null,
+   "korean": "나무26"
+  },
+  {
+   "key": "181e6ac7cb26",
+   "speaker_korean": null,
+   "korean": "나무27"
+  },
+  {
+   "key": "06776b397bff",
+   "speaker_korean": null,
+   "korean": "나무28"
+  },
+  {
+   "key": "d644a5c9573e",
+   "speaker_korean": null,
+   "korean": "나무29"
+  },
+  {
+   "key": "7ca1b02af284",
+   "speaker_korean": null,
+   "korean": "수호냥"
+  },
+  {
+   "key": "4eefe1c59c66",
+   "speaker_korean": null,
+   "korean": "치유냥"
+  },
+  {
+   "key": "415a970db74b",
+   "speaker_korean": null,
+   "korean": "나무147"
+  },
+  {
+   "key": "020ace392c18",
+   "speaker_korean": null,
+   "korean": "나무150"
+  },
+  {
+   "key": "476321b0af85",
+   "speaker_korean": null,
+   "korean": "나무151"
+  },
+  {
+   "key": "b21dc911b610",
+   "speaker_korean": null,
+   "korean": "야에가키무"
+  },
+  {
+   "key": "8f66c8483b00",
+   "speaker_korean": null,
+   "korean": "취영"
+  },
+  {
+   "key": "0f36f84e19c5",
+   "speaker_korean": null,
+   "korean": "나무176"
+  },
+  {
+   "key": "ca8431fa8749",
+   "speaker_korean": null,
+   "korean": "참치 머리구이"
+  },
+  {
+   "key": "f9fc541ebe63",
+   "speaker_korean": null,
+   "korean": "내장 로스트"
+  },
+  {
+   "key": "c8721558bc64",
+   "speaker_korean": null,
+   "korean": "구운 옥수수"
+  },
+  {
+   "key": "d8a406858fcf",
+   "speaker_korean": null,
+   "korean": "순무 가쓰오 볶음"
+  },
+  {
+   "key": "4e58d05ab022",
+   "speaker_korean": null,
+   "korean": "나무263"
+  },
+  {
+   "key": "63014f5774cd",
+   "speaker_korean": null,
+   "korean": "서양배 타르트"
+  },
+  {
+   "key": "f6140e3187ca",
+   "speaker_korean": null,
+   "korean": "자라 튀김"
+  },
+  {
+   "key": "8a75db8a6481",
+   "speaker_korean": null,
+   "korean": "항정살 꼬치구이"
+  },
+  {
+   "key": "de3a0036e5de",
+   "speaker_korean": null,
+   "korean": "별의 소요정"
+  },
+  {
+   "key": "1e34cd27ab92",
+   "speaker_korean": null,
+   "korean": "나무301"
+  },
+  {
+   "key": "04d137f903ba",
+   "speaker_korean": null,
+   "korean": "나무311"
+  },
+  {
+   "key": "9f4dff4d39cd",
+   "speaker_korean": null,
+   "korean": "나무321"
+  },
+  {
+   "key": "acc821b96fe1",
+   "speaker_korean": null,
+   "korean": "쇠파이프"
+  },
+  {
+   "key": "b48bf8c290d0",
+   "speaker_korean": null,
+   "korean": "철조"
+  },
+  {
+   "key": "38fd510a67b6",
+   "speaker_korean": null,
+   "korean": "삼면사의 철갑"
+  },
+  {
+   "key": "66b914995768",
+   "speaker_korean": null,
+   "korean": "반야철조"
+  },
+  {
+   "key": "853341146194",
+   "speaker_korean": null,
+   "korean": "사마신의 철갑"
+  },
+  {
+   "key": "1d522e0533cf",
+   "speaker_korean": null,
+   "korean": "이면사의 철조"
+  },
+  {
+   "key": "f9823481345e",
+   "speaker_korean": null,
+   "korean": "무해철조"
+  },
+  {
+   "key": "9160e0ab4cb3",
+   "speaker_korean": null,
+   "korean": "요력천의 철갑"
+  },
+  {
+   "key": "810242cf47d1",
+   "speaker_korean": null,
+   "korean": "초달콤 카레"
+  },
+  {
+   "key": "14fc6a52f896",
+   "speaker_korean": null,
+   "korean": "릴리스의 권속"
+  },
+  {
+   "key": "8cddea14f66b",
+   "speaker_korean": null,
+   "korean": "사심의 부적"
+  },
+  {
+   "key": "38c65c1bd51a",
+   "speaker_korean": null,
+   "korean": "연약한 쇠파이프"
+  },
+  {
+   "key": "0f14c2e04a08",
+   "speaker_korean": null,
+   "korean": "나무508"
+  },
+  {
+   "key": "2aeefd54b3d5",
+   "speaker_korean": null,
+   "korean": "나무509"
+  },
+  {
+   "key": "75de1ece99ba",
+   "speaker_korean": null,
+   "korean": "나무521"
+  },
+  {
+   "key": "46311f8b4571",
+   "speaker_korean": null,
+   "korean": "별의 상급 정령"
+  },
+  {
+   "key": "d7f6026dcd63",
+   "speaker_korean": null,
+   "korean": "환상의 오도로"
+  },
+  {
+   "key": "435ae9a18ed0",
+   "speaker_korean": null,
+   "korean": "퍼펙트 장"
+  },
+  {
+   "key": "c03a580581ab",
+   "speaker_korean": null,
+   "korean": "매혹의 굴 버터 볶음"
+  },
+  {
+   "key": "b9a14780062a",
+   "speaker_korean": null,
+   "korean": "전투의 그라탱"
+  },
+  {
+   "key": "3ec23deb8c8c",
+   "speaker_korean": null,
+   "korean": "지고의 도라야키"
+  },
+  {
+   "key": "55926b3c8ddc",
+   "speaker_korean": null,
+   "korean": "나무556"
+  },
+  {
+   "key": "f11f35f06757",
+   "speaker_korean": null,
+   "korean": "초절 파괴 유닛"
+  },
+  {
+   "key": "6750442eca65",
+   "speaker_korean": null,
+   "korean": "구리 우상"
+  },
+  {
+   "key": "ce0ccecab750",
+   "speaker_korean": null,
+   "korean": "나무644"
+  },
+  {
+   "key": "bb32ee55991d",
+   "speaker_korean": null,
+   "korean": "나무645"
+  },
+  {
+   "key": "a2c0906f95cc",
+   "speaker_korean": null,
+   "korean": "나무646"
+  },
+  {
+   "key": "efe25cfa0d3f",
+   "speaker_korean": null,
+   "korean": "나무647"
+  },
+  {
+   "key": "51d5b2015499",
+   "speaker_korean": null,
+   "korean": "안개의 부적"
+  },
+  {
+   "key": "386d62c21c3a",
+   "speaker_korean": null,
+   "korean": "인챈트 북(땅・반감)"
+  },
+  {
+   "key": "604f38082dd4",
+   "speaker_korean": null,
+   "korean": "인챈트 북(물・반감)"
+  },
+  {
+   "key": "25bf34ca5f56",
+   "speaker_korean": null,
+   "korean": "인챈트 북(불・반감)"
+  },
+  {
+   "key": "1fda52ae46c0",
+   "speaker_korean": null,
+   "korean": "인챈트 북(바람・반감)"
+  },
+  {
+   "key": "46da2f490600",
+   "speaker_korean": null,
+   "korean": "바니의 부적"
+  },
+  {
+   "key": "570508d6215e",
+   "speaker_korean": null,
+   "korean": "나무697"
+  },
+  {
+   "key": "3ed2215880ea",
+   "speaker_korean": null,
+   "korean": "나무698"
+  },
+  {
+   "key": "15bb8b574f8b",
+   "speaker_korean": null,
+   "korean": "나무699"
+  },
+  {
+   "key": "d18bfcb35201",
+   "speaker_korean": null,
+   "korean": "별의 호문쿨루스"
+  },
+  {
+   "key": "e488a50b71e3",
+   "speaker_korean": null,
+   "korean": "나무"
+  },
+  {
+   "key": "d5dedb33fc22",
+   "speaker_korean": null,
+   "korean": "프로텍트 브레이크 시 적의 Guts 감소량+5"
+  },
+  {
+   "key": "360f93493b41",
+   "speaker_korean": null,
+   "korean": "프로텍트 브레이크 시 적의 Guts 감소량+10"
+  },
+  {
+   "key": "148c93d54ee9",
+   "speaker_korean": null,
+   "korean": "프로텍트 브레이크 시 적의 Guts 감소량+20"
+  },
+  {
+   "key": "16bec36f3b62",
+   "speaker_korean": null,
+   "korean": "무적이 되나 항상 기절 파괴확률10%"
+  },
+  {
+   "key": "8e71d82f7cd7",
+   "speaker_korean": null,
+   "korean": "무적에 기절하나 가끔 행동 가능 파괴확률10%"
+  },
+  {
+   "key": "6aa8fa145b9c",
+   "speaker_korean": null,
+   "korean": "행동불능에서 부활 파괴확률100%"
+  },
+  {
+   "key": "2a6437444dee",
+   "speaker_korean": null,
+   "korean": "행동불능에서 부활 파괴확률70%"
+  },
+  {
+   "key": "b6b198cdaa33",
+   "speaker_korean": null,
+   "korean": "행동불능에서 부활 파괴확률40%"
+  },
+  {
+   "key": "722e183945eb",
+   "speaker_korean": null,
+   "korean": "행동불능에서 부활 파괴확률20%"
+  },
+  {
+   "key": "da8c52cd4d8d",
+   "speaker_korean": null,
+   "korean": "데미지 20%OFF 파괴확률 20%"
+  },
+  {
+   "key": "e9ba88aa2e3f",
+   "speaker_korean": null,
+   "korean": "데미지 20%OFF 파괴확률 10%"
+  },
+  {
+   "key": "492258260394",
+   "speaker_korean": null,
+   "korean": "데미지 20%OFF 파괴확률 5%"
+  }
+ ]
+}

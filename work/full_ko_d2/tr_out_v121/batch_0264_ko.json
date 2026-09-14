@@ -1,0 +1,650 @@
+{
+ "batch_id": "batch_0264",
+ "translations": [
+  {
+   "key": "9527e3c17271",
+   "speaker_korean": null,
+   "korean": "산뜻하고 드라이한 술이라는 극찬 중에서도 세련되고\n숙련의 극치라 할 만한 일품"
+  },
+  {
+   "key": "924766a3797b",
+   "speaker_korean": null,
+   "korean": "일본주도+8, 극강 드라이지만 뒷맛 깔끔.\n가성비가 매우 높다"
+  },
+  {
+   "key": "eb2a6c56c0f9",
+   "speaker_korean": null,
+   "korean": "과일 같은 향과 단맛.\n뒷맛엔 유난히 기분좋은 여운이 남는 걸작"
+  },
+  {
+   "key": "ebe2e2150582",
+   "speaker_korean": null,
+   "korean": "명성에 부끄럽지 않은 품질.\n뒤끝 없는 깔끔함은 좋은 술의 전형"
+  },
+  {
+   "key": "7e8554d09e6b",
+   "speaker_korean": null,
+   "korean": "적당한 단맛이 특징이란 점은 시류와 조금\n동떨어져 있다.\n하지만 그 개성은 중독되지 않을 수 없다"
+  },
+  {
+   "key": "37e861eb90d7",
+   "speaker_korean": null,
+   "korean": "과일향과 탄탄한 골격의 맛이\n좋은 인상을 남기는 일품"
+  },
+  {
+   "key": "de5f404d09d5",
+   "speaker_korean": null,
+   "korean": "모든 것이 조화로운 명주.\n맑고 청량한 인상을 주는 건\n사용된 물 때문일까"
+  },
+  {
+   "key": "7da638d6979c",
+   "speaker_korean": null,
+   "korean": "전설의 9호 효모를 만든 양조장의 명주.\n감로 같은 향미가 특징적"
+  },
+  {
+   "key": "000285f24bc4",
+   "speaker_korean": null,
+   "korean": "거칠고 앳된 새 술을 1년 숙성시키면\n모난 곳 없는 어른스러운 맛이 된다.\n이게 바로 그런 술"
+  },
+  {
+   "key": "e4ea49ae9fe8",
+   "speaker_korean": null,
+   "korean": "향도 맛도 지극히 단순한 술.\n하지만 그게 피로를 풀어준다.\n편안함이 있는 맛"
+  },
+  {
+   "key": "298c65e01a2a",
+   "speaker_korean": null,
+   "korean": "사용하면 전원의 HP를 30% 회복시킬 수 있다\n단 한 번 쓰면 한동안 사용 불가"
+  },
+  {
+   "key": "20c77ab42b37",
+   "speaker_korean": null,
+   "korean": "사용하면 전원의 MP를 30% 회복시킬 수 있다\n단 한 번 쓰면 한동안 사용 불가"
+  },
+  {
+   "key": "0714c3abb292",
+   "speaker_korean": null,
+   "korean": "사용하면 전원을 행동불능에서\n회복시킬 수 있다.\n단 한 번 쓰면 한동안 사용 불가"
+  },
+  {
+   "key": "674dd6b6183c",
+   "speaker_korean": null,
+   "korean": "토끼 귀를 본뜬 성배"
+  },
+  {
+   "key": "e1cc7d5d5fa6",
+   "speaker_korean": null,
+   "korean": "오가모미우테로카도우"
+  },
+  {
+   "key": "1c6e4a37d969",
+   "speaker_korean": null,
+   "korean": "신우레요테토마우루"
+  },
+  {
+   "key": "87dcbcc6c936",
+   "speaker_korean": null,
+   "korean": "테반나제키구미노쿠자"
+  },
+  {
+   "key": "f05a34e4d48a",
+   "speaker_korean": null,
+   "korean": "밋다인가니타메츠노"
+  },
+  {
+   "key": "0292310a31a1",
+   "speaker_korean": null,
+   "korean": "테테케토부치요엔하치"
+  },
+  {
+   "key": "c3f94add955b",
+   "speaker_korean": null,
+   "korean": "네타도오하갓피바나카"
+  },
+  {
+   "key": "d8f36ceb5685",
+   "speaker_korean": null,
+   "korean": "배틀스킬「드레인」을 익히는 책"
+  },
+  {
+   "key": "853dc7d3ecb1",
+   "speaker_korean": null,
+   "korean": "배틀스킬「겟아이템」을 익히는 책"
+  },
+  {
+   "key": "e44a6408d347",
+   "speaker_korean": null,
+   "korean": "배틀스킬「스태미나업」을 익히는 책"
+  },
+  {
+   "key": "64688025cb44",
+   "speaker_korean": null,
+   "korean": "배틀스킬「더블업」을 익히는 책"
+  },
+  {
+   "key": "0d84b02ba90c",
+   "speaker_korean": null,
+   "korean": "배틀스킬「커먼어택스펠」을 익히는 책\n스킬 세팅을 하지 않으면 쓸 수 없습니다"
+  },
+  {
+   "key": "4023ad6d627b",
+   "speaker_korean": null,
+   "korean": "배틀스킬「커먼서포트스펠」을 익히는 책\n전투 중엔 스킬 세팅 안 하면 쓸 수 없습니다"
+  },
+  {
+   "key": "16b1a23844b1",
+   "speaker_korean": null,
+   "korean": "배틀스킬「MP익스텐드」를 익히는 책"
+  },
+  {
+   "key": "d1afb36c79eb",
+   "speaker_korean": null,
+   "korean": "배틀스킬「퀵차지」를 익히는 책"
+  },
+  {
+   "key": "80239065c9f3",
+   "speaker_korean": null,
+   "korean": "배틀스킬「Guts익스텐드」를 익히는 책"
+  },
+  {
+   "key": "07d8808aaec4",
+   "speaker_korean": null,
+   "korean": "배틀스킬「럭키스타」를 익히는 책"
+  },
+  {
+   "key": "9f5cc36a707e",
+   "speaker_korean": null,
+   "korean": "택티컬스킬「수행」을\n익히는 책"
+  },
+  {
+   "key": "cf78c41d7266",
+   "speaker_korean": null,
+   "korean": "택티컬스킬「밸런스컨디션」을\n익히는 책"
+  },
+  {
+   "key": "848348dfa909",
+   "speaker_korean": null,
+   "korean": "택티컬스킬「큐어컨디션」을\n익히는 책"
+  },
+  {
+   "key": "d98ff3ae0d90",
+   "speaker_korean": null,
+   "korean": "배틀스킬「봉신성뢰파」를 익히는 두루마리"
+  },
+  {
+   "key": "9dad1081b187",
+   "speaker_korean": null,
+   "korean": "배틀스킬「이앵화 작광」을 익히는 두루마리"
+  },
+  {
+   "key": "29abeecea792",
+   "speaker_korean": null,
+   "korean": "주문「그렘린 레어」를 익히는 두루마리"
+  },
+  {
+   "key": "bc77096a0711",
+   "speaker_korean": null,
+   "korean": "주문「블러드 스큘러」를 익히는 두루마리"
+  },
+  {
+   "key": "42d5b97a0ef4",
+   "speaker_korean": null,
+   "korean": "주문「서던크로스」를 익히는 두루마리"
+  },
+  {
+   "key": "b99ffa73c16f",
+   "speaker_korean": null,
+   "korean": "병아리(오리?) 모양을 한, 사람을 놀리는 폭탄"
+  },
+  {
+   "key": "69f6bf85f991",
+   "speaker_korean": null,
+   "korean": "검은 구슬에 도화선 단 레트로 폭탄"
+  },
+  {
+   "key": "be0eda3cf03b",
+   "speaker_korean": null,
+   "korean": "인위적으로 만들어진 지방 가득한 소고기를\n가열 조리한 음식.\n너무 레어인 건 개인적으로 사양"
+  },
+  {
+   "key": "3a8b27660ce7",
+   "speaker_korean": null,
+   "korean": "마블링 소고기 미디엄 구이 고급 스테이크"
+  },
+  {
+   "key": "8956fbc85492",
+   "speaker_korean": null,
+   "korean": "어린이용 스테이크.\n하지만 너무 사치스런 처지랄 수밖에"
+  },
+  {
+   "key": "8adb5ed3c474",
+   "speaker_korean": null,
+   "korean": "고급 레스토랑에서 100원에 스테이크 달라고\n했을 때 나올 법한, 그런 일품"
+  },
+  {
+   "key": "179a8bc4e9e5",
+   "speaker_korean": null,
+   "korean": "보는 순간 내 눈을 의심케 되는 모습.\n말하자면 우뚝 솟은 고기 타워.\n라스트 보스가 여기 사나?싶은 느낌"
+  },
+  {
+   "key": "fa4762ecd24e",
+   "speaker_korean": null,
+   "korean": "아이가 손뼉 치며 좋아할 만한 일품"
+  },
+  {
+   "key": "27322f77ea1a",
+   "speaker_korean": null,
+   "korean": "약을 젤리로 굳힌 요리.\n요리?"
+  },
+  {
+   "key": "1df742513c0e",
+   "speaker_korean": null,
+   "korean": "참치 머리를 통째로 구운 호쾌한 요리.\n식탁이 더없이 그로테스크해지지만, 부위마다\n맛의 차이를 알면 식탁은 순식간에 전장이 된다"
+  },
+  {
+   "key": "364df1f7be61",
+   "speaker_korean": null,
+   "korean": "재료를 너무 많이 넣어 정작 떡이 파묻힌\n실소 나오는 일품, 재료가 좋아 맛있다.\n먹기는 힘들지만"
+  },
+  {
+   "key": "7623f83de33a",
+   "speaker_korean": null,
+   "korean": "돼지고기 다짐육을 조리해\n밀가루 피에 싸서 찐\n중화풍 만두"
+  },
+  {
+   "key": "282b15830445",
+   "speaker_korean": null,
+   "korean": "매우 예의 바른 고양이가 마치 나이프와\n포크를 써서 먹은 듯한 인상을\n주는 어떤 의미로 수수께끼 같은 음식"
+  },
+  {
+   "key": "f64963a48fc3",
+   "speaker_korean": null,
+   "korean": "그릇은 더 고급입니다"
+  },
+  {
+   "key": "1d26aa5bc863",
+   "speaker_korean": null,
+   "korean": "과일 산미와 아이스크림 단맛이 기본인\n균형 감각이 발군인 디저트"
+  },
+  {
+   "key": "115099852142",
+   "speaker_korean": null,
+   "korean": "보는 이를 즐겁게 하는 장식을 한 쇼트케이크"
+  },
+  {
+   "key": "68e6a6e1bf62",
+   "speaker_korean": null,
+   "korean": "참치 배쪽 중 특히 지방 많은 부위를 잘라,\n쥔 초밥 위에 얹은 음식.\n콩을 발효숙성해 짜낸 검은 액체 찍어 먹으면 별미"
+  },
+  {
+   "key": "2792f5a9fc42",
+   "speaker_korean": null,
+   "korean": "가는 끈에 묶어 비법 소스에 절여 구운 돼지고기를\n듬뿍 곁들인 면 요리"
+  },
+  {
+   "key": "c332cb451067",
+   "speaker_korean": null,
+   "korean": "닭고기를 허브 등으로 밑손질한 후 고열로\n가열 처리한 음식. 속까지 너무 익히지 않는 게\n감칠맛을 놓치지 않는 요령"
+  },
+  {
+   "key": "c45efdf2c3e0",
+   "speaker_korean": null,
+   "korean": "크림에 우유와 설탕을 더해 얼린 디저트.\n바닐라빈을 제대로 쓴 본격파"
+  },
+  {
+   "key": "0c940de7d593",
+   "speaker_korean": null,
+   "korean": "소고기 다짐육에 빵가루·달걀 등을 더해,\n타원형으로 빚어 구운 음식.\n그냥 함박스테이크와의 명확한 차이는 불명"
+  },
+  {
+   "key": "3bdb195cbefa",
+   "speaker_korean": null,
+   "korean": "솔직히 살인적 크기의 만두, 웃어넘길 수 없다.\n질보다 양이 지나치다. 게다가 먹기도 힘들다"
+  },
+  {
+   "key": "a717475c47a6",
+   "speaker_korean": null,
+   "korean": "매실을 소금에 절여, 햇볕에 말린 후 담근,\n아이에게는 좀 매운 음식"
+  },
+  {
+   "key": "57b13ab7cb26",
+   "speaker_korean": null,
+   "korean": "생채소를 드레싱 등으로 무친 것에 가열 처리한\n참치 살을 곁들인 음식.\n묘하게 잘 어울린다"
+  },
+  {
+   "key": "636daeddfc49",
+   "speaker_korean": null,
+   "korean": "고급 대게를 통째로 소금물에 삶은 음식.\n앞으로의 기회 위해 가장 맛있는 다리가\n어디쯤인지는 기억해두고 싶은 법"
+  },
+  {
+   "key": "93d6646d56cb",
+   "speaker_korean": null,
+   "korean": "갓 딴 옥수수에 간장을 발라 구운 음식.\n구운 간장의 고소한 향이 일품.\n옥수수 신선도는 심 색깔로 판별할 수 있습니다"
+  },
+  {
+   "key": "c932a4e52056",
+   "speaker_korean": null,
+   "korean": "명란맛.\n야오킨 사장 승인필 m(_ _)m"
+  },
+  {
+   "key": "33489ffd8b2e",
+   "speaker_korean": null,
+   "korean": "살라미맛.\n야오킨 사장 승인필 m(_ _)m"
+  },
+  {
+   "key": "1cf90862fe9e",
+   "speaker_korean": null,
+   "korean": "야채샐러드맛.\n야오킨 사장 승인필 m(_ _)m"
+  },
+  {
+   "key": "78499168fd99",
+   "speaker_korean": null,
+   "korean": "데리야키버거맛.\n야오킨 사장 승인필 m(_ _)m"
+  },
+  {
+   "key": "4f38ea4c53b9",
+   "speaker_korean": null,
+   "korean": "치즈맛.\n야오킨 사장 승인필 m(_ _)m"
+  },
+  {
+   "key": "04fbd3b60a1d",
+   "speaker_korean": null,
+   "korean": "콘포타주맛.\n야오킨 사장 승인필 m(_ _)m"
+  },
+  {
+   "key": "034af06046d7",
+   "speaker_korean": null,
+   "korean": "다코야키맛.\n야오킨 사장 승인필 m(_ _)m"
+  },
+  {
+   "key": "64cf4db9ad84",
+   "speaker_korean": null,
+   "korean": "돈가스소스맛.\n야오킨 사장 승인필 m(_ _)m"
+  },
+  {
+   "key": "541fad1e84ef",
+   "speaker_korean": null,
+   "korean": "어릴 적 동경한 경험 있는 이가 적잖이 있는,\n그런 일품"
+  },
+  {
+   "key": "eede222ed6a8",
+   "speaker_korean": null,
+   "korean": "고기, 채소를 볶은 것을\n향신료와 밀가루로 만든 루에 끓여,\n지은 밥에 얹은 요리"
+  },
+  {
+   "key": "049684b327e0",
+   "speaker_korean": null,
+   "korean": "정식 명칭은 충칭 라오훠궈. 고추를 기름과 섞어\n페이스트로 만들어 국물 베이스로 삼은, 이른바\n마라훠궈. 위가 확실히 맛이 가지만 중독된다"
+  },
+  {
+   "key": "d5cf9415045a",
+   "speaker_korean": null,
+   "korean": "메밀 열매를 갈아 반죽해 얇게 편 후,\n가늘고 길게 썰어 삶은 음식.\n쫄깃함이 있든 없든 맛있는 건 맛있다"
+  },
+  {
+   "key": "aad88514820c",
+   "speaker_korean": null,
+   "korean": "콩에 낫토균을 번식시켜 발효시킨 끈적한\n음식. 간장은 물론이고 다진 파와\n날달걀이 토핑의 정석일까"
+  },
+  {
+   "key": "15792ba38ff2",
+   "speaker_korean": null,
+   "korean": "스펀지를 두꺼운 초콜릿 층으로\n코팅한 케이크. 노포 호텔의\n이름에서 따왔다고"
+  },
+  {
+   "key": "55fdc3837f85",
+   "speaker_korean": null,
+   "korean": "푸른곰팡이가 단백질을 감칠맛으로 분해한 치즈.\n그것을 통째로 하나"
+  },
+  {
+   "key": "ed10cdcb843b",
+   "speaker_korean": null,
+   "korean": "생크림을 듬뿍 사용한 초콜릿\n스펀지케이크. 카카오와 크림의 조화에\n카카오 자체의 향이 어우러져, 일품"
+  },
+  {
+   "key": "40c382643e9e",
+   "speaker_korean": null,
+   "korean": "살구씨를 갈아 우유 같은 액체로 만든 것에\n한천을 더해 굳힌 것, 달콤씁쓸한 맛이 좋다"
+  },
+  {
+   "key": "49f1e9175830",
+   "speaker_korean": null,
+   "korean": "적당한 크기로 썬 순무를 볶아 가쓰오부시를\n묻힌 요리. 심플해서 밥반찬으로 최고"
+  },
+  {
+   "key": "654e418312af",
+   "speaker_korean": null,
+   "korean": "배추 간장절임에 고춧가루와 마늘을\n듬뿍 묻힌 것"
+  },
+  {
+   "key": "0530510eb38b",
+   "speaker_korean": null,
+   "korean": "파이 반죽 안에 레몬즙, 설탕, 시나몬을 더해\n손질한 사과를 넣어 구운 과자"
+  },
+  {
+   "key": "4025c5d590df",
+   "speaker_korean": null,
+   "korean": "달콤한 바나나에 더 달콤한 초코를 뿌린 디저트.\n제멋대로의 상상이지만 비터초코도 괜찮지 않을까.\n해본 적은 없지만"
+  },
+  {
+   "key": "37687e02f204",
+   "speaker_korean": null,
+   "korean": "타르트 반죽에 아몬드크림을 채워 넣고,\n그 위에 반배를 깔아 구운 과자"
+  },
+  {
+   "key": "9e1fc2630c58",
+   "speaker_korean": null,
+   "korean": "자라를 기름에 튀긴 요리.\n통째로 튀기면 좀 먹기 힘들 듯하다"
+  },
+  {
+   "key": "0ba176b247cb",
+   "speaker_korean": null,
+   "korean": "매머드 같은 동물 고기를\n와일드하게 구운 것.\n일단 맛없진 않을 듯"
+  },
+  {
+   "key": "0e3e7166201c",
+   "speaker_korean": null,
+   "korean": "돼지 비계를 한입 크기로 썰어 꼬치에 꿴\n구운 음식"
+  },
+  {
+   "key": "edb1f861753e",
+   "speaker_korean": null,
+   "korean": "새우, 상추, 돼지고기를 라이스페이퍼로 싼 요리.\n땅콩소스 등에 찍어 먹는 게 일반적"
+  },
+  {
+   "key": "1290396f349c",
+   "speaker_korean": null,
+   "korean": "일단 화려한 과일 모둠.\n확실히 화려하긴 한데…"
+  },
+  {
+   "key": "3c13637bde11",
+   "speaker_korean": null,
+   "korean": "채소를 섞은 쇼트파스타 위에 적당한 크기로\n찢은 생햄을 곁들인 샐러드. 생햄의 짠맛과\n채소의 궁합이 아주 좋다"
+  },
+  {
+   "key": "a125ebe1f1b8",
+   "speaker_korean": null,
+   "korean": "스펀지 위에 휘핑크림을 얹고,\n마롱크림을 더 짜낸 케이크.\n알프스 최고봉과 관련 있나?"
+  },
+  {
+   "key": "a995e82319f0",
+   "speaker_korean": null,
+   "korean": "그라탱 접시에 마카로니·닭고기 재료와\n화이트소스를 넣어, 치즈를 뿌려\n가열 처리한 요리"
+  },
+  {
+   "key": "57c8f3649070",
+   "speaker_korean": null,
+   "korean": "복숭아 생주스에 다진 백도를 넣은 냉수프.\n숟가락으로 떠서 우아하게 드세요"
+  },
+  {
+   "key": "4368771a7197",
+   "speaker_korean": null,
+   "korean": "수박맛 아이스크림.\n모양도 수박을 본떠 얄미울 정도.\n참고로 씨는 초콜릿"
+  },
+  {
+   "key": "4d24172d7c45",
+   "speaker_korean": null,
+   "korean": "땅을 다스리는 작은 요정.\n무기에 깃들면 특별한 힘 발휘한다"
+  },
+  {
+   "key": "440193b6129c",
+   "speaker_korean": null,
+   "korean": "물을 다스리는 작은 요정.\n무기에 깃들면 특별한 힘 발휘한다"
+  },
+  {
+   "key": "794f2ac18a72",
+   "speaker_korean": null,
+   "korean": "불을 다스리는 작은 요정.\n무기에 깃들면 특별한 힘 발휘한다"
+  },
+  {
+   "key": "74d1d281d3bd",
+   "speaker_korean": null,
+   "korean": "바람을 다스리는 작은 요정.\n무기에 깃들면 특별한 힘 발휘한다"
+  },
+  {
+   "key": "87956b85055c",
+   "speaker_korean": null,
+   "korean": "번개를 다스리는 작은 요정.\n무기에 깃들면 특별한 힘 발휘한다"
+  },
+  {
+   "key": "311209dde18e",
+   "speaker_korean": null,
+   "korean": "강철제 장검.\n본체의 무게와 원심력으로 억지로 베는\n것을 목적으로 한 무기"
+  },
+  {
+   "key": "9a855ae3c11d",
+   "speaker_korean": null,
+   "korean": "베어 가르기 위한 굽은 도검"
+  },
+  {
+   "key": "b83c4481e517",
+   "speaker_korean": null,
+   "korean": "손도끼. 작지만 파괴력은 제법 있다"
+  },
+  {
+   "key": "3991aac1004d",
+   "speaker_korean": null,
+   "korean": "소형 곡도.\n다루기 쉬워 도적·암살자가 즐겨 쓴다"
+  },
+  {
+   "key": "96d8c457f8c8",
+   "speaker_korean": null,
+   "korean": "일단 지팡이. 주문 영창 촉매인\n때려도 충분히 쓰러뜨릴 물건"
+  },
+  {
+   "key": "62a6c14ba7a3",
+   "speaker_korean": null,
+   "korean": "팔을 지키는 강철 방어구.\n이걸로 치는 격투가도 있다는데"
+  },
+  {
+   "key": "111b042fefe5",
+   "speaker_korean": null,
+   "korean": "큰 방울이 달린 귀여운 신발.\n아파 보이는 가시가 달린 건 애교?"
+  },
+  {
+   "key": "d6165cac8cd8",
+   "speaker_korean": null,
+   "korean": "어느 여신이 걸쳤다고도\n벗어던졌다고도 전하는 전설의 방어구.\n안타깝게도 여성 전용"
+  },
+  {
+   "key": "314346c4721b",
+   "speaker_korean": null,
+   "korean": "이 세상에 판치는 하찮은 자들을\n일격필살로 처단하는 하찮은 리설웨폰"
+  },
+  {
+   "key": "e3c605b76819",
+   "speaker_korean": null,
+   "korean": "금속판을 무두질 가죽으로 엮은 방어구"
+  },
+  {
+   "key": "d2c9c567b850",
+   "speaker_korean": null,
+   "korean": "이른바 판금 갑옷.\n본래는 본인에게 맞춰 만드는 완전 맞춤 제작품"
+  },
+  {
+   "key": "3ded292ac48a",
+   "speaker_korean": null,
+   "korean": "강철 반신갑"
+  },
+  {
+   "key": "a75490aedde9",
+   "speaker_korean": null,
+   "korean": "마법 금속 미스릴 갑옷"
+  },
+  {
+   "key": "3f73599c5048",
+   "speaker_korean": null,
+   "korean": "은빛 빛나는 강철을 가죽으로 엮은 방어구"
+  },
+  {
+   "key": "708135e92377",
+   "speaker_korean": null,
+   "korean": "플레이트 아머의 한 종류.\n용감한 전사에 어울리는 성능·디자인의 일품"
+  },
+  {
+   "key": "701c8997aab7",
+   "speaker_korean": null,
+   "korean": "특수 코팅을 하여 강도를 대폭 높인\n플레이트 아머"
+  },
+  {
+   "key": "4cb5a41ac014",
+   "speaker_korean": null,
+   "korean": "마법으로 강화된 플레이트 아머.\n주문 공격을 높은 확률로 무효화한다"
+  },
+  {
+   "key": "69b4f7c97cb9",
+   "speaker_korean": null,
+   "korean": "육체와 정신을 고도로 지키는 궁극 방어구"
+  },
+  {
+   "key": "7afdd7993ccc",
+   "speaker_korean": null,
+   "korean": "무두질 가죽 방어구"
+  },
+  {
+   "key": "81f1f6e6c3b6",
+   "speaker_korean": null,
+   "korean": "쇄자갑(쿠사리카타비라).\n작은 사슬을 엮어 만든 단순한 방어구"
+  },
+  {
+   "key": "01b919e728e5",
+   "speaker_korean": null,
+   "korean": "레더 아머 요소요소에 금속판을 덧대 강화한 방어구"
+  },
+  {
+   "key": "09640748643a",
+   "speaker_korean": null,
+   "korean": "오리하르콘으로 만든 체인메일.\n원래 소재의 흔적이 남은 색감"
+  },
+  {
+   "key": "191e7d64596c",
+   "speaker_korean": null,
+   "korean": "마법 금속 미스릴로 만든 체인메일"
+  },
+  {
+   "key": "373239f6bfd1",
+   "speaker_korean": null,
+   "korean": "용의 비늘을 소재로 만든 방어구.\n디자인도 드래곤을 모티프로 한다"
+  },
+  {
+   "key": "6228091e00f6",
+   "speaker_korean": null,
+   "korean": "특수 코팅을 한 레더 아머.\n검게 빛나는 독특한 외관이 특징적"
+  },
+  {
+   "key": "7e500af4212b",
+   "speaker_korean": null,
+   "korean": "매우 견고한 구조의 체인메일.\n금속 플레이트도 사용되어 플레이트 아머를\n떠올리게 하지만 매우 민첩성이 뛰어나다"
+  },
+  {
+   "key": "f0705cc8ef09",
+   "speaker_korean": null,
+   "korean": "사대정령의 가호를 받은 특별한 퀴르보일"
+  },
+  {
+   "key": "7c127cb706c4",
+   "speaker_korean": null,
+   "korean": "천 방어구"
+  }
+ ]
+}

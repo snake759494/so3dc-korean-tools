@@ -1,0 +1,650 @@
+{
+ "batch_id": "batch_0278",
+ "translations": [
+  {
+   "key": "84542473ba83",
+   "speaker_korean": null,
+   "korean": "문베이스 <3〉"
+  },
+  {
+   "key": "c231339d4694",
+   "speaker_korean": null,
+   "korean": "그리텐 대륙"
+  },
+  {
+   "key": "c6204d2eeeca",
+   "speaker_korean": null,
+   "korean": "신산"
+  },
+  {
+   "key": "1b1d756a57ca",
+   "speaker_korean": null,
+   "korean": "에스토크 성계"
+  },
+  {
+   "key": "073218c0445d",
+   "speaker_korean": null,
+   "korean": "제18우주기지"
+  },
+  {
+   "key": "eab6b3fb1755",
+   "speaker_korean": null,
+   "korean": "미셸"
+  },
+  {
+   "key": "ef1f5a239211",
+   "speaker_korean": null,
+   "korean": "엘리자"
+  },
+  {
+   "key": "55ea91494e73",
+   "speaker_korean": null,
+   "korean": "그라츠"
+  },
+  {
+   "key": "12f70fe9ee7b",
+   "speaker_korean": null,
+   "korean": "살인 셰프"
+  },
+  {
+   "key": "1ea71091008c",
+   "speaker_korean": null,
+   "korean": "메릴"
+  },
+  {
+   "key": "8a7116624d2c",
+   "speaker_korean": null,
+   "korean": "노페린 백작"
+  },
+  {
+   "key": "8df6103124be",
+   "speaker_korean": null,
+   "korean": "칠리코"
+  },
+  {
+   "key": "ccec93cc29b9",
+   "speaker_korean": null,
+   "korean": "안사라"
+  },
+  {
+   "key": "ee9090b00088",
+   "speaker_korean": null,
+   "korean": "가스트"
+  },
+  {
+   "key": "31343df7d840",
+   "speaker_korean": null,
+   "korean": "코넬리우스"
+  },
+  {
+   "key": "0c2358dd42f4",
+   "speaker_korean": null,
+   "korean": "포르테・G・헉슬리"
+  },
+  {
+   "key": "cbe8d6639a40",
+   "speaker_korean": null,
+   "korean": "라돌・크리스틴"
+  },
+  {
+   "key": "0c375ac6e49c",
+   "speaker_korean": null,
+   "korean": "루미나・G・도기"
+  },
+  {
+   "key": "fa8873873564",
+   "speaker_korean": null,
+   "korean": "루시오"
+  },
+  {
+   "key": "55fc29ba1e9b",
+   "speaker_korean": null,
+   "korean": "레자드"
+  },
+  {
+   "key": "d2af823efaf8",
+   "speaker_korean": null,
+   "korean": "베리온"
+  },
+  {
+   "key": "a11861f1213f",
+   "speaker_korean": null,
+   "korean": "블레어・란드베르드 <2〉"
+  },
+  {
+   "key": "71081ee4d270",
+   "speaker_korean": null,
+   "korean": "이리스・팜"
+  },
+  {
+   "key": "9e306385ea69",
+   "speaker_korean": null,
+   "korean": "엘리노어・주란"
+  },
+  {
+   "key": "a153b7f2be1b",
+   "speaker_korean": null,
+   "korean": "팔미라・알미스"
+  },
+  {
+   "key": "17eaa9a69ed7",
+   "speaker_korean": null,
+   "korean": "포스터・루드"
+  },
+  {
+   "key": "924d79fbc728",
+   "speaker_korean": null,
+   "korean": "고섬"
+  },
+  {
+   "key": "90fc8d4cfded",
+   "speaker_korean": null,
+   "korean": "스타아니스"
+  },
+  {
+   "key": "3ba954345889",
+   "speaker_korean": null,
+   "korean": "담다・무다"
+  },
+  {
+   "key": "cdff1cf4723f",
+   "speaker_korean": null,
+   "korean": "바닐라"
+  },
+  {
+   "key": "4e4e3dedbe85",
+   "speaker_korean": null,
+   "korean": "발바도스"
+  },
+  {
+   "key": "e6c57f7ab720",
+   "speaker_korean": null,
+   "korean": "선더애로우"
+  },
+  {
+   "key": "59a8a146c968",
+   "speaker_korean": null,
+   "korean": "외교함"
+  },
+  {
+   "key": "ac7de13a1983",
+   "speaker_korean": null,
+   "korean": "전자기 실드"
+  },
+  {
+   "key": "c6f6c3b476ac",
+   "speaker_korean": null,
+   "korean": "엘리미네이트 라이플"
+  },
+  {
+   "key": "08af33472788",
+   "speaker_korean": null,
+   "korean": "엘리미네이트 블래스터"
+  },
+  {
+   "key": "76925ed332dc",
+   "speaker_korean": null,
+   "korean": "시공간 나비효과"
+  },
+  {
+   "key": "9664d2207f31",
+   "speaker_korean": null,
+   "korean": "월영"
+  },
+  {
+   "key": "578b33437fed",
+   "speaker_korean": null,
+   "korean": "라디쉬"
+  },
+  {
+   "key": "7f0dd95eb859",
+   "speaker_korean": null,
+   "korean": "디스트럭션"
+  },
+  {
+   "key": "d96d938cdcb5",
+   "speaker_korean": null,
+   "korean": "알티네이션"
+  },
+  {
+   "key": "bc1605ddd655",
+   "speaker_korean": null,
+   "korean": "제9우주기지"
+  },
+  {
+   "key": "426e33aecd54",
+   "speaker_korean": null,
+   "korean": "제31우주기지"
+  },
+  {
+   "key": "4a87393e1866",
+   "speaker_korean": null,
+   "korean": "제20우주기지"
+  },
+  {
+   "key": "7f109491aeb6",
+   "speaker_korean": null,
+   "korean": "제36우주기지"
+  },
+  {
+   "key": "b9f5fbdedcc0",
+   "speaker_korean": null,
+   "korean": "제42우주기지"
+  },
+  {
+   "key": "3625d3816453",
+   "speaker_korean": null,
+   "korean": "제8우주기지"
+  },
+  {
+   "key": "c982e4e698c8",
+   "speaker_korean": null,
+   "korean": "위스콘신"
+  },
+  {
+   "key": "27d26479924c",
+   "speaker_korean": null,
+   "korean": "엘리노어의화관"
+  },
+  {
+   "key": "aabd4d9b3f29",
+   "speaker_korean": null,
+   "korean": "시큐리티서비스"
+  },
+  {
+   "key": "324660b61140",
+   "speaker_korean": null,
+   "korean": "시공 스테이션"
+  },
+  {
+   "key": "2a64efe0be45",
+   "speaker_korean": null,
+   "korean": "템프인스톨러〔템프!인스톨러〕"
+  },
+  {
+   "key": "d020fd197323",
+   "speaker_korean": null,
+   "korean": "트라이아신"
+  },
+  {
+   "key": "de8398f6dff1",
+   "speaker_korean": null,
+   "korean": "시저"
+  },
+  {
+   "key": "2d4bf5cbe874",
+   "speaker_korean": null,
+   "korean": "뉴저지"
+  },
+  {
+   "key": "c5e5874277fe",
+   "speaker_korean": null,
+   "korean": "인디펜던스"
+  },
+  {
+   "key": "02c5ed1a7b87",
+   "speaker_korean": null,
+   "korean": "익스프레스"
+  },
+  {
+   "key": "509d8eb20282",
+   "speaker_korean": null,
+   "korean": "우주력"
+  },
+  {
+   "key": "721024f102a1",
+   "speaker_korean": null,
+   "korean": "게놈머티리얼라이즈"
+  },
+  {
+   "key": "6db9035c0111",
+   "speaker_korean": null,
+   "korean": "게놈머티리얼라이저"
+  },
+  {
+   "key": "06140d5475c5",
+   "speaker_korean": null,
+   "korean": "성주M필라〔성주~〕<2〉"
+  },
+  {
+   "key": "382e81170c59",
+   "speaker_korean": null,
+   "korean": "중력 워프 필드"
+  },
+  {
+   "key": "b92553dafab8",
+   "speaker_korean": null,
+   "korean": "파이트 시뮬레이터"
+  },
+  {
+   "key": "87d61808895f",
+   "speaker_korean": null,
+   "korean": "대기조성"
+  },
+  {
+   "key": "fb59c5b2ad80",
+   "speaker_korean": null,
+   "korean": "팔미라의 꽃"
+  },
+  {
+   "key": "cb8ff30d59ae",
+   "speaker_korean": null,
+   "korean": "장인 길드"
+  },
+  {
+   "key": "b29173521c0c",
+   "speaker_korean": null,
+   "korean": "행성클래스"
+  },
+  {
+   "key": "8150bfaa687c",
+   "speaker_korean": null,
+   "korean": "에너지 클래스"
+  },
+  {
+   "key": "479139297486",
+   "speaker_korean": null,
+   "korean": "아쿠아"
+  },
+  {
+   "key": "58a1cde63d7a",
+   "speaker_korean": null,
+   "korean": "에비아"
+  },
+  {
+   "key": "1f7499d3697b",
+   "speaker_korean": null,
+   "korean": "중력 워프공간"
+  },
+  {
+   "key": "abe581732619",
+   "speaker_korean": null,
+   "korean": "리제르"
+  },
+  {
+   "key": "5286f7fa4d58",
+   "speaker_korean": null,
+   "korean": "파피"
+  },
+  {
+   "key": "71e463faa0eb",
+   "speaker_korean": null,
+   "korean": "마유"
+  },
+  {
+   "key": "ee8b9e27669b",
+   "speaker_korean": null,
+   "korean": "라이아스"
+  },
+  {
+   "key": "bc5fd1ad0abd",
+   "speaker_korean": null,
+   "korean": "밀레니아"
+  },
+  {
+   "key": "95f00e564cf3",
+   "speaker_korean": null,
+   "korean": "미스티・리어"
+  },
+  {
+   "key": "d2b51d7e2da7",
+   "speaker_korean": null,
+   "korean": "맥웰"
+  },
+  {
+   "key": "68d059e9f74f",
+   "speaker_korean": null,
+   "korean": "보이드"
+  },
+  {
+   "key": "5374ecdc6b63",
+   "speaker_korean": null,
+   "korean": "페이트라인고드"
+  },
+  {
+   "key": "6dcb2a9d9530",
+   "speaker_korean": null,
+   "korean": "소피아에스티드"
+  },
+  {
+   "key": "8044f4ad60a1",
+   "speaker_korean": null,
+   "korean": "록시・라인고드"
+  },
+  {
+   "key": "f54bfe26fd6b",
+   "speaker_korean": null,
+   "korean": "료코・라인고드"
+  },
+  {
+   "key": "432e42c205b7",
+   "speaker_korean": null,
+   "korean": "템페스트"
+  },
+  {
+   "key": "0452c00ebd04",
+   "speaker_korean": null,
+   "korean": "클래스"
+  },
+  {
+   "key": "a97459696718",
+   "speaker_korean": null,
+   "korean": "데모노이드"
+  },
+  {
+   "key": "37d15288fd41",
+   "speaker_korean": null,
+   "korean": "레조니아"
+  },
+  {
+   "key": "02a9ba57640c",
+   "speaker_korean": null,
+   "korean": "이루하"
+  },
+  {
+   "key": "4d6feb3977b9",
+   "speaker_korean": null,
+   "korean": "하이다4호성"
+  },
+  {
+   "key": "fe7b37da2246",
+   "speaker_korean": null,
+   "korean": "에디피스"
+  },
+  {
+   "key": "ecbbb67683b2",
+   "speaker_korean": null,
+   "korean": "테트라제네시스"
+  },
+  {
+   "key": "ac0ffd9f1181",
+   "speaker_korean": null,
+   "korean": "미로키니아"
+  },
+  {
+   "key": "99e07bae248f",
+   "speaker_korean": null,
+   "korean": "로크"
+  },
+  {
+   "key": "aaf4adf9414d",
+   "speaker_korean": null,
+   "korean": "달"
+  },
+  {
+   "key": "81e65d363a28",
+   "speaker_korean": null,
+   "korean": "지구"
+  },
+  {
+   "key": "ab9efdf95c09",
+   "speaker_korean": null,
+   "korean": "지구연방"
+  },
+  {
+   "key": "ef9fb253f824",
+   "speaker_korean": null,
+   "korean": "은하연방"
+  },
+  {
+   "key": "7a00c5284093",
+   "speaker_korean": null,
+   "korean": "(인종)"
+  },
+  {
+   "key": "3242e710780b",
+   "speaker_korean": null,
+   "korean": "(귀종)"
+  },
+  {
+   "key": "9ff70e947ede",
+   "speaker_korean": null,
+   "korean": "(용종)"
+  },
+  {
+   "key": "47fa5b8e0719",
+   "speaker_korean": null,
+   "korean": "(마종)"
+  },
+  {
+   "key": "89ebef1d0332",
+   "speaker_korean": null,
+   "korean": "(???종)"
+  },
+  {
+   "key": "807f09c98eef",
+   "speaker_korean": null,
+   "korean": "(요정종)"
+  },
+  {
+   "key": "131d634a264d",
+   "speaker_korean": null,
+   "korean": "(충종)"
+  },
+  {
+   "key": "80aca5318449",
+   "speaker_korean": null,
+   "korean": "(암종)"
+  },
+  {
+   "key": "954327339bf2",
+   "speaker_korean": null,
+   "korean": "(종족분류)"
+  },
+  {
+   "key": "3833816b404c",
+   "speaker_korean": null,
+   "korean": "(종족)"
+  },
+  {
+   "key": "8c67a065ab04",
+   "speaker_korean": null,
+   "korean": "(전산종)"
+  },
+  {
+   "key": "c8d5883b83f5",
+   "speaker_korean": null,
+   "korean": "(도시)"
+  },
+  {
+   "key": "db8883aefe3a",
+   "speaker_korean": null,
+   "korean": "(시설)"
+  },
+  {
+   "key": "36134f817e51",
+   "speaker_korean": null,
+   "korean": "(세계)"
+  },
+  {
+   "key": "d5743221ced2",
+   "speaker_korean": null,
+   "korean": "(국가세력)"
+  },
+  {
+   "key": "3e3014ba1cdb",
+   "speaker_korean": null,
+   "korean": "(행성)"
+  },
+  {
+   "key": "8803b798f29d",
+   "speaker_korean": null,
+   "korean": "(주역)"
+  },
+  {
+   "key": "2fa7f4713fcf",
+   "speaker_korean": null,
+   "korean": "(지명)"
+  },
+  {
+   "key": "9de77126fba6",
+   "speaker_korean": null,
+   "korean": "(성계)"
+  },
+  {
+   "key": "af5cd527c487",
+   "speaker_korean": null,
+   "korean": "(항성)"
+  },
+  {
+   "key": "30554427cea9",
+   "speaker_korean": null,
+   "korean": "(국)"
+  },
+  {
+   "key": "080571973bf1",
+   "speaker_korean": null,
+   "korean": "(예명)"
+  },
+  {
+   "key": "078c69ea4a6d",
+   "speaker_korean": null,
+   "korean": "(용명)"
+  },
+  {
+   "key": "0ed7ada6542b",
+   "speaker_korean": null,
+   "korean": "(무기・병기)"
+  },
+  {
+   "key": "ac77ff1cc2e4",
+   "speaker_korean": null,
+   "korean": "(이론)"
+  },
+  {
+   "key": "825b4132da6a",
+   "speaker_korean": null,
+   "korean": "(기술품)"
+  },
+  {
+   "key": "f093ace7f720",
+   "speaker_korean": null,
+   "korean": "(단체)"
+  },
+  {
+   "key": "916ff2082480",
+   "speaker_korean": null,
+   "korean": "(신화・전승)"
+  },
+  {
+   "key": "2a002a883cfb",
+   "speaker_korean": null,
+   "korean": "(기타)"
+  },
+  {
+   "key": "debe8be2b634",
+   "speaker_korean": null,
+   "korean": "(통칭)"
+  },
+  {
+   "key": "3a9e8d154c60",
+   "speaker_korean": null,
+   "korean": "(언어)"
+  },
+  {
+   "key": "743957535001",
+   "speaker_korean": null,
+   "korean": "(불명)"
+  }
+ ]
+}

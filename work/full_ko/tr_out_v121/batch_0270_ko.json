@@ -1,0 +1,645 @@
+{
+ "batch_id": "batch_0270",
+ "translations": [
+  {
+   "key": "30556e8e63e0",
+   "speaker_korean": null,
+   "korean": "안티도트"
+  },
+  {
+   "key": "b79752714102",
+   "speaker_korean": null,
+   "korean": "세이지"
+  },
+  {
+   "key": "43ad880849ed",
+   "speaker_korean": null,
+   "korean": "라벤더"
+  },
+  {
+   "key": "b88abff94797",
+   "speaker_korean": null,
+   "korean": "버블 포션"
+  },
+  {
+   "key": "7b31dcdabafa",
+   "speaker_korean": null,
+   "korean": "멜트 포션"
+  },
+  {
+   "key": "23c1cae1c3cc",
+   "speaker_korean": null,
+   "korean": "스팅크 포트"
+  },
+  {
+   "key": "24539d0bbbae",
+   "speaker_korean": null,
+   "korean": "비터 포션"
+  },
+  {
+   "key": "b5374fb0ce80",
+   "speaker_korean": null,
+   "korean": "프루츠 포트"
+  },
+  {
+   "key": "7fa1671a9cdc",
+   "speaker_korean": null,
+   "korean": "프레시 보틀"
+  },
+  {
+   "key": "2239c338ac0f",
+   "speaker_korean": null,
+   "korean": "스위트 포트"
+  },
+  {
+   "key": "651ccfacd609",
+   "speaker_korean": null,
+   "korean": "리큐어 보틀"
+  },
+  {
+   "key": "67a03fa9c203",
+   "speaker_korean": null,
+   "korean": "믹스 시럽"
+  },
+  {
+   "key": "238819c7b0c9",
+   "speaker_korean": null,
+   "korean": "포이즌 봄"
+  },
+  {
+   "key": "039c54bd4da8",
+   "speaker_korean": null,
+   "korean": "킬러 포이즌"
+  },
+  {
+   "key": "580f27771857",
+   "speaker_korean": null,
+   "korean": "스팅크 봄"
+  },
+  {
+   "key": "7502a843129a",
+   "speaker_korean": null,
+   "korean": "페어리 글라스"
+  },
+  {
+   "key": "609663702db4",
+   "speaker_korean": null,
+   "korean": "히로익 글라스"
+  },
+  {
+   "key": "e39eb128245b",
+   "speaker_korean": null,
+   "korean": "리저렉트 보틀"
+  },
+  {
+   "key": "8b3615ef7e2c",
+   "speaker_korean": null,
+   "korean": "리저렉트 미스트"
+  },
+  {
+   "key": "23a6337cffce",
+   "speaker_korean": null,
+   "korean": "위치 비즈"
+  },
+  {
+   "key": "580d62a3c637",
+   "speaker_korean": null,
+   "korean": "미사용147"
+  },
+  {
+   "key": "caf32eca723c",
+   "speaker_korean": null,
+   "korean": "연어알 비즈"
+  },
+  {
+   "key": "760d9fa0e5f7",
+   "speaker_korean": null,
+   "korean": "신데렐라 비즈"
+  },
+  {
+   "key": "2f9f92882b83",
+   "speaker_korean": null,
+   "korean": "미사용150"
+  },
+  {
+   "key": "3d4111d660b6",
+   "speaker_korean": null,
+   "korean": "미사용151"
+  },
+  {
+   "key": "ec844a7f55fb",
+   "speaker_korean": null,
+   "korean": "마이트 비즈"
+  },
+  {
+   "key": "0f65f134eff7",
+   "speaker_korean": null,
+   "korean": "로마네콩티DRC"
+  },
+  {
+   "key": "b99e9be70b6a",
+   "speaker_korean": null,
+   "korean": "리슈부르"
+  },
+  {
+   "key": "4e2ee51688d6",
+   "speaker_korean": null,
+   "korean": "산타뒤크"
+  },
+  {
+   "key": "dbcc29bbba03",
+   "speaker_korean": null,
+   "korean": "셰이퍼"
+  },
+  {
+   "key": "b3de09006d5c",
+   "speaker_korean": null,
+   "korean": "페스케라"
+  },
+  {
+   "key": "e4af059f950b",
+   "speaker_korean": null,
+   "korean": "선라이즈・카베르네"
+  },
+  {
+   "key": "70f1974c1bec",
+   "speaker_korean": null,
+   "korean": "몽라셰DRC"
+  },
+  {
+   "key": "0818193353c0",
+   "speaker_korean": null,
+   "korean": "코르통 샤를마뉴"
+  },
+  {
+   "key": "554beaccc86f",
+   "speaker_korean": null,
+   "korean": "알베르만"
+  },
+  {
+   "key": "1dc8d3d1048c",
+   "speaker_korean": null,
+   "korean": "갈로・라구나랜치"
+  },
+  {
+   "key": "44d22ca7a3cc",
+   "speaker_korean": null,
+   "korean": "선라이즈・샤르도네"
+  },
+  {
+   "key": "8ac425b8e6e6",
+   "speaker_korean": null,
+   "korean": "앙리・상세르"
+  },
+  {
+   "key": "69d7c142cfe8",
+   "speaker_korean": null,
+   "korean": "야에가키"
+  },
+  {
+   "key": "4b846cb46c0e",
+   "speaker_korean": null,
+   "korean": "흑룡・히이라기"
+  },
+  {
+   "key": "047ad76da82b",
+   "speaker_korean": null,
+   "korean": "선중팔삭"
+  },
+  {
+   "key": "a20b4df5720e",
+   "speaker_korean": null,
+   "korean": "십사대"
+  },
+  {
+   "key": "8c7ebd433637",
+   "speaker_korean": null,
+   "korean": "쿠보타"
+  },
+  {
+   "key": "ef8086ae56a2",
+   "speaker_korean": null,
+   "korean": "쇄영"
+  },
+  {
+   "key": "4dc6930f6a2a",
+   "speaker_korean": null,
+   "korean": "이하・선"
+  },
+  {
+   "key": "6919f4414201",
+   "speaker_korean": null,
+   "korean": "난부비신"
+  },
+  {
+   "key": "49370cde97f8",
+   "speaker_korean": null,
+   "korean": "향로"
+  },
+  {
+   "key": "a71a2568ef88",
+   "speaker_korean": null,
+   "korean": "장록 히야오로시"
+  },
+  {
+   "key": "b2c954a2ee87",
+   "speaker_korean": null,
+   "korean": "이치쿠라무감사"
+  },
+  {
+   "key": "449a916a8226",
+   "speaker_korean": null,
+   "korean": "미사용176"
+  },
+  {
+   "key": "3d1f31eb972f",
+   "speaker_korean": null,
+   "korean": "은의 성배"
+  },
+  {
+   "key": "ce02ee7b012e",
+   "speaker_korean": null,
+   "korean": "순금의 성배"
+  },
+  {
+   "key": "8c91bcfc21ff",
+   "speaker_korean": null,
+   "korean": "수정의 성배"
+  },
+  {
+   "key": "70877b600f66",
+   "speaker_korean": null,
+   "korean": "토끼 귀 성배"
+  },
+  {
+   "key": "35285d99638e",
+   "speaker_korean": null,
+   "korean": "예언서1"
+  },
+  {
+   "key": "084344238eb9",
+   "speaker_korean": null,
+   "korean": "예언서2"
+  },
+  {
+   "key": "bdc1cb04bdbe",
+   "speaker_korean": null,
+   "korean": "예언서3"
+  },
+  {
+   "key": "4f85e6620ff0",
+   "speaker_korean": null,
+   "korean": "예언서4"
+  },
+  {
+   "key": "c1a0f2595a96",
+   "speaker_korean": null,
+   "korean": "예언서5"
+  },
+  {
+   "key": "1b0221af18cb",
+   "speaker_korean": null,
+   "korean": "예언서6"
+  },
+  {
+   "key": "c91bf0df5015",
+   "speaker_korean": null,
+   "korean": "스킬북[드레인]"
+  },
+  {
+   "key": "d89c6881220e",
+   "speaker_korean": null,
+   "korean": "스킬북[겟아이템]"
+  },
+  {
+   "key": "570f733f9db9",
+   "speaker_korean": null,
+   "korean": "스킬북[스태미나업]"
+  },
+  {
+   "key": "44b5c6e090c9",
+   "speaker_korean": null,
+   "korean": "스킬북[더블업]"
+  },
+  {
+   "key": "684d5815d981",
+   "speaker_korean": null,
+   "korean": "스킬북[어택스펠]"
+  },
+  {
+   "key": "075130cf6152",
+   "speaker_korean": null,
+   "korean": "스킬북[서포트스펠]"
+  },
+  {
+   "key": "10745e035d25",
+   "speaker_korean": null,
+   "korean": "스킬북[MP익스텐드]"
+  },
+  {
+   "key": "307fcbc31a38",
+   "speaker_korean": null,
+   "korean": "스킬북[퀵차지]"
+  },
+  {
+   "key": "f4dcd14500c1",
+   "speaker_korean": null,
+   "korean": "스킬북[Guts익스텐드]"
+  },
+  {
+   "key": "facdf73fcb68",
+   "speaker_korean": null,
+   "korean": "스킬북[럭키스타]"
+  },
+  {
+   "key": "404d5a122c4d",
+   "speaker_korean": null,
+   "korean": "스킬북[수행]"
+  },
+  {
+   "key": "fa591b5f1778",
+   "speaker_korean": null,
+   "korean": "스킬북[밸런스C]"
+  },
+  {
+   "key": "b652b57b34ce",
+   "speaker_korean": null,
+   "korean": "스킬북[큐어C]"
+  },
+  {
+   "key": "528121678b7a",
+   "speaker_korean": null,
+   "korean": "디바인・웨폰"
+  },
+  {
+   "key": "128de885b757",
+   "speaker_korean": null,
+   "korean": "봉신성뢰파"
+  },
+  {
+   "key": "cf034586ed6a",
+   "speaker_korean": null,
+   "korean": "이앵화 작광"
+  },
+  {
+   "key": "8da3ba5f5755",
+   "speaker_korean": null,
+   "korean": "그렘린 레어"
+  },
+  {
+   "key": "49c102b19c38",
+   "speaker_korean": null,
+   "korean": "블러드 스큘러"
+  },
+  {
+   "key": "884cb9500510",
+   "speaker_korean": null,
+   "korean": "서던크로스"
+  },
+  {
+   "key": "8c4a9f935ef8",
+   "speaker_korean": null,
+   "korean": "피요피요봄"
+  },
+  {
+   "key": "e82482c0a452",
+   "speaker_korean": null,
+   "korean": "플레어 봄"
+  },
+  {
+   "key": "85112294bddf",
+   "speaker_korean": null,
+   "korean": "메가플레어 봄"
+  },
+  {
+   "key": "750bc1f0a621",
+   "speaker_korean": null,
+   "korean": "마인드 봄"
+  },
+  {
+   "key": "f09b25de6913",
+   "speaker_korean": null,
+   "korean": "킬러 마인드 봄"
+  },
+  {
+   "key": "d19ebdf6b890",
+   "speaker_korean": null,
+   "korean": "마블링 설로인"
+  },
+  {
+   "key": "cc326552fb09",
+   "speaker_korean": null,
+   "korean": "설로인140"
+  },
+  {
+   "key": "89cd5db6f1c0",
+   "speaker_korean": null,
+   "korean": "미니멈 쥬시"
+  },
+  {
+   "key": "e8cb6c2275a5",
+   "speaker_korean": null,
+   "korean": "너무 작아!!"
+  },
+  {
+   "key": "ffcd15c96004",
+   "speaker_korean": null,
+   "korean": "마블링 설로인1000"
+  },
+  {
+   "key": "86a33e268b98",
+   "speaker_korean": null,
+   "korean": "어린이 볶음밥"
+  },
+  {
+   "key": "4e16daab618a",
+   "speaker_korean": null,
+   "korean": "포션 젤리"
+  },
+  {
+   "key": "e2af2ee74c4f",
+   "speaker_korean": null,
+   "korean": "참치 머리구이"
+  },
+  {
+   "key": "fa7ab379bf37",
+   "speaker_korean": null,
+   "korean": "영주떡국"
+  },
+  {
+   "key": "8e07d4e24ea4",
+   "speaker_korean": null,
+   "korean": "왕만두"
+  },
+  {
+   "key": "3390756741eb",
+   "speaker_korean": null,
+   "korean": "고양이가 남긴것"
+  },
+  {
+   "key": "35e11e228e35",
+   "speaker_korean": null,
+   "korean": "고급 중화수프"
+  },
+  {
+   "key": "fac87325e26f",
+   "speaker_korean": null,
+   "korean": "프루츠 파르페"
+  },
+  {
+   "key": "4bbc86a6868d",
+   "speaker_korean": null,
+   "korean": "데코레이션 케이크"
+  },
+  {
+   "key": "32e673d4d65c",
+   "speaker_korean": null,
+   "korean": "오도로"
+  },
+  {
+   "key": "816a18ed3094",
+   "speaker_korean": null,
+   "korean": "차슈멘"
+  },
+  {
+   "key": "2d25f03a09c6",
+   "speaker_korean": null,
+   "korean": "내장 로스트"
+  },
+  {
+   "key": "e0779bc74fbf",
+   "speaker_korean": null,
+   "korean": "바닐라 아이스"
+  },
+  {
+   "key": "7d1fc4794a17",
+   "speaker_korean": null,
+   "korean": "함박스테이크"
+  },
+  {
+   "key": "12c5bc16b941",
+   "speaker_korean": null,
+   "korean": "점보 교자"
+  },
+  {
+   "key": "586c5a8c9e08",
+   "speaker_korean": null,
+   "korean": "매실"
+  },
+  {
+   "key": "2bf257e305ba",
+   "speaker_korean": null,
+   "korean": "참치샐러드"
+  },
+  {
+   "key": "08a38e4c6c01",
+   "speaker_korean": null,
+   "korean": "삶은 킹크랩"
+  },
+  {
+   "key": "e4b0c3a562c9",
+   "speaker_korean": null,
+   "korean": "구운 옥수수"
+  },
+  {
+   "key": "18c11ea46be0",
+   "speaker_korean": null,
+   "korean": "우마이봉1"
+  },
+  {
+   "key": "5a302ac93b37",
+   "speaker_korean": null,
+   "korean": "우마이봉2"
+  },
+  {
+   "key": "35b08b4065e6",
+   "speaker_korean": null,
+   "korean": "우마이봉3"
+  },
+  {
+   "key": "c947fa4589f5",
+   "speaker_korean": null,
+   "korean": "우마이봉4"
+  },
+  {
+   "key": "eac95ba995eb",
+   "speaker_korean": null,
+   "korean": "우마이봉5"
+  },
+  {
+   "key": "b7ab3d368dc0",
+   "speaker_korean": null,
+   "korean": "우마이봉6"
+  },
+  {
+   "key": "5cba1a09faff",
+   "speaker_korean": null,
+   "korean": "우마이봉7"
+  },
+  {
+   "key": "8d7d250d1f2f",
+   "speaker_korean": null,
+   "korean": "우마이봉8"
+  },
+  {
+   "key": "dd4be5faf926",
+   "speaker_korean": null,
+   "korean": "원시육"
+  },
+  {
+   "key": "52d93a6d6603",
+   "speaker_korean": null,
+   "korean": "카레라이스"
+  },
+  {
+   "key": "191127befd2e",
+   "speaker_korean": null,
+   "korean": "훠궈"
+  },
+  {
+   "key": "3d15d5280565",
+   "speaker_korean": null,
+   "korean": "자루소바"
+  },
+  {
+   "key": "0ee2fd62cdf7",
+   "speaker_korean": null,
+   "korean": "낫토"
+  },
+  {
+   "key": "4fbc2651a0ef",
+   "speaker_korean": null,
+   "korean": "자허토르테"
+  },
+  {
+   "key": "bd982c7b275f",
+   "speaker_korean": null,
+   "korean": "통째 블루치즈"
+  },
+  {
+   "key": "2ce60c7d6645",
+   "speaker_korean": null,
+   "korean": "키르슈토르테"
+  },
+  {
+   "key": "f2b39abf9cdc",
+   "speaker_korean": null,
+   "korean": "행인두부"
+  },
+  {
+   "key": "263075ac4223",
+   "speaker_korean": null,
+   "korean": "순무 가쓰오 볶음"
+  },
+  {
+   "key": "793caeeb1367",
+   "speaker_korean": null,
+   "korean": "미사용263"
+  },
+  {
+   "key": "76c6c88118c1",
+   "speaker_korean": null,
+   "korean": "김치"
+  }
+ ]
+}

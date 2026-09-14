@@ -1,0 +1,205 @@
+{
+ "batch_id": "batch_0214",
+ "translations": [
+  {
+   "key": "ab7c29fa4030",
+   "speaker_korean": "페이트",
+   "korean": "「문이 굳게 닫혀 있다.\n억지로 열기는 무리일 것 같군."
+  },
+  {
+   "key": "b7cf302c4c16",
+   "speaker_korean": "페이트",
+   "korean": "「…어라?\n안 되네. 반응이 없네.\n딱히 뭔가 해야 할\n일이 있는 걸까?"
+  },
+  {
+   "key": "5ea8a7e3f208",
+   "speaker_korean": null,
+   "korean": "⟦1⟧아쿠아베일⟦2⟧을 손에 넣었다."
+  },
+  {
+   "key": "f6d658a0ddc6",
+   "speaker_korean": null,
+   "korean": "모젤의 고대 유적 최하층"
+  },
+  {
+   "key": "00743619128f",
+   "speaker_korean": "페이트",
+   "korean": "「어?!"
+  },
+  {
+   "key": "6cbfdf797fdc",
+   "speaker_korean": "건방진 아이",
+   "korean": "「왔구나, 이 자식!!"
+  },
+  {
+   "key": "d13d31c899ef",
+   "speaker_korean": "페이트",
+   "korean": "「무, 뭐야?"
+  },
+  {
+   "key": "e01c949247aa",
+   "speaker_korean": "건방진 아이",
+   "korean": "「정령・아버지!!"
+  },
+  {
+   "key": "ea2fb612f4ea",
+   "speaker_korean": "건방진 아이",
+   "korean": "「정령・어머니!!"
+  },
+  {
+   "key": "0fe8eb71fb83",
+   "speaker_korean": "건방진 아이",
+   "korean": "「정령・아이!!"
+  },
+  {
+   "key": "c61d8afda9be",
+   "speaker_korean": "건방진 아이",
+   "korean": "「우리는,\n⟦P⟧홀리 스피릿・패밀리!!"
+  },
+  {
+   "key": "1929f627e3d8",
+   "speaker_korean": "페이트",
+   "korean": "「패밀리?"
+  },
+  {
+   "key": "71eb91bb76a1",
+   "speaker_korean": "건방진 아이",
+   "korean": "「이런.\n별로 안 무서워하네.\n⟦P⟧역시 임팩트가\n약했나 봐."
+  },
+  {
+   "key": "318519a2b7df",
+   "speaker_korean": "건방진 아이",
+   "korean": "「응, 그렇지.\n역시 『패밀리』가\n별로였나 봐."
+  },
+  {
+   "key": "0dbed1b3311d",
+   "speaker_korean": "페이트",
+   "korean": "(패밀리?"
+  },
+  {
+   "key": "0d6349452c74",
+   "speaker_korean": "건방진 아이",
+   "korean": "「그렇지. 그걸로 가보자.\n임팩트 확실한 느낌이지?"
+  },
+  {
+   "key": "71ab6fa74267",
+   "speaker_korean": "건방진 아이",
+   "korean": "「다시!!"
+  },
+  {
+   "key": "1278153d08da",
+   "speaker_korean": "페이트",
+   "korean": "「다시…?"
+  },
+  {
+   "key": "b3e4d2a8257a",
+   "speaker_korean": "건방진 아이",
+   "korean": "「정령・형님!!"
+  },
+  {
+   "key": "3980ae38f2bd",
+   "speaker_korean": "건방진 아이",
+   "korean": "「정령・누님!!"
+  },
+  {
+   "key": "749168d5246a",
+   "speaker_korean": "건방진 아이",
+   "korean": "「정령・동생!!"
+  },
+  {
+   "key": "35dfa57fc94f",
+   "speaker_korean": "건방진 아이",
+   "korean": "「우리는,\n⟦P⟧홀리 스피릿・브라더스!!"
+  },
+  {
+   "key": "e6f6c4e364ed",
+   "speaker_korean": "건방진 아이",
+   "korean": "「홀리 블루!!"
+  },
+  {
+   "key": "497ac06769b5",
+   "speaker_korean": "건방진 아이",
+   "korean": "「홀리 옐로우!!"
+  },
+  {
+   "key": "b3defcad8243",
+   "speaker_korean": "건방진 아이",
+   "korean": "「그리고 리더!!\n홀리 레드!!"
+  },
+  {
+   "key": "b820bcb07c1a",
+   "speaker_korean": "건방진 아이",
+   "korean": "「셋이 합쳐서,\n⟦P⟧홀리 스피릿 전대!!"
+  },
+  {
+   "key": "cf2b9a444de7",
+   "speaker_korean": "페이트",
+   "korean": "「브라더스?"
+  },
+  {
+   "key": "7e185d50314e",
+   "speaker_korean": "건방진 아이",
+   "korean": "「젠장! 이것도 안 먹혔나.\n대체 어떻게 해야 무서워해 주는 거야?"
+  },
+  {
+   "key": "931ce4d63725",
+   "speaker_korean": "건방진 아이",
+   "korean": "「응, 그렇지.\n그걸로 가보자."
+  },
+  {
+   "key": "d61f8102f740",
+   "speaker_korean": "페이트",
+   "korean": "(브라더스는 아니지 않나…"
+  },
+  {
+   "key": "01f49e59f715",
+   "speaker_korean": "건방진 아이",
+   "korean": "「좋아, 그럼 기합 넣고\n가보자고!!"
+  },
+  {
+   "key": "f1abcf79d6f6",
+   "speaker_korean": "건방진 아이",
+   "korean": "「찬스 왔다!!"
+  },
+  {
+   "key": "b3320e7e36e4",
+   "speaker_korean": "페이트",
+   "korean": "「뭐?"
+  },
+  {
+   "key": "48d07e33b542",
+   "speaker_korean": "건방진 아이",
+   "korean": "「정해졌다!!"
+  },
+  {
+   "key": "5b876421cfd1",
+   "speaker_korean": "페이트",
+   "korean": "「…뭘 말하려는 건지\n잘 이해가 안 되는데…"
+  },
+  {
+   "key": "f21463d434c8",
+   "speaker_korean": "건방진 아이",
+   "korean": "「너, 우리의 순수한 영혼,\n『소울』을 모르는 거냐!!"
+  },
+  {
+   "key": "9cf7bcb87635",
+   "speaker_korean": "페이트",
+   "korean": "「영혼이라고 해도 말이지…"
+  },
+  {
+   "key": "b1e0055167d6",
+   "speaker_korean": "건방진 아이",
+   "korean": "「이제 사정 안 봐준다!!\n이 손에 승리를!!"
+  },
+  {
+   "key": "ba922c2599b8",
+   "speaker_korean": "페이트",
+   "korean": "「음…\n내 생각엔 『패밀리』가\n제일 나았던 것 같은데…"
+  },
+  {
+   "key": "449745d1e382",
+   "speaker_korean": "페이트",
+   "korean": "「이쪽에서는\n열 수 없는 모양이군."
+  }
+ ]
+}

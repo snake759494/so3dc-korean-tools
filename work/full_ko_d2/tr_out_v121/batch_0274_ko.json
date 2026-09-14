@@ -1,0 +1,620 @@
+{
+ "batch_id": "batch_0274",
+ "translations": [
+  {
+   "key": "31e071938f02",
+   "speaker_korean": null,
+   "korean": "재생의 문장"
+  },
+  {
+   "key": "6f5463d3cbb5",
+   "speaker_korean": null,
+   "korean": "안식의 목걸이"
+  },
+  {
+   "key": "807dbf16b61b",
+   "speaker_korean": null,
+   "korean": "영감의 목걸이"
+  },
+  {
+   "key": "1449092fe78d",
+   "speaker_korean": null,
+   "korean": "안개의 부적"
+  },
+  {
+   "key": "f4acf744b944",
+   "speaker_korean": null,
+   "korean": "땅의 부적"
+  },
+  {
+   "key": "c146963b5737",
+   "speaker_korean": null,
+   "korean": "물의 부적"
+  },
+  {
+   "key": "77ba5603b73a",
+   "speaker_korean": null,
+   "korean": "불의 부적"
+  },
+  {
+   "key": "2bedada2da41",
+   "speaker_korean": null,
+   "korean": "바람 부적"
+  },
+  {
+   "key": "12896beaa31f",
+   "speaker_korean": null,
+   "korean": "염정석"
+  },
+  {
+   "key": "c00310d2e1c3",
+   "speaker_korean": null,
+   "korean": "염마석"
+  },
+  {
+   "key": "54374230246d",
+   "speaker_korean": null,
+   "korean": "무신의 문장"
+  },
+  {
+   "key": "2e53254426e4",
+   "speaker_korean": null,
+   "korean": "마신의 문장"
+  },
+  {
+   "key": "5e9e92ba6a58",
+   "speaker_korean": null,
+   "korean": "현자의 문장"
+  },
+  {
+   "key": "b2470c567e67",
+   "speaker_korean": null,
+   "korean": "어스 엘리먼트"
+  },
+  {
+   "key": "f320b1d732ca",
+   "speaker_korean": null,
+   "korean": "워터 엘리먼트"
+  },
+  {
+   "key": "611f758b7273",
+   "speaker_korean": null,
+   "korean": "파이어 엘리먼트"
+  },
+  {
+   "key": "17d445de729e",
+   "speaker_korean": null,
+   "korean": "에어 엘리먼트"
+  },
+  {
+   "key": "c2ea6fcb4450",
+   "speaker_korean": null,
+   "korean": "브라우니 스톤"
+  },
+  {
+   "key": "4287b3430dda",
+   "speaker_korean": null,
+   "korean": "네레이드 스톤"
+  },
+  {
+   "key": "8749ef8556d0",
+   "speaker_korean": null,
+   "korean": "살라만드라 스톤"
+  },
+  {
+   "key": "ea0c951ec255",
+   "speaker_korean": null,
+   "korean": "실프 스톤"
+  },
+  {
+   "key": "abce259ab46a",
+   "speaker_korean": null,
+   "korean": "엔젤 스톤"
+  },
+  {
+   "key": "cbcc6d5fd9ab",
+   "speaker_korean": null,
+   "korean": "이블 스톤"
+  },
+  {
+   "key": "847067862955",
+   "speaker_korean": null,
+   "korean": "인챈트 북(땅・흡수)"
+  },
+  {
+   "key": "959e454ccadd",
+   "speaker_korean": null,
+   "korean": "인챈트 북(땅・무효)"
+  },
+  {
+   "key": "6d7cc6b2e399",
+   "speaker_korean": null,
+   "korean": "인챈트 북(땅・반감)"
+  },
+  {
+   "key": "e2becb70aafb",
+   "speaker_korean": null,
+   "korean": "인챈트 북(물・흡수)"
+  },
+  {
+   "key": "9c0159000a68",
+   "speaker_korean": null,
+   "korean": "인챈트 북(물・무효)"
+  },
+  {
+   "key": "3870207087a1",
+   "speaker_korean": null,
+   "korean": "인챈트 북(물・반감)"
+  },
+  {
+   "key": "d6adf2c48ebc",
+   "speaker_korean": null,
+   "korean": "인챈트 북(불・흡수)"
+  },
+  {
+   "key": "a0864510dd6a",
+   "speaker_korean": null,
+   "korean": "인챈트 북(불・무효)"
+  },
+  {
+   "key": "5e481aa6055f",
+   "speaker_korean": null,
+   "korean": "인챈트 북(불・반감)"
+  },
+  {
+   "key": "1e7a7facc4c4",
+   "speaker_korean": null,
+   "korean": "인챈트 북(바람・흡수)"
+  },
+  {
+   "key": "2364f346b7a2",
+   "speaker_korean": null,
+   "korean": "인챈트 북(바람・무효)"
+  },
+  {
+   "key": "65cf3da41d2b",
+   "speaker_korean": null,
+   "korean": "인챈트 북(바람・반감)"
+  },
+  {
+   "key": "496b7aebe929",
+   "speaker_korean": null,
+   "korean": "인챈트 북(땅・공격)"
+  },
+  {
+   "key": "e9fd0194aa8b",
+   "speaker_korean": null,
+   "korean": "인챈트 북(물・공격)"
+  },
+  {
+   "key": "7837448763ad",
+   "speaker_korean": null,
+   "korean": "인챈트 북(불・공격)"
+  },
+  {
+   "key": "f39802850f7f",
+   "speaker_korean": null,
+   "korean": "인챈트 북(바람・공격)"
+  },
+  {
+   "key": "7ed3349db6af",
+   "speaker_korean": null,
+   "korean": "섬광의 서"
+  },
+  {
+   "key": "5e21d30b9fba",
+   "speaker_korean": null,
+   "korean": "투기의 서"
+  },
+  {
+   "key": "5c14f007d23d",
+   "speaker_korean": null,
+   "korean": "꿈틀대는 것"
+  },
+  {
+   "key": "e47fabc2ef41",
+   "speaker_korean": null,
+   "korean": "바니의 부적"
+  },
+  {
+   "key": "549541ece5ef",
+   "speaker_korean": null,
+   "korean": "미사용697"
+  },
+  {
+   "key": "2a4262234f9f",
+   "speaker_korean": null,
+   "korean": "미사용698"
+  },
+  {
+   "key": "f77860c09226",
+   "speaker_korean": null,
+   "korean": "미사용699"
+  },
+  {
+   "key": "283a95bd32b2",
+   "speaker_korean": null,
+   "korean": "사랑묘약 나나린X"
+  },
+  {
+   "key": "23cd90c40b63",
+   "speaker_korean": null,
+   "korean": "슈퍼 사랑묘약"
+  },
+  {
+   "key": "f87ba4124d5d",
+   "speaker_korean": null,
+   "korean": "행복 포션"
+  },
+  {
+   "key": "0996601c70c8",
+   "speaker_korean": null,
+   "korean": "사랑의 묘약・즉효 효과 있음!"
+  },
+  {
+   "key": "5a259301345a",
+   "speaker_korean": null,
+   "korean": "성장촉진제 오리진Z"
+  },
+  {
+   "key": "671b7efeb13c",
+   "speaker_korean": null,
+   "korean": "사랑묘약・농축100%"
+  },
+  {
+   "key": "ab458aba3d77",
+   "speaker_korean": null,
+   "korean": "전자 봄"
+  },
+  {
+   "key": "c69f875d285b",
+   "speaker_korean": null,
+   "korean": "전자 봄버"
+  },
+  {
+   "key": "f5b5acfdaf1a",
+   "speaker_korean": null,
+   "korean": "전자 봄MP"
+  },
+  {
+   "key": "8c9df3ae64f6",
+   "speaker_korean": null,
+   "korean": "전자 봄버MP"
+  },
+  {
+   "key": "05169eb0cecc",
+   "speaker_korean": null,
+   "korean": "전자 스턴봄"
+  },
+  {
+   "key": "fc0f641a4e7e",
+   "speaker_korean": null,
+   "korean": "전자 스턴봄버"
+  },
+  {
+   "key": "785f27eb150f",
+   "speaker_korean": null,
+   "korean": "전자 스턴봄MP"
+  },
+  {
+   "key": "6f3b03228a3b",
+   "speaker_korean": null,
+   "korean": "전자 스턴봄버MP"
+  },
+  {
+   "key": "e3cb01264658",
+   "speaker_korean": null,
+   "korean": "전격 하이브리드봄"
+  },
+  {
+   "key": "fff78a998826",
+   "speaker_korean": null,
+   "korean": "전격 하이브리드봄버"
+  },
+  {
+   "key": "a8675d5af42f",
+   "speaker_korean": null,
+   "korean": "초고정밀 플레어봄"
+  },
+  {
+   "key": "d8372a29fe54",
+   "speaker_korean": null,
+   "korean": "초고정밀 마인드봄"
+  },
+  {
+   "key": "306d4fe9af4a",
+   "speaker_korean": null,
+   "korean": "초고정밀 하이브리드봄"
+  },
+  {
+   "key": "8bcccdbf791b",
+   "speaker_korean": null,
+   "korean": "리듀서"
+  },
+  {
+   "key": "1b8fcecaaacb",
+   "speaker_korean": null,
+   "korean": "디그레듀서"
+  },
+  {
+   "key": "727aab5d1362",
+   "speaker_korean": null,
+   "korean": "초스턴봄 R1형"
+  },
+  {
+   "key": "c408079b3cbe",
+   "speaker_korean": null,
+   "korean": "초스턴봄버 R1형"
+  },
+  {
+   "key": "e6985009325e",
+   "speaker_korean": null,
+   "korean": "초스턴봄 RMP1형"
+  },
+  {
+   "key": "6333a5089256",
+   "speaker_korean": null,
+   "korean": "초스턴봄버 RMP1형"
+  },
+  {
+   "key": "b24c75957086",
+   "speaker_korean": null,
+   "korean": "정신 강화 유닛"
+  },
+  {
+   "key": "1bf8839c2051",
+   "speaker_korean": null,
+   "korean": "광전사 유닛"
+  },
+  {
+   "key": "55533ee74ee2",
+   "speaker_korean": null,
+   "korean": "무적 유닛"
+  },
+  {
+   "key": "2fccea5241d6",
+   "speaker_korean": null,
+   "korean": "미백 유닛"
+  },
+  {
+   "key": "1781591a51df",
+   "speaker_korean": null,
+   "korean": "땅의 호문쿨루스"
+  },
+  {
+   "key": "72f66a1bd4d7",
+   "speaker_korean": null,
+   "korean": "물의 호문쿨루스"
+  },
+  {
+   "key": "254a2f9c8863",
+   "speaker_korean": null,
+   "korean": "불의 호문쿨루스"
+  },
+  {
+   "key": "4deef7c8515b",
+   "speaker_korean": null,
+   "korean": "바람의 호문쿨루스"
+  },
+  {
+   "key": "34acbbda7f7e",
+   "speaker_korean": null,
+   "korean": "별의 호문쿨루스"
+  },
+  {
+   "key": "66cad42dcc94",
+   "speaker_korean": null,
+   "korean": "카운터 오라 습득서1"
+  },
+  {
+   "key": "41c5fb523516",
+   "speaker_korean": null,
+   "korean": "카운터 오라 습득서2"
+  },
+  {
+   "key": "edbd93b9bc57",
+   "speaker_korean": null,
+   "korean": "카운터 오라 습득서3"
+  },
+  {
+   "key": "4332ca5193b3",
+   "speaker_korean": null,
+   "korean": "카운터 오라 습득서4"
+  },
+  {
+   "key": "891114c4763a",
+   "speaker_korean": null,
+   "korean": "카운터 오라 습득서5"
+  },
+  {
+   "key": "59c2d5487110",
+   "speaker_korean": null,
+   "korean": "카운터 오라 습득서6"
+  },
+  {
+   "key": "7fa28cdd5d30",
+   "speaker_korean": null,
+   "korean": "배틀 스피어"
+  },
+  {
+   "key": "1aa9ec20a376",
+   "speaker_korean": null,
+   "korean": "미사용"
+  },
+  {
+   "key": "427700b45a7e",
+   "speaker_korean": null,
+   "korean": "연금석"
+  },
+  {
+   "key": "fc5ded5fd634",
+   "speaker_korean": null,
+   "korean": "미사용40"
+  },
+  {
+   "key": "61a536d16d6d",
+   "speaker_korean": null,
+   "korean": "미사용66"
+  },
+  {
+   "key": "c6934daf4b35",
+   "speaker_korean": null,
+   "korean": "미사용67"
+  },
+  {
+   "key": "348066fa6a6f",
+   "speaker_korean": null,
+   "korean": "미사용84"
+  },
+  {
+   "key": "c728ab729a8d",
+   "speaker_korean": null,
+   "korean": "미사용85"
+  },
+  {
+   "key": "8923dc1bc100",
+   "speaker_korean": null,
+   "korean": "미사용86"
+  },
+  {
+   "key": "d51c4afb0e38",
+   "speaker_korean": null,
+   "korean": "미사용87"
+  },
+  {
+   "key": "193df57ae91d",
+   "speaker_korean": null,
+   "korean": "디바인 웨폰"
+  },
+  {
+   "key": "819b09e95e83",
+   "speaker_korean": null,
+   "korean": "이세리얼 블라스트"
+  },
+  {
+   "key": "b96201cbb670",
+   "speaker_korean": null,
+   "korean": "매지컬 댄스"
+  },
+  {
+   "key": "a77a2046b867",
+   "speaker_korean": null,
+   "korean": "드림 콤보"
+  },
+  {
+   "key": "051258ce18e0",
+   "speaker_korean": null,
+   "korean": "무한쌍파참"
+  },
+  {
+   "key": "c157a39eff36",
+   "speaker_korean": null,
+   "korean": "무한공파참"
+  },
+  {
+   "key": "1f539ab2f68f",
+   "speaker_korean": null,
+   "korean": "인피니티 아츠"
+  },
+  {
+   "key": "e4c7e832de4b",
+   "speaker_korean": null,
+   "korean": "맥스 익스텐션"
+  },
+  {
+   "key": "7dc9a7bab4e9",
+   "speaker_korean": null,
+   "korean": "버스트 이미션"
+  },
+  {
+   "key": "052377246a0a",
+   "speaker_korean": null,
+   "korean": "레디에이션 디바이스"
+  },
+  {
+   "key": "a548a4abf5b8",
+   "speaker_korean": null,
+   "korean": "트라이 퍼넬"
+  },
+  {
+   "key": "2efa9aca726e",
+   "speaker_korean": null,
+   "korean": "킹크랩 소금찜"
+  },
+  {
+   "key": "515a53fc54d7",
+   "speaker_korean": null,
+   "korean": "순무 가쓰오볶음"
+  },
+  {
+   "key": "6006b9553fd7",
+   "speaker_korean": null,
+   "korean": "센스제로 머리장식"
+  },
+  {
+   "key": "165c445cd07e",
+   "speaker_korean": null,
+   "korean": "휘어진 십자가"
+  },
+  {
+   "key": "58c73c5dbb53",
+   "speaker_korean": null,
+   "korean": "부러진 십자가"
+  },
+  {
+   "key": "1eba69ae488e",
+   "speaker_korean": null,
+   "korean": "역십자"
+  },
+  {
+   "key": "b9f6c702310c",
+   "speaker_korean": null,
+   "korean": "광자의 서"
+  },
+  {
+   "key": "95af7481e57e",
+   "speaker_korean": null,
+   "korean": "스타폴"
+  },
+  {
+   "key": "f678f14a91e7",
+   "speaker_korean": null,
+   "korean": "미사용522"
+  },
+  {
+   "key": "2ec62324c642",
+   "speaker_korean": null,
+   "korean": "미사용523"
+  },
+  {
+   "key": "7a12f9ad027d",
+   "speaker_korean": null,
+   "korean": "미사용524"
+  },
+  {
+   "key": "6f8d0ebc725f",
+   "speaker_korean": null,
+   "korean": "치어대뱃살"
+  },
+  {
+   "key": "4b4c37353975",
+   "speaker_korean": null,
+   "korean": "메테오 스웜"
+  },
+  {
+   "key": "274974e1f5a4",
+   "speaker_korean": null,
+   "korean": "사랑의 묘약・속효 효과 있음!"
+  },
+  {
+   "key": "105768cb52f2",
+   "speaker_korean": null,
+   "korean": "물질투과 유닛"
+  },
+  {
+   "key": "b1261e3efef8",
+   "speaker_korean": null,
+   "korean": "카운터 오라 습득서"
+  }
+ ]
+}

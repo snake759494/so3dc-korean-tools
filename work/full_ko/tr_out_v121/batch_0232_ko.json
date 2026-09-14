@@ -1,0 +1,215 @@
+{
+ "batch_id": "batch_0232",
+ "translations": [
+  {
+   "key": "e844136a6ae0",
+   "speaker_korean": "클리프",
+   "korean": "「뭐, 뭔 일이야!?"
+  },
+  {
+   "key": "8cc8ce461e09",
+   "speaker_korean": "넬",
+   "korean": "「뭐,\n뭔 일이야!?"
+  },
+  {
+   "key": "0427fd01e102",
+   "speaker_korean": "알벨",
+   "korean": "「…손님이\n온 모양이군"
+  },
+  {
+   "key": "78839284daa9",
+   "speaker_korean": "로저",
+   "korean": "「뭐, 뭐냐고!?"
+  },
+  {
+   "key": "60770096a337",
+   "speaker_korean": "스프레",
+   "korean": "「뭐, 뭐야!?"
+  },
+  {
+   "key": "c60e2bea2a3b",
+   "speaker_korean": "소피아",
+   "korean": "「뭐, 뭐지?"
+  },
+  {
+   "key": "6a392ff0b42c",
+   "speaker_korean": "마리아",
+   "korean": "「글쎄…\n즐거운 일은 아니겠지만"
+  },
+  {
+   "key": "da6e9897f257",
+   "speaker_korean": "마리아",
+   "korean": "「그런 것 같네…"
+  },
+  {
+   "key": "eef525998930",
+   "speaker_korean": "넬",
+   "korean": "「…불길한 느낌이야"
+  },
+  {
+   "key": "c23c9f00986e",
+   "speaker_korean": "알벨",
+   "korean": "「…흥, 왔군"
+  },
+  {
+   "key": "fcfd2ef22f22",
+   "speaker_korean": "로저",
+   "korean": "「뭐, 뭔가 온다!?"
+  },
+  {
+   "key": "da52a59df0b8",
+   "speaker_korean": "스프레",
+   "korean": "「뭔가 온다!?"
+  },
+  {
+   "key": "5d2462ccb993",
+   "speaker_korean": "클리프",
+   "korean": "「뭔가 온다!"
+  },
+  {
+   "key": "ace9b8baecb1",
+   "speaker_korean": "블레어",
+   "korean": "「그 목소리는… 오너!?\n오너! 제 말 좀 들어주세요!!"
+  },
+  {
+   "key": "a403affdc5ae",
+   "speaker_korean": "오너",
+   "korean": "『너를 잃는 것은 아쉽지만,\n어쩔 수 없다"
+  },
+  {
+   "key": "54bbd210c9a5",
+   "speaker_korean": "오너",
+   "korean": "『원인체를 방치해두면\n정상이던 것까지 오염되고 만다\n처리가 필요하다"
+  },
+  {
+   "key": "64fce9b43b9a",
+   "speaker_korean": "블레어",
+   "korean": "「오너!"
+  },
+  {
+   "key": "d97b95b51674",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧블레어 씨⟦2⟧, 어떻게 된 거예요!?"
+  },
+  {
+   "key": "0a2797e21ac9",
+   "speaker_korean": "소피아",
+   "korean": "「꺄악!"
+  },
+  {
+   "key": "d0168f580a7c",
+   "speaker_korean": "블레어",
+   "korean": "「⟦1⟧벨리알⟦2⟧…"
+  },
+  {
+   "key": "adc1024c9655",
+   "speaker_korean": "???",
+   "korean": "「⟦1⟧블레어⟦2⟧… 너도 참 무모한 짓을 했군\n네가 뭘 해도 괜찮을 거라 생각했나?"
+  },
+  {
+   "key": "f6fdca24a3f4",
+   "speaker_korean": "블레어",
+   "korean": "「⟦1⟧벨제불⟦2⟧!"
+  },
+  {
+   "key": "006a76077447",
+   "speaker_korean": "벨제불",
+   "korean": "「하지만 오너를 거역했잖아\n각오는 하고 있었겠지\n쿠쿡"
+  },
+  {
+   "key": "f0aa6c6a1814",
+   "speaker_korean": "벨리알",
+   "korean": "「오랜 인연이다\n최소한 고통 없이 죽여주마"
+  },
+  {
+   "key": "e029a61dd7a9",
+   "speaker_korean": "???",
+   "korean": "『아쉽군, ⟦1⟧블레어⟦2⟧\n다소 신념 차이는 있었지만 설마 네가\n나를 배신할 줄은 생각도 못 했다"
+  },
+  {
+   "key": "ef67d6ee439b",
+   "speaker_korean": "블레어",
+   "korean": "「우리 움직임은 전부 오너,\n⟦1⟧루시퍼 사장⟦2⟧한테 다 알려진 모양이야\n불만분자인 나까지 함께\n너희를 지워버릴 생각인 것 같아"
+  },
+  {
+   "key": "fa5d92c468ae",
+   "speaker_korean": "벨제불",
+   "korean": "「안타깝게 됐군\n오너께서 너도 처분하시기로\n하신 모양이더군"
+  },
+  {
+   "key": "e0bc70b62596",
+   "speaker_korean": "블레어",
+   "korean": "「그건 괜찮아\n다른 길도 있어… 다만\n적들이 우글우글하겠지만"
+  },
+  {
+   "key": "51771d271ba3",
+   "speaker_korean": "페이트",
+   "korean": "「하지만 그것밖에 없다면\n가는 수밖에"
+  },
+  {
+   "key": "8331747766e0",
+   "speaker_korean": "벨제불",
+   "korean": "「…흐\n…후후"
+  },
+  {
+   "key": "60fc162aaec8",
+   "speaker_korean": "벨제불",
+   "korean": "「모처럼의 ⟦1⟧언인스톨러⟦2⟧지만…\n아무 짝에도… 쓸모가 없다구"
+  },
+  {
+   "key": "c2c279a03660",
+   "speaker_korean": "벨제불",
+   "korean": "「이미… 오너가……\n커…커헉!"
+  },
+  {
+   "key": "3b84795ac0c4",
+   "speaker_korean": "페이트",
+   "korean": "「오너가 뭐 어쨌다는 거야?\n대체 그놈이 뭘 했다는 건데?\n이봐!!"
+  },
+  {
+   "key": "7573badb8fe1",
+   "speaker_korean": "블레어",
+   "korean": "「…알고는 있었다고 생각했는데\n역시 직접 보니까\n믿기 힘든 게 있네"
+  },
+  {
+   "key": "14a9b8ccb9b2",
+   "speaker_korean": "소피아",
+   "korean": "「무슨 말씀이세요?"
+  },
+  {
+   "key": "eb573a18a9e6",
+   "speaker_korean": "블레어",
+   "korean": "「너희들의 힘 말이야\n이 둘까지 쓰러뜨리다니…"
+  },
+  {
+   "key": "a5d549830f77",
+   "speaker_korean": "블레어",
+   "korean": "「게다가 ⟦1⟧문장술⟦2⟧이 이쪽 세계에서\n구현되다니 놀랍네\n대체 무슨 원리일까?"
+  },
+  {
+   "key": "ae69bfb4923b",
+   "speaker_korean": "마리아",
+   "korean": "「겁먹었어?\n역시 우리를 지워버리는 편이\n낫겠다고 생각하는 거 아니야?"
+  },
+  {
+   "key": "ec99ec1e1b8e",
+   "speaker_korean": "블레어",
+   "korean": "「날 잘못 보지 마"
+  },
+  {
+   "key": "05db74d5a108",
+   "speaker_korean": "마리아",
+   "korean": "「…미안해"
+  },
+  {
+   "key": "4b9cc42e0b27",
+   "speaker_korean": "블레어",
+   "korean": "「괜찮아\n이해해주면 됐어"
+  },
+  {
+   "key": "be8bbd3bf8d3",
+   "speaker_korean": "클리프",
+   "korean": "「뭐, 그건 그렇다 치고 어쩔 거야?\n엘리베이터는 이 꼴이잖아\n다른 수로 꼭대기까지 갈 수 있냐?"
+  }
+ ]
+}

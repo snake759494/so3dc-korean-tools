@@ -1,0 +1,575 @@
+{
+ "batch_id": "batch_0293",
+ "translations": [
+  {
+   "key": "bdb2eb22685a",
+   "speaker_korean": null,
+   "korean": "최대 MP가 ⟦1⟧ 증가합니다"
+  },
+  {
+   "key": "a5f6e3f0dc08",
+   "speaker_korean": null,
+   "korean": "레벨이 높을수록 적에게\n효율적인 공격이 가능합니다"
+  },
+  {
+   "key": "e889c163766b",
+   "speaker_korean": null,
+   "korean": "적의 공격을 정확히\n회피할 수 있게 됩니다"
+  },
+  {
+   "key": "a9fcb04e981b",
+   "speaker_korean": null,
+   "korean": "스킬 습득에 영향을 줍니다"
+  },
+  {
+   "key": "0bbb71e606a7",
+   "speaker_korean": null,
+   "korean": "약공격 쇼트레인지 설정"
+  },
+  {
+   "key": "81e71756e384",
+   "speaker_korean": null,
+   "korean": "약공격 롱레인지 설정"
+  },
+  {
+   "key": "2771861a2aaa",
+   "speaker_korean": null,
+   "korean": "강공격 쇼트레인지 설정"
+  },
+  {
+   "key": "db7ae216b5e1",
+   "speaker_korean": null,
+   "korean": "강공격 롱레인지 설정"
+  },
+  {
+   "key": "44f731b31ac5",
+   "speaker_korean": null,
+   "korean": "신조 스킬 1 설정"
+  },
+  {
+   "key": "e1b554b48761",
+   "speaker_korean": null,
+   "korean": "신조 스킬 2 설정"
+  },
+  {
+   "key": "5bae87141fab",
+   "speaker_korean": null,
+   "korean": "도발"
+  },
+  {
+   "key": "17617f9ba545",
+   "speaker_korean": null,
+   "korean": "에너미서치"
+  },
+  {
+   "key": "5fef4f515faf",
+   "speaker_korean": null,
+   "korean": "버서크"
+  },
+  {
+   "key": "e614fb46fa6b",
+   "speaker_korean": null,
+   "korean": "수행"
+  },
+  {
+   "key": "253eda3e2616",
+   "speaker_korean": null,
+   "korean": "오라셀렉트"
+  },
+  {
+   "key": "a4019672080c",
+   "speaker_korean": null,
+   "korean": "밸런스컨디션"
+  },
+  {
+   "key": "e6debcfa4e0f",
+   "speaker_korean": null,
+   "korean": "적을 자신에게 유인할 수 있습니다"
+  },
+  {
+   "key": "5f737897e5be",
+   "speaker_korean": null,
+   "korean": "적의 능력치와 입수 가능한 아이템을 조사합니다"
+  },
+  {
+   "key": "68446e9aa851",
+   "speaker_korean": null,
+   "korean": "공격력이 30% 상승하고 소비 Guts가 1/2이 됩니다\n단, 방어력이 30% 하락합니다"
+  },
+  {
+   "key": "1271b1faed71",
+   "speaker_korean": null,
+   "korean": "경험치 획득량이 40% 상승\n하지만 소비 Guts가 3배가 되어버립니다"
+  },
+  {
+   "key": "a6a959df3ed8",
+   "speaker_korean": null,
+   "korean": "카운터 오라의 베리에이션 선택\n효과 결정"
+  },
+  {
+   "key": "df01b6fa2729",
+   "speaker_korean": null,
+   "korean": "설정에 따라 HP・MP를 보호합니다"
+  },
+  {
+   "key": "72fd948d689b",
+   "speaker_korean": null,
+   "korean": "독・마비・석화・동결・기절 효과를 약화시킵니다\n단, 방어력이 20% 하락합니다"
+  },
+  {
+   "key": "315de71e4ac3",
+   "speaker_korean": null,
+   "korean": "스탠더드"
+  },
+  {
+   "key": "99bda9cfc0c0",
+   "speaker_korean": null,
+   "korean": "링웨이브"
+  },
+  {
+   "key": "de92a90ab93b",
+   "speaker_korean": null,
+   "korean": "에이밍"
+  },
+  {
+   "key": "eb9d7a5bd8da",
+   "speaker_korean": null,
+   "korean": "와이드・에이밍"
+  },
+  {
+   "key": "8394148f4e94",
+   "speaker_korean": null,
+   "korean": "리제너레이션"
+  },
+  {
+   "key": "91ba4eb117a9",
+   "speaker_korean": null,
+   "korean": "오라는 전방에 발생\n효과.기절"
+  },
+  {
+   "key": "40215fe496eb",
+   "speaker_korean": null,
+   "korean": "오라는 전방 광범위에 발생\n효과.70% 확률로 기절"
+  },
+  {
+   "key": "6dd22fd2356b",
+   "speaker_korean": null,
+   "korean": "오라는 주위에 발생\n효과.데미지"
+  },
+  {
+   "key": "3617b768b1f8",
+   "speaker_korean": null,
+   "korean": "오라는 비상하여 적에게 유도됩니다\n효과.데미지"
+  },
+  {
+   "key": "4647e847b464",
+   "speaker_korean": null,
+   "korean": "오라는 확산하여 다수의 적에게 유도됩니다\n효과.데미지"
+  },
+  {
+   "key": "7812febcfdc7",
+   "speaker_korean": null,
+   "korean": "오라는 확산한 후 자신에게 흡수됩니다\n효과.HP・MP 회복"
+  },
+  {
+   "key": "5ae723b2cb1c",
+   "speaker_korean": null,
+   "korean": "오라는 무수한 양이 되어 방사됩니다\n효과.데미지"
+  },
+  {
+   "key": "65acd2efcdcf",
+   "speaker_korean": null,
+   "korean": "HP 보호"
+  },
+  {
+   "key": "fdf684d6889e",
+   "speaker_korean": null,
+   "korean": "MP 보호"
+  },
+  {
+   "key": "9b00b954ec1e",
+   "speaker_korean": null,
+   "korean": "HP 데미지를 1/7로 하여\nMP 데미지로 변환합니다"
+  },
+  {
+   "key": "ae3bbc5e31a9",
+   "speaker_korean": null,
+   "korean": "MP 데미지를 13배로 하여\nHP 데미지로 변환합니다"
+  },
+  {
+   "key": "b74fbbd62a33",
+   "speaker_korean": null,
+   "korean": "스킬로 인한 HP 증가는 불가능합니다"
+  },
+  {
+   "key": "afc5bc8305eb",
+   "speaker_korean": null,
+   "korean": "스킬로 인한 MP 증가는 불가능합니다"
+  },
+  {
+   "key": "623b9a2b8cf1",
+   "speaker_korean": null,
+   "korean": "E 스테이터스"
+  },
+  {
+   "key": "52dc8e9d40ad",
+   "speaker_korean": null,
+   "korean": "이름을 변경해도, 보이스 중 캐릭터 이름은 변하지 않습니다"
+  },
+  {
+   "key": "9ce951ecc122",
+   "speaker_korean": null,
+   "korean": "이앵화 작광"
+  },
+  {
+   "key": "c5c4fb6ea2cb",
+   "speaker_korean": null,
+   "korean": "아드레이 필살기1"
+  },
+  {
+   "key": "a6579028454c",
+   "speaker_korean": null,
+   "korean": "아드레이 필살기2"
+  },
+  {
+   "key": "118f24c2575c",
+   "speaker_korean": null,
+   "korean": "아드레이 필살기3"
+  },
+  {
+   "key": "937dd5024398",
+   "speaker_korean": null,
+   "korean": "아드레이 필살기4"
+  },
+  {
+   "key": "e03f60ef17e5",
+   "speaker_korean": null,
+   "korean": "아드레이 필살기5"
+  },
+  {
+   "key": "1ea1499b25d7",
+   "speaker_korean": null,
+   "korean": "미라쥬 필살기1"
+  },
+  {
+   "key": "9507a9ae9bf6",
+   "speaker_korean": null,
+   "korean": "미라쥬 필살기2"
+  },
+  {
+   "key": "19b593e1c44b",
+   "speaker_korean": null,
+   "korean": "미라쥬 필살기3"
+  },
+  {
+   "key": "c831a70d80aa",
+   "speaker_korean": null,
+   "korean": "미라쥬 필살기4"
+  },
+  {
+   "key": "db902492afcc",
+   "speaker_korean": null,
+   "korean": "미라쥬 필살기5"
+  },
+  {
+   "key": "0b876e24c94b",
+   "speaker_korean": null,
+   "korean": "미라쥬 필살기6"
+  },
+  {
+   "key": "256bc1416b15",
+   "speaker_korean": null,
+   "korean": "미라쥬 필살기7"
+  },
+  {
+   "key": "5f7b6a2c3bc8",
+   "speaker_korean": null,
+   "korean": "미라쥬 필살기8"
+  },
+  {
+   "key": "8887f523424a",
+   "speaker_korean": null,
+   "korean": "미라쥬 필살기9"
+  },
+  {
+   "key": "e0fbdfc8e511",
+   "speaker_korean": null,
+   "korean": "미라쥬 필살기10"
+  },
+  {
+   "key": "4cf131eece2b",
+   "speaker_korean": null,
+   "korean": "Guts 익스텐션"
+  },
+  {
+   "key": "d57f1c36d025",
+   "speaker_korean": null,
+   "korean": "E 스킬"
+  },
+  {
+   "key": "a6f3e086151b",
+   "speaker_korean": null,
+   "korean": "문장술을 사용합니다, 전투 중 사용 가능・불가능 전환도 할 수 있습니다"
+  },
+  {
+   "key": "ca1f283198a4",
+   "speaker_korean": null,
+   "korean": "아군 전원의 HP를 회복하는 주문"
+  },
+  {
+   "key": "b95e721bffd2",
+   "speaker_korean": null,
+   "korean": "HP가 줄어든 적을 즉사시키는 주문"
+  },
+  {
+   "key": "361a7e90abdc",
+   "speaker_korean": null,
+   "korean": "독을 해독하는 주문"
+  },
+  {
+   "key": "2a6f89029c4a",
+   "speaker_korean": null,
+   "korean": "독・마비・석화를 치료하는 주문"
+  },
+  {
+   "key": "548b99b00779",
+   "speaker_korean": null,
+   "korean": "공격 방어 명중 회피 마법방어를\n상승시키는 주문"
+  },
+  {
+   "key": "328791ea7167",
+   "speaker_korean": null,
+   "korean": "주문 데미지를 절반으로 하는 주문"
+  },
+  {
+   "key": "e3c4c4113a66",
+   "speaker_korean": null,
+   "korean": "행동불능자를 부활시키는 주문"
+  },
+  {
+   "key": "4677847d48b5",
+   "speaker_korean": null,
+   "korean": "일정 범위의 적에게서 HP를 흡수합니다\n발동하려면 공격 버튼을 계속 누릅니다"
+  },
+  {
+   "key": "bd72ace8787f",
+   "speaker_korean": null,
+   "korean": "아드레이 : 필살기 1"
+  },
+  {
+   "key": "cc1075a7d9ae",
+   "speaker_korean": null,
+   "korean": "아드레이 : 필살기 2"
+  },
+  {
+   "key": "33b2abbfd1c8",
+   "speaker_korean": null,
+   "korean": "아드레이 : 필살기 3"
+  },
+  {
+   "key": "fdbf56a52fcf",
+   "speaker_korean": null,
+   "korean": "아드레이 : 필살기 4"
+  },
+  {
+   "key": "678610c2c8e0",
+   "speaker_korean": null,
+   "korean": "아드레이 : 필살기 5"
+  },
+  {
+   "key": "98c0421ad40b",
+   "speaker_korean": null,
+   "korean": "아드레이 : 필살기 6"
+  },
+  {
+   "key": "de59885d6119",
+   "speaker_korean": null,
+   "korean": "아드레이 : 필살기 7"
+  },
+  {
+   "key": "e77c98f6257a",
+   "speaker_korean": null,
+   "korean": "아드레이 : 필살기 8"
+  },
+  {
+   "key": "62a7c1860b88",
+   "speaker_korean": null,
+   "korean": "아드레이 : 필살기 9"
+  },
+  {
+   "key": "20fab64b2e85",
+   "speaker_korean": null,
+   "korean": "아드레이 : 필살기 10"
+  },
+  {
+   "key": "4d58c72817c9",
+   "speaker_korean": null,
+   "korean": "아드레이 : 결정기 11"
+  },
+  {
+   "key": "4b14e80c2688",
+   "speaker_korean": null,
+   "korean": "미라쥬 : 필살기 1"
+  },
+  {
+   "key": "b42774737b40",
+   "speaker_korean": null,
+   "korean": "미라쥬 : 필살기 2"
+  },
+  {
+   "key": "cf8915460a65",
+   "speaker_korean": null,
+   "korean": "미라쥬 : 필살기 3"
+  },
+  {
+   "key": "be954a6fe1fe",
+   "speaker_korean": null,
+   "korean": "미라쥬 : 필살기 4"
+  },
+  {
+   "key": "fbf5d374f26a",
+   "speaker_korean": null,
+   "korean": "미라쥬 : 필살기 5"
+  },
+  {
+   "key": "e8599711ccd5",
+   "speaker_korean": null,
+   "korean": "미라쥬 : 필살기 6"
+  },
+  {
+   "key": "6b17fa67b5a8",
+   "speaker_korean": null,
+   "korean": "미라쥬 : 필살기 7"
+  },
+  {
+   "key": "c8ea144f6af6",
+   "speaker_korean": null,
+   "korean": "미라쥬 : 필살기 8"
+  },
+  {
+   "key": "485cf37ce2a9",
+   "speaker_korean": null,
+   "korean": "미라쥬 : 필살기 9"
+  },
+  {
+   "key": "e164507c30e7",
+   "speaker_korean": null,
+   "korean": "미라쥬 : 필살기 10"
+  },
+  {
+   "key": "dfbdc71be1e0",
+   "speaker_korean": null,
+   "korean": "일정 확률로 적을 공포에 빠뜨려\n공격 빈도 저하"
+  },
+  {
+   "key": "8dc4971d8c5c",
+   "speaker_korean": null,
+   "korean": "HP 데미지가 50% 상승합니다.\n효과는 수시 발생. 숙련도 상승 시 효과 증가."
+  },
+  {
+   "key": "1369e249474f",
+   "speaker_korean": null,
+   "korean": "MP 데미지가 50% 상승합니다.\n효과는 수시 발생. 숙련도 상승 시 효과 증가."
+  },
+  {
+   "key": "c3e64386b9f8",
+   "speaker_korean": null,
+   "korean": "적의 Guts 회복량이 감소합니다\n효과는 수시 발생."
+  },
+  {
+   "key": "8efcc20c891f",
+   "speaker_korean": null,
+   "korean": "Guts 감소치가 30% 낮아집니다\n효과는 수시 발생."
+  },
+  {
+   "key": "737efc1f3f3e",
+   "speaker_korean": null,
+   "korean": "HP MP 데미지가 30% 상승합니다\n효과는 수시 발생. 숙련도 상승 시 효과 증가."
+  },
+  {
+   "key": "1e47e5573da2",
+   "speaker_korean": null,
+   "korean": "HP 현재치의 1/15 데미지를 받아도\n굴하지 않음. 효과는 수시 발생."
+  },
+  {
+   "key": "e8d918d9aeaf",
+   "speaker_korean": null,
+   "korean": "일정 확률로 Guts가 순간 MAX가 된다"
+  },
+  {
+   "key": "48843f10b0a5",
+   "speaker_korean": null,
+   "korean": "최대 HP가 증가합니다"
+  },
+  {
+   "key": "bfb8e89c4f31",
+   "speaker_korean": null,
+   "korean": "최대 MP가 증가합니다"
+  },
+  {
+   "key": "9d3c7fa0b4d9",
+   "speaker_korean": null,
+   "korean": "공격력이 30% UP, Guts가 절반이 됩니다\n단, 방어력이 80% DOWN"
+  },
+  {
+   "key": "f691b4ab0826",
+   "speaker_korean": null,
+   "korean": "경험치 획득량이 40% 증가\n하지만 소비 Guts가 3배가 되어버립니다"
+  },
+  {
+   "key": "8c828e9d321b",
+   "speaker_korean": null,
+   "korean": "설정에 따라 HP・MP를 보호합니다."
+  },
+  {
+   "key": "cd2a1ebc9871",
+   "speaker_korean": null,
+   "korean": "독・마비・석화・동결・기절 효과를 약화시킵니다\n단, 방어력이 20% DOWN"
+  },
+  {
+   "key": "b5b27caa7213",
+   "speaker_korean": null,
+   "korean": "오라는 비상하여, 적에게 유도됩니다\n효과.기절"
+  },
+  {
+   "key": "427a3e239738",
+   "speaker_korean": null,
+   "korean": "F 스테이터스"
+  },
+  {
+   "key": "bb581f24a233",
+   "speaker_korean": null,
+   "korean": "F 스킬"
+  },
+  {
+   "key": "272529bd1916",
+   "speaker_korean": null,
+   "korean": "G 스테이터스"
+  },
+  {
+   "key": "23846a971bfc",
+   "speaker_korean": null,
+   "korean": "G 스킬"
+  },
+  {
+   "key": "194f2bc54790",
+   "speaker_korean": null,
+   "korean": "S 스테이터스"
+  },
+  {
+   "key": "9f14c9c53509",
+   "speaker_korean": null,
+   "korean": "S 스킬"
+  },
+  {
+   "key": "c53111ea6b7a",
+   "speaker_korean": null,
+   "korean": "I 스테이터스"
+  },
+  {
+   "key": "c20a82b1ad10",
+   "speaker_korean": null,
+   "korean": "I 스킬"
+  }
+ ]
+}

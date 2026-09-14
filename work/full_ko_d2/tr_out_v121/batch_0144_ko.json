@@ -1,0 +1,330 @@
+{
+ "batch_id": "batch_0144",
+ "translations": [
+  {
+   "key": "26962ff3ba1a",
+   "speaker_korean": "멜트",
+   "korean": "「하얀 안개바다에 잠든 은자의 샘\n지키는 굳건한 부모자식은 무얼 생각하나….\n⟦P⟧어둑한 산속 동굴\n다섯 성질이 서로 다투니\n그들을 비추는 빛은 무엇인가….\n⟦P⟧신들의 궁병이 지키는 낡은 회랑\n관 속에 잠든 태양왕\n말 없는 유해는 무얼 말하는가….\n⟦P⟧세 종류 병사 모인 곳\n왕 없는 옥좌엔 누가 앉는가….\n⟦P⟧날개 달린 신의 사자의 제물이\n바라보는 그 끝엔\n과연 희망인가 절망인가….\n⟦P⟧구릿빛으로 잠든 동굴 끝\n호숫가를 바라보는 최북단의 현자\n뿌리내린 지하에 봉인된 건 옛 힘인가….\n⟦P⟧작열지옥\n귀긴 일족의 거인이 내려다보는 붉은 쌍둥이\n감춰진 힘을 풀어놓을 자는 누구인가….\n⟦P⟧……이상이오."
+  },
+  {
+   "key": "79ffb4362557",
+   "speaker_korean": "로저",
+   "korean": "「음~ 역시 모르겠잖아.\n그게 뭔 소리야?"
+  },
+  {
+   "key": "349f7843285c",
+   "speaker_korean": "드라이브",
+   "korean": "「수수께끼가 가리키는 곳에 뭔가 있다는\n것 같은데유…."
+  },
+  {
+   "key": "8c5ca8acdbea",
+   "speaker_korean": "멜트",
+   "korean": "「이 몸도 그리 생각하오."
+  },
+  {
+   "key": "5c8e3c24e2aa",
+   "speaker_korean": "로저",
+   "korean": "「역시, 모험을 하며\n찾아낼 수밖에 없잖아!"
+  },
+  {
+   "key": "e867aea1e24b",
+   "speaker_korean": "드라이브",
+   "korean": "「그러니까 그건 안 되는데유!\n위험한데유!!"
+  },
+  {
+   "key": "df7bd3515af9",
+   "speaker_korean": "로저",
+   "korean": "「당연하잖아!\n모험엔 위험이 따르는 거잖아!"
+  },
+  {
+   "key": "ff483ed2c951",
+   "speaker_korean": "드라이브",
+   "korean": "「위험 같은 건 그냥 시・러・인데유."
+  },
+  {
+   "key": "f35112bd7935",
+   "speaker_korean": "로저",
+   "korean": "「이, 근성 없는 놈아!\n그러고도 사내냐!!"
+  },
+  {
+   "key": "fd40b599a280",
+   "speaker_korean": "드라이브",
+   "korean": "「…근데 형님, 그거 작열지옥이잖아유?\n지・옥・."
+  },
+  {
+   "key": "889f61787ca6",
+   "speaker_korean": "로저",
+   "korean": "「……윽."
+  },
+  {
+   "key": "e0cfb2c177bc",
+   "speaker_korean": "드라이브",
+   "korean": "「이거 위험하겠는데유."
+  },
+  {
+   "key": "e902e867d358",
+   "speaker_korean": "로저",
+   "korean": "「어쩔 수 없네.\n너희들, 도와주는 거잖아!"
+  },
+  {
+   "key": "ace7d2aa6aff",
+   "speaker_korean": "클리프",
+   "korean": "「뭐?"
+  },
+  {
+   "key": "d106558a4bf8",
+   "speaker_korean": "로저",
+   "korean": "「도와달라고 말하는 거잖아.\n그 대신, 너희들 모험도\n내가 도와줄 테니까."
+  },
+  {
+   "key": "9143fca51f44",
+   "speaker_korean": "클리프",
+   "korean": "「그렇게 말해도 말이지…."
+  },
+  {
+   "key": "6b118e21453c",
+   "speaker_korean": "로저",
+   "korean": "「좋잖아?\n너희들 모험하다 들른 곳에서,\n내 보물찾기만 도와주면\n되는 거라니까!"
+  },
+  {
+   "key": "778aefc1924a",
+   "speaker_korean": "클리프",
+   "korean": "「어떻게 할까?"
+  },
+  {
+   "key": "a685933ba59a",
+   "speaker_korean": "넬",
+   "korean": "「당신들한테 맡길게."
+  },
+  {
+   "key": "4447b0c70129",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・협력 안 함."
+  },
+  {
+   "key": "3ff61ae46218",
+   "speaker_korean": "페이트",
+   "korean": "「응, 알았어."
+  },
+  {
+   "key": "343f7bb53987",
+   "speaker_korean": "로저",
+   "korean": "「좋았어! 해냈잖아!!"
+  },
+  {
+   "key": "925612991f6c",
+   "speaker_korean": "드라이브",
+   "korean": "「형님을… 부탁하는데유."
+  },
+  {
+   "key": "f2513e3d0a71",
+   "speaker_korean": "멜트",
+   "korean": "「잘 부탁하오."
+  },
+  {
+   "key": "00f9161d7300",
+   "speaker_korean": "???",
+   "korean": "「후후후… 재미있는 이야기를\n들려주셨군요."
+  },
+  {
+   "key": "b09470f49a3e",
+   "speaker_korean": "???",
+   "korean": "「서책에 적힌 수수께끼가 이끄는 곳….\n당장 우리 집 열혈 애송이 녀석에게 알려주기로\n할까요."
+  },
+  {
+   "key": "f63fabcb591e",
+   "speaker_korean": "???",
+   "korean": "「큭큭큭……."
+  },
+  {
+   "key": "31a5d8620209",
+   "speaker_korean": "페이트",
+   "korean": "「안 돼, 협력은 할 수 없어."
+  },
+  {
+   "key": "cf90cfe233f6",
+   "speaker_korean": "로저",
+   "korean": "「다녀올게!\n선물 이야기,\n기대하고 있으라고!"
+  },
+  {
+   "key": "33e99ee99522",
+   "speaker_korean": "드라이브",
+   "korean": "「예인데유."
+  },
+  {
+   "key": "f0a75715cbe0",
+   "speaker_korean": "로저",
+   "korean": "「그럼 간다!!"
+  },
+  {
+   "key": "454c26043699",
+   "speaker_korean": "로저",
+   "korean": "「왜 그러는 거냐!?"
+  },
+  {
+   "key": "7c4795ce9182",
+   "speaker_korean": "페이트",
+   "korean": "「장난이 아니야.\n단순한 호기심만으로는\n같이 갈 수 없어."
+  },
+  {
+   "key": "58a9df354e98",
+   "speaker_korean": "로저",
+   "korean": "「단순한 호기심이 아니잖아!!"
+  },
+  {
+   "key": "3075c3cdafd8",
+   "speaker_korean": "페이트",
+   "korean": "「미안.\n그런 이유니까."
+  },
+  {
+   "key": "2f538d87fa3b",
+   "speaker_korean": "로저",
+   "korean": "「이, 등신아!\n이제 부탁 안 할 거야!!"
+  },
+  {
+   "key": "023a80093884",
+   "speaker_korean": "드라이브",
+   "korean": "「미안한데유.\n나중에 잘 타일러 놓을 테니까유."
+  },
+  {
+   "key": "8a608e3c6331",
+   "speaker_korean": "멜트",
+   "korean": "「맡겨두시오."
+  },
+  {
+   "key": "a671d59126ea",
+   "speaker_korean": "???",
+   "korean": "⟦1⟧「기다려, 기다려, 기다리라니까~!\n⟦P⟧"
+  },
+  {
+   "key": "ee7696314b98",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「이 목소리.\n혹시?\n⟦P⟧"
+  },
+  {
+   "key": "1f1a0a0eb83c",
+   "speaker_korean": "소피아",
+   "korean": "⟦1⟧「네?!\n⟦P⟧"
+  },
+  {
+   "key": "c79b00e4640b",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「…그런가 보네.\n⟦P⟧"
+  },
+  {
+   "key": "2a43ff933cff",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「찾아봤어.\n일단은 말이지….\n⟦P⟧그런데 못 찾았어.\n대체 어디 있었던 거야?\n⟦P⟧"
+  },
+  {
+   "key": "d77e2a40037f",
+   "speaker_korean": "아드레이",
+   "korean": "⟦1⟧「⟦2⟧시하츠⟦3⟧를 방문했다고 하면서,\n이 몸에게 인사도 없이 가다니\n너무하지 않은가.\n⟦P⟧"
+  },
+  {
+   "key": "63f201bf155c",
+   "speaker_korean": "아드레이",
+   "korean": "⟦1⟧「⟦2⟧라셀⟦3⟧ 그 녀석에게 북방 제도 조사를\n다시 하고 오라는 말을 들어서 말이지.\n북쪽으로 향하는 배 안에 있었다.\n⟦P⟧그랬더니 ⟦4⟧페이트 님 일행⟦5⟧을\n봤다는 연락이 와서 말이야.\n서둘러 돌아왔다는 것이지.\n⟦P⟧"
+  },
+  {
+   "key": "ae3b1bbc4797",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「뭐야 그게.\n그런 걸 찾을 수 있을\n리가 없잖아.\n⟦P⟧"
+  },
+  {
+   "key": "f90f9efe71b4",
+   "speaker_korean": null,
+   "korean": "그럴지도 모르지.\n으하하하하!\n⟦P⟧"
+  },
+  {
+   "key": "e9da04b4747c",
+   "speaker_korean": "아드레이",
+   "korean": "⟦1⟧「그런가….\n⟦P⟧"
+  },
+  {
+   "key": "e141c3092f43",
+   "speaker_korean": "소피아",
+   "korean": "⟦1⟧「하지만, 돌아오셔도 정말\n괜찮으신가요?\n중요한 일이 있으신 거잖아요?\n⟦P⟧"
+  },
+  {
+   "key": "d9de42fc16e8",
+   "speaker_korean": "아드레이",
+   "korean": "⟦1⟧「그대들을 돕는 일보다\n소중한 임무 따위 있을까.\n⟦P⟧게다가 변경 조사 정도라면\n내가 없어도 어떻게든\n될 것이야.\n⟦P⟧"
+  },
+  {
+   "key": "94b5420ed371",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「내가 없어도…라니,\n배는 이미 유턴시킨 거\n아니었나요?\n⟦P⟧"
+  },
+  {
+   "key": "6c129eb118e8",
+   "speaker_korean": "아드레이",
+   "korean": "⟦1⟧「아니, 돌아온 건\n나 혼자일세.\n⟦P⟧"
+  },
+  {
+   "key": "5e4bbc2aa43f",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「혼자라니….\n대체 어떻게요?\n⟦P⟧"
+  },
+  {
+   "key": "660f41cb562c",
+   "speaker_korean": "아드레이",
+   "korean": "⟦1⟧「물론, 헤엄쳐서지.\n⟦P⟧"
+  },
+  {
+   "key": "da7f246f917b",
+   "speaker_korean": "소피아",
+   "korean": "⟦1⟧「…헤엄쳐서요?\n⟦P⟧"
+  },
+  {
+   "key": "116b7a72ff03",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「어라…"
+  },
+  {
+   "key": "a661f6e25ebc",
+   "speaker_korean": "아드레이",
+   "korean": "⟦1⟧「음.\n사흘 정도 걸렸으려나….\n⟦P⟧조류가 좋았던 덕분에,\n생각보다 일찍 도착했다네.\n⟦P⟧"
+  },
+  {
+   "key": "35f65b89ceb0",
+   "speaker_korean": "아드레이",
+   "korean": "⟦1⟧「자, 그럼….\n한 번은 이 땅을 떠났던 ⟦2⟧페이트 님 일행⟦3⟧이\n다시 돌아왔다는 것은,\n⟦P⟧우리가 있는 이 땅에서, 무언가가 움직이고 있다는\n뜻이 아니겠는가?\n⟦P⟧"
+  },
+  {
+   "key": "853d1894e9fb",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「네, 뭐….\n⟦P⟧"
+  },
+  {
+   "key": "126cbc3d4a0b",
+   "speaker_korean": "아드레이",
+   "korean": "⟦1⟧「그건 즉, 조금이라도 전력이\n필요하다는 뜻이로군?\n⟦P⟧"
+  },
+  {
+   "key": "56b21b876bfa",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「그렇지.\n부정은 안 할게.\n⟦P⟧"
+  },
+  {
+   "key": "1a502e0ebfe6",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「좋잖아.\n⟦2⟧루시퍼⟦3⟧를 만나러 가기 위해\n강한 동료가 필요한 건 사실이야.\n⟦P⟧게다가, 어차피 그는 이미\n끌어들여 버린 셈이고.\n⟦P⟧"
+  },
+  {
+   "key": "aaecde794523",
+   "speaker_korean": "아드레이",
+   "korean": "⟦1⟧「그래그래.\n한 번이나 두 번이나 매한가지일세.\n체념하고 이 몸도 데려가거라.\n⟦P⟧"
+  },
+  {
+   "key": "0828b96c95f6",
+   "speaker_korean": "소피아",
+   "korean": "⟦1⟧「잘 부탁드립니다.\n⟦P⟧"
+  },
+  {
+   "key": "005a0f9579f8",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「⟦2⟧소피아⟦3⟧까지….\n⟦P⟧"
+  }
+ ]
+}

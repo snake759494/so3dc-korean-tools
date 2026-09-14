@@ -1,0 +1,205 @@
+{
+ "batch_id": "batch_0229",
+ "translations": [
+  {
+   "key": "92158fdd0d45",
+   "speaker_korean": null,
+   "korean": "스피어211 2층"
+  },
+  {
+   "key": "0870372e4241",
+   "speaker_korean": null,
+   "korean": "⟦1⟧정신 활성제⟦2⟧ 획득."
+  },
+  {
+   "key": "b78c42607c40",
+   "speaker_korean": null,
+   "korean": "스피어211 3층"
+  },
+  {
+   "key": "2e147335fc93",
+   "speaker_korean": null,
+   "korean": "⟦1⟧트래핑 카드 EX2⟦2⟧ 획득."
+  },
+  {
+   "key": "45c4a455992c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧소생약⟦2⟧ 획득."
+  },
+  {
+   "key": "b6fb1b603c3b",
+   "speaker_korean": null,
+   "korean": "스피어211 4층"
+  },
+  {
+   "key": "a402cba2139c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧체력 활성제⟦2⟧ 획득."
+  },
+  {
+   "key": "0481311e17b7",
+   "speaker_korean": null,
+   "korean": "⟦1⟧드레메라 공구세트⟦2⟧ 획득."
+  },
+  {
+   "key": "7621e243f21e",
+   "speaker_korean": null,
+   "korean": "스피어211 5층"
+  },
+  {
+   "key": "f811859addc3",
+   "speaker_korean": "보안부원",
+   "korean": "「젠장!!\n안에서 잠가 버렸잖아!!"
+  },
+  {
+   "key": "9d622db06e68",
+   "speaker_korean": "페이트",
+   "korean": "「안 되겠어.\n여기도 안 열려."
+  },
+  {
+   "key": "19d379f55341",
+   "speaker_korean": "클리프",
+   "korean": "「쳇, 완전 바퀴벌레 같은 놈들이잖아.\n다음, 또 다음… 정말 끝이 없다니까."
+  },
+  {
+   "key": "ba0bfdc3b9db",
+   "speaker_korean": "페이트",
+   "korean": "「그래도, 이제 연구 구역엔 들어왔어.\n이제 남은 건 ⟦1⟧이터널 스피어⟦2⟧의 개발실을\n찾아내기만 하면…"
+  },
+  {
+   "key": "3a571efeef68",
+   "speaker_korean": "소피아",
+   "korean": "「그런데 방에\n들어갈 수가 없는데?"
+  },
+  {
+   "key": "9843ce89ff17",
+   "speaker_korean": "페이트",
+   "korean": "「열쇠 같은 게 필요한 걸까.\n그걸 찾아내면―――"
+  },
+  {
+   "key": "f1231329f633",
+   "speaker_korean": "마리아",
+   "korean": "「아무래도 그 전에\n한 번 더 움직여야 할 것 같네."
+  },
+  {
+   "key": "44c6e55cb781",
+   "speaker_korean": "소피아",
+   "korean": "「꺅!!\n뒤에도 있어!?"
+  },
+  {
+   "key": "4d969a85e4d5",
+   "speaker_korean": "페이트",
+   "korean": "「뭐야!?"
+  },
+  {
+   "key": "97c3f8a4b0c7",
+   "speaker_korean": "마리아",
+   "korean": "「하지만… 역시\n이 인원수는 좀 힘들겠네."
+  },
+  {
+   "key": "60584ab53a90",
+   "speaker_korean": "클리프",
+   "korean": "「그렇게 말하지 마.\n기죽잖냐."
+  },
+  {
+   "key": "1860114b921d",
+   "speaker_korean": "여성",
+   "korean": "「이쪽이야!!"
+  },
+  {
+   "key": "10d8f6c1fb5e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧세라믹 가더⟦2⟧ 획득."
+  },
+  {
+   "key": "99ea790245c5",
+   "speaker_korean": null,
+   "korean": "⟦1⟧트래핑 카드 2⟦2⟧ 획득."
+  },
+  {
+   "key": "35a06dab04a2",
+   "speaker_korean": "페이트",
+   "korean": "「이제 패널을 조작할\n필요는 없겠군."
+  },
+  {
+   "key": "b42262434881",
+   "speaker_korean": "페이트",
+   "korean": "「『엘리베이터 제어 패널』이라고\n적혀 있다.\n이 패널을 조작하면\n엘리베이터를 사용할 수 있게\n되는 모양이군."
+  },
+  {
+   "key": "47e1a1726a9b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・패널을 조작함."
+  },
+  {
+   "key": "47672297c726",
+   "speaker_korean": "소피아",
+   "korean": "「다른 사람들…\n말인가요?"
+  },
+  {
+   "key": "ebcf0e16112c",
+   "speaker_korean": "블레어",
+   "korean": "「응, 이쪽이야."
+  },
+  {
+   "key": "d0048b502b8b",
+   "speaker_korean": "여성",
+   "korean": "「위험할 뻔했네."
+  },
+  {
+   "key": "75290d361319",
+   "speaker_korean": "소피아",
+   "korean": "「도와주셔서\n감사합니다."
+  },
+  {
+   "key": "002fbc2b3f52",
+   "speaker_korean": "페이트",
+   "korean": "「당신은?"
+  },
+  {
+   "key": "91ccebc81b31",
+   "speaker_korean": "여성",
+   "korean": "「나는 ⟦1⟧블레어⟦2⟧야.\n⟦3⟧블레어 랜드벨드⟦4⟧야.\n여기서 ⟦5⟧이터널 스피어⟦6⟧의\n개발 중인 연구자 중 한 명이야."
+  },
+  {
+   "key": "59994c3aa3f9",
+   "speaker_korean": "블레어",
+   "korean": "「응, 맞아.\n⟦1⟧레코다⟦2⟧에서 너희와 만난\n⟦3⟧플러드⟦4⟧의 친구야."
+  },
+  {
+   "key": "cd0b40d29d53",
+   "speaker_korean": "소피아",
+   "korean": "「친구시군요…"
+  },
+  {
+   "key": "7374104f4ea1",
+   "speaker_korean": "블레어",
+   "korean": "「그 애도 너희를 꽤\n신경 쓰고 있었어.\n뭐, 그 애 경우엔, 반쯤은 재미 삼아서지만."
+  },
+  {
+   "key": "b0de185f9bac",
+   "speaker_korean": "블레어",
+   "korean": "「뭐, 여기서 이야기만 하고 있는 것도 그렇지.\n따라와."
+  },
+  {
+   "key": "e30f354eb64a",
+   "speaker_korean": "클리프",
+   "korean": "「이, 이봐!!"
+  },
+  {
+   "key": "b8ffc1ee9eac",
+   "speaker_korean": "블레어",
+   "korean": "「이곳 잠금장치도 나름 튼튼하긴 하지만,\n상층부가 본격적으로 나서면\n금방 열 수 있는 거니까.\n이 앞쪽엔 더 삼엄한 보안이\n되어 있는 방이 있어.\n거기에 다른 애들도 다 있어."
+  },
+  {
+   "key": "39a805f847a2",
+   "speaker_korean": "마리아",
+   "korean": "「⟦1⟧블레어⟦2⟧… 그렇군…"
+  },
+  {
+   "key": "490af11cf5fa",
+   "speaker_korean": "여성",
+   "korean": "「먼저 자기 이름부터 말해야 하는 거 아니야?\n⟦1⟧페이트 라인갓 군⟦2⟧."
+  }
+ ]
+}

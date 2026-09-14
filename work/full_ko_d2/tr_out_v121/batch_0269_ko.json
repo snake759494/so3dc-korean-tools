@@ -1,0 +1,645 @@
+{
+ "batch_id": "batch_0269",
+ "translations": [
+  {
+   "key": "0cbf4a756254",
+   "speaker_korean": null,
+   "korean": "바질"
+  },
+  {
+   "key": "7c355866fdbd",
+   "speaker_korean": null,
+   "korean": "크림슨・헤이트"
+  },
+  {
+   "key": "3197b71d87e1",
+   "speaker_korean": null,
+   "korean": "호신도”용천”"
+  },
+  {
+   "key": "6c0cd00c851b",
+   "speaker_korean": null,
+   "korean": "이리스의 무녀화"
+  },
+  {
+   "key": "1a529945aa81",
+   "speaker_korean": null,
+   "korean": "오리하르콘"
+  },
+  {
+   "key": "d09d394c8e1f",
+   "speaker_korean": null,
+   "korean": "에메랄드"
+  },
+  {
+   "key": "7658a55671ca",
+   "speaker_korean": null,
+   "korean": "루비"
+  },
+  {
+   "key": "ace734c321fd",
+   "speaker_korean": null,
+   "korean": "사파이어"
+  },
+  {
+   "key": "3b7c8638a2c3",
+   "speaker_korean": null,
+   "korean": "아이언"
+  },
+  {
+   "key": "8833997e7f63",
+   "speaker_korean": null,
+   "korean": "다마스커스"
+  },
+  {
+   "key": "4ab977746f3b",
+   "speaker_korean": null,
+   "korean": "다이아몬드"
+  },
+  {
+   "key": "bc43c01cc879",
+   "speaker_korean": null,
+   "korean": "크리스탈"
+  },
+  {
+   "key": "254fab12dae4",
+   "speaker_korean": null,
+   "korean": "스타 루비"
+  },
+  {
+   "key": "6756c6da0c1a",
+   "speaker_korean": null,
+   "korean": "미스릴"
+  },
+  {
+   "key": "957da07be000",
+   "speaker_korean": null,
+   "korean": "레인보우 다이아"
+  },
+  {
+   "key": "b1a8ddfc86e2",
+   "speaker_korean": null,
+   "korean": "다크 크리스탈"
+  },
+  {
+   "key": "f3c189844b6d",
+   "speaker_korean": null,
+   "korean": "셸 사파이어"
+  },
+  {
+   "key": "8db0cb24b948",
+   "speaker_korean": null,
+   "korean": "블루베리"
+  },
+  {
+   "key": "4d9d72e3c688",
+   "speaker_korean": null,
+   "korean": "아쿠아베리"
+  },
+  {
+   "key": "80075493a097",
+   "speaker_korean": null,
+   "korean": "블랙베리"
+  },
+  {
+   "key": "e6ecf5ea6db5",
+   "speaker_korean": null,
+   "korean": "완숙 베리"
+  },
+  {
+   "key": "4cc94f60b76d",
+   "speaker_korean": null,
+   "korean": "초숙성 베리"
+  },
+  {
+   "key": "934eefc4502f",
+   "speaker_korean": null,
+   "korean": "매지컬 베리"
+  },
+  {
+   "key": "ba9afbbec52d",
+   "speaker_korean": null,
+   "korean": "요리 소재"
+  },
+  {
+   "key": "4f23fe04b3a7",
+   "speaker_korean": null,
+   "korean": "미사용21"
+  },
+  {
+   "key": "a0fde27a7f7f",
+   "speaker_korean": null,
+   "korean": "미사용22"
+  },
+  {
+   "key": "adce8d64141a",
+   "speaker_korean": null,
+   "korean": "연금 소재"
+  },
+  {
+   "key": "dcbf5426d804",
+   "speaker_korean": null,
+   "korean": "미사용24"
+  },
+  {
+   "key": "2e9150124392",
+   "speaker_korean": null,
+   "korean": "프레시 세이지"
+  },
+  {
+   "key": "512c0935d593",
+   "speaker_korean": null,
+   "korean": "미사용26"
+  },
+  {
+   "key": "8232d3447ac6",
+   "speaker_korean": null,
+   "korean": "미사용27"
+  },
+  {
+   "key": "4c2fa705095a",
+   "speaker_korean": null,
+   "korean": "미사용28"
+  },
+  {
+   "key": "af8691112b55",
+   "speaker_korean": null,
+   "korean": "미사용29"
+  },
+  {
+   "key": "47c19367a295",
+   "speaker_korean": null,
+   "korean": "집필 소재"
+  },
+  {
+   "key": "39ffeed08ec3",
+   "speaker_korean": null,
+   "korean": "기계 소재"
+  },
+  {
+   "key": "325538a124b7",
+   "speaker_korean": null,
+   "korean": "합성 소재"
+  },
+  {
+   "key": "0a1ef907aed6",
+   "speaker_korean": null,
+   "korean": "단조 소재"
+  },
+  {
+   "key": "a3ad36a8cf78",
+   "speaker_korean": null,
+   "korean": "만능 식칼"
+  },
+  {
+   "key": "cec77fe66808",
+   "speaker_korean": null,
+   "korean": "연금석"
+  },
+  {
+   "key": "58025061ee8b",
+   "speaker_korean": null,
+   "korean": "세공 소재"
+  },
+  {
+   "key": "bc6d6102c17b",
+   "speaker_korean": null,
+   "korean": "조합 소재"
+  },
+  {
+   "key": "df652806dc84",
+   "speaker_korean": null,
+   "korean": "멀티 플라스크"
+  },
+  {
+   "key": "90660f238cc7",
+   "speaker_korean": null,
+   "korean": "스미티 해머"
+  },
+  {
+   "key": "b8665abdbbb3",
+   "speaker_korean": null,
+   "korean": "카타나 실패"
+  },
+  {
+   "key": "baab56d8ee3c",
+   "speaker_korean": null,
+   "korean": "매지컬 펜"
+  },
+  {
+   "key": "960f056724d0",
+   "speaker_korean": null,
+   "korean": "NC 프로그램 디스크"
+  },
+  {
+   "key": "7c780eeceadc",
+   "speaker_korean": null,
+   "korean": "천사의 흉상"
+  },
+  {
+   "key": "c0ce2371df36",
+   "speaker_korean": null,
+   "korean": "멍게"
+  },
+  {
+   "key": "90eafbc93ce7",
+   "speaker_korean": null,
+   "korean": "킹두리안"
+  },
+  {
+   "key": "8cded144f969",
+   "speaker_korean": null,
+   "korean": "히트업 링"
+  },
+  {
+   "key": "670e684cada3",
+   "speaker_korean": null,
+   "korean": "힐 링"
+  },
+  {
+   "key": "6913aaed039b",
+   "speaker_korean": null,
+   "korean": "페어리 링"
+  },
+  {
+   "key": "3e227aa6cb9b",
+   "speaker_korean": null,
+   "korean": "헤이스트 링"
+  },
+  {
+   "key": "cc68a895769a",
+   "speaker_korean": null,
+   "korean": "러닝 링"
+  },
+  {
+   "key": "df8e7784e328",
+   "speaker_korean": null,
+   "korean": "아틀라스 링"
+  },
+  {
+   "key": "778b5cbca08a",
+   "speaker_korean": null,
+   "korean": "이클립스 링"
+  },
+  {
+   "key": "46f627d54d8b",
+   "speaker_korean": null,
+   "korean": "아쿠아 링"
+  },
+  {
+   "key": "025854a82994",
+   "speaker_korean": null,
+   "korean": "플레어 링"
+  },
+  {
+   "key": "cc4b218746fa",
+   "speaker_korean": null,
+   "korean": "어스 링"
+  },
+  {
+   "key": "75bf374396db",
+   "speaker_korean": null,
+   "korean": "윈드 링"
+  },
+  {
+   "key": "3e8adb09c298",
+   "speaker_korean": null,
+   "korean": "루나틱 링"
+  },
+  {
+   "key": "96aba5da3a70",
+   "speaker_korean": null,
+   "korean": "멘탈 링"
+  },
+  {
+   "key": "f7a48fdd1bf3",
+   "speaker_korean": null,
+   "korean": "페어리 피어스"
+  },
+  {
+   "key": "75bac626fd20",
+   "speaker_korean": null,
+   "korean": "어택 피어스"
+  },
+  {
+   "key": "97f791ce1f36",
+   "speaker_korean": null,
+   "korean": "에메랄드 피어스"
+  },
+  {
+   "key": "b46eb7695480",
+   "speaker_korean": null,
+   "korean": "에메랄드 링"
+  },
+  {
+   "key": "f26d3c2180d3",
+   "speaker_korean": null,
+   "korean": "에너지 링"
+  },
+  {
+   "key": "a467030f583b",
+   "speaker_korean": null,
+   "korean": "어택 뱅글"
+  },
+  {
+   "key": "f7bb6a2c0762",
+   "speaker_korean": null,
+   "korean": "매직 뱅글"
+  },
+  {
+   "key": "53b1a69d4f1b",
+   "speaker_korean": null,
+   "korean": "금검"
+  },
+  {
+   "key": "e1768cbcf754",
+   "speaker_korean": null,
+   "korean": "비젠 나가미츠"
+  },
+  {
+   "key": "fc89067c3e78",
+   "speaker_korean": null,
+   "korean": "명도”박록”"
+  },
+  {
+   "key": "91d4cf9abb3d",
+   "speaker_korean": null,
+   "korean": "강도”암통”"
+  },
+  {
+   "key": "03dc3ce518ba",
+   "speaker_korean": null,
+   "korean": "서든데스 체크"
+  },
+  {
+   "key": "eb1de57348b7",
+   "speaker_korean": null,
+   "korean": "리버스 돌"
+  },
+  {
+   "key": "965c1c9bcf48",
+   "speaker_korean": null,
+   "korean": "수호냥이"
+  },
+  {
+   "key": "c7869dc9de78",
+   "speaker_korean": null,
+   "korean": "추억냥이"
+  },
+  {
+   "key": "f2f7f8db6fbe",
+   "speaker_korean": null,
+   "korean": "바니1/144"
+  },
+  {
+   "key": "5165891e4c2d",
+   "speaker_korean": null,
+   "korean": "바니1/60"
+  },
+  {
+   "key": "eba727a66f95",
+   "speaker_korean": null,
+   "korean": "바니1/1"
+  },
+  {
+   "key": "297223f3d045",
+   "speaker_korean": null,
+   "korean": "데몬 크로스"
+  },
+  {
+   "key": "4e192ea4e0d1",
+   "speaker_korean": null,
+   "korean": "레이븐 크로스"
+  },
+  {
+   "key": "d8f6948d800e",
+   "speaker_korean": null,
+   "korean": "배틀러 크로스"
+  },
+  {
+   "key": "18e3f7e78165",
+   "speaker_korean": null,
+   "korean": "위저드 크로스"
+  },
+  {
+   "key": "ccb790a1c64c",
+   "speaker_korean": null,
+   "korean": "실버 앙크"
+  },
+  {
+   "key": "0a48f9a3c16d",
+   "speaker_korean": null,
+   "korean": "디스펠 앙크"
+  },
+  {
+   "key": "881ef3dbb456",
+   "speaker_korean": null,
+   "korean": "스타 네크리스"
+  },
+  {
+   "key": "b25ca8fde94a",
+   "speaker_korean": null,
+   "korean": "동자절안강"
+  },
+  {
+   "key": "c42761273580",
+   "speaker_korean": null,
+   "korean": "신검”포도어혼”"
+  },
+  {
+   "key": "d71546c99e9e",
+   "speaker_korean": null,
+   "korean": "성검”천총운검”"
+  },
+  {
+   "key": "0c57c30222b1",
+   "speaker_korean": null,
+   "korean": "천검”천지미우장”"
+  },
+  {
+   "key": "50e331661958",
+   "speaker_korean": null,
+   "korean": "바니 슈즈"
+  },
+  {
+   "key": "16acc127a026",
+   "speaker_korean": null,
+   "korean": "엘븐 부츠"
+  },
+  {
+   "key": "426f6902d121",
+   "speaker_korean": null,
+   "korean": "시브스 부츠"
+  },
+  {
+   "key": "34beed5fafc9",
+   "speaker_korean": null,
+   "korean": "배틀 부츠"
+  },
+  {
+   "key": "23fae3431093",
+   "speaker_korean": null,
+   "korean": "산타 부츠"
+  },
+  {
+   "key": "f41be7e16f47",
+   "speaker_korean": null,
+   "korean": "그린 탈리스만"
+  },
+  {
+   "key": "b306c3e6b431",
+   "speaker_korean": null,
+   "korean": "블루 탈리스만"
+  },
+  {
+   "key": "8367452c080f",
+   "speaker_korean": null,
+   "korean": "레드 탈리스만"
+  },
+  {
+   "key": "c3bb308c5f6e",
+   "speaker_korean": null,
+   "korean": "옐로 탈리스만"
+  },
+  {
+   "key": "77599a11d56f",
+   "speaker_korean": null,
+   "korean": "루나 탈리스만"
+  },
+  {
+   "key": "35eaca12f724",
+   "speaker_korean": null,
+   "korean": "스타 탈리스만"
+  },
+  {
+   "key": "880c6e8f7e60",
+   "speaker_korean": null,
+   "korean": "포이즌 체크"
+  },
+  {
+   "key": "8a1ab414c701",
+   "speaker_korean": null,
+   "korean": "패럴라이 체크"
+  },
+  {
+   "key": "3ee5b37e0595",
+   "speaker_korean": null,
+   "korean": "스톤 체크"
+  },
+  {
+   "key": "8100f6ee2e7d",
+   "speaker_korean": null,
+   "korean": "프로즌 체크"
+  },
+  {
+   "key": "1de7021b0f20",
+   "speaker_korean": null,
+   "korean": "사일런 체크"
+  },
+  {
+   "key": "8b87301c17b7",
+   "speaker_korean": null,
+   "korean": "피요한"
+  },
+  {
+   "key": "e62ac6ff4b20",
+   "speaker_korean": null,
+   "korean": "피요논"
+  },
+  {
+   "key": "25a101b5632a",
+   "speaker_korean": null,
+   "korean": "트라이 엠블럼"
+  },
+  {
+   "key": "442fb418cf46",
+   "speaker_korean": null,
+   "korean": "트라이 엠블럼"
+  },
+  {
+   "key": "0d842a84b84e",
+   "speaker_korean": null,
+   "korean": "버서크 심볼"
+  },
+  {
+   "key": "c1f4e805d939",
+   "speaker_korean": null,
+   "korean": "레지스트 엠블럼"
+  },
+  {
+   "key": "5e711f6203e0",
+   "speaker_korean": null,
+   "korean": "실드 엠블럼"
+  },
+  {
+   "key": "9ceed59cc9f3",
+   "speaker_korean": null,
+   "korean": "리플렉트 엠블럼"
+  },
+  {
+   "key": "7c6950f073ee",
+   "speaker_korean": null,
+   "korean": "블레이즈 심볼"
+  },
+  {
+   "key": "dff631b458f5",
+   "speaker_korean": null,
+   "korean": "홀리 심볼"
+  },
+  {
+   "key": "a315c6f24fab",
+   "speaker_korean": null,
+   "korean": "피트 크레스트"
+  },
+  {
+   "key": "d88feed2fe55",
+   "speaker_korean": null,
+   "korean": "미스티 크레스트"
+  },
+  {
+   "key": "9654d0543459",
+   "speaker_korean": null,
+   "korean": "에너미 오브"
+  },
+  {
+   "key": "42beb4bd55c4",
+   "speaker_korean": null,
+   "korean": "얼럿 오브"
+  },
+  {
+   "key": "a1119b00dfa8",
+   "speaker_korean": null,
+   "korean": "트레저 주얼"
+  },
+  {
+   "key": "be13db83aa62",
+   "speaker_korean": null,
+   "korean": "얼럿 주얼"
+  },
+  {
+   "key": "ee1bf9a34789",
+   "speaker_korean": null,
+   "korean": "세이프티 주얼"
+  },
+  {
+   "key": "c9274887fe78",
+   "speaker_korean": null,
+   "korean": "퍼플 미스트"
+  },
+  {
+   "key": "c942b623bacf",
+   "speaker_korean": null,
+   "korean": "매직 미스트"
+  },
+  {
+   "key": "02150dbbec2c",
+   "speaker_korean": null,
+   "korean": "베리 포션"
+  },
+  {
+   "key": "3c12c8bbde3a",
+   "speaker_korean": null,
+   "korean": "아쿠아 포션"
+  }
+ ]
+}

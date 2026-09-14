@@ -1,0 +1,15 @@
+{
+ "batch_id": "batch_2026",
+ "translations": [
+  {
+   "key": "c1f48d0ccd27",
+   "speaker_korean": null,
+   "korean": "이벤트 스킵 기능을 켭니다.\n긴 이벤트는 시작할 때\n스킵할지 묻는 창이 뜹니다.\n단, 처음 보는 이벤트도\n스킵할 수 있어 내용을 몰라\n게임 진행이 막힐 수 있습니다.\n이 기능은 플레이어 책임 하에\n이용해 주세요."
+  },
+  {
+   "key": "2564434b6d65",
+   "speaker_korean": null,
+   "korean": "데이터가 손상되었습니다."
+  }
+ ]
+}

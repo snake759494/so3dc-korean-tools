@@ -1,0 +1,650 @@
+{
+ "batch_id": "batch_0285",
+ "translations": [
+  {
+   "key": "b29a2b3a33cd",
+   "speaker_korean": null,
+   "korean": "공방의 기능 확장"
+  },
+  {
+   "key": "fbb108a1bd11",
+   "speaker_korean": null,
+   "korean": "크리에이터 인사이동"
+  },
+  {
+   "key": "f88b91cb648f",
+   "speaker_korean": null,
+   "korean": "감정 실행"
+  },
+  {
+   "key": "606252101341",
+   "speaker_korean": null,
+   "korean": "B 공방 설비 B"
+  },
+  {
+   "key": "3d2f648e7b0a",
+   "speaker_korean": null,
+   "korean": "이동"
+  },
+  {
+   "key": "4f56ff4b115d",
+   "speaker_korean": null,
+   "korean": "탤런트"
+  },
+  {
+   "key": "66c44eaa87b7",
+   "speaker_korean": null,
+   "korean": "라인 가동"
+  },
+  {
+   "key": "6447d49f5d74",
+   "speaker_korean": null,
+   "korean": "인건비"
+  },
+  {
+   "key": "0095d098369b",
+   "speaker_korean": null,
+   "korean": "이 팀으로 시작하시겠습니까?"
+  },
+  {
+   "key": "16f8241f9007",
+   "speaker_korean": null,
+   "korean": "어떤 방침으로 할까?"
+  },
+  {
+   "key": "73ccd4ded861",
+   "speaker_korean": null,
+   "korean": "레시피 지정"
+  },
+  {
+   "key": "75e95ef9ba84",
+   "speaker_korean": null,
+   "korean": "창작 오리지널"
+  },
+  {
+   "key": "358b6f53b4f1",
+   "speaker_korean": null,
+   "korean": "무엇을 할까요?"
+  },
+  {
+   "key": "1d6442e19cb9",
+   "speaker_korean": null,
+   "korean": "생성 아이템 확인·특허 신청"
+  },
+  {
+   "key": "0f8c4d8c3b66",
+   "speaker_korean": null,
+   "korean": "창작 내용 확인·변경"
+  },
+  {
+   "key": "d226eace6fa3",
+   "speaker_korean": null,
+   "korean": "다른 크리에이터 상황 확인"
+  },
+  {
+   "key": "92cd30d1f566",
+   "speaker_korean": null,
+   "korean": "중단"
+  },
+  {
+   "key": "d9d4cdb83ee0",
+   "speaker_korean": null,
+   "korean": "처음으로"
+  },
+  {
+   "key": "4a4250225366",
+   "speaker_korean": null,
+   "korean": "팀이 선택되지 않았습니다\n이대로 종료하시겠습니까?"
+  },
+  {
+   "key": "8a1bcc326e2a",
+   "speaker_korean": null,
+   "korean": "요금"
+  },
+  {
+   "key": "42594b69439e",
+   "speaker_korean": null,
+   "korean": "요리"
+  },
+  {
+   "key": "6173ef257436",
+   "speaker_korean": null,
+   "korean": "연금"
+  },
+  {
+   "key": "36ca855565bf",
+   "speaker_korean": null,
+   "korean": "세공"
+  },
+  {
+   "key": "dc171cf3c517",
+   "speaker_korean": null,
+   "korean": "조합"
+  },
+  {
+   "key": "f0155048eff5",
+   "speaker_korean": null,
+   "korean": "단조"
+  },
+  {
+   "key": "1ca5fa18f20b",
+   "speaker_korean": null,
+   "korean": "집필"
+  },
+  {
+   "key": "63780bdf228f",
+   "speaker_korean": null,
+   "korean": "기계"
+  },
+  {
+   "key": "feb4bbab91a2",
+   "speaker_korean": null,
+   "korean": "합성"
+  },
+  {
+   "key": "3f706222847c",
+   "speaker_korean": null,
+   "korean": "감정"
+  },
+  {
+   "key": "7c80d075875c",
+   "speaker_korean": null,
+   "korean": "잘못된 공방명"
+  },
+  {
+   "key": "9c81a5f35964",
+   "speaker_korean": null,
+   "korean": "광산 마을 컬소어A"
+  },
+  {
+   "key": "806b4c0368b0",
+   "speaker_korean": null,
+   "korean": "광산 마을 컬소어B"
+  },
+  {
+   "key": "ff227980238c",
+   "speaker_korean": null,
+   "korean": "컬소어 수련장3F"
+  },
+  {
+   "key": "6aa42c044953",
+   "speaker_korean": null,
+   "korean": "모젤 고대 유적"
+  },
+  {
+   "key": "0c2f4f523989",
+   "speaker_korean": null,
+   "korean": "확장 가능한 기능이 없습니다"
+  },
+  {
+   "key": "91196eefa05f",
+   "speaker_korean": null,
+   "korean": "공방의 창작 내용을 확장할 수 있습니다"
+  },
+  {
+   "key": "c4d30861a138",
+   "speaker_korean": null,
+   "korean": "(이름 오류)"
+  },
+  {
+   "key": "b9055ea593af",
+   "speaker_korean": null,
+   "korean": "오스만"
+  },
+  {
+   "key": "a6a5965e3945",
+   "speaker_korean": null,
+   "korean": "루이드"
+  },
+  {
+   "key": "a60ffb95f275",
+   "speaker_korean": null,
+   "korean": "데지슨"
+  },
+  {
+   "key": "3101044a7f6b",
+   "speaker_korean": null,
+   "korean": "아쿠아&에비아"
+  },
+  {
+   "key": "67ae81e64fd4",
+   "speaker_korean": null,
+   "korean": "「ID 초과.오류1."
+  },
+  {
+   "key": "b4d8907fad0c",
+   "speaker_korean": null,
+   "korean": "(소개 오류)"
+  },
+  {
+   "key": "1fcee8e9baff",
+   "speaker_korean": null,
+   "korean": "「난 일하는 곳은 안 가려"
+  },
+  {
+   "key": "0da93bbbd5e7",
+   "speaker_korean": null,
+   "korean": "「저한테 맡겨주세요♪"
+  },
+  {
+   "key": "d36a52a4f6e7",
+   "speaker_korean": null,
+   "korean": "「젊은것들한테 아직 안 진다"
+  },
+  {
+   "key": "b9e491d73596",
+   "speaker_korean": null,
+   "korean": "「히힛,모조리 썰어주마!"
+  },
+  {
+   "key": "f047cd5391a7",
+   "speaker_korean": null,
+   "korean": "「같이 일하는 것도 괜찮을지도"
+  },
+  {
+   "key": "d10e0ed0580d",
+   "speaker_korean": null,
+   "korean": "「종자 99명이 들어갈 곳을 원하네!"
+  },
+  {
+   "key": "5b1428111762",
+   "speaker_korean": null,
+   "korean": "「칠리코,많은 사람과 얘기하고 싶어"
+  },
+  {
+   "key": "e98277975ced",
+   "speaker_korean": null,
+   "korean": "「나도 늙었네.외딴곳은 봐다오"
+  },
+  {
+   "key": "04599b622c81",
+   "speaker_korean": null,
+   "korean": "「제가 그대에게 힘이 될 수 있다면…"
+  },
+  {
+   "key": "f35ebe652495",
+   "speaker_korean": null,
+   "korean": "「나한테 맡기면 만사형통이야"
+  },
+  {
+   "key": "9079be27f2c9",
+   "speaker_korean": null,
+   "korean": "「좋은 환경을,마음의 안정을 달라!"
+  },
+  {
+   "key": "c2653abd80cd",
+   "speaker_korean": null,
+   "korean": "「지저분한 곳은 봐줘,진짜로"
+  },
+  {
+   "key": "81cd49bc4e5d",
+   "speaker_korean": null,
+   "korean": "「미숙하지만,잘 부탁드려요"
+  },
+  {
+   "key": "f9a980bc9dcf",
+   "speaker_korean": null,
+   "korean": "「술 빚는 건 나한테 맡겨.가하하!"
+  },
+  {
+   "key": "bf4e195424b2",
+   "speaker_korean": null,
+   "korean": "「아이는 질색이야.자꾸 만지니까"
+  },
+  {
+   "key": "ab76f0ef4951",
+   "speaker_korean": null,
+   "korean": "「한곳에 눌러앉는 건 싫으이"
+  },
+  {
+   "key": "140f2520dd71",
+   "speaker_korean": null,
+   "korean": "「혼자 하는 걸 좋아하는데 말이지"
+  },
+  {
+   "key": "723ed8ffb3e0",
+   "speaker_korean": null,
+   "korean": "「빨리 정해줘.결과는 낼 테니"
+  },
+  {
+   "key": "29f285cc880a",
+   "speaker_korean": null,
+   "korean": "「주인님,무엇이든 명령해 주세요…"
+  },
+  {
+   "key": "34c1c1b5ec64",
+   "speaker_korean": null,
+   "korean": "「위대한 사명의 첫걸음이네요"
+  },
+  {
+   "key": "f86d72e4ae78",
+   "speaker_korean": null,
+   "korean": "「제가 모든 걸 능가해 보이겠습니다"
+  },
+  {
+   "key": "147f09d2e232",
+   "speaker_korean": null,
+   "korean": "「조용히 하게 해줬으면 하네"
+  },
+  {
+   "key": "43359dea24a7",
+   "speaker_korean": null,
+   "korean": "「열심히 하겠습니다!"
+  },
+  {
+   "key": "f8c0d67f4ba7",
+   "speaker_korean": null,
+   "korean": "「조수는 하나면 돼."
+  },
+  {
+   "key": "941b19a9e440",
+   "speaker_korean": null,
+   "korean": "「아~지상도 오랜만이네~"
+  },
+  {
+   "key": "47608d60d156",
+   "speaker_korean": null,
+   "korean": "「…임무 개시"
+  },
+  {
+   "key": "999a4f6c975e",
+   "speaker_korean": null,
+   "korean": "「힘내겠지만,배고파…"
+  },
+  {
+   "key": "89b74eca54f9",
+   "speaker_korean": null,
+   "korean": "「…빨리 좀 해주지 않을래?"
+  },
+  {
+   "key": "c2070874d8e2",
+   "speaker_korean": null,
+   "korean": "「페이트"
+  },
+  {
+   "key": "e2e431472772",
+   "speaker_korean": null,
+   "korean": "「소피아"
+  },
+  {
+   "key": "a6b421c3a279",
+   "speaker_korean": null,
+   "korean": "「마리아"
+  },
+  {
+   "key": "751a04c8768c",
+   "speaker_korean": null,
+   "korean": "「클리프"
+  },
+  {
+   "key": "f6aaa08de2c2",
+   "speaker_korean": null,
+   "korean": "「넬."
+  },
+  {
+   "key": "2608e8f484d1",
+   "speaker_korean": null,
+   "korean": "「알벨."
+  },
+  {
+   "key": "2d546c8bdf1e",
+   "speaker_korean": null,
+   "korean": "「로저."
+  },
+  {
+   "key": "c4fbfe2ce4f5",
+   "speaker_korean": null,
+   "korean": "「스프레"
+  },
+  {
+   "key": "8d05ae4b64f9",
+   "speaker_korean": null,
+   "korean": "「내 ⟦1⟧집필⟦2⟧은 대단해."
+  },
+  {
+   "key": "3df1cf8333fd",
+   "speaker_korean": null,
+   "korean": "「⟦1⟧연금⟦2⟧이라면 맡겨."
+  },
+  {
+   "key": "f4279e1bf064",
+   "speaker_korean": null,
+   "korean": "「나는,⟦1⟧단조⟦2⟧ 외길이네."
+  },
+  {
+   "key": "19dcffc98ea8",
+   "speaker_korean": null,
+   "korean": "「⟦1⟧요리⟦2⟧라면 나야."
+  },
+  {
+   "key": "5a6e55e82d4a",
+   "speaker_korean": null,
+   "korean": "「저는,⟦1⟧요리⟦2⟧밖에 안 해요."
+  },
+  {
+   "key": "5f0dd399e2cb",
+   "speaker_korean": null,
+   "korean": "「나는,⟦1⟧집필⟦2⟧이 특기다."
+  },
+  {
+   "key": "5f05adebc3e4",
+   "speaker_korean": null,
+   "korean": "「칠리코는,⟦1⟧세공⟦2⟧이 특기야."
+  },
+  {
+   "key": "a0872f650843",
+   "speaker_korean": null,
+   "korean": "「나는,⟦1⟧연금⟦2⟧이 특기다."
+  },
+  {
+   "key": "103e0dd7d4d6",
+   "speaker_korean": null,
+   "korean": "「저는,⟦1⟧집필⟦2⟧이 특기다."
+  },
+  {
+   "key": "98c599f8a62c",
+   "speaker_korean": null,
+   "korean": "「나는,⟦1⟧단조⟦2⟧가 특기다."
+  },
+  {
+   "key": "c46e9e55b37f",
+   "speaker_korean": null,
+   "korean": "「난,⟦1⟧집필⟦2⟧이 특기다."
+  },
+  {
+   "key": "b04ef935f860",
+   "speaker_korean": null,
+   "korean": "「나는,⟦1⟧조합⟦2⟧."
+  },
+  {
+   "key": "844975351c8b",
+   "speaker_korean": null,
+   "korean": "「⟦1⟧세공⟦2⟧이라면 나지."
+  },
+  {
+   "key": "f14b6369aa04",
+   "speaker_korean": null,
+   "korean": "「⟦1⟧요리⟦2⟧는 맡겨라.위이."
+  },
+  {
+   "key": "d2adb7069d92",
+   "speaker_korean": null,
+   "korean": "…아무래도,⟦1⟧공작⟦2⟧이 특기인 듯하다."
+  },
+  {
+   "key": "846041e3ce6a",
+   "speaker_korean": null,
+   "korean": "「나는,⟦1⟧세공⟦2⟧이 특기다."
+  },
+  {
+   "key": "9a74b072e03a",
+   "speaker_korean": null,
+   "korean": "「⟦1⟧연금⟦2⟧이 특기입니다."
+  },
+  {
+   "key": "2476cb625828",
+   "speaker_korean": null,
+   "korean": "「저는,⟦1⟧연금⟦2⟧이 특기야."
+  },
+  {
+   "key": "aee54524036b",
+   "speaker_korean": null,
+   "korean": "「저는,⟦1⟧조합⟦2⟧이 특기야."
+  },
+  {
+   "key": "5d94fff5046f",
+   "speaker_korean": null,
+   "korean": "「⟦1⟧단조⟦2⟧가 특기다.훗."
+  },
+  {
+   "key": "defc0c2fbb59",
+   "speaker_korean": null,
+   "korean": "「나한테,⟦1⟧조합⟦2⟧을 맡겨다오."
+  },
+  {
+   "key": "3f3dab3c0aa3",
+   "speaker_korean": null,
+   "korean": "「저는,⟦1⟧요리⟦2⟧가 특기야."
+  },
+  {
+   "key": "83f0bd6bec8e",
+   "speaker_korean": null,
+   "korean": "「저는,⟦1⟧공작⟦2⟧이 특기다."
+  },
+  {
+   "key": "7bc906d035b3",
+   "speaker_korean": null,
+   "korean": "「나에게,⟦1⟧조합⟦2⟧을 맡겨줘."
+  },
+  {
+   "key": "9cf284a0ed9a",
+   "speaker_korean": null,
+   "korean": "「나는,⟦1⟧공작⟦2⟧이 특기다."
+  },
+  {
+   "key": "8b3529446669",
+   "speaker_korean": null,
+   "korean": "「저,⟦1⟧요리⟦2⟧가 특기예요."
+  },
+  {
+   "key": "0ea8f9ea0c89",
+   "speaker_korean": null,
+   "korean": "「우리는,⟦1⟧세공⟦2⟧을 특기로 하고 있어요."
+  },
+  {
+   "key": "c9e54f284320",
+   "speaker_korean": null,
+   "korean": "- 현재지 -"
+  },
+  {
+   "key": "776a626b5ee4",
+   "speaker_korean": null,
+   "korean": "- 출발지 -"
+  },
+  {
+   "key": "2118a5609f36",
+   "speaker_korean": null,
+   "korean": "- 목적지 -"
+  },
+  {
+   "key": "ed30d2a318bc",
+   "speaker_korean": null,
+   "korean": "- 선택 -"
+  },
+  {
+   "key": "2f911b59fcf7",
+   "speaker_korean": null,
+   "korean": "크리에이터"
+  },
+  {
+   "key": "597fd9fac62e",
+   "speaker_korean": null,
+   "korean": "공석"
+  },
+  {
+   "key": "06ac60beb453",
+   "speaker_korean": null,
+   "korean": "등록"
+  },
+  {
+   "key": "7cca4077526b",
+   "speaker_korean": null,
+   "korean": "참조"
+  },
+  {
+   "key": "7ee0b0b9fff2",
+   "speaker_korean": null,
+   "korean": "등록합니다\n괜찮으신가요?"
+  },
+  {
+   "key": "05fc12bb3a39",
+   "speaker_korean": null,
+   "korean": "그 공방은 만원이라서\n등록할 수 없습니다!!"
+  },
+  {
+   "key": "fa7b063b50e9",
+   "speaker_korean": null,
+   "korean": "D8γNfN8"
+  },
+  {
+   "key": "fcf31b80f2be",
+   "speaker_korean": null,
+   "korean": "확인·특허 신청"
+  },
+  {
+   "key": "d17d15a9c912",
+   "speaker_korean": null,
+   "korean": "내용 확인·변경"
+  },
+  {
+   "key": "37195e2d8d32",
+   "speaker_korean": null,
+   "korean": "상황 확인"
+  },
+  {
+   "key": "05b7f60ebcef",
+   "speaker_korean": null,
+   "korean": "개발 중지"
+  },
+  {
+   "key": "4bacc5748829",
+   "speaker_korean": null,
+   "korean": "생성된 아이템"
+  },
+  {
+   "key": "e4deeec080e8",
+   "speaker_korean": null,
+   "korean": "횟수"
+  },
+  {
+   "key": "993b4cb3cc0d",
+   "speaker_korean": null,
+   "korean": " 특허 신청 진행"
+  },
+  {
+   "key": "7e3890087b97",
+   "speaker_korean": null,
+   "korean": " 변경"
+  },
+  {
+   "key": "8a65f29f072a",
+   "speaker_korean": null,
+   "korean": "크리에이터명"
+  },
+  {
+   "key": "1bfced077666",
+   "speaker_korean": null,
+   "korean": "휴/동"
+  },
+  {
+   "key": "857ec82b0ebf",
+   "speaker_korean": null,
+   "korean": "계약 상태"
+  },
+  {
+   "key": "65d6a174bf17",
+   "speaker_korean": null,
+   "korean": "대기"
+  }
+ ]
+}

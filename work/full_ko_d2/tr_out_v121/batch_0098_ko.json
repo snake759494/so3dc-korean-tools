@@ -1,0 +1,330 @@
+{
+ "batch_id": "batch_0098",
+ "translations": [
+  {
+   "key": "2ad4445ac412",
+   "speaker_korean": "긍정적인 여성",
+   "korean": "⟦1⟧「누구에게나 행복을 붙잡으려는\n권리가 있어요.\n저는 포기하지 않아요!\n⟦P⟧"
+  },
+  {
+   "key": "2f5b434f34b8",
+   "speaker_korean": "노파",
+   "korean": "⟦1⟧「⟦2⟧아리그리프⟦3⟧의 거듭된 침략으로\n집도 재산도 가족마저 잃었습니다.\n⟦P⟧머지않아 그들은 남은 제 목숨마저도\n빼앗으러 올 것입니다.\n⟦P⟧"
+  },
+  {
+   "key": "e8b58b7f3fb3",
+   "speaker_korean": "노파",
+   "korean": "⟦1⟧「제겐 이제 살아갈 의미도 가치도\n없습니다.\n하지만 저는 최후의 최후까지\n추하게 발버둥 치려 합니다.\n⟦P⟧저 ⟦2⟧아리그리프⟦3⟧ 놈들에게 제 모든 것을\n빼앗기는 것만은 참을 수가 없습니다.\n유일하게 남은 이 목숨만은\n저들 마음대로 하게 두지 않을 겁니다.\n⟦P⟧"
+  },
+  {
+   "key": "9a0cdba4e948",
+   "speaker_korean": "노파",
+   "korean": "⟦1⟧「저는 눈감을 때까지\n이 마을에 있을 생각입니다.\n아무도 방해하게 두지 않을 겁니다.\n⟦P⟧"
+  },
+  {
+   "key": "a4c38757ecd5",
+   "speaker_korean": "노파",
+   "korean": "⟦1⟧「다툼에서 태어나는 생명은 없습니다.\n누구나 다 알고 있는 사실인데\n어째서 사람은 다투는 것일까요?\n⟦P⟧"
+  },
+  {
+   "key": "386e760d56d6",
+   "speaker_korean": null,
+   "korean": "무기·방어구·도구·약초.\n일단 상담해 주세요.\n\n⟦1⟧만물상 잭 포테이토\n⟦P⟧"
+  },
+  {
+   "key": "c0176501892c",
+   "speaker_korean": "여성 병사",
+   "korean": "⟦1⟧「⟦2⟧클레어 님⟦3⟧이시라면\n평소처럼 회의실에\n계십니다.\n⟦P⟧"
+  },
+  {
+   "key": "1c193b21be43",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「하지만 내 힘은 무언가에 부여하지\n않는 한 발휘되지 않아.\n⟦P⟧말하자면 내 힘은 거대한\n배터리 같은 거야.\n뭔가에 연결돼야 비로소\n의미를 갖게 되는 거지.\n⟦P⟧하지만…\n넌 달라…\n⟦P⟧"
+  },
+  {
+   "key": "61a62960d9e9",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「아니야!\n난 평범한 인간이야!!\n⟦P⟧"
+  },
+  {
+   "key": "fe7a963557b5",
+   "speaker_korean": "마리아",
+   "korean": "⟦1⟧「됐어, ⟦2⟧페이트⟦3⟧…\n⟦P⟧타인을 해칠 수 있을 만큼\n강대한 힘을 지니게 된 자는\n그 사실을 자각해야만 해.\n⟦P⟧"
+  },
+  {
+   "key": "883092df8367",
+   "speaker_korean": "열혈 아저씨",
+   "korean": "⟦1⟧「전쟁이라 해도 기본은 방어전이야.\n하루 이틀 만에 끝날 리 없지.\n⟦P⟧"
+  },
+  {
+   "key": "e499e8da8ae3",
+   "speaker_korean": "소심한 주제에 고집 센 여성",
+   "korean": "⟦1⟧「⟦2⟧드래곤로드⟦3⟧ 말인가요?\n⟦P⟧그 일에 관해서는 저희보다\n⟦4⟧아리그리프⟦5⟧ 사람들이 더 잘\n알 거예요.\n⟦P⟧"
+  },
+  {
+   "key": "a85a518f5694",
+   "speaker_korean": "소심한 주제에 고집 센 여성",
+   "korean": "⟦1⟧「지금까지 싸우던 두 나라가 손잡고\n함께 싸움에 나선다…\n확실히 아름다운 이야기이긴 하네요.\n⟦P⟧다만…\n막상 저희가 그 다툼의 당사자가 되면\n순순히 기뻐할 순 없는 것도 사실이죠.\n⟦P⟧"
+  },
+  {
+   "key": "5b65112e8d19",
+   "speaker_korean": "문지기 대왕",
+   "korean": "⟦1⟧「여기는 ⟦2⟧아리아스 마을⟦3⟧입니다.\n⟦P⟧평소라면 아직 문을 열 시각이\n아니지만, 지금은 특례로 남문이\n개방되어 있습니다.\n부디 조심하십시오.\n⟦P⟧"
+  },
+  {
+   "key": "e3d3e4da4918",
+   "speaker_korean": "클레어",
+   "korean": "「왔구나,\n⟦1⟧넬⟦2⟧."
+  },
+  {
+   "key": "828b426143f1",
+   "speaker_korean": "넬",
+   "korean": "「⟦1⟧클레어⟦2⟧."
+  },
+  {
+   "key": "af1ac63b7cf2",
+   "speaker_korean": "파린",
+   "korean": "「마차 준비는 다 됐어요~\n언제든 출발할 수 있어요~"
+  },
+  {
+   "key": "371b02e47a0c",
+   "speaker_korean": "타이네브",
+   "korean": "「그 외에 필요할 만한 것들도 준비해서\n전부 실어 두었습니다."
+  },
+  {
+   "key": "ca8c523843a9",
+   "speaker_korean": "넬",
+   "korean": "「수고했어."
+  },
+  {
+   "key": "f3f4713e7c5c",
+   "speaker_korean": "넬",
+   "korean": "「이건?"
+  },
+  {
+   "key": "6c1643a8a6bd",
+   "speaker_korean": "클레어",
+   "korean": "「부적이야. 명색이 ⟦1⟧드래곤⟦2⟧의 소굴로\n가는 거니까.\n유비무환이라고 하잖아?"
+  },
+  {
+   "key": "fdb2ae138d26",
+   "speaker_korean": "클레어",
+   "korean": "「⟦1⟧페이트 씨 일행⟦2⟧도 무사하시길."
+  },
+  {
+   "key": "847a735899e3",
+   "speaker_korean": "클리프",
+   "korean": "「그래, 맡겨둬.\n⟦1⟧넬⟦2⟧ 걱정은\n하지 마."
+  },
+  {
+   "key": "955fa15a5374",
+   "speaker_korean": "페이트",
+   "korean": "「반드시 ⟦1⟧동⟦2⟧을 구해오겠습니다."
+  },
+  {
+   "key": "797dc2530ea0",
+   "speaker_korean": "클레어",
+   "korean": "「잘 부탁드립니다.\n……무운을 빕니다."
+  },
+  {
+   "key": "9f3fdee9b9d9",
+   "speaker_korean": "파린",
+   "korean": "「네!!"
+  },
+  {
+   "key": "827f81fe734e",
+   "speaker_korean": "클레어",
+   "korean": "「네."
+  },
+  {
+   "key": "6824bf75915f",
+   "speaker_korean": "클레어",
+   "korean": "「조심하세요."
+  },
+  {
+   "key": "cfde1392d1c9",
+   "speaker_korean": "페이트",
+   "korean": "「몇 채 정도 부서진 집이\n있네요."
+  },
+  {
+   "key": "ff26ccbcdff4",
+   "speaker_korean": "넬",
+   "korean": "「그래.\n한 번 ⟦1⟧아리그리프⟦2⟧ 놈들한테\n당한 적이 있으니까."
+  },
+  {
+   "key": "47b1894baa34",
+   "speaker_korean": "클리프",
+   "korean": "「그래서 이 꼴이 된 건가."
+  },
+  {
+   "key": "adcac4fe0913",
+   "speaker_korean": "넬",
+   "korean": "「마을 중심에 있는 큰 저택이\n이곳의 거점이 되어 있어."
+  },
+  {
+   "key": "aa10871b2821",
+   "speaker_korean": "넬",
+   "korean": "「거기로 갈게."
+  },
+  {
+   "key": "3d8a2d30b13c",
+   "speaker_korean": "넬",
+   "korean": "「이제 시하츠 영내야."
+  },
+  {
+   "key": "334f8b81d4cd",
+   "speaker_korean": "넬",
+   "korean": "「여기가 ⟦1⟧아리아스⟦2⟧야."
+  },
+  {
+   "key": "f7f3caadb0cc",
+   "speaker_korean": "여성 병사",
+   "korean": "「⟦1⟧넬님⟦2⟧!!"
+  },
+  {
+   "key": "3ff1ddffcfcc",
+   "speaker_korean": "여성 병사",
+   "korean": "「무사하셨군요!!"
+  },
+  {
+   "key": "832a76ccd02b",
+   "speaker_korean": "넬",
+   "korean": "「그래…걱정 끼쳤네.\n……⟦1⟧클레어⟦2⟧는?"
+  },
+  {
+   "key": "857b61cf6e66",
+   "speaker_korean": "여성 병사",
+   "korean": "「본부에 계십니다.\n걱정하고 계셨어요.\n어서 무사하신 모습을\n보여드리세요."
+  },
+  {
+   "key": "72c02120972f",
+   "speaker_korean": "넬",
+   "korean": "「우선 북동쪽의\n⟦1⟧페터니⟦2⟧라는 마을까지 갈 거야.\n거기서 보급을 마치고\n⟦3⟧시랜드⟦4⟧로 향하자."
+  },
+  {
+   "key": "15fc2db248ea",
+   "speaker_korean": "넬",
+   "korean": "「다녀올게."
+  },
+  {
+   "key": "1535af1d1b7e",
+   "speaker_korean": "클레어",
+   "korean": "「네…다녀오세요."
+  },
+  {
+   "key": "f51fc89c05c9",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧클레어 씨 일행⟦2⟧도요."
+  },
+  {
+   "key": "ddfe07cc60cf",
+   "speaker_korean": "클레어",
+   "korean": "「네.\n⟦1⟧넬⟦2⟧을\n잘 부탁드립니다."
+  },
+  {
+   "key": "ac88d888b4dc",
+   "speaker_korean": "타이네브",
+   "korean": "「⟦1⟧아페리스⟦2⟧의 인도가\n있으시길!"
+  },
+  {
+   "key": "aff74a378ebe",
+   "speaker_korean": "파린",
+   "korean": "「저희라면 괜찮아요~"
+  },
+  {
+   "key": "6c31a9caa10f",
+   "speaker_korean": "클레어",
+   "korean": "「여러분도 조심하세요."
+  },
+  {
+   "key": "9df764541895",
+   "speaker_korean": "페이트",
+   "korean": "「네, 알겠습니다."
+  },
+  {
+   "key": "1e620d72ae75",
+   "speaker_korean": "클리프",
+   "korean": "「알았다."
+  },
+  {
+   "key": "753e6e6246d6",
+   "speaker_korean": "파린",
+   "korean": "「⟦1⟧아페리스⟦2⟧의 가호가\n있기를!"
+  },
+  {
+   "key": "127045b0243d",
+   "speaker_korean": "클리프",
+   "korean": "「서두르자고.\n어젯밤에 그놈이 ⟦1⟧아리아스⟦2⟧를\n떠났다고 치면,\n꽤 차이가 벌어졌을 거다."
+  },
+  {
+   "key": "4cfe645a0744",
+   "speaker_korean": "열혈 아저씨",
+   "korean": "「아, ⟦1⟧넬 님⟦2⟧.\n본부서 ⟦3⟧클레어 님 일행⟦4⟧이 기다리십니다.\n서둘러 가보시게나."
+  },
+  {
+   "key": "9c91f93a1622",
+   "speaker_korean": "디온",
+   "korean": "「아, ⟦1⟧페이트 씨⟦2⟧.\n⟦3⟧넬 님 일행⟦4⟧도…"
+  },
+  {
+   "key": "1b843af4e12c",
+   "speaker_korean": "넬",
+   "korean": "「뭔가 문제라도 있어?"
+  },
+  {
+   "key": "61db693848a3",
+   "speaker_korean": "디온",
+   "korean": "「지금은 딱히 없습니다.\n⟦P⟧뭐, ⟦1⟧선더 애로우⟦2⟧가\n제때 오지 못한 건 아쉽지만요."
+  },
+  {
+   "key": "ed679b171c46",
+   "speaker_korean": "넬",
+   "korean": "「그래."
+  },
+  {
+   "key": "3a6f6d7ba324",
+   "speaker_korean": "디온",
+   "korean": "「그래도 질 수는 없습니다.\n⟦P⟧지켜봐 주세요.\n지금 있는 장비로도 ⟦1⟧아리그리프⟦2⟧에게\n본때를 보여드리겠습니다."
+  },
+  {
+   "key": "042f24e09db9",
+   "speaker_korean": "클리프",
+   "korean": "「든든하군."
+  },
+  {
+   "key": "bf688d6b52a4",
+   "speaker_korean": "디온",
+   "korean": "「네, ⟦1⟧아미나⟦2⟧가 기다리고 있으니까요."
+  },
+  {
+   "key": "fd6d34b5a1c0",
+   "speaker_korean": "페이트",
+   "korean": "「그래, 살아서 돌아가자.\n반드시 이기는 거야."
+  },
+  {
+   "key": "ca24c23e53f2",
+   "speaker_korean": "디온",
+   "korean": "「네."
+  },
+  {
+   "key": "cea4c1276964",
+   "speaker_korean": "넬",
+   "korean": "「⟦1⟧페이트⟦2⟧,\n슬슬 우리도 준비해 둘까."
+  },
+  {
+   "key": "575e76669fb0",
+   "speaker_korean": "페이트",
+   "korean": "「아, 그렇네요."
+  },
+  {
+   "key": "becf90493a3d",
+   "speaker_korean": "넬",
+   "korean": "「아마 힘든 싸움이 될 거야.\n여러 물자를 보급해 두는 편이\n좋겠지."
+  },
+  {
+   "key": "65069a1ad0c5",
+   "speaker_korean": null,
+   "korean": "⟦1⟧멀티 플라스크⟦2⟧를 손에 넣었다."
+  }
+ ]
+}

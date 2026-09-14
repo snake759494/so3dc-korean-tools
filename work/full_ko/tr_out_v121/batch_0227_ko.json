@@ -1,0 +1,320 @@
+{
+ "batch_id": "batch_0227",
+ "translations": [
+  {
+   "key": "a348c4094e15",
+   "speaker_korean": null,
+   "korean": "⟦1⟧메테오 스웜⟦2⟧을 손에 넣었다."
+  },
+  {
+   "key": "647700af81f0",
+   "speaker_korean": "페이트",
+   "korean": "「저건…!?"
+  },
+  {
+   "key": "79f73373c15f",
+   "speaker_korean": "페이트",
+   "korean": "「이 녀석은…,\n⟦1⟧크로셀⟦2⟧인가!?"
+  },
+  {
+   "key": "be768127fd67",
+   "speaker_korean": "크로셀",
+   "korean": "「과연. 나는 ⟦1⟧크로셀⟦2⟧이니라.\n⟦3⟧노튼⟦4⟧의 일은 기억지 못하나,\n내 이름을 기억하고 있다니\n기특한 마음가짐이로구나."
+  },
+  {
+   "key": "ec963bf90b80",
+   "speaker_korean": "크로셀",
+   "korean": "「나와 한판 겨룰 용기가\n네놈에게 있느냐?\n그럼 간다!!"
+  },
+  {
+   "key": "6c1e2f3378c4",
+   "speaker_korean": null,
+   "korean": "⟦1⟧순금의 성배⟦2⟧를 손에 넣었다."
+  },
+  {
+   "key": "78b659750bdb",
+   "speaker_korean": null,
+   "korean": "⟦1⟧드림・콤보⟦2⟧를 손에 넣었다."
+  },
+  {
+   "key": "772b92d729df",
+   "speaker_korean": null,
+   "korean": "⟦1⟧인챈트 북(땅・흡수)⟦2⟧를 손에 넣었다."
+  },
+  {
+   "key": "035bfc89b734",
+   "speaker_korean": null,
+   "korean": "⟦1⟧세라픽 가브⟦2⟧를 손에 넣었다."
+  },
+  {
+   "key": "8469753cfaf0",
+   "speaker_korean": null,
+   "korean": "⟦1⟧인트 시드+⟦2⟧를 손에 넣었다."
+  },
+  {
+   "key": "d470ff09923f",
+   "speaker_korean": "페이트",
+   "korean": "「뭐지…!?"
+  },
+  {
+   "key": "c09e24f1d4e5",
+   "speaker_korean": "섀도우드래곤",
+   "korean": "「호오…!\n여기까지 왔다는 것은\n아래층에 있던 ⟦1⟧크로셀⟦2⟧을\n쓰러뜨렸다는 뜻이겠군."
+  },
+  {
+   "key": "cd54e288e452",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧크로셀⟦2⟧…?"
+  },
+  {
+   "key": "b10740785e2b",
+   "speaker_korean": "섀도우드래곤",
+   "korean": "「후후….\n그놈은 덩치만 큰 놈에 불과하다.\n나처럼 응축된 몸이야말로\n진정한 전사라 부를 수 있지, 애송이."
+  },
+  {
+   "key": "7816ced3688d",
+   "speaker_korean": "페이트",
+   "korean": "「무슨 말이 하고 싶은 거야?\n여기서 힘을 과시하고 싶은 거냐?"
+  },
+  {
+   "key": "f7691ed38b80",
+   "speaker_korean": "섀도우드래곤",
+   "korean": "「혈기 왕성한 인간이로군.\n그 언행이 명을 재촉하게 될 것이다."
+  },
+  {
+   "key": "bb108866cff2",
+   "speaker_korean": "페이트",
+   "korean": "「뭐!?"
+  },
+  {
+   "key": "b478ef8c183a",
+   "speaker_korean": "섀도우드래곤",
+   "korean": "「이곳이 네놈의 무덤이\n된다는 뜻이다!!"
+  },
+  {
+   "key": "3988b3bb6996",
+   "speaker_korean": "페이트",
+   "korean": "「저것들은…!?"
+  },
+  {
+   "key": "2f98526dfd97",
+   "speaker_korean": "벨제불",
+   "korean": "「용케 여기까지 왔네.\n칭찬해줄게."
+  },
+  {
+   "key": "eb0b89a5a0db",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧벨제불⟦2⟧에…, ⟦3⟧아자젤⟦4⟧!!"
+  },
+  {
+   "key": "5010b805f449",
+   "speaker_korean": "벨제불",
+   "korean": "「어쩐지 이 빌딩에 사장님이랑은\n상관없는 놈들이 와서\n꽤 재밌어지고 있네.\n뭔가 '신'이 있다나 뭐라나.\n어떤 놈들인지는\n모르겠지만."
+  },
+  {
+   "key": "d9d0f720abf6",
+   "speaker_korean": "아자젤",
+   "korean": "「전에는 당하고 말았지만,\n이번엔 그렇게 안 돼.\n본래는 이런 비실이 녀석과\n손잡을 필요는 없지만…."
+  },
+  {
+   "key": "521cafe3a5bc",
+   "speaker_korean": "벨제불",
+   "korean": "「잠깐, 너!!\n비실이 녀석이라니 설마 나 말하는 거야!?"
+  },
+  {
+   "key": "cfc8c70563dd",
+   "speaker_korean": "아자젤",
+   "korean": "「상상에 맡기지."
+  },
+  {
+   "key": "15f1e627a731",
+   "speaker_korean": "벨제불",
+   "korean": "「뭐야!!\n너도 비슷한 주제에!!\n애초에 너 건방져!!\n나보다 어린 주제에!!"
+  },
+  {
+   "key": "225397d12c28",
+   "speaker_korean": "아자젤",
+   "korean": "「에, 거짓말."
+  },
+  {
+   "key": "9c807f4910fe",
+   "speaker_korean": "벨제불",
+   "korean": "「진짜야!\n너 몰랐어!?"
+  },
+  {
+   "key": "a951cc7c6859",
+   "speaker_korean": "아자젤",
+   "korean": "「전혀."
+  },
+  {
+   "key": "c512136f2742",
+   "speaker_korean": "벨제불",
+   "korean": "「아."
+  },
+  {
+   "key": "018e83047460",
+   "speaker_korean": "아자젤",
+   "korean": "「아."
+  },
+  {
+   "key": "4e2b5c56aeb3",
+   "speaker_korean": "벨제불",
+   "korean": "「아무튼 설욕전이야!!"
+  },
+  {
+   "key": "b43d15b83038",
+   "speaker_korean": "페이트",
+   "korean": "(왜…?"
+  },
+  {
+   "key": "35f4dbe595c0",
+   "speaker_korean": "벨제불",
+   "korean": "「후, 후후…\n결국 이렇게 되고 마는구나…."
+  },
+  {
+   "key": "5addae0e8892",
+   "speaker_korean": "벨제불",
+   "korean": "「덧없는 목숨을 흩뿌리는 이 아름다움….\n죄로구나…."
+  },
+  {
+   "key": "56ad4f7fcf70",
+   "speaker_korean": "벨제불",
+   "korean": "「크헉!!"
+  },
+  {
+   "key": "19505e302487",
+   "speaker_korean": "페이트",
+   "korean": "「무슨 소린지\n모르겠지만…."
+  },
+  {
+   "key": "050bb64631c1",
+   "speaker_korean": "벨리알",
+   "korean": "「왔는가….\n⟦1⟧벨제불⟦2⟧도 ⟦3⟧아자젤⟦4⟧도\n쓰러지다니, 한심하군."
+  },
+  {
+   "key": "0a72647f6f5a",
+   "speaker_korean": "벨리알",
+   "korean": "「하지만 나는 다르다.\n'신' 따위는 내게는 상관없는 일이다.\n내게 있는 것은, 네놈과의 결착을\n이 자리에서 짓는 것뿐."
+  },
+  {
+   "key": "5e1d0b9f2179",
+   "speaker_korean": "벨리알",
+   "korean": "「네놈은 이 나를 대체 어디까지\n만족시켜 줄 셈이냐?"
+  },
+  {
+   "key": "3b81081b5934",
+   "speaker_korean": "벨리알",
+   "korean": "「과, 과연이군….\n여기까지 온 보람은… 있군…."
+  },
+  {
+   "key": "976b0e325a15",
+   "speaker_korean": "벨리알",
+   "korean": "「나는… 만족했다….\n고… 맙…다…."
+  },
+  {
+   "key": "9e1c21fb5bb0",
+   "speaker_korean": "페이트",
+   "korean": "「저 아이는…!?"
+  },
+  {
+   "key": "745e50655ed6",
+   "speaker_korean": "페이트",
+   "korean": "「분명 ⟦1⟧시련의 유적⟦2⟧에서 만났었는데…."
+  },
+  {
+   "key": "558b18208bd5",
+   "speaker_korean": "?레나스",
+   "korean": "「죽음의, 앞길로 가는 자들이여!!"
+  },
+  {
+   "key": "a7302c9462f2",
+   "speaker_korean": "페이트",
+   "korean": "「에, 자, 잠깐, 잠깐만,\n나 아직 안 죽었거든!!"
+  },
+  {
+   "key": "db467ad76418",
+   "speaker_korean": "페이트",
+   "korean": "「너는…,\n⟦1⟧셸비⟦2⟧!?\n라기보다, 대체 무슨\n등장 방식이야!!"
+  },
+  {
+   "key": "4b0ca375962b",
+   "speaker_korean": "???",
+   "korean": "「⟦1⟧셸비⟦2⟧?\n아니다. 내 이름은…"
+  },
+  {
+   "key": "18bf194ab198",
+   "speaker_korean": "???",
+   "korean": "「진심 ⟦1⟧셸비⟦2⟧다!!!"
+  },
+  {
+   "key": "9f190e57e1c1",
+   "speaker_korean": "페이트",
+   "korean": "「그거…,\n⟦1⟧복스⟦2⟧랑 똑같은 패턴이잖아…."
+  },
+  {
+   "key": "e676395c2a33",
+   "speaker_korean": "진심 셸비",
+   "korean": "「뭐라고!!\n젠장! 그 자식~."
+  },
+  {
+   "key": "30f79c559cef",
+   "speaker_korean": "진심 셸비",
+   "korean": "「아무튼!!\n본편에서는 보여주지 못했던\n이 몸의 진짜 힘을, 똑똑히 봐둬라!!"
+  },
+  {
+   "key": "4748f3f4faf6",
+   "speaker_korean": "?레나스",
+   "korean": "「쓸모없는 것들뿐이군."
+  },
+  {
+   "key": "80c7ef6aea69",
+   "speaker_korean": "페이트",
+   "korean": "「또 굉장한 대사를 내뱉고\n가버렸네…."
+  },
+  {
+   "key": "94552b7feada",
+   "speaker_korean": "페이트",
+   "korean": "「또…인가?"
+  },
+  {
+   "key": "15729cdb5b2c",
+   "speaker_korean": "?레나스",
+   "korean": "「영혼을 모독한 죄는 무겁다.\n그것은 성스러움 아래 멸하라!!"
+  },
+  {
+   "key": "1974fbb06230",
+   "speaker_korean": "페이트",
+   "korean": "「아니, 그러니까…."
+  },
+  {
+   "key": "8ca932706c19",
+   "speaker_korean": "페이트",
+   "korean": "「어라?"
+  },
+  {
+   "key": "b37651d75136",
+   "speaker_korean": "비위그",
+   "korean": "「나한테는\n연출 따위 아무래도 상관없거든."
+  },
+  {
+   "key": "5ce221879682",
+   "speaker_korean": "페이트",
+   "korean": "「그렇게 말해버리면\n할 말이 없잖아…."
+  },
+  {
+   "key": "fe4ad51df218",
+   "speaker_korean": "비위그",
+   "korean": "「나는 너희들한테\n본편에서 당한 굴욕을 씻어낼 수\n있으면 그걸로 충분해!!\n간다!!"
+  },
+  {
+   "key": "4a4567bd0d5c",
+   "speaker_korean": "?레나스",
+   "korean": "「이번엔 반드시 저승행이다."
+  },
+  {
+   "key": "9e358feb278f",
+   "speaker_korean": "페이트",
+   "korean": "「대체 뭐야?\n저 여자애는…."
+  }
+ ]
+}

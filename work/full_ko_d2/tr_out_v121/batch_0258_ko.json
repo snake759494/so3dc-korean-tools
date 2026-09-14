@@ -1,0 +1,570 @@
+{
+ "batch_id": "batch_0258",
+ "translations": [
+  {
+   "key": "bd277e0f1ed0",
+   "speaker_korean": null,
+   "korean": "HP회복 30%"
+  },
+  {
+   "key": "f7bd69b43313",
+   "speaker_korean": null,
+   "korean": "HP회복 50%"
+  },
+  {
+   "key": "3755b7492236",
+   "speaker_korean": null,
+   "korean": "HP회복 70%"
+  },
+  {
+   "key": "aadaab9b1c26",
+   "speaker_korean": null,
+   "korean": "HP회복 90%"
+  },
+  {
+   "key": "b45c9fc8b301",
+   "speaker_korean": null,
+   "korean": "HP회복 100%"
+  },
+  {
+   "key": "165d78704a7d",
+   "speaker_korean": null,
+   "korean": "MP회복 30%"
+  },
+  {
+   "key": "a1a9a97c138c",
+   "speaker_korean": null,
+   "korean": "MP회복 50%"
+  },
+  {
+   "key": "8d6619904e67",
+   "speaker_korean": null,
+   "korean": "MP회복 70%"
+  },
+  {
+   "key": "fe08a1525dea",
+   "speaker_korean": null,
+   "korean": "MP회복 90%"
+  },
+  {
+   "key": "4ae04279c32b",
+   "speaker_korean": null,
+   "korean": "MP회복 100%"
+  },
+  {
+   "key": "6bde4e8328cb",
+   "speaker_korean": null,
+   "korean": "HP・MP회복 30%"
+  },
+  {
+   "key": "cf96f0142610",
+   "speaker_korean": null,
+   "korean": "HP・MP회복 50%"
+  },
+  {
+   "key": "76cc1892c339",
+   "speaker_korean": null,
+   "korean": "HP・MP회복 70%"
+  },
+  {
+   "key": "2aa990a626b6",
+   "speaker_korean": null,
+   "korean": "HP・MP회복 90%"
+  },
+  {
+   "key": "bc381fa3dacf",
+   "speaker_korean": null,
+   "korean": "HP・MP회복 100%"
+  },
+  {
+   "key": "5c8b46844426",
+   "speaker_korean": null,
+   "korean": "독 회복 단일"
+  },
+  {
+   "key": "0477507cab8e",
+   "speaker_korean": null,
+   "korean": "독 회복 전체"
+  },
+  {
+   "key": "ffcb0b3555c9",
+   "speaker_korean": null,
+   "korean": "마비 회복 단일"
+  },
+  {
+   "key": "0c29de0ac903",
+   "speaker_korean": null,
+   "korean": "마비 회복 전체"
+  },
+  {
+   "key": "b2bf90a9d973",
+   "speaker_korean": null,
+   "korean": "석화회복 단일"
+  },
+  {
+   "key": "2e7180ab8707",
+   "speaker_korean": null,
+   "korean": "석화회복 전체"
+  },
+  {
+   "key": "392d7566867b",
+   "speaker_korean": null,
+   "korean": "동결 회복 단일"
+  },
+  {
+   "key": "772ba550c850",
+   "speaker_korean": null,
+   "korean": "동결 회복 전체"
+  },
+  {
+   "key": "cf48344c6cbb",
+   "speaker_korean": null,
+   "korean": "침묵회복 단일"
+  },
+  {
+   "key": "1b916e10e932",
+   "speaker_korean": null,
+   "korean": "침묵회복 전체"
+  },
+  {
+   "key": "683b99c7bad0",
+   "speaker_korean": null,
+   "korean": "행동불능 회복 HP·MP는 30%까지 회복"
+  },
+  {
+   "key": "b02992286410",
+   "speaker_korean": null,
+   "korean": "행동불능 회복 HP·MP는 60%까지 회복"
+  },
+  {
+   "key": "4ad432a40891",
+   "speaker_korean": null,
+   "korean": "행동불능 회복 HP·MP는 90%까지 회복"
+  },
+  {
+   "key": "ddcb4bff04d4",
+   "speaker_korean": null,
+   "korean": "행동불능 회복 HP·MP는 완전 회복"
+  },
+  {
+   "key": "fe6a252193c3",
+   "speaker_korean": null,
+   "korean": "행동불능 전원회복 HP·MP는 30%까지 회복"
+  },
+  {
+   "key": "db0c15f7b2a9",
+   "speaker_korean": null,
+   "korean": "행동불능 전원회복 HP·MP는 50%까지 회복"
+  },
+  {
+   "key": "8c319b8b3afd",
+   "speaker_korean": null,
+   "korean": "행동불능 전원회복 HP·MP는 70%까지 회복"
+  },
+  {
+   "key": "666026c7d4f0",
+   "speaker_korean": null,
+   "korean": "요리 성공률 상승"
+  },
+  {
+   "key": "8b0a3e237faa",
+   "speaker_korean": null,
+   "korean": "연금 성공률 상승"
+  },
+  {
+   "key": "35e7a82e00e4",
+   "speaker_korean": null,
+   "korean": "세공 성공률 상승"
+  },
+  {
+   "key": "07ea3f9b719a",
+   "speaker_korean": null,
+   "korean": "미사용68"
+  },
+  {
+   "key": "b67a370bf2e4",
+   "speaker_korean": null,
+   "korean": "미사용69"
+  },
+  {
+   "key": "6b569788a7d7",
+   "speaker_korean": null,
+   "korean": "조합 성공률 상승"
+  },
+  {
+   "key": "192c30865bea",
+   "speaker_korean": null,
+   "korean": "미사용71"
+  },
+  {
+   "key": "bd976d3000cc",
+   "speaker_korean": null,
+   "korean": "단조 성공률 상승"
+  },
+  {
+   "key": "41e46bdcc44b",
+   "speaker_korean": null,
+   "korean": "집필 성공률 상승"
+  },
+  {
+   "key": "6e8c2a07540c",
+   "speaker_korean": null,
+   "korean": "기계 성공률 상승"
+  },
+  {
+   "key": "28cd2295da54",
+   "speaker_korean": null,
+   "korean": "히트업 게이지 증가량+1"
+  },
+  {
+   "key": "46438bb2df0c",
+   "speaker_korean": null,
+   "korean": "히트업 게이지 증가량+2"
+  },
+  {
+   "key": "26b71778f791",
+   "speaker_korean": null,
+   "korean": "히트업 게이지 증가량+3"
+  },
+  {
+   "key": "4a7d7aabd2e5",
+   "speaker_korean": null,
+   "korean": "히트업 게이지 증가량+4"
+  },
+  {
+   "key": "929543f59503",
+   "speaker_korean": null,
+   "korean": "히트업 게이지 증가량+5"
+  },
+  {
+   "key": "e4e24a9b922c",
+   "speaker_korean": null,
+   "korean": "레트로힐 효과×2 회복속도100%"
+  },
+  {
+   "key": "837cf03d3535",
+   "speaker_korean": null,
+   "korean": "레트로힐 효과×3 회복속도130%"
+  },
+  {
+   "key": "71ddac860bcd",
+   "speaker_korean": null,
+   "korean": "레트로힐 효과×4 회복속도150%"
+  },
+  {
+   "key": "7b910ca84bd8",
+   "speaker_korean": null,
+   "korean": "배틀스킬 HP 소비량-20%"
+  },
+  {
+   "key": "1369bb2985fe",
+   "speaker_korean": null,
+   "korean": "배틀스킬 HP 소비량-30%"
+  },
+  {
+   "key": "e6f752b2fb17",
+   "speaker_korean": null,
+   "korean": "배틀스킬 HP 소비량-40%"
+  },
+  {
+   "key": "c45f859ec1e1",
+   "speaker_korean": null,
+   "korean": "배틀스킬 HP 소비량-50%"
+  },
+  {
+   "key": "24aad22ebda7",
+   "speaker_korean": null,
+   "korean": "배틀스킬 MP 소비량-20%"
+  },
+  {
+   "key": "012ecc083b7f",
+   "speaker_korean": null,
+   "korean": "배틀스킬 MP 소비량-30%"
+  },
+  {
+   "key": "44b29e21a479",
+   "speaker_korean": null,
+   "korean": "배틀스킬 MP 소비량-40%"
+  },
+  {
+   "key": "0bd8086dcd1a",
+   "speaker_korean": null,
+   "korean": "배틀스킬 MP 소비량-50%"
+  },
+  {
+   "key": "9d2e29a80380",
+   "speaker_korean": null,
+   "korean": "Guts 소비량-1"
+  },
+  {
+   "key": "eae919199f1a",
+   "speaker_korean": null,
+   "korean": "Guts 소비량-2"
+  },
+  {
+   "key": "1d23279561c8",
+   "speaker_korean": null,
+   "korean": "Guts 소비량-3"
+  },
+  {
+   "key": "33d3a4a30ea4",
+   "speaker_korean": null,
+   "korean": "이동속도+5%"
+  },
+  {
+   "key": "845eabf2c2cc",
+   "speaker_korean": null,
+   "korean": "이동속도+10%"
+  },
+  {
+   "key": "876cc77cee62",
+   "speaker_korean": null,
+   "korean": "이동속도+20%"
+  },
+  {
+   "key": "c5b6bfebe3d1",
+   "speaker_korean": null,
+   "korean": "이동속도+30%"
+  },
+  {
+   "key": "b49db65c1a5f",
+   "speaker_korean": null,
+   "korean": "아군 전원 이동속도+5%"
+  },
+  {
+   "key": "7e2a27606b8c",
+   "speaker_korean": null,
+   "korean": "아군 전원 이동속도+10%"
+  },
+  {
+   "key": "118d222c572f",
+   "speaker_korean": null,
+   "korean": "적 전원 이동속도-5%"
+  },
+  {
+   "key": "52a55a4d95a3",
+   "speaker_korean": null,
+   "korean": "적 전원 이동속도-10%"
+  },
+  {
+   "key": "34457d0c6a88",
+   "speaker_korean": null,
+   "korean": "아군 전원 이동속도-50%"
+  },
+  {
+   "key": "8a857c31f24f",
+   "speaker_korean": null,
+   "korean": "획득 경험치+10%"
+  },
+  {
+   "key": "b3ff7984b95d",
+   "speaker_korean": null,
+   "korean": "획득 경험치+20%"
+  },
+  {
+   "key": "9e2f46a30c05",
+   "speaker_korean": null,
+   "korean": "획득 경험치+30%"
+  },
+  {
+   "key": "2fb17d45511d",
+   "speaker_korean": null,
+   "korean": "ATK×2 Guts 소비×2"
+  },
+  {
+   "key": "74a69107f7ed",
+   "speaker_korean": null,
+   "korean": "ATK×3 Guts 소비×3"
+  },
+  {
+   "key": "75457a817586",
+   "speaker_korean": null,
+   "korean": "ATK×4 Guts 소비×4"
+  },
+  {
+   "key": "7e101248968f",
+   "speaker_korean": null,
+   "korean": "프로텍트 브레이크 시 적 Guts 감소량+5"
+  },
+  {
+   "key": "88b262af2682",
+   "speaker_korean": null,
+   "korean": "프로텍트 브레이크 시 적 Guts 감소량+10"
+  },
+  {
+   "key": "3652bb097630",
+   "speaker_korean": null,
+   "korean": "프로텍트 브레이크 시 적 Guts 감소량+20"
+  },
+  {
+   "key": "9a3046433407",
+   "speaker_korean": null,
+   "korean": "물속성 문장술 데미지+30%"
+  },
+  {
+   "key": "1f79fae89b9c",
+   "speaker_korean": null,
+   "korean": "물속성 문장술 데미지+50%"
+  },
+  {
+   "key": "9d25fc85f29f",
+   "speaker_korean": null,
+   "korean": "불속성 문장술 데미지+30%"
+  },
+  {
+   "key": "0570800b2fcc",
+   "speaker_korean": null,
+   "korean": "불속성 문장술 데미지+50%"
+  },
+  {
+   "key": "3941309cad46",
+   "speaker_korean": null,
+   "korean": "땅속성 문장술 데미지+30%"
+  },
+  {
+   "key": "0396f3819f4f",
+   "speaker_korean": null,
+   "korean": "땅속성 문장술 데미지+50%"
+  },
+  {
+   "key": "9b8753a32b5a",
+   "speaker_korean": null,
+   "korean": "바람 속성 문장술 데미지+30%"
+  },
+  {
+   "key": "c7acd93466c6",
+   "speaker_korean": null,
+   "korean": "바람 속성 문장술 데미지+50%"
+  },
+  {
+   "key": "3a1772c36370",
+   "speaker_korean": null,
+   "korean": "무적이 되지만 항상 기절 발동확률10%"
+  },
+  {
+   "key": "258ed9baefb6",
+   "speaker_korean": null,
+   "korean": "무적 기절이나 가끔 행동가능 발동확률10%"
+  },
+  {
+   "key": "e5ba045d0618",
+   "speaker_korean": null,
+   "korean": "전투중 주기적 MP3% 회복"
+  },
+  {
+   "key": "954068bffb59",
+   "speaker_korean": null,
+   "korean": "전투중 주기적 MP6% 회복"
+  },
+  {
+   "key": "4de547d85912",
+   "speaker_korean": null,
+   "korean": "전투중 주기적 MP12% 회복"
+  },
+  {
+   "key": "bbc92750bc63",
+   "speaker_korean": null,
+   "korean": "ATK 상승+10%"
+  },
+  {
+   "key": "83c3c04af8e1",
+   "speaker_korean": null,
+   "korean": "ATK 상승+30%"
+  },
+  {
+   "key": "09c3510e65f5",
+   "speaker_korean": null,
+   "korean": "ATK 상승+50%"
+  },
+  {
+   "key": "616f9b904d32",
+   "speaker_korean": null,
+   "korean": "INT 상승+10%"
+  },
+  {
+   "key": "76ccd39bc3b8",
+   "speaker_korean": null,
+   "korean": "INT 상승+30%"
+  },
+  {
+   "key": "5c991c94cd2b",
+   "speaker_korean": null,
+   "korean": "INT 상승+50%"
+  },
+  {
+   "key": "a2674797d68e",
+   "speaker_korean": null,
+   "korean": "행동불능에서 부활 발동확률100%"
+  },
+  {
+   "key": "0c901bbb2ebc",
+   "speaker_korean": null,
+   "korean": "행동불능에서 부활 발동확률70%"
+  },
+  {
+   "key": "224b062d4a21",
+   "speaker_korean": null,
+   "korean": "행동불능에서 부활 발동확률40%"
+  },
+  {
+   "key": "58c4eaf8e544",
+   "speaker_korean": null,
+   "korean": "행동불능에서 부활 발동확률20%"
+  },
+  {
+   "key": "c8fedbe5fea6",
+   "speaker_korean": null,
+   "korean": "데미지20% 감소 발동확률20%"
+  },
+  {
+   "key": "d1733adaf56c",
+   "speaker_korean": null,
+   "korean": "데미지20% 감소 발동확률10%"
+  },
+  {
+   "key": "e49ac0a62c87",
+   "speaker_korean": null,
+   "korean": "데미지20% 감소 발동확률5%"
+  },
+  {
+   "key": "926ee684dce9",
+   "speaker_korean": null,
+   "korean": "전투 시작시 적 Guts량-5%"
+  },
+  {
+   "key": "705318d5c54f",
+   "speaker_korean": null,
+   "korean": "전투 시작시 적 Guts량-10%"
+  },
+  {
+   "key": "8cc7ed7674f5",
+   "speaker_korean": null,
+   "korean": "Guts 소비-1 이동속도+5%"
+  },
+  {
+   "key": "c48676e024b5",
+   "speaker_korean": null,
+   "korean": "AGL 상승+10% 이동속도+2%"
+  },
+  {
+   "key": "344625f7a161",
+   "speaker_korean": null,
+   "korean": "악마계 특수공격 30% 무효화"
+  },
+  {
+   "key": "08f73445c8e8",
+   "speaker_korean": null,
+   "korean": "비행계 특수 공격 30% 무효화"
+  },
+  {
+   "key": "c2d1f14f262a",
+   "speaker_korean": null,
+   "korean": "전사계 특수공격 30% 무효화"
+  },
+  {
+   "key": "9ae49c45d128",
+   "speaker_korean": null,
+   "korean": "마술사계 특수 공격 30% 무효화"
+  }
+ ]
+}

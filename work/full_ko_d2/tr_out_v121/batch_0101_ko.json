@@ -1,0 +1,240 @@
+{
+ "batch_id": "batch_0101",
+ "translations": [
+  {
+   "key": "5df6dfb82ede",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・이 마을을 좀 더 돌아볼게"
+  },
+  {
+   "key": "41d3012f893f",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・슬슬 졸리기 시작하네"
+  },
+  {
+   "key": "bad188bcae0e",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「좀 더 이 마을을 돌아볼게\n뭔가 알아낼 수 있을지도 모르니까\n⟦P⟧"
+  },
+  {
+   "key": "d20892b21665",
+   "speaker_korean": "클리프",
+   "korean": "⟦1⟧「좋을 대로 해\n⟦P⟧근데, 섣불리 마을 밖으로\n나가지 않는 게 좋을걸\n⟦P⟧뭐니 뭐니 해도 넌 나보다\n약해빠졌으니까 말이야\n⟦P⟧"
+  },
+  {
+   "key": "7b2d4a526c50",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「알고 있어\n⟦P⟧애초에 ⟦2⟧쿠라우스토로인⟦3⟧이랑\n신체 능력으로 겨뤄봤자 소용이\n없잖아?\n원래 종족 차이가 큰 거니까\n⟦P⟧"
+  },
+  {
+   "key": "addc52d0e917",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「슬슬 졸리기 시작하네\n아직 해가 높지만, 내일을 위해서\n좀 쉬어야겠다\n⟦P⟧"
+  },
+  {
+   "key": "00c047cce7f5",
+   "speaker_korean": "클리프",
+   "korean": "⟦1⟧「그래 주면 고맙지\n괜히 쓰러지기라도 하면\n이쪽이 곤란하니까\n⟦P⟧"
+  },
+  {
+   "key": "e28e268cef62",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「난 ⟦2⟧클리프⟦3⟧랑 다르게\n섬세하다고\n⟦P⟧"
+  },
+  {
+   "key": "6336585c4612",
+   "speaker_korean": "클리프",
+   "korean": "⟦1⟧「어떻게 할래?\n벌써 쉬려고?\n⟦P⟧"
+  },
+  {
+   "key": "c48e60807d3c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・아니, 아직 준비를 해두고 싶어"
+  },
+  {
+   "key": "37cc57029601",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・내일을 위해 일찍 자자"
+  },
+  {
+   "key": "473e0a514ebb",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「아니, 아직 준비를\n해두고 싶어\n좀 더 깨어 있을게\n⟦P⟧"
+  },
+  {
+   "key": "29e2bf701f59",
+   "speaker_korean": "클리프",
+   "korean": "⟦1⟧「너무 무리하지 마\n내일 지장 있을 테니까\n⟦P⟧"
+  },
+  {
+   "key": "10ddc5e2f896",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「알고 있어\n일찌감치 쉴 생각은\n하고 있으니까\n⟦P⟧"
+  },
+  {
+   "key": "11cb947ff727",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「내일을 위해 일찍 자자\n이제 와서 할 수 있는 일도\n없을 테고……\n⟦P⟧"
+  },
+  {
+   "key": "263a23f0bba0",
+   "speaker_korean": "클리프",
+   "korean": "⟦1⟧「그것도 나쁘지 않지\n아무리 그래도, 잠 부족으로 지는 건\n사양하고 싶으니까 말이야\n⟦P⟧"
+  },
+  {
+   "key": "650907caacbb",
+   "speaker_korean": null,
+   "korean": "오늘은 쉬시겠습니까?\n⟦P⟧"
+  },
+  {
+   "key": "e0567cd60d09",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・아직 안 자도 괜찮아"
+  },
+  {
+   "key": "2e4ea7a31dbb",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・졸려서 못 참겠어"
+  },
+  {
+   "key": "f513a831bf45",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧(아직 깨어 있어도 괜찮겠지\n마을 안도 둘러보고 싶고……\n⟦P⟧"
+  },
+  {
+   "key": "bc685130091c",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧(이제 너무 졸리네\n아직 해가 높지만, 내일을 위해서\n좀 쉬어야겠다\n⟦P⟧"
+  },
+  {
+   "key": "d748e671d310",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・아직 자긴 일러"
+  },
+  {
+   "key": "2bb527d13c0a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・오늘은 이만 쉬자"
+  },
+  {
+   "key": "0d55d7100db1",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧(아직 자기엔 이르겠지\n좀 더 준비를 해두자\n⟦P⟧"
+  },
+  {
+   "key": "d852cf61cf04",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧(오늘은 이만 쉬자\n이제 와서 할 수 있는 일도\n없을 테니까……\n⟦P⟧"
+  },
+  {
+   "key": "e6c7aaf86a00",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧(지금은 느긋하게 잠이나 자고\n있을 때가 아니겠지……\n⟦P⟧"
+  },
+  {
+   "key": "79262264fb72",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧(이제 곧 전쟁이 시작된다……\n이런 때에 태평하게 잠들 만큼\n배짱 좋은 인간은 아니라고……\n⟦P⟧"
+  },
+  {
+   "key": "c84729c0fd4a",
+   "speaker_korean": null,
+   "korean": "잠시 눈 붙이시겠습니까?\n⟦P⟧"
+  },
+  {
+   "key": "f328eec6ddce",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・아직이야!"
+  },
+  {
+   "key": "2bbd5a27e01e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・좀 쉬자"
+  },
+  {
+   "key": "795166667a95",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧(그렇게 쉬고만\n있을 수도 없지……\n⟦P⟧"
+  },
+  {
+   "key": "c319c59b4e7d",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧(좀 쉬자\n근데, 요즘 금방 졸려지네\n피로가 쌓인 걸까?\n⟦P⟧"
+  },
+  {
+   "key": "da3a4c345adf",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「이 저택의 주인이었던 사람이\n쓴 걸까?\n뭔가 좀 미묘한데……\n⟦P⟧"
+  },
+  {
+   "key": "e662cf2a98b8",
+   "speaker_korean": "클리프",
+   "korean": "⟦1⟧「이미 ⟦2⟧시하츠⟦3⟧ 영내인 모양이니까\n여기서라면 푹 자도 상관\n없지 않겠냐?\n⟦P⟧뭐……\n불안한 것도 이해는 하지만 말이야\n⟦P⟧"
+  },
+  {
+   "key": "c7ac59f0794a",
+   "speaker_korean": "클리프",
+   "korean": "「난 먼저 쉬고 있을게\n적당히 둘러보고 돌아와라"
+  },
+  {
+   "key": "2855b248aef6",
+   "speaker_korean": "페이트",
+   "korean": "「그래, 그렇게 할게"
+  },
+  {
+   "key": "6628f7764ac8",
+   "speaker_korean": "클리프",
+   "korean": "「꽤 괜찮은 방이네"
+  },
+  {
+   "key": "db05167602b3",
+   "speaker_korean": "페이트",
+   "korean": "「그러게, 전망도 좋고"
+  },
+  {
+   "key": "e809c5562291",
+   "speaker_korean": "클리프",
+   "korean": "「어이…… 잘 잔 모양이네\n몸 상태는 괜찮냐?"
+  },
+  {
+   "key": "eb8d9bbccb11",
+   "speaker_korean": "페이트",
+   "korean": "「응, 딱히 문제는 없어\n이제 괜찮아"
+  },
+  {
+   "key": "04692cc3d384",
+   "speaker_korean": "클리프",
+   "korean": "「그거 다행이네\n뭔가 한바탕 소동이 있을 테니까"
+  },
+  {
+   "key": "d5172cd492cd",
+   "speaker_korean": "페이트",
+   "korean": "「……어째서야?\n어떻게 그런 걸 아는 거야?"
+  },
+  {
+   "key": "ca71439ea0d1",
+   "speaker_korean": "클리프",
+   "korean": "「감……이지"
+  },
+  {
+   "key": "e73a44ecef86",
+   "speaker_korean": "페이트",
+   "korean": "「그럼, 못 믿겠는데"
+  },
+  {
+   "key": "b18f247ed7f3",
+   "speaker_korean": "클리프",
+   "korean": "「지껄여라"
+  },
+  {
+   "key": "66333d8aa3bc",
+   "speaker_korean": "페이트",
+   "korean": "「아마 그냥 피곤했던 것뿐일 거야"
+  },
+  {
+   "key": "6a9e9b34d524",
+   "speaker_korean": "페이트",
+   "korean": "「으……음……"
+  }
+ ]
+}

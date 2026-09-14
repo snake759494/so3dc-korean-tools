@@ -1,0 +1,385 @@
+{
+ "batch_id": "batch_0092",
+ "translations": [
+  {
+   "key": "51589dc1055d",
+   "speaker_korean": "클리프",
+   "korean": "「원래 모진 놈은\n못 되는 타입인가 보군."
+  },
+  {
+   "key": "a93ee854e01b",
+   "speaker_korean": "클레어",
+   "korean": "「아무튼, 그런 겁니다.\n그녀 일은 신경 쓰지 마세요.\n당장이라도 ⟦1⟧시랜드⟦2⟧로 향합시다.\n이곳도 안전권이라고는 하지만,\n확실하진 않으니까요…"
+  },
+  {
+   "key": "27b962fa57d7",
+   "speaker_korean": "페이트",
+   "korean": "「거래 장소가 어디죠?"
+  },
+  {
+   "key": "3d49c9c427e7",
+   "speaker_korean": "클레어",
+   "korean": "「그건 물어서 어쩌시게요?"
+  },
+  {
+   "key": "be30b5dad759",
+   "speaker_korean": "페이트",
+   "korean": "「그런 거 용납 못 해.\n왜 목숨을 하찮게 여기는 거야.\n전쟁을 끝내려고 스스로를\n희생하는 게 이 나라의 정의냐?!"
+  },
+  {
+   "key": "316316259d42",
+   "speaker_korean": "페이트",
+   "korean": "「나도 거기 갈 거야.\n가서 그 사람한테\n불만을 쏟아낼 거야!!"
+  },
+  {
+   "key": "b2e9b983291b",
+   "speaker_korean": "클리프",
+   "korean": "「그렇게 나와야지.\n그 말 기다리고 있었다고."
+  },
+  {
+   "key": "2c4874203ada",
+   "speaker_korean": "클레어",
+   "korean": "「그런 무모한 짓이에요!\n그녀에게 당신들 실력은\n보고받았지만,\n상대는 그 이상이라고요!"
+  },
+  {
+   "key": "41c41debdee2",
+   "speaker_korean": "클레어",
+   "korean": "「그럼,\n부하를 함께―――"
+  },
+  {
+   "key": "ffb3869bedd7",
+   "speaker_korean": "클리프",
+   "korean": "「대군이면 찾아달라는\n말이나 마찬가지야.\n소수가 움직이기 편하지.\n게다가 지금 전황을 생각하면,\n여기 방비 인원을 줄일 수는\n없는 거 아니냐?"
+  },
+  {
+   "key": "463c3c7bbfce",
+   "speaker_korean": "클레어",
+   "korean": "「그건 그렇지만……"
+  },
+  {
+   "key": "718774e58e36",
+   "speaker_korean": "클리프",
+   "korean": "「우릴 믿어.\n그놈은 믿어줬잖아?"
+  },
+  {
+   "key": "b07bea59d40e",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧클레어 씨⟦2⟧,\n거래 장소를 알려주세요."
+  },
+  {
+   "key": "c6f013ea2c44",
+   "speaker_korean": "클레어",
+   "korean": "「컬소어 남동부에 있는 건물이에요.\n원래 수련장으로 지어진 건물이지만,\n지금은 처형장으로 쓰이고 있어요.\n또한 아리그리프 삼군의 한 부대,\n중기사단 『⟦1⟧칠흑⟦2⟧』의 거점이기도 해요."
+  },
+  {
+   "key": "875aaff7dc1d",
+   "speaker_korean": "클리프",
+   "korean": "「어떻게 가면 돼?"
+  },
+  {
+   "key": "44a03e87fb64",
+   "speaker_korean": "클레어",
+   "korean": "「일단 ⟦1⟧컬소어⟦2⟧까지 돌아가서,\n컬소어 남문에서 길을 따라\n곧장 가면 도착할 거예요.\n전에 지나온 산길로 가는 것보다\n아리아스 남문에서 황야를 지나\n⟦3⟧컬소어⟦4⟧로 들어가는 편이\n더 빨리 도착할 것 같아요."
+  },
+  {
+   "key": "71617d6d0d56",
+   "speaker_korean": "클리프",
+   "korean": "「알았다."
+  },
+  {
+   "key": "9ba1452b6748",
+   "speaker_korean": "페이트",
+   "korean": "「너, 같이 가주는 거지?"
+  },
+  {
+   "key": "a82d0bd0874c",
+   "speaker_korean": "클리프",
+   "korean": "「당연하지."
+  },
+  {
+   "key": "ef4c1bd95e91",
+   "speaker_korean": "클레어",
+   "korean": "「그녀들 일은…\n부탁드려요."
+  },
+  {
+   "key": "dc2bb12ab8d1",
+   "speaker_korean": "클리프",
+   "korean": "「그래, 맡겨둬."
+  },
+  {
+   "key": "2f246ebb151f",
+   "speaker_korean": "페이트",
+   "korean": "「반드시 다들 데리고 돌아올게요.\n한 대 정도는 때리게 될지도\n모르지만,\n그 정도는 봐주세요."
+  },
+  {
+   "key": "031b61e68f8a",
+   "speaker_korean": "클리프",
+   "korean": "「걱정 없어.\n그 녀석한테 뭘 들었는지는 모르지만,\n우릴 얕보지 말라고.\n게다가 이렇게 된 이 녀석은\n아마 그 여자보다 더 지독할걸.\n뼛속까지 고집불통이거든."
+  },
+  {
+   "key": "cdf8707eb3e3",
+   "speaker_korean": "클리프",
+   "korean": "「뭐, 자는 척하고 있었으니\n그 녀석도 내가 깨어있는 줄은\n몰랐겠지만."
+  },
+  {
+   "key": "b45325c98bf4",
+   "speaker_korean": "클레어",
+   "korean": "「알겠습니다. 설명하죠."
+  },
+  {
+   "key": "4007c61e06ed",
+   "speaker_korean": "클리프",
+   "korean": "「필요 없다니까."
+  },
+  {
+   "key": "db733451a4c3",
+   "speaker_korean": "클레어",
+   "korean": "「기다려 주세요."
+  },
+  {
+   "key": "b1162f84ea1f",
+   "speaker_korean": "클레어",
+   "korean": "「충분히 조심하세요."
+  },
+  {
+   "key": "698085351938",
+   "speaker_korean": "클리프",
+   "korean": "「넌 쿨쿨 자고 있었잖아."
+  },
+  {
+   "key": "7d6f1f710c40",
+   "speaker_korean": "클레어",
+   "korean": "「그녀는―――"
+  },
+  {
+   "key": "58d7b6f5ccdf",
+   "speaker_korean": "클레어",
+   "korean": "「당신들도… 무사해서 다행이에요."
+  },
+  {
+   "key": "1a0e8dd4e7f4",
+   "speaker_korean": "클레어",
+   "korean": "「두 분……\n정말 감사합니다.\n그녀들이 무사히 돌아온 것도\n당신들 덕분이에요."
+  },
+  {
+   "key": "f615d8b4d8cc",
+   "speaker_korean": "페이트",
+   "korean": "「아뇨…"
+  },
+  {
+   "key": "65119baaa305",
+   "speaker_korean": "클리프",
+   "korean": "「별거 안 했어.\n상대도 잔챙이들뿐이었고."
+  },
+  {
+   "key": "90dea02f75c6",
+   "speaker_korean": "넬",
+   "korean": "「그렇지 않아."
+  },
+  {
+   "key": "9bd8ef44a797",
+   "speaker_korean": "넬",
+   "korean": "「적어도 ⟦1⟧칠흑⟦2⟧의 부단장을 쓰러뜨린 건,\n너희들 도움이 있었기에 가능했던 거니까."
+  },
+  {
+   "key": "ccd0264a4fb4",
+   "speaker_korean": "클레어",
+   "korean": "「그거… ⟦1⟧칠흑⟦2⟧의 ⟦3⟧셸비⟦4⟧를\n쓰러뜨렸단 얘기예요!?"
+  },
+  {
+   "key": "2a8383d3328a",
+   "speaker_korean": "클레어",
+   "korean": "「대단해……"
+  },
+  {
+   "key": "4f675aec7af3",
+   "speaker_korean": "클리프",
+   "korean": "「그래도 그 잘난 척하는 갑옷 자식한테는\n계속 얕보이기만 했지만."
+  },
+  {
+   "key": "7917db2927fd",
+   "speaker_korean": "페이트",
+   "korean": "「그래.\n⟦1⟧알벨⟦2⟧이라는 녀석 말이지."
+  },
+  {
+   "key": "75fed1ad13be",
+   "speaker_korean": "클리프",
+   "korean": "「생각하니까 열받네.\n다음에 만나면 가만 안 둔다."
+  },
+  {
+   "key": "8de1babff493",
+   "speaker_korean": "클레어",
+   "korean": "「⟦1⟧알벨⟦2⟧이라고요!?\n설마…『⟦3⟧뒤틀린 알벨⟦4⟧』?"
+  },
+  {
+   "key": "ade04984d1ca",
+   "speaker_korean": "넬",
+   "korean": "「놀랐지?\n나도 용케 무사히\n돌아왔다 싶다니까."
+  },
+  {
+   "key": "b3f917f486e7",
+   "speaker_korean": "페이트",
+   "korean": "「그 녀석, 그렇게 강한가요?"
+  },
+  {
+   "key": "32d0077ef855",
+   "speaker_korean": "넬",
+   "korean": "「상당히.\n⟦1⟧클리프⟦2⟧한테는 미안하지만,\n너라도 이길 수 있을지\n모르겠어."
+  },
+  {
+   "key": "d8037aaa05ec",
+   "speaker_korean": "클리프",
+   "korean": "「젠장, 재미없는 얘기군."
+  },
+  {
+   "key": "75cb74782f30",
+   "speaker_korean": "넬",
+   "korean": "「역시 협력은 못 받는 건가?"
+  },
+  {
+   "key": "3742c543afa2",
+   "speaker_korean": "클레어",
+   "korean": "「그런가요……\n뭐, 바로 답을 안 주셔도 괜찮아요.\n왕도에 도착할 때까지 마음을\n정해주시면 되니까요."
+  },
+  {
+   "key": "1c99d177d259",
+   "speaker_korean": "넬",
+   "korean": "「⟦1⟧클레어⟦2⟧, 역시 ⟦3⟧시랜드⟦4⟧까지는\n내가 동행할게.\n괜찮겠지, ⟦5⟧페이트⟦6⟧?"
+  },
+  {
+   "key": "7601bf70ba85",
+   "speaker_korean": "페이트",
+   "korean": "「당연하잖아요.\n그게 당신 임무잖아요?"
+  },
+  {
+   "key": "d969a0556963",
+   "speaker_korean": "넬",
+   "korean": "「그래, 그랬었지."
+  },
+  {
+   "key": "7dd1746a4ac7",
+   "speaker_korean": "넬",
+   "korean": "「걱정 끼쳤네."
+  },
+  {
+   "key": "0cb1ca17f6e3",
+   "speaker_korean": "클레어",
+   "korean": "「자자,\n이야기는 그쯤 하고,\n피곤하지 않아요?"
+  },
+  {
+   "key": "0a554f8410af",
+   "speaker_korean": "클레어",
+   "korean": "「서둘러 준비시킬 테니,\n식사부터 하죠."
+  },
+  {
+   "key": "cfaa40a1f995",
+   "speaker_korean": "페이트",
+   "korean": "「아직 대답은 못 하겠어요.\n무기를 만들고 싶지 않다는\n마음 자체는 변함없고요…"
+  },
+  {
+   "key": "25d4a189fcab",
+   "speaker_korean": "넬",
+   "korean": "「⟦1⟧넬・젤퍼⟦2⟧,\n지금 막 도착했습니다."
+  },
+  {
+   "key": "3e4177d988f6",
+   "speaker_korean": "클레어",
+   "korean": "「앉아."
+  },
+  {
+   "key": "e59e05f32101",
+   "speaker_korean": "부대장",
+   "korean": "「넷!"
+  },
+  {
+   "key": "bfc0da6f5fb5",
+   "speaker_korean": "클레어",
+   "korean": "「그럼, 작전은 새벽과 함께 실행합니다.\n각자 그때까지 준비를 마쳐두도록."
+  },
+  {
+   "key": "cbbd45644ff5",
+   "speaker_korean": "클레어",
+   "korean": "「적은 다수지만, 늘 하던 대로\n원거리에서 ⟦1⟧시술 병기⟦2⟧로 적을 교란하면서,\n⟦3⟧질풍⟦4⟧에는 ⟦5⟧시술⟦6⟧로 대응합니다.\n⟦P⟧제대로 싸우면 ⟦7⟧아리그리프⟦8⟧ 뜻대로예요.\n최대한 거리를 두고 싸우며,\n근접전은 피하도록."
+  },
+  {
+   "key": "969ae66920a8",
+   "speaker_korean": "클레어",
+   "korean": "「해산."
+  },
+  {
+   "key": "6608f6191520",
+   "speaker_korean": "클레어",
+   "korean": "「⟦1⟧넬⟦2⟧, 당신에게는\n본대와 별도로 움직여 줬으면 해요.\n본대가 적 부대와 교전하는 동안\n적진에 돌입해서, ⟦3⟧아리그리프⟦4⟧의\n지휘 계통을 파괴할 것."
+  },
+  {
+   "key": "57be03e2058f",
+   "speaker_korean": "넬",
+   "korean": "「⟦1⟧복스⟦2⟧ 말이지?"
+  },
+  {
+   "key": "91cf77113c18",
+   "speaker_korean": "클리프",
+   "korean": "「당연하지.\n이쪽도 그럴 생각이었으니까."
+  },
+  {
+   "key": "d94a2bbc07b2",
+   "speaker_korean": "클레어",
+   "korean": "「할 수만 있다면 당신들을 거기까지\n끌어들이고 싶지는 않았지만…"
+  },
+  {
+   "key": "4df2e56db0fe",
+   "speaker_korean": "넬",
+   "korean": "「어쩔 수 없잖아.\n사실, 저들은 내 부하들\n그 누구보다도 전력이 되니까."
+  },
+  {
+   "key": "76e02dac39e2",
+   "speaker_korean": "페이트",
+   "korean": "「신경 쓰지 마세요.\n제가, 제 자신이 싸우고 싶은 거예요.\n한시라도 빨리 전쟁을\n끝내기 위해서……"
+  },
+  {
+   "key": "a9ca05de299a",
+   "speaker_korean": "클리프",
+   "korean": "「그렇지."
+  },
+  {
+   "key": "7aeed90e1982",
+   "speaker_korean": "클레어",
+   "korean": "「⟦1⟧페이트 씨⟦2⟧,\n⟦3⟧클리프 씨⟦4⟧.\n당신들은 ⟦5⟧넬⟦6⟧과\n함께 행동해 주세요."
+  },
+  {
+   "key": "32e3422fc17b",
+   "speaker_korean": "클레어",
+   "korean": "「믿고 있을게,\n⟦1⟧넬⟦2⟧."
+  },
+  {
+   "key": "f4abb7bec0f8",
+   "speaker_korean": "넬",
+   "korean": "「그래, 맡겨둬."
+  },
+  {
+   "key": "3586c4396530",
+   "speaker_korean": "클레어",
+   "korean": "「부탁할게."
+  },
+  {
+   "key": "6dcba5d22d49",
+   "speaker_korean": "클레어",
+   "korean": "「알겠습니다.\n잘 부탁드려요."
+  },
+  {
+   "key": "cb22b87ad29c",
+   "speaker_korean": "클레어",
+   "korean": "「작전 개시까지는\n아직 시간이 좀 있어요.\n그동안 장비 점검이나\n휴식을 취하는 등,\n충분히 준비해 두세요."
+  },
+  {
+   "key": "f24f351325ec",
+   "speaker_korean": "클레어",
+   "korean": "「네."
+  },
+  {
+   "key": "b8eadcbd0542",
+   "speaker_korean": "클레어",
+   "korean": "「⟦1⟧페이트 씨⟦2⟧,\n⟦3⟧클리프 씨⟦4⟧,\n가능하다면 당신들에게도\n협력을 부탁드리고 싶은데요?"
+  }
+ ]
+}

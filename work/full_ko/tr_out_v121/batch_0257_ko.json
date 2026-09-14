@@ -1,0 +1,235 @@
+{
+ "batch_id": "batch_0257",
+ "translations": [
+  {
+   "key": "21d21a53b3ff",
+   "speaker_korean": null,
+   "korean": "나무68"
+  },
+  {
+   "key": "df3f326f619b",
+   "speaker_korean": null,
+   "korean": "나무69"
+  },
+  {
+   "key": "3195d8e58272",
+   "speaker_korean": null,
+   "korean": "나무71"
+  },
+  {
+   "key": "d0c3e36ca426",
+   "speaker_korean": null,
+   "korean": "나무163"
+  },
+  {
+   "key": "eb29c5791f03",
+   "speaker_korean": null,
+   "korean": "나무164"
+  },
+  {
+   "key": "3c90a61c6e0f",
+   "speaker_korean": null,
+   "korean": "나무190"
+  },
+  {
+   "key": "ffa4884de310",
+   "speaker_korean": null,
+   "korean": "나무191"
+  },
+  {
+   "key": "fe1287d91af1",
+   "speaker_korean": null,
+   "korean": "나무287"
+  },
+  {
+   "key": "529dacab6622",
+   "speaker_korean": null,
+   "korean": "나무288"
+  },
+  {
+   "key": "420323a4fc29",
+   "speaker_korean": null,
+   "korean": "나무289"
+  },
+  {
+   "key": "3a88ddbf5639",
+   "speaker_korean": null,
+   "korean": "나무312"
+  },
+  {
+   "key": "03c90ed97418",
+   "speaker_korean": null,
+   "korean": "나무313"
+  },
+  {
+   "key": "b5f667032c5f",
+   "speaker_korean": null,
+   "korean": "나무344"
+  },
+  {
+   "key": "819ed0ba4ff0",
+   "speaker_korean": null,
+   "korean": "나무346"
+  },
+  {
+   "key": "15d544188258",
+   "speaker_korean": null,
+   "korean": "나무347"
+  },
+  {
+   "key": "625acd6ac2c5",
+   "speaker_korean": null,
+   "korean": "나무383"
+  },
+  {
+   "key": "315ebe2c2eef",
+   "speaker_korean": null,
+   "korean": "나무384"
+  },
+  {
+   "key": "6a87151c337f",
+   "speaker_korean": null,
+   "korean": "나무385"
+  },
+  {
+   "key": "bb5625bd22a2",
+   "speaker_korean": null,
+   "korean": "나무386"
+  },
+  {
+   "key": "cfd3ffd43fb2",
+   "speaker_korean": null,
+   "korean": "나무387"
+  },
+  {
+   "key": "a784b887d80c",
+   "speaker_korean": null,
+   "korean": "나무388"
+  },
+  {
+   "key": "04d9feb2b139",
+   "speaker_korean": null,
+   "korean": "나무389"
+  },
+  {
+   "key": "55f6a90b5edb",
+   "speaker_korean": null,
+   "korean": "나무440"
+  },
+  {
+   "key": "0c500c070f81",
+   "speaker_korean": null,
+   "korean": "정상거리"
+  },
+  {
+   "key": "a91dcf6aa39c",
+   "speaker_korean": null,
+   "korean": "아이템 작성・특허 신청"
+  },
+  {
+   "key": "dd3206addfff",
+   "speaker_korean": null,
+   "korean": "모조 상점"
+  },
+  {
+   "key": "946fd8f16cb4",
+   "speaker_korean": null,
+   "korean": "신규입수 플래그 클리어"
+  },
+  {
+   "key": "93c69dbe70da",
+   "speaker_korean": null,
+   "korean": "모든아이템 특허 신청 가능화 추가"
+  },
+  {
+   "key": "7f38a7187827",
+   "speaker_korean": null,
+   "korean": "모든아이템 특허 신청"
+  },
+  {
+   "key": "a7a9f0dfacd1",
+   "speaker_korean": null,
+   "korean": "작성 보기 특허 신청 정렬전환"
+  },
+  {
+   "key": "280116533d1f",
+   "speaker_korean": null,
+   "korean": "⟦1⟧인자0"
+  },
+  {
+   "key": "1c27bef444af",
+   "speaker_korean": null,
+   "korean": "⟦1⟧인자1"
+  },
+  {
+   "key": "a049cfe7327a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧인자2"
+  },
+  {
+   "key": "790e6f0bcd6d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧인자3"
+  },
+  {
+   "key": "2e06515d2c27",
+   "speaker_korean": null,
+   "korean": "⟦1⟧인자4"
+  },
+  {
+   "key": "9304518e6198",
+   "speaker_korean": null,
+   "korean": "⟦1⟧인자5"
+  },
+  {
+   "key": "2a72a3142f6e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧인자6"
+  },
+  {
+   "key": "d808317eb75b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧인자7"
+  },
+  {
+   "key": "397904ceb885",
+   "speaker_korean": null,
+   "korean": "⟦1⟧횟수"
+  },
+  {
+   "key": "e2dd241b94de",
+   "speaker_korean": null,
+   "korean": "⟦1⟧파티 아이템 주머니에 추가"
+  },
+  {
+   "key": "37cad3c05b2d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧이 아이템 개조"
+  },
+  {
+   "key": "ffd02536e46b",
+   "speaker_korean": null,
+   "korean": "아이템 번호순"
+  },
+  {
+   "key": "2c1078dcf90e",
+   "speaker_korean": null,
+   "korean": "이름순"
+  },
+  {
+   "key": "f83be529fc85",
+   "speaker_korean": null,
+   "korean": "구매"
+  },
+  {
+   "key": "98decff72874",
+   "speaker_korean": null,
+   "korean": "판매"
+  },
+  {
+   "key": "d52dd0023f39",
+   "speaker_korean": null,
+   "korean": "필수아이템\n⟦1⟧\n일반아이템\n⟦2⟧\n잔액\n⟦3⟧\n⟦4⟧선택아이템⟦5⟧\n재고/레어도\n⟦6⟧/⟦7⟧\n판매가/가격\n⟦8⟧/⟦9⟧\n⟦10⟧구입⟦11⟧\n필수아이템\n⟦12⟧\n일반아이템\n⟦13⟧\n총액\n⟦14⟧"
+  }
+ ]
+}

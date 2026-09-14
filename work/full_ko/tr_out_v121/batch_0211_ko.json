@@ -1,0 +1,350 @@
+{
+ "batch_id": "batch_0211",
+ "translations": [
+  {
+   "key": "1f71145f5f8a",
+   "speaker_korean": "알벨",
+   "korean": "「의미 따위 필요 없어,\n가자, 멍청아!\n너무 실망시키지 말라고!!"
+  },
+  {
+   "key": "c7f3ca21d3f9",
+   "speaker_korean": "알벨",
+   "korean": "「젠장…아직도 안 되는 거냐!"
+  },
+  {
+   "key": "b7c6074c444d",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧알벨⟦2⟧…"
+  },
+  {
+   "key": "dc4c1eb289b9",
+   "speaker_korean": "클리프",
+   "korean": "「너도 수행을 했겠지만 말이야,\n이 녀석도 그동안 놀고만 있었던 건 아니라고."
+  },
+  {
+   "key": "25e163b8553b",
+   "speaker_korean": "알벨",
+   "korean": "「빨랑 어디로든 꺼져,\n이 버러지 자식아."
+  },
+  {
+   "key": "8d724464af06",
+   "speaker_korean": "알벨",
+   "korean": "「…시끄러워."
+  },
+  {
+   "key": "a06c18a05c03",
+   "speaker_korean": "알벨",
+   "korean": "「이봐, 뭘 멍하니 있는 거야.\n가자."
+  },
+  {
+   "key": "561766acf755",
+   "speaker_korean": "클리프",
+   "korean": "「어디 가겠다는 거야?"
+  },
+  {
+   "key": "2bc1f5e2d513",
+   "speaker_korean": "알벨",
+   "korean": "「내가 알게 뭐냐, 멍청아.\n너희들이 어디로 가는지\n내가 알고 있을 리 없잖아."
+  },
+  {
+   "key": "261134a4360e",
+   "speaker_korean": "마리아",
+   "korean": "「혹시…."
+  },
+  {
+   "key": "051f2541a63c",
+   "speaker_korean": "마리아",
+   "korean": "「혹시 비밀 특훈이라도 했나 보네."
+  },
+  {
+   "key": "d463f8fd1170",
+   "speaker_korean": "클리프",
+   "korean": "「오, 동요하는데.\n…진짜 비밀 특훈이었냐?\n이거 참, 걸작이구먼!!"
+  },
+  {
+   "key": "5b4bd3de8071",
+   "speaker_korean": "알벨",
+   "korean": "「닥치라고 했잖아, 이 멍청아!!"
+  },
+  {
+   "key": "827e39ccb1a8",
+   "speaker_korean": "페이트",
+   "korean": "「그게 무슨 소리야?"
+  },
+  {
+   "key": "3f6c6f59cf39",
+   "speaker_korean": "알벨",
+   "korean": "「…여기서 아무리 수행해 봤자,\n너에게는 못 이긴다.\n그렇다면 너와 같은 길을 걸으며,\n네 강함을 지켜본 다음,\n그 위를 뛰어넘어 주마."
+  },
+  {
+   "key": "4e2501a42b9f",
+   "speaker_korean": "마리아",
+   "korean": "「여행에 동행한다는 거야?"
+  },
+  {
+   "key": "1341fb62fcfd",
+   "speaker_korean": "클리프",
+   "korean": "「…어떡할 거야?"
+  },
+  {
+   "key": "18470914a9e5",
+   "speaker_korean": "알벨",
+   "korean": "「너희들 의견 따위 알 바 아니다.\n나는 내가 정한 길을 갈 뿐이야.\n어디까지든 쫓아가 주마."
+  },
+  {
+   "key": "5240cb08dfb0",
+   "speaker_korean": "마리아",
+   "korean": "「…대단한 남자한테 찍혔네."
+  },
+  {
+   "key": "cac4319d97c7",
+   "speaker_korean": "페이트",
+   "korean": "「알았어.\n마음대로 해."
+  },
+  {
+   "key": "a83928297bf4",
+   "speaker_korean": "알벨",
+   "korean": "「그래, 말 안 해도 그럴 거다."
+  },
+  {
+   "key": "9ba1c61ac20d",
+   "speaker_korean": "페이트",
+   "korean": "「안 돼."
+  },
+  {
+   "key": "60b031c90854",
+   "speaker_korean": "알벨",
+   "korean": "「네 의견 따위 안 듣는다고\n말했잖아, 이 버러지 자식아."
+  },
+  {
+   "key": "96dab4987fbf",
+   "speaker_korean": "페이트",
+   "korean": "「그게 아니야.\n그냥 그래도 되나 싶어서 말이야."
+  },
+  {
+   "key": "efb265a999dd",
+   "speaker_korean": "알벨",
+   "korean": "「뭐라고?"
+  },
+  {
+   "key": "9305e2fa9dd6",
+   "speaker_korean": "페이트",
+   "korean": "「너는 나와 같은 길을 걸으면\n나를 이길 수 있다고 생각하는 거야?\n그렇다면 그건 틀렸어."
+  },
+  {
+   "key": "f55243d16390",
+   "speaker_korean": "페이트",
+   "korean": "「같은 길을 걷는다면\n평생 내 위로는 못 올라선다.\n네가 강해지는 것과 동시에\n나도 강해지는 거야."
+  },
+  {
+   "key": "21662f199168",
+   "speaker_korean": "알벨",
+   "korean": "「……."
+  },
+  {
+   "key": "85d3e2e27e81",
+   "speaker_korean": "알벨",
+   "korean": "「어디든 가라, 버러지야.\n내가 잘못 생각했다."
+  },
+  {
+   "key": "7390d2345583",
+   "speaker_korean": "페이트",
+   "korean": "「그럼…."
+  },
+  {
+   "key": "0e759def4580",
+   "speaker_korean": "알벨",
+   "korean": "「그래, 나는 내 방식대로\n강해져 주마."
+  },
+  {
+   "key": "39b7326eb545",
+   "speaker_korean": "알벨",
+   "korean": "「열받게 하는 너를 바닥에\n기어다니게 만들어 주기 위해서다!"
+  },
+  {
+   "key": "514a0c6a9a21",
+   "speaker_korean": "페이트",
+   "korean": "「할 수 있으면 한번 해 보시지."
+  },
+  {
+   "key": "b24282f780f0",
+   "speaker_korean": "알벨",
+   "korean": "「그런 건방진 주둥이 놀릴 수 있는 것도\n지금뿐이다, 멍청아."
+  },
+  {
+   "key": "d61d937b8af6",
+   "speaker_korean": "페이트",
+   "korean": "「그 말, 그대로 돌려주지."
+  },
+  {
+   "key": "90fa43325072",
+   "speaker_korean": "알벨",
+   "korean": "「흥… 그럼 간다.\n나 말고 다른 놈한테 지지 마라."
+  },
+  {
+   "key": "3927e7bb2da2",
+   "speaker_korean": "알벨",
+   "korean": "「결국 너도 버러지였나.\n…꼴좋구나."
+  },
+  {
+   "key": "3f581afb0741",
+   "speaker_korean": "알벨",
+   "korean": "「하…하하하하핫!!"
+  },
+  {
+   "key": "30d6c245e214",
+   "speaker_korean": "페이트",
+   "korean": "「윽…아파…."
+  },
+  {
+   "key": "73dca363808b",
+   "speaker_korean": "소피아",
+   "korean": "「괜찮아!?"
+  },
+  {
+   "key": "cd3ddf2712ac",
+   "speaker_korean": "페이트",
+   "korean": "(젠장…전보다 훨씬 강해졌잖아…"
+  },
+  {
+   "key": "99967af0e8e2",
+   "speaker_korean": "알벨",
+   "korean": "「너, 그런 걸로\n그 잘난 임무를 해낼 수 있겠냐?"
+  },
+  {
+   "key": "f227031013f6",
+   "speaker_korean": "페이트",
+   "korean": "「…무슨 소리야?"
+  },
+  {
+   "key": "bcf8ca427ba2",
+   "speaker_korean": "알벨",
+   "korean": "「⟦1⟧월터⟦2⟧ 영감한테 들었다.\n아무튼 너희들에겐 지켜야 할 세상이\n있다더군.\n세상의 위기인지 뭔지는 모르겠지만,\n그런 한심한 힘으로 지킬 수 있을 만큼\n네가 지키려는 게 그리 하찮은 거냐?"
+  },
+  {
+   "key": "ef6d61a90908",
+   "speaker_korean": "페이트",
+   "korean": "「힘이 부족해도… 그래도 지킬 거야!!"
+  },
+  {
+   "key": "c511f9abeb80",
+   "speaker_korean": "알벨",
+   "korean": "「그럼, 강해져야겠군.\n나조차 쓰러뜨릴 만큼."
+  },
+  {
+   "key": "ef305694bb93",
+   "speaker_korean": "페이트",
+   "korean": "「그래! 말 안 해도 그럴 거야!!"
+  },
+  {
+   "key": "4e7d26c085fb",
+   "speaker_korean": "알벨",
+   "korean": "「…흥, 힘 좀 붙으면 다시 와라.\n얼마든지 상대해 주마."
+  },
+  {
+   "key": "96c8322182a9",
+   "speaker_korean": "알벨",
+   "korean": "「할 거냐, 멍청아?"
+  },
+  {
+   "key": "7aba4217226a",
+   "speaker_korean": "알벨",
+   "korean": "「젠장…."
+  },
+  {
+   "key": "dac078148246",
+   "speaker_korean": "페이트",
+   "korean": "「이겼다, ⟦1⟧알벨⟦2⟧!!"
+  },
+  {
+   "key": "541e71a82b95",
+   "speaker_korean": "알벨",
+   "korean": "「흥, 요행으로 이긴 걸 가지고\n잘난 척하지 마라.\n두고 봐라…."
+  },
+  {
+   "key": "78106cb1b866",
+   "speaker_korean": "알벨",
+   "korean": "「약해…너무 약해빠졌어."
+  },
+  {
+   "key": "a2deec269e47",
+   "speaker_korean": "알벨",
+   "korean": "「날 얕보는 거냐?\n그 정도로 나한테 덤비다니…."
+  },
+  {
+   "key": "103ee42b0f00",
+   "speaker_korean": "페이트",
+   "korean": "「젠장!!"
+  },
+  {
+   "key": "f84e153519b0",
+   "speaker_korean": "알벨",
+   "korean": "「흥, 힘 좀 붙으면 다시 와라.\n얼마든지 상대해 주마."
+  },
+  {
+   "key": "323432ee3f3b",
+   "speaker_korean": "알벨",
+   "korean": "「흥, 요행으로 이긴 걸 가지고\n잘난 척하지 마라."
+  },
+  {
+   "key": "cee0effac3e9",
+   "speaker_korean": "알벨",
+   "korean": "「내가 알게 뭐냐, 멍청아.\n너희들 행선지를 내가 알겠냐."
+  },
+  {
+   "key": "ca3845708d52",
+   "speaker_korean": "알벨",
+   "korean": "「소중한 걸 지키려는 거지?\n그러려면 힘이 필요하지 않겠냐?"
+  },
+  {
+   "key": "6e4bb39bcf43",
+   "speaker_korean": "알벨",
+   "korean": "「흥……가끔은 파괴가 아니라\n뭔가를 지키려고 힘을 쓰는 것도…\n괜찮다고 생각했을 뿐이다."
+  },
+  {
+   "key": "2de692b75388",
+   "speaker_korean": "알벨",
+   "korean": "「죽여버린다, 멍청아."
+  },
+  {
+   "key": "a41ff73b764d",
+   "speaker_korean": "알벨",
+   "korean": "「…뭘 웃고 있어.\n그 입 찢어 줄까, 이 버러지 자식아."
+  },
+  {
+   "key": "38573732e5f1",
+   "speaker_korean": "페이트",
+   "korean": "「아니, 아무것도 아니야.\n가자."
+  },
+  {
+   "key": "39fc6f9b4709",
+   "speaker_korean": "클리프",
+   "korean": "「너 의외로 괜찮은 녀석인가 보군."
+  },
+  {
+   "key": "4e4ccffa3934",
+   "speaker_korean": "크로셀",
+   "korean": "⟦1⟧「그때 네놈들에게 협력한 것은\n약속을 어기지 않기 위함이다.\n너무 우쭐대지 마라.\n⟦P⟧네놈들과 헤어지고 나도 이제야\n어깨 짐을 던 참이니까 말이다.\n⟦P⟧"
+  },
+  {
+   "key": "2c9538a78bc0",
+   "speaker_korean": "크로셀",
+   "korean": "⟦1⟧「하늘에서 내려온 저 어리석은 자들은\n대체 누구란 말이냐!?\n⟦P⟧크윽!\n다 불태워 없앴다고 여겼거늘\n나에게 실수를 저지르게 하다니…\n⟦P⟧"
+  },
+  {
+   "key": "480c2bd94a97",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・동행 불허⟦2⟧"
+  },
+  {
+   "key": "926e608d4310",
+   "speaker_korean": "크로셀",
+   "korean": "⟦1⟧「강자란 태어날 때부터 강자인 법.\n그 어떤 행위를 하더라도\n얻을 수 있는 힘에는 한계가 있다.\n⟦P⟧그럼에도 그자 같은 인간은\n어찌 어리석은 짓을 반복하는지…\n이해가 되지 않는군.\n⟦P⟧"
+  },
+  {
+   "key": "85c7dd3fbaf4",
+   "speaker_korean": "알벨",
+   "korean": "「뻔한 걸 묻지 마라.\n나와 너, 누가 더 강한지…\n그걸 확인하기 위해서다."
+  }
+ ]
+}

@@ -1,0 +1,285 @@
+{
+ "batch_id": "batch_0200",
+ "translations": [
+  {
+   "key": "ebc475082527",
+   "speaker_korean": "클리프",
+   "korean": "「뭐라고!?"
+  },
+  {
+   "key": "5c4c31d472d4",
+   "speaker_korean": "알벨",
+   "korean": "「훙… 지칠 대로 지친 너희들 따위\n내 적수도 안 돼, 멍청한 놈들.\n나는 승패가 뻔한 승부는 안 하는 주의다.\n⟦1⟧복스⟦2⟧와 달리 약자를 괴롭히는 취미도 없다."
+  },
+  {
+   "key": "55f3f03f1f80",
+   "speaker_korean": "클리프",
+   "korean": "「약자라고?"
+  },
+  {
+   "key": "c2c5e6805b30",
+   "speaker_korean": "알벨",
+   "korean": "「두 번 말하게 하지 마라, 멍청아.\n냉큼 네 나라로 돌아가라."
+  },
+  {
+   "key": "58fd6877ea30",
+   "speaker_korean": "클리프",
+   "korean": "「이 자식이!!"
+  },
+  {
+   "key": "2531dd1b60b4",
+   "speaker_korean": "알벨",
+   "korean": "「훙……."
+  },
+  {
+   "key": "e71155302a2a",
+   "speaker_korean": "넬",
+   "korean": "「눈감아주겠다는 거야?\n어지간히 여유를 부리는군."
+  },
+  {
+   "key": "7e701d10f2fe",
+   "speaker_korean": "알벨",
+   "korean": "「착각하지 마라.\n너희 따위 상대하는 것도 귀찮을 뿐이다.\n인질극 따위 치사해서 성미에 안 맞아."
+  },
+  {
+   "key": "1dca202288c4",
+   "speaker_korean": "페이트",
+   "korean": "「실제로 하고 있잖아."
+  },
+  {
+   "key": "fdc69c157e67",
+   "speaker_korean": "알벨",
+   "korean": "「그건 저 벌레들이 제멋대로 한 짓이다.\n나는 모른다.\n애초에 너희를 놓친 건 그 녀석의 실수다.\n내가 뒤치다꺼리 해줄 의리 따위 없다."
+  },
+  {
+   "key": "e82f4cfc6d23",
+   "speaker_korean": "페이트",
+   "korean": "「네 부하잖아?\n부하 뒷수습은 상사 몫 아니야?"
+  },
+  {
+   "key": "b47b54ebd8c8",
+   "speaker_korean": "클리프",
+   "korean": "「칫! 까불고 있어!\n동정이라도 베푼 셈이냐!!"
+  },
+  {
+   "key": "837d60d3293e",
+   "speaker_korean": "넬",
+   "korean": "「그래도… 솔직히 다행이야.\n지금 상태로 그자와 붙는 건\n너무 무모하니까."
+  },
+  {
+   "key": "ff4a986358e5",
+   "speaker_korean": "페이트",
+   "korean": "「빨리 ⟦1⟧클레어 씨⟦2⟧에게 무사한 모습을\n보여주자."
+  },
+  {
+   "key": "31a2553aa8c7",
+   "speaker_korean": "넬",
+   "korean": "「아, 그러네."
+  },
+  {
+   "key": "0a3e134d9933",
+   "speaker_korean": "페이트",
+   "korean": "「그런 짓 하게 두진 않아!"
+  },
+  {
+   "key": "8d37ad773ece",
+   "speaker_korean": "알벨",
+   "korean": "「멍청아, 그런 건 내 알 바 아니다.\n냉큼 가라… 안 그럼 진짜 죽인다."
+  },
+  {
+   "key": "ce6b32a0c210",
+   "speaker_korean": "클리프",
+   "korean": "「뭐라고!?"
+  },
+  {
+   "key": "1497fd438ceb",
+   "speaker_korean": "타이네브",
+   "korean": "「여러…분…\n왜… 오신 거예요!?"
+  },
+  {
+   "key": "b897c9233bf7",
+   "speaker_korean": "파린",
+   "korean": "「으… 으으……."
+  },
+  {
+   "key": "7a3ccec07662",
+   "speaker_korean": "페이트",
+   "korean": "「지금 구해 드릴게요!!"
+  },
+  {
+   "key": "f33e784277a2",
+   "speaker_korean": "페이트",
+   "korean": "(음? 누가 있나?"
+  },
+  {
+   "key": "235647567bbe",
+   "speaker_korean": "페이트",
+   "korean": "(기분 탓인가…?"
+  },
+  {
+   "key": "515c92ed8f5c",
+   "speaker_korean": "페이트",
+   "korean": "(두 사람 다… 기다려.\n지금 구해줄 테니까."
+  },
+  {
+   "key": "9e62a8c523d4",
+   "speaker_korean": "마리아",
+   "korean": "「저건!?"
+  },
+  {
+   "key": "d7953800e179",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧전송 방해 장치⟦2⟧!?"
+  },
+  {
+   "key": "43ff4a497847",
+   "speaker_korean": "비위그",
+   "korean": "「얌전히 박사의 아들을\n넘겨주시지."
+  },
+  {
+   "key": "9a6477ad16ba",
+   "speaker_korean": "마리아",
+   "korean": "「무슨 소리야?\n이건 거래 아니었어?"
+  },
+  {
+   "key": "649852b33565",
+   "speaker_korean": "비위그",
+   "korean": "「훙. 네놈들도 같은 생각이었겠지?\n장비를 보면 바로 알 수 있지.\n더러운 연방 놈들이 할 법한 짓이야."
+  },
+  {
+   "key": "0bbf72794d74",
+   "speaker_korean": "마리아",
+   "korean": "「그야 당연하잖아. 만약을 위해서야.\n애초에 우리는 연방이 아니야."
+  },
+  {
+   "key": "1e6697cdf885",
+   "speaker_korean": "소피아",
+   "korean": "「안 돼, 도망쳐!"
+  },
+  {
+   "key": "5385a8ddcc05",
+   "speaker_korean": "마리아",
+   "korean": "「다들!?\n감히!"
+  },
+  {
+   "key": "a5ca9ddf33f5",
+   "speaker_korean": "비위그",
+   "korean": "「타깃 말고는 볼일 없다.\n죽여라!"
+  },
+  {
+   "key": "befcb14db171",
+   "speaker_korean": "클리프",
+   "korean": "「우릴 너무\n얕봤구나."
+  },
+  {
+   "key": "20269422ef16",
+   "speaker_korean": "비위그",
+   "korean": "「아무래도\n그런 것 같군."
+  },
+  {
+   "key": "927ee1bd7f77",
+   "speaker_korean": "소피아",
+   "korean": "「⟦1⟧페이트⟦2⟧…\n⟦3⟧페이트⟦4⟧!"
+  },
+  {
+   "key": "b85dddd69eaa",
+   "speaker_korean": "록시",
+   "korean": "「…⟦1⟧페이트⟦2⟧."
+  },
+  {
+   "key": "d257ba2a78ef",
+   "speaker_korean": "마리아",
+   "korean": "「형세 역전이네.\n⟦1⟧비위그⟦2⟧."
+  },
+  {
+   "key": "b44d9cf66b75",
+   "speaker_korean": "비위그",
+   "korean": "「큭큭…."
+  },
+  {
+   "key": "4ac32417c707",
+   "speaker_korean": "클리프",
+   "korean": "「뭐가 우습냐.\n남은 건\n네놈뿐이라고."
+  },
+  {
+   "key": "7b28d36da6c1",
+   "speaker_korean": "페이트",
+   "korean": "「전송되어 오고 있어!?"
+  },
+  {
+   "key": "4d0e44255ce4",
+   "speaker_korean": "마리아",
+   "korean": "「무슨 소리야!?\n⟦1⟧전송 방해 장치⟦2⟧가 있는데!"
+  },
+  {
+   "key": "fbee872cca0e",
+   "speaker_korean": "비위그",
+   "korean": "「구하하하하!\n멍청하긴, 이건 우리 이외의 전송을\n방해하는 신형 장치라고!\n이쪽은 얼마든지 보충이 되거든!"
+  },
+  {
+   "key": "55fb2ca04ab7",
+   "speaker_korean": "클리프",
+   "korean": "「칫!"
+  },
+  {
+   "key": "ae583b3c5099",
+   "speaker_korean": "클리프",
+   "korean": "「도망쳐!"
+  },
+  {
+   "key": "919d1c4bd76a",
+   "speaker_korean": "비위그",
+   "korean": "「쫓아라!\n놓치지 마라!"
+  },
+  {
+   "key": "d27bb8c1a569",
+   "speaker_korean": "비위그",
+   "korean": "「그런 건 아무래도 좋다.\n이봐, 꼬맹아, 이리 와라."
+  },
+  {
+   "key": "36ef99071345",
+   "speaker_korean": "비위그",
+   "korean": "「너희들 제법 잘했다.\n적이지만 칭찬해주마."
+  },
+  {
+   "key": "bf6c661e3350",
+   "speaker_korean": "페이트",
+   "korean": "「큭!"
+  },
+  {
+   "key": "43e32974472e",
+   "speaker_korean": "넬",
+   "korean": "「잘은 모르겠지만\n정곡을 찔렀나 보네."
+  },
+  {
+   "key": "319367ef2cfe",
+   "speaker_korean": "알벨",
+   "korean": "「훙, 이래도\n큰소리칠 수 있나, 넌?"
+  },
+  {
+   "key": "0a3b65265af3",
+   "speaker_korean": "로저",
+   "korean": "「완전 대박이었잖아!\n꼴좋다!"
+  },
+  {
+   "key": "07e6632708fe",
+   "speaker_korean": "알벨",
+   "korean": "「큭!?"
+  },
+  {
+   "key": "91eebeda5dbc",
+   "speaker_korean": "알벨",
+   "korean": "「으아아아아앗!"
+  },
+  {
+   "key": "0bf390bd435d",
+   "speaker_korean": "로저",
+   "korean": "「꺄아아아아악!"
+  },
+  {
+   "key": "d464567014f3",
+   "speaker_korean": "클리프",
+   "korean": "「뭐!?"
+  }
+ ]
+}

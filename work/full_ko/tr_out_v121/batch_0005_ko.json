@@ -1,0 +1,295 @@
+{
+ "batch_id": "batch_0005",
+ "translations": [
+  {
+   "key": "2fd05e1dd70a",
+   "speaker_korean": "서큐버스",
+   "korean": "⟦1⟧「장소가 그렇게 많지는 않은데,\n한 번도 만난 적 없는 사람을 만난 걸로\n되어 버리는 곳도 있으니까 조심해.\n⟦P⟧"
+  },
+  {
+   "key": "fd6f2544168f",
+   "speaker_korean": "서큐버스",
+   "korean": "⟦1⟧「자, 이걸로 됐을 거야.\n평범하게 해서는 안 모이는 법이니까.\n⟦P⟧"
+  },
+  {
+   "key": "1c271143a218",
+   "speaker_korean": "서큐버스",
+   "korean": "⟦1⟧「이 정도면 충분하려나?\n그럼 안녕.\n⟦P⟧"
+  },
+  {
+   "key": "2a744896b7e5",
+   "speaker_korean": "서큐버스",
+   "korean": "⟦1⟧「당신도 참 별나네.\n⟦P⟧아, 맞다 맞다.\n다른 상태도 만지고 싶다면\n연락을 주면 만들어 줄 테니까.\n⟦P⟧"
+  },
+  {
+   "key": "57dc56485581",
+   "speaker_korean": "서큐버스",
+   "korean": "⟦1⟧「자, 들어갔어.\n하지만 동료 합류 자체 이벤트 쪽은\n밸런스에 관계되니까 조금만 더 기다려 줘.\n미안해.\n⟦P⟧"
+  },
+  {
+   "key": "8d10cd07eeb0",
+   "speaker_korean": "서큐버스",
+   "korean": "⟦1⟧「자, 끝났어.\n⟦P⟧"
+  },
+  {
+   "key": "28af49476126",
+   "speaker_korean": "서큐버스",
+   "korean": "⟦1⟧「에필로그용 감정도 조정이야.\n그 캐릭터의 페이트에 대한\n감정도를 80 올려 줄게.\n⟦P⟧"
+  },
+  {
+   "key": "9ee76c105b41",
+   "speaker_korean": "서큐버스",
+   "korean": "⟦1⟧「참고로 ＭＡO353의\n엔딩 공백 맵으로 가면\n시작될 거야.\n⟦P⟧하지만 파티에 없는 캐릭터는\n콤비 엔딩에서는 제외되고,\n로저는 월영이 있는 곳에서\n구해 두지 않으면 안 되니까.\n⟦P⟧"
+  },
+  {
+   "key": "498abce39e19",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・페이트의 전원에 대한 감정도를 20 올린다"
+  },
+  {
+   "key": "db9ec63491b4",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・소피아의 감정도+80"
+  },
+  {
+   "key": "44edbde3e6d8",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・마리아의 감정도+80"
+  },
+  {
+   "key": "b8c489671388",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・클리프의 감정도+80"
+  },
+  {
+   "key": "df1fca85ac98",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・넬의 감정도+80"
+  },
+  {
+   "key": "9a65fc047483",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・알벨의 감정도+80"
+  },
+  {
+   "key": "b70945cc8395",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・로저의 감정도+80"
+  },
+  {
+   "key": "6fa4f08dbbe6",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・↓ 아래"
+  },
+  {
+   "key": "72e157102249",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・↑ 뒤로"
+  },
+  {
+   "key": "4ca420849df9",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・스프레의 감정도+80"
+  },
+  {
+   "key": "bd22c18734e9",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・미라쥬의 감정도+80"
+  },
+  {
+   "key": "643c45f56e8f",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・뒤로 ↑"
+  },
+  {
+   "key": "eed08ea8723a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・모든 귀중품 입수"
+  },
+  {
+   "key": "b631789e0c42",
+   "speaker_korean": "서큐버스",
+   "korean": "⟦1⟧「자, 이걸로 됐을까?\n⟦P⟧"
+  },
+  {
+   "key": "0046fcfeb88e",
+   "speaker_korean": "귀족맨",
+   "korean": "⟦1⟧「무비 체크예요오.\n⟦P⟧"
+  },
+  {
+   "key": "f140056f7817",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・하이다 습격"
+  },
+  {
+   "key": "4736ed1c71af",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・헤루아 워프 개시"
+  },
+  {
+   "key": "cea001c17049",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・헤루아 워프 중"
+  },
+  {
+   "key": "37c2a7339092",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・헤루아 브리지에 비치는 반덴 함"
+  },
+  {
+   "key": "4fb34e8d86d5",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・탈출 포드"
+  },
+  {
+   "key": "32e577b8c98e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・이륙하는 이글"
+  },
+  {
+   "key": "31f2ba3806dc",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・다음 ↓"
+  },
+  {
+   "key": "c9d30e2cc14f",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・우주 공간을 나는 이글"
+  },
+  {
+   "key": "3a4f8f75e7ba",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・이글 스크린에 비치는 반덴 함"
+  },
+  {
+   "key": "4492c6025616",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・이글 워프"
+  },
+  {
+   "key": "62baf0e79942",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・불시착하는 이글"
+  },
+  {
+   "key": "f4640ab3bafb",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・반덴 습격(1)"
+  },
+  {
+   "key": "ce32c460a022",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・반덴 습격(2)"
+  },
+  {
+   "key": "bbbed446726a",
+   "speaker_korean": "귀족맨",
+   "korean": "⟦1⟧「지금은 들어 있지 않느니라.\n⟦P⟧"
+  },
+  {
+   "key": "084720606d1c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・반덴 습격(3)"
+  },
+  {
+   "key": "b44dbdbf9928",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・반덴 등장"
+  },
+  {
+   "key": "3606b3d628f4",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・도그파이트"
+  },
+  {
+   "key": "787f95e57779",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・크리에이션포를 회피하는 디플로"
+  },
+  {
+   "key": "beca86730b95",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・인비저블 접근"
+  },
+  {
+   "key": "badcddf33947",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・마리아 각성"
+  },
+  {
+   "key": "f0d24b188802",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・디플로 이륙"
+  },
+  {
+   "key": "2290bbe5e515",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・집행자 일러스트"
+  },
+  {
+   "key": "b90acb7b9a26",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・방위 라인 돌파 및 지구 붕괴"
+  },
+  {
+   "key": "0154ebb8ab87",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・집행자Gl아쿠아에리"
+  },
+  {
+   "key": "62f5af43f888",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・플래드의 집 모니터"
+  },
+  {
+   "key": "d6f295c41af7",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・페이트 각성"
+  },
+  {
+   "key": "983009a9b83c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・크로셀Gl반덴 함"
+  },
+  {
+   "key": "d51d06d64647",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・아드레이의 감정도+80"
+  },
+  {
+   "key": "af36e84a3548",
+   "speaker_korean": "로빈 윈드",
+   "korean": "⟦1⟧「아드레이는 동료로 넣었습니까?\n⟦P⟧"
+  },
+  {
+   "key": "165503ae5d49",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・예"
+  },
+  {
+   "key": "4f30986063dd",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・아니오"
+  },
+  {
+   "key": "4954ac646410",
+   "speaker_korean": "로빈 윈드",
+   "korean": "⟦1⟧「아드레이는 동료로 넣어 두었습니까?\n⟦P⟧"
+  },
+  {
+   "key": "db4744913eec",
+   "speaker_korean": null,
+   "korean": "⟦1⟧아쿠아베리⟦2⟧를 손에 넣었다."
+  },
+  {
+   "key": "23bfc6729864",
+   "speaker_korean": null,
+   "korean": "⟦1⟧블랙베리⟦2⟧를 손에 넣었다."
+  },
+  {
+   "key": "5b4786c89dd4",
+   "speaker_korean": null,
+   "korean": "⟦1⟧600폴⟦2⟧을 손에 넣었다."
+  }
+ ]
+}

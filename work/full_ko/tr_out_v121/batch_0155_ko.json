@@ -1,0 +1,310 @@
+{
+ "batch_id": "batch_0155",
+ "translations": [
+  {
+   "key": "ac863b51f1b0",
+   "speaker_korean": "클리프",
+   "korean": "「뭐야, 그게.\n좀 더 순순히 존경 좀 못 하냐.\n역시 ⟦1⟧클리프⟦2⟧ 씨…라든가,\n천재적인 발상이라든가 말이지."
+  },
+  {
+   "key": "ba085a39e2b0",
+   "speaker_korean": "미라쥬",
+   "korean": "「즐거우신 것 같은데 죄송합니다만,"
+  },
+  {
+   "key": "0503be3cb18b",
+   "speaker_korean": "클리프",
+   "korean": "「무슨 일이야, ⟦1⟧미라쥬⟦2⟧?"
+  },
+  {
+   "key": "afb3a5257b31",
+   "speaker_korean": "미라쥬",
+   "korean": "「⟦1⟧중력 워프 코어⟦2⟧가 이상 과열 중입니다.\n즉시 감속하는 편이 좋을 것 같습니다.\n⟦P⟧…이대로 가면 엔진이 긴급 정지되고\n말 것입니다만."
+  },
+  {
+   "key": "e47ca0a1c058",
+   "speaker_korean": "클리프",
+   "korean": "「너 말이야… 그런 건 더 빨리 말하라고\n맨날 말했잖아!!\n얼른 통상 공간으로 돌아가!!"
+  },
+  {
+   "key": "f96a11ca8436",
+   "speaker_korean": "클리프",
+   "korean": "「뭐가?"
+  },
+  {
+   "key": "e92ddf9d1b96",
+   "speaker_korean": "클리프",
+   "korean": "「지금 어디쯤이야?"
+  },
+  {
+   "key": "aa9f75da173a",
+   "speaker_korean": "미라쥬",
+   "korean": "「현재 ⟦1⟧에리클 2호성⟦2⟧의\n인력권 내입니다."
+  },
+  {
+   "key": "7d0c9c135322",
+   "speaker_korean": "클리프",
+   "korean": "「에너지가 전부 나갔다면,\n통신도 못 쓰겠구먼….\n뭐, 그 녀석이라면 우리가\n예정 시간에 못 맞추면,\n뭔 일 있구나 하고 눈치채겠지."
+  },
+  {
+   "key": "7e2568e238a3",
+   "speaker_korean": "미라쥬",
+   "korean": "「그렇겠죠."
+  },
+  {
+   "key": "37ab73809e20",
+   "speaker_korean": "클리프",
+   "korean": "「어쩔 수 없지,\n⟦1⟧미라쥬⟦2⟧, 부탁한다."
+  },
+  {
+   "key": "e3901a1f877e",
+   "speaker_korean": "미라쥬",
+   "korean": "「…노력해 보겠습니다."
+  },
+  {
+   "key": "e08ad19bd4c2",
+   "speaker_korean": "페이트",
+   "korean": "「어떻게 할 거야?\n엔진이 긴급 정지했잖아?"
+  },
+  {
+   "key": "1a86f4a14fab",
+   "speaker_korean": "클리프",
+   "korean": "「일단, 추락하기 전에 착륙한다.\n나머지는 구조를 기다리는 거지."
+  },
+  {
+   "key": "d7c383ce8324",
+   "speaker_korean": "페이트",
+   "korean": "「괜찮은 거야?"
+  },
+  {
+   "key": "9bffdce732e0",
+   "speaker_korean": "클리프",
+   "korean": "「내 임무는 너를\n리더에게 만나게 하는 거다.\n그때까지는 확실히 지켜주마.\n뭐, 어떻게든 될 거야.\n큰 배에 탄 셈 치고 맡겨둬."
+  },
+  {
+   "key": "42466de23057",
+   "speaker_korean": "페이트",
+   "korean": "「큰 배라….\n침몰선만 아니면 좋겠는데."
+  },
+  {
+   "key": "e90857ba2847",
+   "speaker_korean": "클리프",
+   "korean": "「응? 뭐라고 했냐?"
+  },
+  {
+   "key": "ec6e1301188f",
+   "speaker_korean": "페이트",
+   "korean": "「아무것도 아니야."
+  },
+  {
+   "key": "b40f2b69f47d",
+   "speaker_korean": "미라쥬",
+   "korean": "「수다 떨다간 혀 깨물어요.\n저는 시체를 배달하는 임무 따위\n맡은 적 없으니까요."
+  },
+  {
+   "key": "2f4104d8f697",
+   "speaker_korean": "페이트",
+   "korean": "「…네."
+  },
+  {
+   "key": "b5bdf7c71569",
+   "speaker_korean": "클리프",
+   "korean": "「…알았어."
+  },
+  {
+   "key": "c9cb47e1b194",
+   "speaker_korean": "클리프",
+   "korean": "「뭐라고!?"
+  },
+  {
+   "key": "1c32fc5ce314",
+   "speaker_korean": "미라쥬",
+   "korean": "「30초 후에\n⟦1⟧에리클 2호성⟦2⟧으로 돌입합니다.\n두 분 다 충격에 대비해 주세요."
+  },
+  {
+   "key": "3201629d9b84",
+   "speaker_korean": "클리프",
+   "korean": "「젠장!"
+  },
+  {
+   "key": "e43574ef0104",
+   "speaker_korean": "미라쥬",
+   "korean": "「일반 엔진, ⟦1⟧중력 워프 엔진⟦2⟧\n모두 긴급 정지했습니다. 예비도 안 됩니다.\n⟦P⟧…큰 위기네요."
+  },
+  {
+   "key": "b409e632e706",
+   "speaker_korean": "미라쥬",
+   "korean": "「안 됩니다."
+  },
+  {
+   "key": "d87ffc8eafea",
+   "speaker_korean": "페이트",
+   "korean": "「어떡할 거야, 이런 데 떨어져 버려서….\n완전히 도시 한복판이잖아."
+  },
+  {
+   "key": "543d9a263432",
+   "speaker_korean": "클리프",
+   "korean": "「어떡하긴, 별수 없잖아.\n에너지 부족으로 조종간도 제대로\n못 잡았으니까 말이야.\n살아있는 것만으로도 감사하게 여겨."
+  },
+  {
+   "key": "13597a904dbc",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧미개척 행성 보호 조약⟦2⟧이고 뭐고 없어,\n이래서야.\n하아… 대체 어쩌면 좋은 거야?"
+  },
+  {
+   "key": "0c946f25fc96",
+   "speaker_korean": "미라쥬",
+   "korean": "⟦1⟧「이 별의 병사로 보이는 무리에게\n포위당했습니다…. 어떻게 하시겠습니까?"
+  },
+  {
+   "key": "8654a75cb9b6",
+   "speaker_korean": "미라쥬",
+   "korean": "⟦1⟧「그건 그렇습니다만…."
+  },
+  {
+   "key": "7da431eec5a6",
+   "speaker_korean": "클리프",
+   "korean": "「…어쩔 수 없나,\n일단 밖으로 나가볼까."
+  },
+  {
+   "key": "2fc70b42a6b5",
+   "speaker_korean": "페이트",
+   "korean": "「자, 잠깐만 기다려봐."
+  },
+  {
+   "key": "e0a73db3f388",
+   "speaker_korean": "페이트",
+   "korean": "「이렇게나 많은 ⟦1⟧미개척 행성⟦2⟧ 원주민과\n접촉했다간 큰일이야.\n애초에 그런 짓을 했다간,\n무슨 짓을 당할지 모르잖아!"
+  },
+  {
+   "key": "6a2e5131f47e",
+   "speaker_korean": "클리프",
+   "korean": "「별수 없잖아.\n달리 방법이 없다고.\n어차피 이런 상태에선,\n접촉하지 말라고 해도 무리인 얘기야."
+  },
+  {
+   "key": "c49b6a056c0b",
+   "speaker_korean": "페이트",
+   "korean": "「그건 그럴지도 모르지만…."
+  },
+  {
+   "key": "f8ea5959bfbc",
+   "speaker_korean": "클리프",
+   "korean": "「괜찮다니까.\n뭐, 내 감으로는,\n대뜸 죽임당할 일은 없어."
+  },
+  {
+   "key": "a8502cec2b13",
+   "speaker_korean": "클리프",
+   "korean": "「내 감은 꽤 잘 맞는다고 했잖아.\n아까도 어떻게든 됐잖냐.\n그렇지, ⟦1⟧미라쥬⟦2⟧?"
+  },
+  {
+   "key": "a6ab07c1b092",
+   "speaker_korean": "미라쥬",
+   "korean": "「지난번엔 그것 때문에 소행성에\n처박힐 뻔했는데요?\n잊으셨나요?"
+  },
+  {
+   "key": "a5e082d6058a",
+   "speaker_korean": "클리프",
+   "korean": "「그건……뭐, 그랬었지."
+  },
+  {
+   "key": "6eacb6d7450d",
+   "speaker_korean": "클리프",
+   "korean": "「어쨌든, 이렇게 된 이상\n움직일 수밖에 없잖아."
+  },
+  {
+   "key": "0e2b30d349ca",
+   "speaker_korean": "클리프",
+   "korean": "「뭐, 틀림없이 붙잡히긴 하겠지."
+  },
+  {
+   "key": "914c49b0dfe9",
+   "speaker_korean": "페이트",
+   "korean": "「그렇게 남 일처럼…."
+  },
+  {
+   "key": "1039192f9e56",
+   "speaker_korean": "클리프",
+   "korean": "「단, 밖에 나가는 건\n나랑 너뿐이다."
+  },
+  {
+   "key": "77469347bd20",
+   "speaker_korean": "클리프",
+   "korean": "「⟦1⟧미라쥬⟦2⟧에게는 타이밍을\n좀 늦춰서 탈출하게 할 거야."
+  },
+  {
+   "key": "80c1e6f5d349",
+   "speaker_korean": "페이트",
+   "korean": "「어, ⟦1⟧미라쥬⟦2⟧ 씨는\n어떻게 하는 건데?"
+  },
+  {
+   "key": "b151f349631d",
+   "speaker_korean": "클리프",
+   "korean": "「밤까지 기다렸다가,\n어둠을 틈타 가면 되지?"
+  },
+  {
+   "key": "17490d2eddad",
+   "speaker_korean": "미라쥬",
+   "korean": "「네.\n아마 문제없을 겁니다."
+  },
+  {
+   "key": "8a8de71c2637",
+   "speaker_korean": "페이트",
+   "korean": "「그런, ⟦1⟧미라쥬⟦2⟧ 씨\n혼자서…."
+  },
+  {
+   "key": "32d4620c5584",
+   "speaker_korean": "클리프",
+   "korean": "「너, 이 녀석이 ⟦1⟧클라우스트로인⟦2⟧\n이라는 거, 잊은 거 아니지?\n괜찮아.\n설령 들킨다 해도\n평범한 병사로는 상대가 안 돼."
+  },
+  {
+   "key": "e20616a65045",
+   "speaker_korean": "미라쥬",
+   "korean": "「탈출한 후엔 구조하러 오실 건가요?"
+  },
+  {
+   "key": "58ebff64def4",
+   "speaker_korean": "클리프",
+   "korean": "「필요 없어.\n아무래도 너 혼자 상대하기엔\n인원이 많아 보여.\n이쪽은 이쪽대로 어떻게든 할게.\n너는 여러 정보를 모아서,\n이 별에서 그 녀석과\n연락할 방법을 생각해 줘.\n무리해서 합류하려고\n하지 않아도 돼.\n그 녀석과 연락만 되면,\n우리가 어디에 있든\n위치 파악은 가능하니까.\n그다음에 회수해 주면 돼."
+  },
+  {
+   "key": "7908ba2848a3",
+   "speaker_korean": "미라쥬",
+   "korean": "「⟦1⟧페이트⟦2⟧ 씨…\n조심하세요."
+  },
+  {
+   "key": "5e3e66e87e24",
+   "speaker_korean": "페이트",
+   "korean": "「네. ⟦1⟧미라쥬⟦2⟧ 씨도요."
+  },
+  {
+   "key": "307d8f23d228",
+   "speaker_korean": "미라쥬",
+   "korean": "「⟦1⟧클리프⟦2⟧…."
+  },
+  {
+   "key": "009f004ff79a",
+   "speaker_korean": "미라쥬",
+   "korean": "「네…조심하세요."
+  },
+  {
+   "key": "2e11e96dc36b",
+   "speaker_korean": "클리프",
+   "korean": "「어떡하긴 너, 어떻게 할 도리가 없어.\n⟦1⟧이글호⟦2⟧는 완전히 박살 났다고.\n아무것도 할 수 없잖아.\n애초에 무사했다고 해도,\n공격할 수도 없잖아.\n아무리 그래도 그건 좀 위험해."
+  },
+  {
+   "key": "d0cdfee09ee5",
+   "speaker_korean": "페이트",
+   "korean": "「이봐 이봐…."
+  },
+  {
+   "key": "ad0c04ae6fb9",
+   "speaker_korean": "클리프",
+   "korean": "「자, 갈까."
+  },
+  {
+   "key": "51be532b3bf2",
+   "speaker_korean": "클리프",
+   "korean": "「괘애앤찮다니까.\n…나머진 부탁한다."
+  }
+ ]
+}

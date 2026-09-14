@@ -1,0 +1,650 @@
+{
+ "batch_id": "batch_0276",
+ "translations": [
+  {
+   "key": "e4671e4269a1",
+   "speaker_korean": null,
+   "korean": "비스콤 제독"
+  },
+  {
+   "key": "9510651bc8c5",
+   "speaker_korean": null,
+   "korean": "칼초네"
+  },
+  {
+   "key": "7bd34f0836c2",
+   "speaker_korean": null,
+   "korean": "브루클린 상사"
+  },
+  {
+   "key": "a6844d1ebbc9",
+   "speaker_korean": null,
+   "korean": "클라이브・에스티드"
+  },
+  {
+   "key": "5103965255e4",
+   "speaker_korean": null,
+   "korean": "쿄코・에스티드"
+  },
+  {
+   "key": "caa15e09566b",
+   "speaker_korean": null,
+   "korean": "스프레・로세티"
+  },
+  {
+   "key": "67a51b8e6c3e",
+   "speaker_korean": null,
+   "korean": "곤졸라"
+  },
+  {
+   "key": "593ff69acea8",
+   "speaker_korean": null,
+   "korean": "판나코타・로세티"
+  },
+  {
+   "key": "d692046254c4",
+   "speaker_korean": null,
+   "korean": "타르틀레트・로세티"
+  },
+  {
+   "key": "2f6398c1f30e",
+   "speaker_korean": null,
+   "korean": "노턴"
+  },
+  {
+   "key": "d7d522f79549",
+   "speaker_korean": null,
+   "korean": "노키아"
+  },
+  {
+   "key": "8885274276aa",
+   "speaker_korean": null,
+   "korean": "미나"
+  },
+  {
+   "key": "6a89f640997d",
+   "speaker_korean": null,
+   "korean": "소피아・에스티드 <2〉"
+  },
+  {
+   "key": "6083fd139165",
+   "speaker_korean": null,
+   "korean": "페이트・라인갓 <2〉"
+  },
+  {
+   "key": "9f3103f2d039",
+   "speaker_korean": null,
+   "korean": "토리라스・바쿠타인 박사"
+  },
+  {
+   "key": "3171462fecd1",
+   "speaker_korean": null,
+   "korean": "엘레인・로세티"
+  },
+  {
+   "key": "cc2ddf563c9e",
+   "speaker_korean": null,
+   "korean": "노턴 <2〉"
+  },
+  {
+   "key": "a01244e84cbe",
+   "speaker_korean": null,
+   "korean": "웰치・빈야드"
+  },
+  {
+   "key": "d322c5033d2a",
+   "speaker_korean": null,
+   "korean": "길드 마스터"
+  },
+  {
+   "key": "2ca3f4467a0c",
+   "speaker_korean": null,
+   "korean": "크로셀"
+  },
+  {
+   "key": "4ecd7eee6838",
+   "speaker_korean": null,
+   "korean": "복스 공작"
+  },
+  {
+   "key": "0be051d20899",
+   "speaker_korean": null,
+   "korean": "알벨・녹스"
+  },
+  {
+   "key": "e4c6eafb9d59",
+   "speaker_korean": null,
+   "korean": "아리글리프 13세"
+  },
+  {
+   "key": "4611e9f3b4de",
+   "speaker_korean": null,
+   "korean": "아리글리프 13세 <2〉"
+  },
+  {
+   "key": "5b359c5f568b",
+   "speaker_korean": null,
+   "korean": "엘레나・프라이어"
+  },
+  {
+   "key": "af61f1f9ccb3",
+   "speaker_korean": null,
+   "korean": "아리글리프 1세"
+  },
+  {
+   "key": "ce73f64542f5",
+   "speaker_korean": null,
+   "korean": "오드아이"
+  },
+  {
+   "key": "e2c7a3628a01",
+   "speaker_korean": null,
+   "korean": "알벨・녹스 <2〉"
+  },
+  {
+   "key": "40bddf04e00b",
+   "speaker_korean": null,
+   "korean": "아미나・레펠드"
+  },
+  {
+   "key": "9e8063c7e494",
+   "speaker_korean": null,
+   "korean": "그라오・녹스"
+  },
+  {
+   "key": "2ebc545726e5",
+   "speaker_korean": null,
+   "korean": "월터 백작"
+  },
+  {
+   "key": "8a59e0a3bb28",
+   "speaker_korean": null,
+   "korean": "월터 백작 <2〉"
+  },
+  {
+   "key": "8d8d8ff69189",
+   "speaker_korean": null,
+   "korean": "셸비"
+  },
+  {
+   "key": "59c9e1c3da94",
+   "speaker_korean": null,
+   "korean": "데메트리오"
+  },
+  {
+   "key": "bbd678bd4736",
+   "speaker_korean": null,
+   "korean": "넬・젤퍼"
+  },
+  {
+   "key": "13b29a49fd11",
+   "speaker_korean": null,
+   "korean": "넬・젤퍼 <2〉"
+  },
+  {
+   "key": "4434c275ed10",
+   "speaker_korean": null,
+   "korean": "클레어・라즈버드"
+  },
+  {
+   "key": "1c2201ec79c7",
+   "speaker_korean": null,
+   "korean": "알제이・반레이드"
+  },
+  {
+   "key": "2b195c9f91a4",
+   "speaker_korean": null,
+   "korean": "시하트 27세"
+  },
+  {
+   "key": "63bfdc5f35a8",
+   "speaker_korean": null,
+   "korean": "시하트 27세 <2〉"
+  },
+  {
+   "key": "73aed75ff701",
+   "speaker_korean": null,
+   "korean": "로메리아・진・에뮤릴"
+  },
+  {
+   "key": "74c8952c2fee",
+   "speaker_korean": null,
+   "korean": "네벨・젤퍼"
+  },
+  {
+   "key": "dabd9501d1a8",
+   "speaker_korean": null,
+   "korean": "아스톨・울프리히"
+  },
+  {
+   "key": "aab42a299a65",
+   "speaker_korean": null,
+   "korean": "타이네브"
+  },
+  {
+   "key": "57e256f22aae",
+   "speaker_korean": null,
+   "korean": "파린"
+  },
+  {
+   "key": "dd3e997e3fd0",
+   "speaker_korean": null,
+   "korean": "마리아・트레이터"
+  },
+  {
+   "key": "7f8907af7998",
+   "speaker_korean": null,
+   "korean": "마리아・트레이터 <2〉"
+  },
+  {
+   "key": "b39886025f06",
+   "speaker_korean": null,
+   "korean": "리벨"
+  },
+  {
+   "key": "34f19da2aeb1",
+   "speaker_korean": null,
+   "korean": "스팅"
+  },
+  {
+   "key": "9eb0bb4e81ba",
+   "speaker_korean": null,
+   "korean": "마리에타"
+  },
+  {
+   "key": "d1bf47a2bfc8",
+   "speaker_korean": null,
+   "korean": "실비아 1세"
+  },
+  {
+   "key": "a08167446b17",
+   "speaker_korean": null,
+   "korean": "디온・란다스"
+  },
+  {
+   "key": "f4136eb02c4b",
+   "speaker_korean": null,
+   "korean": "라셀 집정관"
+  },
+  {
+   "key": "bdb9198dafd8",
+   "speaker_korean": null,
+   "korean": "랭커"
+  },
+  {
+   "key": "1289bc13b028",
+   "speaker_korean": null,
+   "korean": "미라쥬・코스트"
+  },
+  {
+   "key": "69a2597e8e03",
+   "speaker_korean": null,
+   "korean": "미라쥬・코스트 <2〉"
+  },
+  {
+   "key": "0836f0b61fea",
+   "speaker_korean": null,
+   "korean": "클리프・피터"
+  },
+  {
+   "key": "5500b366a82d",
+   "speaker_korean": null,
+   "korean": "클리프・피터 <2〉"
+  },
+  {
+   "key": "4ee8a49f3e8b",
+   "speaker_korean": null,
+   "korean": "시하트 1세"
+  },
+  {
+   "key": "2a60c1eca127",
+   "speaker_korean": null,
+   "korean": "에데글리프"
+  },
+  {
+   "key": "75fd8b112ea1",
+   "speaker_korean": null,
+   "korean": "로날드・다인"
+  },
+  {
+   "key": "758d54c9b5a8",
+   "speaker_korean": null,
+   "korean": "발레리아의 무지개"
+  },
+  {
+   "key": "9f3c7808e12a",
+   "speaker_korean": null,
+   "korean": "크레스티아・다인"
+  },
+  {
+   "key": "630c4a6c7fd7",
+   "speaker_korean": null,
+   "korean": "제시・트레이터"
+  },
+  {
+   "key": "bd2d0d37788d",
+   "speaker_korean": null,
+   "korean": "실링 준장"
+  },
+  {
+   "key": "01ef2a6ec660",
+   "speaker_korean": null,
+   "korean": "비위그"
+  },
+  {
+   "key": "6c79d2c32659",
+   "speaker_korean": null,
+   "korean": "헤르메스 사령관"
+  },
+  {
+   "key": "e24cea7be3c3",
+   "speaker_korean": null,
+   "korean": "이자크"
+  },
+  {
+   "key": "fb5b360f6e6d",
+   "speaker_korean": null,
+   "korean": "로저・S・헉슬리"
+  },
+  {
+   "key": "296c55abc568",
+   "speaker_korean": null,
+   "korean": "아즈놀・S・T・헉슬리"
+  },
+  {
+   "key": "602d383441ac",
+   "speaker_korean": null,
+   "korean": "슈바이머"
+  },
+  {
+   "key": "74d399720722",
+   "speaker_korean": null,
+   "korean": "딕・트레이터"
+  },
+  {
+   "key": "190bbf5db4d1",
+   "speaker_korean": null,
+   "korean": "드라이브"
+  },
+  {
+   "key": "4332d1f35975",
+   "speaker_korean": null,
+   "korean": "멜트"
+  },
+  {
+   "key": "d9ae2f893cdd",
+   "speaker_korean": null,
+   "korean": "주디・갈런드"
+  },
+  {
+   "key": "8a7dc96d1f1a",
+   "speaker_korean": null,
+   "korean": "플러드・갈런드"
+  },
+  {
+   "key": "7972af59f032",
+   "speaker_korean": null,
+   "korean": "아자젤"
+  },
+  {
+   "key": "42b259d643d2",
+   "speaker_korean": null,
+   "korean": "벨리알"
+  },
+  {
+   "key": "418fa2587940",
+   "speaker_korean": null,
+   "korean": "벨제불"
+  },
+  {
+   "key": "aa5c7a615fd5",
+   "speaker_korean": null,
+   "korean": "블레어・란드벨드"
+  },
+  {
+   "key": "0a8ba5f759cc",
+   "speaker_korean": null,
+   "korean": "루시퍼・란드벨드"
+  },
+  {
+   "key": "9202739f71c8",
+   "speaker_korean": null,
+   "korean": "페이즈 캐논"
+  },
+  {
+   "key": "9a9a30b7df6d",
+   "speaker_korean": null,
+   "korean": "크리에이션 뱀"
+  },
+  {
+   "key": "8fe61187f5e9",
+   "speaker_korean": null,
+   "korean": "양자어뢰"
+  },
+  {
+   "key": "bd61088c2253",
+   "speaker_korean": null,
+   "korean": "페이즈건"
+  },
+  {
+   "key": "368269f027c5",
+   "speaker_korean": null,
+   "korean": "광자어뢰"
+  },
+  {
+   "key": "de6769f33a13",
+   "speaker_korean": null,
+   "korean": "전투탐사함"
+  },
+  {
+   "key": "aaf4020743a9",
+   "speaker_korean": null,
+   "korean": "전류"
+  },
+  {
+   "key": "92392668453a",
+   "speaker_korean": null,
+   "korean": "타임 패러독스"
+  },
+  {
+   "key": "2bab0cdc164c",
+   "speaker_korean": null,
+   "korean": "얼터네이션 <2〉"
+  },
+  {
+   "key": "8a7db3cd7441",
+   "speaker_korean": null,
+   "korean": "디스트럭션 <2〉"
+  },
+  {
+   "key": "ca2503cb15c5",
+   "speaker_korean": null,
+   "korean": "커넥션"
+  },
+  {
+   "key": "67ed136867ff",
+   "speaker_korean": null,
+   "korean": "이터널 스피어"
+  },
+  {
+   "key": "cd6498d4a510",
+   "speaker_korean": null,
+   "korean": "DNA"
+  },
+  {
+   "key": "b3a2b2739c41",
+   "speaker_korean": null,
+   "korean": "머티리얼 공간"
+  },
+  {
+   "key": "bbfd562f0de5",
+   "speaker_korean": null,
+   "korean": "하이젠베르크의 불확정성 원리"
+  },
+  {
+   "key": "1badbdf6b513",
+   "speaker_korean": null,
+   "korean": "다스바누"
+  },
+  {
+   "key": "685e8fd7ba91",
+   "speaker_korean": null,
+   "korean": "우주기지"
+  },
+  {
+   "key": "8aa2a5be2299",
+   "speaker_korean": null,
+   "korean": "전투전용함"
+  },
+  {
+   "key": "41b5969a0c50",
+   "speaker_korean": null,
+   "korean": "로세티 극단"
+  },
+  {
+   "key": "e0fea40ae82c",
+   "speaker_korean": null,
+   "korean": "섹터"
+  },
+  {
+   "key": "11772364ff5e",
+   "speaker_korean": null,
+   "korean": "쿼크"
+  },
+  {
+   "key": "273d4b1519e4",
+   "speaker_korean": null,
+   "korean": "아쿠아엘리"
+  },
+  {
+   "key": "3f1ab8b25890",
+   "speaker_korean": null,
+   "korean": "에너지 스톤"
+  },
+  {
+   "key": "da89deaa7231",
+   "speaker_korean": null,
+   "korean": "토아재단"
+  },
+  {
+   "key": "155466959369",
+   "speaker_korean": null,
+   "korean": "크리에이션 에너지"
+  },
+  {
+   "key": "b391071f1aca",
+   "speaker_korean": null,
+   "korean": "쿼드라틱 키"
+  },
+  {
+   "key": "c555f3b58a64",
+   "speaker_korean": null,
+   "korean": "쿼드라틱 스피어"
+  },
+  {
+   "key": "577b69bd3346",
+   "speaker_korean": null,
+   "korean": "스콜"
+  },
+  {
+   "key": "448cb55993a0",
+   "speaker_korean": null,
+   "korean": "쿼크 <2〉"
+  },
+  {
+   "key": "7479ccd57d0b",
+   "speaker_korean": null,
+   "korean": "중력 워프"
+  },
+  {
+   "key": "4fbca82534c5",
+   "speaker_korean": null,
+   "korean": "헤루아"
+  },
+  {
+   "key": "8ad5b3779655",
+   "speaker_korean": null,
+   "korean": "전송방해장치"
+  },
+  {
+   "key": "e54798ec2a79",
+   "speaker_korean": null,
+   "korean": "레플리케이터"
+  },
+  {
+   "key": "ab4f7a2001eb",
+   "speaker_korean": null,
+   "korean": "통신기"
+  },
+  {
+   "key": "d02c3ba09a4e",
+   "speaker_korean": null,
+   "korean": "질풍"
+  },
+  {
+   "key": "eddbffcb4b0e",
+   "speaker_korean": null,
+   "korean": "칠흑"
+  },
+  {
+   "key": "25dcfbd2b7de",
+   "speaker_korean": null,
+   "korean": "풍뢰"
+  },
+  {
+   "key": "b71dc73e9119",
+   "speaker_korean": null,
+   "korean": "시술병기"
+  },
+  {
+   "key": "0ebddc4d9e56",
+   "speaker_korean": null,
+   "korean": "물량선"
+  },
+  {
+   "key": "d920debebbce",
+   "speaker_korean": null,
+   "korean": "아페리스신"
+  },
+  {
+   "key": "cb06e38535df",
+   "speaker_korean": null,
+   "korean": "아페리스의 사자"
+  },
+  {
+   "key": "8702d226f146",
+   "speaker_korean": null,
+   "korean": "시술사"
+  },
+  {
+   "key": "c13bb4d093b4",
+   "speaker_korean": null,
+   "korean": "시술"
+  },
+  {
+   "key": "3f3395cf8966",
+   "speaker_korean": null,
+   "korean": "아페리스수"
+  },
+  {
+   "key": "ebff0110cfef",
+   "speaker_korean": null,
+   "korean": "비오의 바람"
+  },
+  {
+   "key": "7abba898b9f4",
+   "speaker_korean": null,
+   "korean": "시술병기연구소"
+  },
+  {
+   "key": "3b72175c0a41",
+   "speaker_korean": null,
+   "korean": "불꽃의 계승"
+  },
+  {
+   "key": "fb7b2a93bce6",
+   "speaker_korean": null,
+   "korean": "생식의 날"
+  }
+ ]
+}

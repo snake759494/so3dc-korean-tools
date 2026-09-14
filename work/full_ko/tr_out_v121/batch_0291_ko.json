@@ -1,0 +1,595 @@
+{
+ "batch_id": "batch_0291",
+ "translations": [
+  {
+   "key": "104697e59581",
+   "speaker_korean": null,
+   "korean": "그래비티・불릿"
+  },
+  {
+   "key": "4c28b6bbd6f5",
+   "speaker_korean": null,
+   "korean": "디스트로이드・클러스터"
+  },
+  {
+   "key": "300b32ba8304",
+   "speaker_korean": null,
+   "korean": "마이트・디스차지"
+  },
+  {
+   "key": "c89eef7c50b6",
+   "speaker_korean": null,
+   "korean": "마이트・해머"
+  },
+  {
+   "key": "9eec6112b677",
+   "speaker_korean": null,
+   "korean": "버스트・태클"
+  },
+  {
+   "key": "aec6ccea074b",
+   "speaker_korean": null,
+   "korean": "커런트・너클"
+  },
+  {
+   "key": "52bcd2f15671",
+   "speaker_korean": null,
+   "korean": "에어리얼・레이드"
+  },
+  {
+   "key": "7c985b964f6b",
+   "speaker_korean": null,
+   "korean": "플래시채리엇"
+  },
+  {
+   "key": "8405cbad976f",
+   "speaker_korean": null,
+   "korean": "빈・배거"
+  },
+  {
+   "key": "6e6e36af6924",
+   "speaker_korean": null,
+   "korean": "아크로바트・로커스"
+  },
+  {
+   "key": "12a1fd1c1f83",
+   "speaker_korean": null,
+   "korean": "부하"
+  },
+  {
+   "key": "b9a78792a7e6",
+   "speaker_korean": null,
+   "korean": "액막이"
+  },
+  {
+   "key": "7cdde7e63cb7",
+   "speaker_korean": null,
+   "korean": "뇌황파"
+  },
+  {
+   "key": "0c47f4292cfe",
+   "speaker_korean": null,
+   "korean": "풍진"
+  },
+  {
+   "key": "5d6c185a01f4",
+   "speaker_korean": null,
+   "korean": "동아"
+  },
+  {
+   "key": "27df006be1fe",
+   "speaker_korean": null,
+   "korean": "흑응선"
+  },
+  {
+   "key": "17f352ec83a2",
+   "speaker_korean": null,
+   "korean": "경면찰"
+  },
+  {
+   "key": "85b5e2132632",
+   "speaker_korean": null,
+   "korean": "열공광인"
+  },
+  {
+   "key": "ca51de9fed07",
+   "speaker_korean": null,
+   "korean": "공파참"
+  },
+  {
+   "key": "735bbe86b537",
+   "speaker_korean": null,
+   "korean": "충렬파"
+  },
+  {
+   "key": "d034901ed02b",
+   "speaker_korean": null,
+   "korean": "기공장"
+  },
+  {
+   "key": "87eb39bdc453",
+   "speaker_korean": null,
+   "korean": "쌍파참"
+  },
+  {
+   "key": "8961e4e37824",
+   "speaker_korean": null,
+   "korean": "후룡파"
+  },
+  {
+   "key": "ddb7aa40f6e7",
+   "speaker_korean": null,
+   "korean": "강마장"
+  },
+  {
+   "key": "ed54ba433d03",
+   "speaker_korean": null,
+   "korean": "마장벽"
+  },
+  {
+   "key": "9011de3ea594",
+   "speaker_korean": null,
+   "korean": "마광섬"
+  },
+  {
+   "key": "a95d61edc011",
+   "speaker_korean": null,
+   "korean": "환마조열파"
+  },
+  {
+   "key": "7f5ce29fc0bb",
+   "speaker_korean": null,
+   "korean": "히트・액스"
+  },
+  {
+   "key": "db5a09021727",
+   "speaker_korean": null,
+   "korean": "타렐・마인"
+  },
+  {
+   "key": "01db06953b7b",
+   "speaker_korean": null,
+   "korean": "히트・휩"
+  },
+  {
+   "key": "17fc9b8a7892",
+   "speaker_korean": null,
+   "korean": "스트림・어택"
+  },
+  {
+   "key": "6cbd88ba6300",
+   "speaker_korean": null,
+   "korean": "엑스・암"
+  },
+  {
+   "key": "efd15db8b9f7",
+   "speaker_korean": null,
+   "korean": "라스트・디치"
+  },
+  {
+   "key": "9cb95619242b",
+   "speaker_korean": null,
+   "korean": "지크・빔"
+  },
+  {
+   "key": "a318191a8946",
+   "speaker_korean": null,
+   "korean": "캐논・실드"
+  },
+  {
+   "key": "dc9ee6920807",
+   "speaker_korean": null,
+   "korean": "아잠・프리즌"
+  },
+  {
+   "key": "728660f4f17e",
+   "speaker_korean": null,
+   "korean": "프로즌・대거"
+  },
+  {
+   "key": "76519869f5a0",
+   "speaker_korean": null,
+   "korean": "샤이닝・댄스"
+  },
+  {
+   "key": "801e4cef311f",
+   "speaker_korean": null,
+   "korean": "프리즈믹・댄스"
+  },
+  {
+   "key": "8acd7b33af98",
+   "speaker_korean": null,
+   "korean": "패닉・댄스"
+  },
+  {
+   "key": "e14e12aac6df",
+   "speaker_korean": null,
+   "korean": "페어리・아츠"
+  },
+  {
+   "key": "c586dc8a75b3",
+   "speaker_korean": null,
+   "korean": "비욘드・루어"
+  },
+  {
+   "key": "9b57468556e3",
+   "speaker_korean": null,
+   "korean": "도큔・블래스트"
+  },
+  {
+   "key": "4006e81771d4",
+   "speaker_korean": null,
+   "korean": "파파파・스플래시"
+  },
+  {
+   "key": "42548af47ef2",
+   "speaker_korean": null,
+   "korean": "엔젤・포크"
+  },
+  {
+   "key": "8e88970f3e54",
+   "speaker_korean": null,
+   "korean": "아드레이 필살기6"
+  },
+  {
+   "key": "4a8b0ec423a9",
+   "speaker_korean": null,
+   "korean": "아드레이 필살기7"
+  },
+  {
+   "key": "6c21f6ed999a",
+   "speaker_korean": null,
+   "korean": "아드레이 필살기8"
+  },
+  {
+   "key": "ce23e58afd8d",
+   "speaker_korean": null,
+   "korean": "아드레이 필살기9"
+  },
+  {
+   "key": "5e3d59a7902f",
+   "speaker_korean": null,
+   "korean": "아드레이 필살기10"
+  },
+  {
+   "key": "125f42a2fcf5",
+   "speaker_korean": null,
+   "korean": "아드레이 필살기11"
+  },
+  {
+   "key": "c9bf50b47bc3",
+   "speaker_korean": null,
+   "korean": "미라쥬 필살기11"
+  },
+  {
+   "key": "c1c38768980f",
+   "speaker_korean": null,
+   "korean": "차지"
+  },
+  {
+   "key": "72ad90196b29",
+   "speaker_korean": null,
+   "korean": "에어리얼"
+  },
+  {
+   "key": "c34f61aeb699",
+   "speaker_korean": null,
+   "korean": "크로스카운터"
+  },
+  {
+   "key": "b8889655c14e",
+   "speaker_korean": null,
+   "korean": "마이티가드"
+  },
+  {
+   "key": "792ad110583e",
+   "speaker_korean": null,
+   "korean": "크리티컬"
+  },
+  {
+   "key": "b0ab2e84e5f8",
+   "speaker_korean": null,
+   "korean": "스턴"
+  },
+  {
+   "key": "cf4124c40481",
+   "speaker_korean": null,
+   "korean": "피어"
+  },
+  {
+   "key": "fbe63274e1e9",
+   "speaker_korean": null,
+   "korean": "드레인"
+  },
+  {
+   "key": "54aecd302202",
+   "speaker_korean": null,
+   "korean": "겟아이템"
+  },
+  {
+   "key": "244f20917a1b",
+   "speaker_korean": null,
+   "korean": "HP데미지업"
+  },
+  {
+   "key": "c31c0b57783d",
+   "speaker_korean": null,
+   "korean": "MP데미지업"
+  },
+  {
+   "key": "e234808f5817",
+   "speaker_korean": null,
+   "korean": "Guts데미지업"
+  },
+  {
+   "key": "2899e977cfa7",
+   "speaker_korean": null,
+   "korean": "스태미나업"
+  },
+  {
+   "key": "4d715440dd5f",
+   "speaker_korean": null,
+   "korean": "더블업"
+  },
+  {
+   "key": "a9a1ee0282dd",
+   "speaker_korean": null,
+   "korean": "가드리스"
+  },
+  {
+   "key": "4fd05c079518",
+   "speaker_korean": null,
+   "korean": "커먼어택스펠"
+  },
+  {
+   "key": "db5ba241e491",
+   "speaker_korean": null,
+   "korean": "커먼서포트스펠"
+  },
+  {
+   "key": "492c51488516",
+   "speaker_korean": null,
+   "korean": "레트로힐"
+  },
+  {
+   "key": "bd35eac47639",
+   "speaker_korean": null,
+   "korean": "멀티봄"
+  },
+  {
+   "key": "78954f2fb298",
+   "speaker_korean": null,
+   "korean": "MP익스텐드"
+  },
+  {
+   "key": "8626751e9f08",
+   "speaker_korean": null,
+   "korean": "퀵차지"
+  },
+  {
+   "key": "a349fcf01ce2",
+   "speaker_korean": null,
+   "korean": "크리티컬HP"
+  },
+  {
+   "key": "94653b578c00",
+   "speaker_korean": null,
+   "korean": "크리티컬MP"
+  },
+  {
+   "key": "51ef4db59282",
+   "speaker_korean": null,
+   "korean": "Guts익스텐드"
+  },
+  {
+   "key": "6fc9d2364592",
+   "speaker_korean": null,
+   "korean": "퍼스트에이드"
+  },
+  {
+   "key": "a8d2a735b299",
+   "speaker_korean": null,
+   "korean": "럭키스타"
+  },
+  {
+   "key": "3eb0c9f12159",
+   "speaker_korean": null,
+   "korean": "스킬"
+  },
+  {
+   "key": "e4576bbd32fd",
+   "speaker_korean": null,
+   "korean": "배틀스킬을 설정합니다"
+  },
+  {
+   "key": "6ce3e41607fc",
+   "speaker_korean": null,
+   "korean": "스테이터스 스킬의 SP를 분배합니다"
+  },
+  {
+   "key": "9961321b9085",
+   "speaker_korean": null,
+   "korean": "택티컬스킬을 전투 중에 발동할지 설정합니다"
+  },
+  {
+   "key": "b7fd0b67ac81",
+   "speaker_korean": null,
+   "korean": "문장술 사용 대상을 지정해 주세요"
+  },
+  {
+   "key": "5a02490eeabe",
+   "speaker_korean": null,
+   "korean": "「문장술을 사용합니다」로 전투 중 사용 가능/불가능 전환도 할 수 있습니다"
+  },
+  {
+   "key": "ff99b91151d6",
+   "speaker_korean": null,
+   "korean": "생명력"
+  },
+  {
+   "key": "1a9f82eb3649",
+   "speaker_korean": null,
+   "korean": "정신력"
+  },
+  {
+   "key": "9d5cca6db7fb",
+   "speaker_korean": null,
+   "korean": "공격술"
+  },
+  {
+   "key": "876a278bd7df",
+   "speaker_korean": null,
+   "korean": "간파"
+  },
+  {
+   "key": "7d364751c999",
+   "speaker_korean": null,
+   "korean": "습득"
+  },
+  {
+   "key": "77a58cc1fd4e",
+   "speaker_korean": null,
+   "korean": "신"
+  },
+  {
+   "key": "3b0a0ea5a923",
+   "speaker_korean": null,
+   "korean": "택티컬스킬"
+  },
+  {
+   "key": "f5f30e0b22de",
+   "speaker_korean": null,
+   "korean": "숙련도"
+  },
+  {
+   "key": "05098f62bccd",
+   "speaker_korean": null,
+   "korean": "발동 전환"
+  },
+  {
+   "key": "708925e3b9ad",
+   "speaker_korean": null,
+   "korean": "상세 설정"
+  },
+  {
+   "key": "24d72b717e50",
+   "speaker_korean": null,
+   "korean": "스킬을 종료합니다\n괜찮으시겠습니까?"
+  },
+  {
+   "key": "feab5210ad39",
+   "speaker_korean": null,
+   "korean": "발동."
+  },
+  {
+   "key": "547ed432c862",
+   "speaker_korean": null,
+   "korean": "소비MP"
+  },
+  {
+   "key": "b0447c82d18c",
+   "speaker_korean": null,
+   "korean": "그래비테이션"
+  },
+  {
+   "key": "fa6271be2349",
+   "speaker_korean": null,
+   "korean": "화염탄으로 적 공격하는 주문"
+  },
+  {
+   "key": "b3db013bb7d4",
+   "speaker_korean": null,
+   "korean": "전자장을 발생시켜\n적을 불태우는 주문"
+  },
+  {
+   "key": "adf7bc03d524",
+   "speaker_korean": null,
+   "korean": "뇌격으로 적 공격하는 주문"
+  },
+  {
+   "key": "562fab23ff5b",
+   "speaker_korean": null,
+   "korean": "무수한 얼음조각을 날려\n적을 공격하는 주문"
+  },
+  {
+   "key": "e8225f0c112b",
+   "speaker_korean": null,
+   "korean": "거대한 바위창을 발생시켜\n적을 공격하는 주문"
+  },
+  {
+   "key": "45b55028ed2a",
+   "speaker_korean": null,
+   "korean": "마계의 사악한 아기 악마를 소환해\n적을 잡아먹는 주문"
+  },
+  {
+   "key": "f836a95aab80",
+   "speaker_korean": null,
+   "korean": "불꽃 마신을 소환해\n적을 공격하는 주문"
+  },
+  {
+   "key": "7215593022cc",
+   "speaker_korean": null,
+   "korean": "주위에 냉기를 발생시켜\n적을 얼리는 주문"
+  },
+  {
+   "key": "6a3d32ad8546",
+   "speaker_korean": null,
+   "korean": "거대한 바위를 떨어뜨려\n적을 짓누르는 주문"
+  },
+  {
+   "key": "0fc2e3cbfadb",
+   "speaker_korean": null,
+   "korean": "무수한 레이저 광선으로\n적을 공격하는 주문"
+  },
+  {
+   "key": "adb830fa17a2",
+   "speaker_korean": null,
+   "korean": "초고온 폭염으로\n적을 매장하는 주문"
+  },
+  {
+   "key": "9bbbda44c7d5",
+   "speaker_korean": null,
+   "korean": "뇌격을 일으키는 최강 단일 주문"
+  },
+  {
+   "key": "b9c49a6883c3",
+   "speaker_korean": null,
+   "korean": "HP가 줄어든 적을 즉사시키는 주문"
+  },
+  {
+   "key": "98376c77c4e4",
+   "speaker_korean": null,
+   "korean": "마계의 대제를 소환해\n적을 소멸시키는 주문"
+  },
+  {
+   "key": "0dd5191bd231",
+   "speaker_korean": null,
+   "korean": "성스러운 십자가 결계를 발생시켜\n사악한 자를 정화하는 주문"
+  },
+  {
+   "key": "b87aeb362c6b",
+   "speaker_korean": null,
+   "korean": "우주에서 무수한 운석을 소환해\n적을 무찌르는 주문"
+  },
+  {
+   "key": "6f011b26dff2",
+   "speaker_korean": null,
+   "korean": "아군 한 명의 HP를 회복시키는 주문"
+  },
+  {
+   "key": "6b87b30e9de1",
+   "speaker_korean": null,
+   "korean": "아군 한 명의 공격력을 올리는 주문"
+  },
+  {
+   "key": "e6610807367e",
+   "speaker_korean": null,
+   "korean": "아군 한 명의 방어력을 올리는 주문"
+  },
+  {
+   "key": "59bafb539f37",
+   "speaker_korean": null,
+   "korean": "아군 한 명의 공격·방어·명중·회피·\n마법 방어력을 올리는 주문"
+  }
+ ]
+}

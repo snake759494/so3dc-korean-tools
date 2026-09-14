@@ -1,0 +1,345 @@
+{
+ "batch_id": "batch_0152",
+ "translations": [
+  {
+   "key": "79fcb38f3598",
+   "speaker_korean": null,
+   "korean": "⟦1⟧스틸 체인⟦2⟧을 입수했다."
+  },
+  {
+   "key": "15fe79b805db",
+   "speaker_korean": "페이트",
+   "korean": "「『⟦1⟧교역도시 페터니⟦2⟧』\n라고 적혀 있군."
+  },
+  {
+   "key": "b1afd5c64df3",
+   "speaker_korean": null,
+   "korean": "⟦1⟧천사의 흉상⟦2⟧을 입수했다."
+  },
+  {
+   "key": "8ebd495d928d",
+   "speaker_korean": "페이트",
+   "korean": "「여기서부터는 다른 지역으로\n나가버리는 것 같군.\n먼저 ⟦1⟧아미나⟦2⟧를 찾아야겠어."
+  },
+  {
+   "key": "f1624aca2170",
+   "speaker_korean": "???",
+   "korean": "「안 된다."
+  },
+  {
+   "key": "36535d512266",
+   "speaker_korean": "클리프",
+   "korean": "「뭐라고오?"
+  },
+  {
+   "key": "35bf04dd5020",
+   "speaker_korean": "마리아",
+   "korean": "「무슨 속셈이지?"
+  },
+  {
+   "key": "e6c3675b304e",
+   "speaker_korean": "???",
+   "korean": "「전쟁 종결 따위 인정 못 한다.\n⟦1⟧복스 님⟦2⟧께서 살아 계셨다면,\n그런 나약한 결정 따위는,\n힘으로 저지하셨을 것이다."
+  },
+  {
+   "key": "bacc7031e931",
+   "speaker_korean": "???",
+   "korean": "「내 이름은 ⟦1⟧슈바이머⟦2⟧다. ⟦3⟧복스 님⟦4⟧,\n⟦5⟧데메트리오 님⟦6⟧이 돌아가신 후 ⟦7⟧질풍⟦8⟧을 이끄는 자다.\n⟦9⟧복스 님⟦10⟧의 뜻에 어긋나는 화평 따위 인정 못 한다!!"
+  },
+  {
+   "key": "c94dc2ec6ffd",
+   "speaker_korean": "시하트 27세",
+   "korean": "「왕께서는… 알고 계십니까?"
+  },
+  {
+   "key": "e51e67dd0f1a",
+   "speaker_korean": "슈바이머",
+   "korean": "「하! 모를 리가 있겠나.\n왕께서는 이미 도착해 계신다.\n네놈이 오기를\n기다리고 계실 것이다!"
+  },
+  {
+   "key": "565a36b01166",
+   "speaker_korean": "넬",
+   "korean": "「무례하다…\n폐하께 어찌 그런 망발을!"
+  },
+  {
+   "key": "4e78197e3e7f",
+   "speaker_korean": "시하트 27세",
+   "korean": "「그렇다면 들여보내라."
+  },
+  {
+   "key": "48b85d7a4301",
+   "speaker_korean": "슈바이머",
+   "korean": "「안 된다고 하지 않았느냐!\n⟦1⟧시하츠⟦2⟧는 ⟦3⟧아리그리프⟦4⟧에 의해\n지배당하는 것이 최선이다!!\n화평 따위 맺어질까 보냐!!!"
+  },
+  {
+   "key": "54291844a7aa",
+   "speaker_korean": "클리프",
+   "korean": "「너, 바보냐?"
+  },
+  {
+   "key": "0b610092efd2",
+   "speaker_korean": "마리아",
+   "korean": "「어쩔 수 없네.\n다들, 이 바보님한테\n세상 이치를 가르쳐 주자고."
+  },
+  {
+   "key": "1d71c7d9a4c4",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧질풍⟦2⟧?"
+  },
+  {
+   "key": "a06f5729a6c3",
+   "speaker_korean": "넬",
+   "korean": "「당신들, 무슨 볼일이야?\n우린 당신들 왕을 만나러\n가는 길이야.\n알았으면 거기 비켜!"
+  },
+  {
+   "key": "d2b52312a780",
+   "speaker_korean": "넬",
+   "korean": "「⟦1⟧에리클⟦2⟧…이네."
+  },
+  {
+   "key": "1493dc41ec6c",
+   "speaker_korean": "알벨",
+   "korean": "「흥…\n질리도록 본 곳이군."
+  },
+  {
+   "key": "fb54dca6f965",
+   "speaker_korean": "로저",
+   "korean": "「대박이다!\n순식간에 이런 데까지\n오다니 말이야!"
+  },
+  {
+   "key": "53adb8d31dcb",
+   "speaker_korean": "페이트",
+   "korean": "「…그럴 리가.\n역시 우리는 만들어진 존재라는 건가…\n아버지의 죽음도…,\n⟦1⟧아미나⟦2⟧와 ⟦3⟧디오르⟦4⟧네의 죽음도\n만들어진 일이라는 거냐!"
+  },
+  {
+   "key": "3379c9122e11",
+   "speaker_korean": "마리아",
+   "korean": "「하지만 말이야…,\n만들어진 존재라 해도, 우리는 살아있어.\n그것도 엄연한 사실이잖아?\n우리가 현실이라고 생각하면,\n그건 우리에게 있어 현실이며,\n진실인 거야."
+  },
+  {
+   "key": "9dfe8ab9c696",
+   "speaker_korean": "클리프",
+   "korean": "「그래. 우리한텐 아직 할 수 있는 일이 있어.\n그 개짓거리하는 창조왕을 박살 내는 큰일이 말이야."
+  },
+  {
+   "key": "607eed7cd656",
+   "speaker_korean": "스프레",
+   "korean": "「응!"
+  },
+  {
+   "key": "77307c40a643",
+   "speaker_korean": "소피아",
+   "korean": "「그런데 우리가 정말로\n창조왕인 ⟦1⟧4D인⟦2⟧을 쓰러뜨릴 수\n있을까?"
+  },
+  {
+   "key": "ed8d6c6015d3",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧시랜드⟦2⟧로 향하자."
+  },
+  {
+   "key": "9d3d0c62585a",
+   "speaker_korean": "질풍",
+   "korean": "「어이!\n⟦1⟧알벨⟦2⟧ 나리한테\n부탁받았는데,\n⟦3⟧아리그리프⟦4⟧까지 데려다주마!"
+  },
+  {
+   "key": "599f070c9749",
+   "speaker_korean": "넬",
+   "korean": "「저건…!?"
+  },
+  {
+   "key": "1f7f82fb1cc3",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧타이네브 씨⟦2⟧!\n⟦3⟧파린 씨⟦4⟧!"
+  },
+  {
+   "key": "bcb8f3e2c34f",
+   "speaker_korean": "클리프",
+   "korean": "「젠장,\n다 도망친 게 아니었나!?"
+  },
+  {
+   "key": "404d6ffb557e",
+   "speaker_korean": "알벨",
+   "korean": "「음?"
+  },
+  {
+   "key": "3a0c3499cfa2",
+   "speaker_korean": "알벨",
+   "korean": "「뭔가 재밌는 일을 벌인다 싶어서\n와봤더니…,\n너희가 얽혀 있을 줄이야.\n놀러 오길 잘한 모양이군."
+  },
+  {
+   "key": "81eecc14569c",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧알벨⟦2⟧!"
+  },
+  {
+   "key": "15609f5efded",
+   "speaker_korean": "알벨",
+   "korean": "「안됐군.\n너희의 소중한 짐은\n우리가 압류했다."
+  },
+  {
+   "key": "cd2bf05c8566",
+   "speaker_korean": "타이네브",
+   "korean": "「으…으윽…"
+  },
+  {
+   "key": "b785270e73f6",
+   "speaker_korean": "파린",
+   "korean": "「…죄송해요…"
+  },
+  {
+   "key": "5b4533680440",
+   "speaker_korean": "넬",
+   "korean": "「⟦1⟧알벨 녹스⟦2⟧!\n당신, 잘도 내 부하들을\n이렇게 만들어줬겠다!"
+  },
+  {
+   "key": "3ddce3e09e29",
+   "speaker_korean": "알벨",
+   "korean": "「음, 아아, 이놈들 말이냐?\n짐을 압수하려 했더니\n반항하기에\n가볍게 상대해 줬을 뿐이다."
+  },
+  {
+   "key": "206163f072ae",
+   "speaker_korean": "파린",
+   "korean": "「…아…아파요…"
+  },
+  {
+   "key": "6533939bcdeb",
+   "speaker_korean": "넬",
+   "korean": "「용서 못 해…"
+  },
+  {
+   "key": "411b5097a238",
+   "speaker_korean": null,
+   "korean": "보아하니 너희도 예전보다는\n즐길 수 있을 것 같으니까 말이지."
+  },
+  {
+   "key": "d825636ad9e4",
+   "speaker_korean": "클리프",
+   "korean": "「해볼 테면 해봐.\n여유 부린 걸\n후회하게 만들어주마!"
+  },
+  {
+   "key": "a568d393d572",
+   "speaker_korean": "알벨",
+   "korean": "「그거 기대되는군…\n뭐, 마음껏 힘내 보아라."
+  },
+  {
+   "key": "b5011f7ecedc",
+   "speaker_korean": "페이트",
+   "korean": "「우오오오오옷!"
+  },
+  {
+   "key": "58328e70eda3",
+   "speaker_korean": "페이트",
+   "korean": "「가자,\n⟦1⟧클리프⟦2⟧."
+  },
+  {
+   "key": "3b66a28e92af",
+   "speaker_korean": "알벨",
+   "korean": "「하기야 전혀 손맛이 없었다만.\n하하하하핫!"
+  },
+  {
+   "key": "0d49012fe854",
+   "speaker_korean": "알벨",
+   "korean": "「빌어먹을…,\n그럴 리가!"
+  },
+  {
+   "key": "390fd1bf0b1c",
+   "speaker_korean": "클리프",
+   "korean": "「아직도 하겠다는 거냐?"
+  },
+  {
+   "key": "527a6cb4a078",
+   "speaker_korean": "알벨",
+   "korean": "「…당연하지!\n이 내가 네놈들 따위에게!\n크윽…!!"
+  },
+  {
+   "key": "abfe1f2dc3b3",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧타이네브 씨 일행⟦2⟧을 어서 의사에게\n보이는 게 좋겠어.\n게다가 ⟦3⟧구리⟦4⟧도 무사하고.\n이런 곳에 있어봤자 소용없잖아."
+  },
+  {
+   "key": "f26b166ac91e",
+   "speaker_korean": "넬",
+   "korean": "「…그렇네."
+  },
+  {
+   "key": "ddc4d3f76b21",
+   "speaker_korean": "클리프",
+   "korean": "「근데 말이야, 이놈, 여기서\n해치우는 게 낫지 않겠냐?"
+  },
+  {
+   "key": "b56da2894b91",
+   "speaker_korean": "페이트",
+   "korean": "「그럴지도 모르지만.\n그래도 나한테는 약자 괴롭히는\n취미는 없어."
+  },
+  {
+   "key": "0dfe6bca0573",
+   "speaker_korean": "클리프",
+   "korean": "「하하, 그거 좋네.\n그래. 약자 괴롭히는 건\n좋지 않은 거지."
+  },
+  {
+   "key": "03af38d4c81b",
+   "speaker_korean": "페이트",
+   "korean": "「그래…, 서두르자."
+  },
+  {
+   "key": "2e756d1ed330",
+   "speaker_korean": "알벨",
+   "korean": "「…크아아아아아아아아아아악!!"
+  },
+  {
+   "key": "2576d8b76ee9",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「서둘러서 ⟦2⟧시랜드⟦3⟧에\n돌아가야…\n⟦P⟧"
+  },
+  {
+   "key": "15c03c4478ed",
+   "speaker_korean": "파린",
+   "korean": "「꺄욱!"
+  },
+  {
+   "key": "203e6943fca7",
+   "speaker_korean": "알벨",
+   "korean": "「닥쳐라, 버러지."
+  },
+  {
+   "key": "06d9c73b6025",
+   "speaker_korean": "페이트",
+   "korean": "「너…"
+  },
+  {
+   "key": "a73da95533d9",
+   "speaker_korean": "알벨",
+   "korean": "「왜냐하면 말이지, 꽤나 욕구불만이라서.\n그러니 오늘은 봐주지 않겠다."
+  },
+  {
+   "key": "4dac5e13bcf2",
+   "speaker_korean": "알벨",
+   "korean": "「…제법이군…하지만…,\n크헉!!"
+  },
+  {
+   "key": "827c20dd259c",
+   "speaker_korean": null,
+   "korean": "…그와 함께."
+  },
+  {
+   "key": "0e67fee928b5",
+   "speaker_korean": "페이트",
+   "korean": "「여기서 ⟦1⟧시랜드⟦2⟧까지는 꽤 머네…\n제련소로 돌아가서 한번 쉬는 것도\n괜찮을지도 몰라."
+  },
+  {
+   "key": "4db7e3d3f9f6",
+   "speaker_korean": null,
+   "korean": "⟦1⟧동광⟦2⟧을 입수했다."
+  },
+  {
+   "key": "399a6e88aed2",
+   "speaker_korean": null,
+   "korean": "⟦1⟧집필 소재⟦2⟧를 입수했다."
+  },
+  {
+   "key": "fe6d5fb33fd0",
+   "speaker_korean": null,
+   "korean": "⟦1⟧세공 소재⟦2⟧를 입수했다."
+  }
+ ]
+}
