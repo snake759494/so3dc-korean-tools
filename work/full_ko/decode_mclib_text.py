@@ -80,9 +80,11 @@ def decode_segment(b, base=301):
     return ''.join(out), complete, nlocal
 
 if __name__ == '__main__':
-    p = r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2\work\mclib_all_decode\unique_exact_segments.csv"
+    _ws = os.environ.get(
+        "SO3_WS", os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+    p = os.path.join(_ws, "work", "mclib_all_decode", "unique_exact_segments.csv")
     outp = sys.argv[1] if len(sys.argv) > 1 else 'decoded_segments.tsv'
-    root = r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2\work\full_unpack\disc1"
+    root = os.path.join(_ws, "work", "full_unpack", "disc1")
     n = 0
     with open(outp, 'w', encoding='utf-8') as out:
         out.write("archive\tstream\tmsgid\toccurrences\tbytes\tcomplete\tnlocal\ttext\tpath\n")

@@ -15,7 +15,7 @@ from PIL import Image
 
 import fis_repaint as F
 
-OUT = Path(r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2\work\img_ko")
+OUT = Path(__file__).resolve().parent
 PREV = OUT / "preview"
 PATCHED = OUT / "patched"
 PREV.mkdir(exist_ok=True)

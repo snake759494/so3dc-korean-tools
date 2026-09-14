@@ -20,7 +20,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-WS = Path(r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2\work\img_ko")
+WS = Path(__file__).resolve().parent
 PLAN = WS / "john_supplement_d1.json"
 
 

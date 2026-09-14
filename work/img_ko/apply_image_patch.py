@@ -22,9 +22,12 @@ import sys
 import tempfile
 from pathlib import Path
 
-WS = Path(r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2\work\img_ko")
+WS = Path(__file__).resolve().parent
+_PUBLISH = WS.parent.parent / "publish" / "so3dc-korean-tools"
+if not (_PUBLISH / "so3_repack.py").exists():
+    _PUBLISH = WS.parent.parent  # repo checkout: the clone root IS the workspace
 sys.path.insert(0, str(WS))
-sys.path.insert(0, str(WS.parent.parent / "publish" / "so3dc-korean-tools"))
+sys.path.insert(0, str(_PUBLISH))
 from so3_repack import decompress_slz_payload  # noqa: E402
 
 INPUT_ISO = Path(r"D:\ps2\SO3_DC_Disc1_Korean_Full.iso")

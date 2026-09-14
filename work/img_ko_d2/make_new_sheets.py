@@ -7,7 +7,7 @@ import json
 from pathlib import Path
 from PIL import Image, ImageDraw
 
-OUT = Path(r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2\work\img_ko_d2")
+OUT = Path(__file__).resolve().parent
 SHEETS = OUT / "sheets"
 PER_SHEET = 6
 PAD, LABEL_H = 12, 30

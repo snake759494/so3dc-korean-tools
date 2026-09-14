@@ -7,7 +7,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw
 
 # disc-1 default; disc-2: --out ..\img_ko_d2
-OUT = Path(r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2\work\img_ko")
+OUT = Path(__file__).resolve().parent
 SHEETS = OUT / "sheets"
 
 # review priority: lower number = reviewed first (most likely to hold JP text)

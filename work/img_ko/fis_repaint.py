@@ -16,6 +16,7 @@ rewritten; the FIS header + CLUT bytes are preserved verbatim.
 """
 from __future__ import annotations
 
+import os
 import struct
 import sys
 from pathlib import Path
@@ -23,12 +24,15 @@ from pathlib import Path
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
-FONT_PATH = Path(r"D:\ps2\NanumSquareNeo-cBd.ttf")
+FONT_PATH = Path(os.environ.get("SO3_FONT", r"D:\ps2\NanumSquareNeo-cBd.ttf"))
 
 # ---- wiring to the shipped SLZ tools ----
-_ROOT = Path(r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2")
-sys.path.insert(0, str(_ROOT / "publish" / "so3dc-korean-tools"))
-sys.path.insert(0, str(_ROOT / "work" / "full_ko"))
+_ROOT = Path(os.environ.get("SO3_WS", str(Path(__file__).resolve().parents[2])))
+_PUBLISH = _ROOT / "publish" / "so3dc-korean-tools"
+if not (_PUBLISH / "so3_repack.py").exists():
+    _PUBLISH = _ROOT  # repo checkout: the clone root IS the workspace
+sys.path.insert(0, str(_PUBLISH))
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "full_ko"))
 from so3_repack import read_slz_member, decompress_slz_payload  # noqa: E402
 from slz_optimal import compress_slz_mode2_optimal  # noqa: E402
 
@@ -444,7 +448,8 @@ _TARGETS = [
     (2254, 38032, 2738800464, None),   # neighbor (English copy) - inspect only
 ]
 
-_ORIG_ISO = Path("D:/ps2/Star Ocean Till the End of Time Director's Cut (Disc 1).iso")
+_ORIG_ISO = Path(os.environ.get(
+    "SO3_ISO_D1", "D:/ps2/Star Ocean Till the End of Time Director's Cut (Disc 1).iso"))
 
 
 def _selftest():

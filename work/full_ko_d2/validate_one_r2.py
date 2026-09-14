@@ -19,7 +19,7 @@ import validate_translations as V  # noqa: E402
 BATCHES = os.path.join(D2, "tr_batches_r2")
 OUT = os.path.join(D2, "tr_out_r2")
 CATALOG = os.path.join(D2, "container_catalog.csv")
-FONT = r"D:\ps2\NanumSquareNeo-cBd.ttf"
+FONT = os.environ.get("SO3_FONT", r"D:\ps2\NanumSquareNeo-cBd.ttf")
 
 
 def main():

@@ -1,5 +1,5 @@
 import json, os
-WS = r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2\work\full_ko"
+WS = os.path.dirname(os.path.abspath(__file__))
 d = json.load(open(os.path.join(WS, "glossary_batches.json"), encoding="utf-8"))
 bd = os.path.join(WS, "glossary_batches")
 os.makedirs(bd, exist_ok=True)

@@ -29,7 +29,7 @@ fail-closed 검증이 중단시키며, 강행하면 결과 보증이 없습니�
 ## 1. 저장소 클론 = 작업 폴더
 
 ```powershell
-git clone https://github.com/snake759494/so3dc-korean-tools.git
+git clone https://github.com/snake7594/so3dc-korean-tools.git
 cd so3dc-korean-tools
 pip install -r requirements.txt
 ```
@@ -265,4 +265,4 @@ python work/full_ko/build_inventory.py --catalog work/full_ko_d2/container_catal
 | 게임 ISO·추출 리소스·원문 텍스트 덤프 | 저작권 | 본인 디스크에서 언팩(2단계)·인벤토리(A-1)로 재생성 |
 | `NanumSquareNeo-cBd.ttf` | 폰트 재배포 대신 공식 배포처 안내 | 0단계 링크에서 다운로드 후 SHA 확인 |
 | 언팩 산출물·카탈로그·리포트류 | 전부 재생성 가능한 파생물 | 이 문서 2~3단계 |
-| 완성 패치(xdelta) | 저장소 대신 GitHub Releases로 배포 | [Releases](https://github.com/snake759494/so3dc-korean-tools/releases) |
+| 완성 패치(xdelta) | 저장소 대신 GitHub Releases로 배포 | [Releases](https://github.com/snake7594/so3dc-korean-tools/releases) |

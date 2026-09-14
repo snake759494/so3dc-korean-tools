@@ -49,7 +49,7 @@ from pathlib import Path
 if __name__ == "__main__":
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
 
-WS = Path(os.environ.get("SO3_WS", r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2"))
+WS = Path(os.environ.get("SO3_WS", str(Path(__file__).resolve().parents[2])))
 D2_ROOT = WS / "work" / "full_unpack" / "disc2"
 OUT_DIR = WS / "work" / "full_ko_d2"
 DISC1_CATALOG = WS / "work" / "mclib_all_decode" / "container_catalog.csv"

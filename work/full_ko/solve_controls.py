@@ -56,7 +56,7 @@ import time
 from collections import Counter, defaultdict
 from pathlib import Path
 
-WS = Path(os.environ.get("SO3_WS", r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2"))
+WS = Path(os.environ.get("SO3_WS", str(Path(__file__).resolve().parents[2])))
 # Disc-1 defaults; disc-2 runs override with --catalog / --out-dir (the catalog
 # rows carry absolute decoded paths, so no separate decoded-root is needed).
 CATALOG = WS / "work" / "mclib_all_decode" / "container_catalog.csv"

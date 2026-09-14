@@ -31,7 +31,8 @@ sys.path.insert(0, FULL_KO)
 import so3_full_patch as P  # noqa: E402
 from patch_hyda_dialogue import GLOBAL_CODE_MAP  # noqa: E402
 
-ISO = Path(r"D:\ps2\Star Ocean Till the End of Time Director's Cut (Disc 1).iso")
+ISO = Path(os.environ.get(
+    "SO3_ISO_D1", r"D:\ps2\Star Ocean Till the End of Time Director's Cut (Disc 1).iso"))
 PLAN = os.path.join(FULL_KO, "patch_plan_full.json")
 PREFIX_BACKUP = os.path.join(FULL_KO, "patch_plan_full.prefix.json")
 COVERAGE = os.path.join(FULL_KO, "coverage_report.json")

@@ -54,13 +54,15 @@ from collections import Counter, defaultdict
 if __name__ == "__main__":
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
 
-WS = r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2"
-FULL_KO = os.path.join(WS, "work", "full_ko")
+WS = os.environ.get(
+    "SO3_WS",
+    os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+FULL_KO = os.path.dirname(os.path.abspath(__file__))
 DEF_BATCHES = os.path.join(FULL_KO, "tr_batches")
 DEF_OUT = os.path.join(FULL_KO, "tr_out")
 DEF_REPORT = os.path.join(FULL_KO, "tr_validation_report.json")
 DEF_CATALOG = os.path.join(WS, r"work\mclib_all_decode\container_catalog.csv")
-DEF_FONT = r"D:\ps2\NanumSquareNeo-cBd.ttf"
+DEF_FONT = os.environ.get("SO3_FONT", r"D:\ps2\NanumSquareNeo-cBd.ttf")
 FONT_SIZE = 22
 NANUM_MIN, NANUM_MAX = 1, 24
 

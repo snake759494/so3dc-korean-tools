@@ -387,6 +387,7 @@ def _load_repack():
     here = Path(__file__).resolve()
     for cand in (
         here.parents[2] / "publish" / "so3dc-korean-tools",
+        here.parents[2],  # repo checkout: so3_repack.py sits at the clone root
         Path(r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2\publish\so3dc-korean-tools"),
     ):
         if (cand / "so3_repack.py").exists():
@@ -426,7 +427,8 @@ def _synthetic_cases():
 
 def _pick_real_files(count: int) -> list:
     import csv
-    catalog = Path(r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2\work\mclib_all_decode\container_catalog.csv")
+    catalog = Path(os.environ.get(
+        "SO3_WS", str(Path(__file__).resolve().parents[2]))) / "work" / "mclib_all_decode" / "container_catalog.csv"
     seen = set()
     rows = []
     with catalog.open(newline="", encoding="utf-8") as f:

@@ -52,8 +52,10 @@ import sys
 from dataclasses import dataclass, field
 from pathlib import Path
 
-WS = Path(__file__).resolve().parents[2]
+WS = Path(os.environ.get("SO3_WS", str(Path(__file__).resolve().parents[2])))
 _PUBLISH = WS / "publish" / "so3dc-korean-tools"
+if not (_PUBLISH / "so3_repack.py").exists():
+    _PUBLISH = WS  # repo checkout: the clone root IS the workspace
 for _p in (str(_PUBLISH), str(Path(__file__).resolve().parent)):
     if _p not in sys.path:
         sys.path.insert(0, _p)
@@ -76,7 +78,7 @@ except ImportError:  # pragma: no cover - numpy is present in the build env
 # constants: names, kana byte assignment, converter facts
 # ---------------------------------------------------------------------------
 
-DEFAULT_FONT = Path(r"D:\ps2\NanumSquareNeo-cBd.ttf")
+DEFAULT_FONT = Path(os.environ.get("SO3_FONT", r"D:\ps2\NanumSquareNeo-cBd.ttf"))
 RENDER_PX = 22
 GRAY_LEVELS = 2
 GLYPH_CELL = 24

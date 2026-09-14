@@ -18,7 +18,8 @@ import csv, hashlib, json, struct
 from collections import defaultdict
 from pathlib import Path
 
-WS = Path(r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2\work")
+import os
+WS = Path(os.environ.get("SO3_WS", str(Path(__file__).resolve().parents[2]))) / "work"
 D1 = WS / "full_unpack" / "disc1"
 D2 = WS / "full_unpack" / "disc2"
 KO1 = WS / "img_ko"

@@ -14,11 +14,11 @@ FULL_KO = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, FULL_KO)
 import validate_translations as V  # noqa: E402
 
-WS = r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2"
+WS = os.environ.get("SO3_WS", os.path.dirname(os.path.dirname(FULL_KO)))
 BATCHES = os.path.join(FULL_KO, "tr_batches")
 OUT = os.path.join(FULL_KO, "tr_out")
 CATALOG = os.path.join(WS, r"work\mclib_all_decode\container_catalog.csv")
-FONT = r"D:\ps2\NanumSquareNeo-cBd.ttf"
+FONT = os.environ.get("SO3_FONT", r"D:\ps2\NanumSquareNeo-cBd.ttf")
 STATUS = os.path.join(FULL_KO, "batch_status.json")
 
 

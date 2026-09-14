@@ -42,8 +42,10 @@ from collections import Counter, defaultdict
 if __name__ == "__main__":
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
 
-WS = os.environ.get("SO3_WS", r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2")
-FULL_KO = os.path.join(WS, "work", "full_ko")
+WS = os.environ.get(
+    "SO3_WS",
+    os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+FULL_KO = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, FULL_KO)
 from decode_mclib_text import G  # global 292-slot transcription table
 

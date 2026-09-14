@@ -12,12 +12,13 @@ from pathlib import Path
 import verify_full_iso as VF
 import so3_full_patch as SF
 
-WS = Path(r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2")
-ISO = Path(r"D:\ps2\Star Ocean Till the End of Time Director's Cut (Disc 1).iso")
+WS = Path(os.environ.get("SO3_WS", str(Path(__file__).resolve().parents[2])))
+ISO = Path(os.environ.get(
+    "SO3_ISO_D1", r"D:\ps2\Star Ocean Till the End of Time Director's Cut (Disc 1).iso"))
 CATALOG = WS / "work" / "mclib_all_decode" / "container_catalog.csv"
 MANIFEST = WS / "work" / "full_unpack" / "disc1" / "manifests" / "stream_manifest.csv"
 CONTROLS = FULL_KO + os.sep + "control_sizes_full.json"
-FONT = Path(r"D:\ps2\NanumSquareNeo-cBd.ttf")
+FONT = Path(os.environ.get("SO3_FONT", r"D:\ps2\NanumSquareNeo-cBd.ttf"))
 
 _index = None
 _manifest = None

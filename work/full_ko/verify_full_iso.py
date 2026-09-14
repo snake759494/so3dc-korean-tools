@@ -85,6 +85,8 @@ from PIL import Image, ImageDraw, ImageFont
 
 WS = Path(os.environ.get("SO3_WS", str(Path(__file__).resolve().parents[2])))
 PUBLISH = WS / "publish" / "so3dc-korean-tools"
+if not (PUBLISH / "so3_repack.py").exists():
+    PUBLISH = WS  # repo checkout: the clone root IS the workspace
 if str(PUBLISH) not in sys.path:
     sys.path.insert(0, str(PUBLISH))
 
@@ -164,8 +166,8 @@ DEFAULTS = {
     "tr_out_dir": WS / "work" / "full_ko" / "tr_out",
     "catalog": WS / "work" / "mclib_all_decode" / "container_catalog.csv",
     "manifest": WS / "work" / "full_unpack" / "disc1" / "manifests" / "stream_manifest.csv",
-    "font": Path(r"D:\ps2\NanumSquareNeo-cBd.ttf"),
-    "xdelta": Path(r"D:\ps2\xdelta.exe"),
+    "font": Path(os.environ.get("SO3_FONT", r"D:\ps2\NanumSquareNeo-cBd.ttf")),
+    "xdelta": Path(os.environ.get("SO3_XDELTA", r"D:\ps2\xdelta.exe")),
 }
 
 

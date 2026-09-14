@@ -28,7 +28,7 @@ from pathlib import Path
 import numpy as np
 from PIL import Image
 
-WS = Path(os.environ.get("SO3_WS", r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2")) / "work"
+WS = Path(os.environ.get("SO3_WS", str(Path(__file__).resolve().parents[2]))) / "work"
 # Disc-1 defaults; disc-2: --disc-root work\full_unpack\disc2 --out work\img_ko_d2
 DISC = WS / "full_unpack" / "disc1"
 MANIFEST = DISC / "manifests" / "stream_manifest.csv"

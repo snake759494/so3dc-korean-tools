@@ -3,9 +3,9 @@
 import io, json, sys, os
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
-WS = r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2"
-RAW = os.path.join(WS, r"work\full_ko\glossary_terms_raw.json")
-OUT = os.path.join(WS, r"work\full_ko\glossary_batches.json")
+_HERE = os.path.dirname(os.path.abspath(__file__))
+RAW = os.path.join(_HERE, "glossary_terms_raw.json")
+OUT = os.path.join(_HERE, "glossary_batches.json")
 
 NAME_CATS = ["item_name", "valuable", "symbology", "place_facility",
              "battle_skill", "enemy", "ic_short", "battle_db_other"]

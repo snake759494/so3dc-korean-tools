@@ -38,9 +38,11 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Callable, Sequence
 
-WS = Path(os.environ.get("SO3_WS", r"C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2"))
+WS = Path(os.environ.get("SO3_WS", str(Path(__file__).resolve().parents[2])))
 PUBLISH = WS / "publish" / "so3dc-korean-tools"
-FULL_KO = WS / "work" / "full_ko"
+if not (PUBLISH / "so3_repack.py").exists():
+    PUBLISH = WS  # repo checkout: the clone root IS the workspace
+FULL_KO = Path(__file__).resolve().parent
 for _p in (str(PUBLISH), str(PUBLISH / "tools"), str(FULL_KO)):
     if _p not in sys.path:
         sys.path.insert(0, _p)
@@ -69,7 +71,7 @@ CONTROL_TABLE_PATH = FULL_KO / "control_sizes_full.json"
 STREAM_MANIFEST_PATH = WS / "work" / "full_unpack" / "disc1" / "manifests" / "stream_manifest.csv"
 CONTAINER_CATALOG_PATH = WS / "work" / "mclib_all_decode" / "container_catalog.csv"
 BITMAP_MAP_24_PATH = WS / "work" / "font_ocr" / "glyph_mapping_ordered_24.json"
-DEFAULT_FONT_PATH = Path(r"D:\ps2\NanumSquareNeo-cBd.ttf")
+DEFAULT_FONT_PATH = Path(os.environ.get("SO3_FONT", r"D:\ps2\NanumSquareNeo-cBd.ttf"))
 FONT_GRAY_LEVELS = 2
 FONT_PIXEL_SIZE = 22
 
