@@ -5,7 +5,7 @@
 
 ## 경로
 - 작업 루트: `C:\Users\Jay\Documents\Codex\2026-07-13\d-3-ps2` (이하 WS)
-- 저장소: `WS\publish\so3dc-korean-tools` → github.com/snake7594/so3dc-korean-tools (main aa4e3cf, v0.4.0-alpha.1 릴리즈됨)
+- 저장소: `WS\publish\so3dc-korean-tools` → github.com/snake759494/so3dc-korean-tools (main aa4e3cf, v0.4.0-alpha.1 릴리즈됨)
 - 원본 ISO: `D:\ps2\Star Ocean Till the End of Time Director's Cut (Disc 1).iso` (SHA256 95CC4E25..., 4,689,854,464 bytes)
 - Disc2 ISO 동일 폴더. 숨김 인덱스 동일 포맷 확인(6144 엔트리, 5715 비어있지 않음) → 파이프라인 재사용 가능
 - 전체 패치 산출물 폴더: `WS\work\full_ko\`
