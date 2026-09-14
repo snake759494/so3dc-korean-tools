@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "title": "Star Ocean 3 DC 일본어 번역 대상 카탈로그",
+  "status": "partial_catalog",
+  "game": {
+    "title": "Star Ocean 3 Till the End of Time Director's Cut",
+    "platform": "PlayStation 2",
+    "disc": 1,
+    "archive_id": 1220,
+    "stream_id": 6194,
+    "slz_mode": 2
+  },
+  "purpose": "초반 장면에서 확인된 일본어 텍스트와 번역이 필요한 메시지 위치를 한 파일에 정리한다.",
+  "source_root": "analysis_workspace",
+  "font_mapping_table": {
+    "path": "work/dialogue_locator/font_mapping_table.json",
+    "global_slots": 292,
+    "local_and_special_slots": 184141,
+    "unique_bitmap_shapes": 5338,
+    "unicode_assigned_slots": 9812,
+    "unicode_direct_slots": 156,
+    "unicode_propagated_slots": 9656,
+    "unknown_slots": 174621
+  },
+  "japanese_dialogue_json": {
+    "path": "work/dialogue_locator/all_dialogue_targets_ja_v2.json",
+    "schema_version": 2,
+    "unique_font_context_containers": 1516,
+    "messages_in_unique_font_contexts": 183065,
+    "messages_all_occurrences": 401957,
+    "complete_records": 20835,
+    "partial_unmapped_glyph_records": 111150,
+    "unresolved_control_records": 51080,
+    "control_policy": "strict"
+  },
+  "confirmed_texts": [
+    {
+      "message_id": 3,
+      "text_offset": 393,
+      "kind": "signage",
+      "confidence": "rendered_original_png",
+      "source_text": "1階客室通路",
+      "translation_preview": "1층 객실 통로",
+      "message_hex": "b202d002d102b602d202d30200",
+      "source_artifact": "work/first_dialogue/original_render/message_000003.png",
+      "source_row": "work/first_dialogue/original_render/messages.csv"
+    },
+    {
+      "message_id": 5,
+      "text_offset": 406,
+      "kind": "opening_dialogue",
+      "confidence": "token_decode_and_render_evidence",
+      "source_text": "ソフィア\n「ねぇ、フェイト、\nココのホテルってさぁ…。\n104号室が無いよね。\nこれって何でなのかな?",
+      "translation_preview": "소피아\n「페이트, 봐.\n이 호텔은…\n104호가 없어.\n왜?",
+      "message_hex": "8a800000803f888006868000000000938002878080808a800000803f88800790026446eb01888005938001888007ed0184808180a701a70165bb01b001c6014b5f57439c02ed0180808580cdcc4c3eb202b302b802b502b6027ab9024e7264ed0180808580cdcccc3e56764b5fce02870161655261f1018480818000",
+      "source_artifact": "work/dialogue_locator/target_tokens.csv",
+      "source_row": "work/first_dialogue/original_render/messages.csv"
+    },
+    {
+      "message_id": 14,
+      "text_offset": 654,
+      "kind": "hotel_notice",
+      "confidence": "rendered_original_png",
+      "source_text": "当ホテルのプライベートビーチには\n一切の人工生物が使用されておりません。",
+      "translation_preview": "당ホテルのプライベートビーチには\n일절の인공생물が사용されておりません。",
+      "message_hex": "d402bb01b001c60165e201c4019f01de019d01b101dc019d01ae0162668080d502d60265d702d802d902da027adb02dc0257765f51746b5a79ed0180808580cdcc4c3edd028701666b8101de027675df0265e002e1026154614b5c8080e202e30265e402e3024251e502586ce602574eed018480818000",
+      "source_artifact": "work/first_dialogue/original_render/message_000014.png",
+      "source_row": "work/first_dialogue/original_render/messages.csv"
+    }
+  ],
+  "length_sample_20": [
+    { "length_bytes": 10, "source_text": "澤村 栄公", "archive_id": 66, "stream_id": 57, "message_id": 393, "text_offset": 2268 },
+    { "length_bytes": 11, "source_text": "真手打ちそば", "archive_id": 88, "stream_id": 205, "message_id": 50554, "text_offset": 10811 },
+    { "length_bytes": 12, "source_text": "HP回復77777", "archive_id": 3454, "stream_id": 60027, "message_id": 1247, "text_offset": 8307 },
+    { "length_bytes": 13, "source_text": "お姫様の実験場", "archive_id": 94, "stream_id": 252, "message_id": 76044, "text_offset": 59482 },
+    { "length_bytes": 14, "source_text": "リーベルの部屋", "archive_id": 1688, "stream_id": 25688, "message_id": 1, "text_offset": 0 },
+    { "length_bytes": 15, "source_text": "ダークハンター", "archive_id": 3454, "stream_id": 60029, "message_id": 267, "text_offset": 4331 },
+    { "length_bytes": 16, "source_text": "鉱山町カルサアB", "archive_id": 85, "stream_id": 201, "message_id": 13602, "text_offset": 855 },
+    { "length_bytes": 17, "source_text": "ブレイズシンボル", "archive_id": 77, "stream_id": 70, "message_id": 50113, "text_offset": 3244 },
+    { "length_bytes": 18, "source_text": "鋼製の半身鎧", "archive_id": 87, "stream_id": 203, "message_id": 76327, "text_offset": 75263 },
+    { "length_bytes": 19, "source_text": "Preemptive Attack", "archive_id": 38, "stream_id": 19, "message_id": 1134, "text_offset": 16744 },
+    { "length_bytes": 20, "source_text": "チンケな者どもを瞬殺する", "archive_id": 88, "stream_id": 205, "message_id": 70676, "text_offset": 59059 },
+    { "length_bytes": 21, "source_text": "スフィア211　1階", "archive_id": 2737, "stream_id": 51283, "message_id": 1, "text_offset": 0 },
+    { "length_bytes": 22, "source_text": "「あー地上も久しぶりだわねぇ", "archive_id": 85, "stream_id": 201, "message_id": 13825, "text_offset": 585 },
+    { "length_bytes": 23, "source_text": "水没都市 サーフェリオ", "archive_id": 1538, "stream_id": 19973, "message_id": 1, "text_offset": 0 },
+    { "length_bytes": 24, "source_text": "アドレー ： 必殺技 8", "archive_id": 79, "stream_id": 85, "message_id": 6713, "text_offset": 7704 },
+    { "length_bytes": 25, "source_text": "風属性呪紋ダメージ+30%", "archive_id": 95, "stream_id": 280, "message_id": 70118, "text_offset": 46633 },
+    { "length_bytes": 26, "source_text": "「俺は、", "archive_id": 85, "stream_id": 201, "message_id": 13911, "text_offset": 1759 },
+    { "length_bytes": 27, "source_text": "戦闘中 敵を気絶させる 広範囲", "archive_id": 6068, "stream_id": 61963, "message_id": 1000, "text_offset": 16540 },
+    { "length_bytes": 28, "source_text": "General store Fairy Tear", "archive_id": 1775, "stream_id": 28119, "message_id": 10418, "text_offset": 5600 },
+    { "length_bytes": 29, "source_text": "また…?", "archive_id": 2645, "stream_id": 46948, "message_id": 139, "text_offset": 1475 }
+  ],
+  "early_message_candidates": [
+    {
+      "message_id": 1,
+      "text_offset": 0,
+      "status": "needs_glyph_decode_or_ocr",
+      "kind": "early_scene_text",
+      "source_artifact": "work/first_dialogue/original_render/message_000001.png"
+    },
+    {
+      "message_id": 2,
+      "text_offset": 168,
+      "status": "needs_glyph_decode_or_ocr",
+      "kind": "early_scene_text",
+      "source_artifact": "work/first_dialogue/original_render/message_000002.png"
+    },
+    {
+      "message_id": 6,
+      "text_offset": 530,
+      "status": "needs_glyph_decode_or_ocr",
+      "kind": "early_scene_dialogue",
+      "source_artifact": "work/first_dialogue/original_render/message_000006.png"
+    },
+    {
+      "message_id": 21,
+      "text_offset": 773,
+      "status": "needs_glyph_decode_or_ocr",
+      "kind": "early_scene_dialogue",
+      "source_artifact": "work/first_dialogue/original_render/message_000021.png"
+    },
+    {
+      "message_id": 22,
+      "text_offset": 893,
+      "status": "needs_glyph_decode_or_ocr",
+      "kind": "early_scene_dialogue",
+      "source_artifact": "work/first_dialogue/original_render/message_000022.png"
+    },
+    {
+      "message_id": 23,
+      "text_offset": 939,
+      "status": "needs_glyph_decode_or_ocr",
+      "kind": "early_scene_dialogue",
+      "source_artifact": "work/first_dialogue/original_render/message_000023.png"
+    },
+    {
+      "message_id": 24,
+      "text_offset": 990,
+      "status": "needs_glyph_decode_or_ocr",
+      "kind": "early_scene_dialogue",
+      "source_artifact": "work/first_dialogue/original_render/message_000024.png"
+    },
+    {
+      "message_id": 25,
+      "text_offset": 1066,
+      "status": "needs_glyph_decode_or_ocr",
+      "kind": "early_scene_dialogue",
+      "source_artifact": "work/first_dialogue/original_render/message_000025.png"
+    },
+    {
+      "message_id": 29,
+      "text_offset": 1149,
+      "status": "needs_glyph_decode_or_ocr",
+      "kind": "early_scene_dialogue",
+      "source_artifact": "work/first_dialogue/original_render/message_000029.png"
+    },
+    {
+      "message_id": 30,
+      "text_offset": 1217,
+      "status": "needs_glyph_decode_or_ocr",
+      "kind": "early_scene_dialogue",
+      "source_artifact": "work/first_dialogue/original_render/message_000030.png"
+    },
+    {
+      "message_id": 31,
+      "text_offset": 1276,
+      "status": "needs_glyph_decode_or_ocr",
+      "kind": "early_scene_dialogue",
+      "source_artifact": "work/first_dialogue/original_render/message_000031.png"
+    }
+  ],
+  "known_kanji_targets": [
+    { "japanese": "号", "korean_reading": "호", "local_index": 8, "original_code": 309, "patched_code": 315 },
+    { "japanese": "室", "korean_reading": "실", "local_index": 9, "original_code": 310, "patched_code": 316 },
+    { "japanese": "無", "korean_reading": "무", "local_index": 12, "original_code": 313, "patched_code": 319 },
+    { "japanese": "何", "korean_reading": "하", "local_index": 33, "original_code": 334, "patched_code": 340 },
+    { "japanese": "当", "korean_reading": "당", "local_index": 39, "original_code": 340, "patched_code": 346 },
+    { "japanese": "一", "korean_reading": "일", "local_index": 40, "original_code": 341, "patched_code": 347 },
+    { "japanese": "切", "korean_reading": "절", "local_index": 41, "original_code": 342, "patched_code": 348 },
+    { "japanese": "人", "korean_reading": "인", "local_index": 42, "original_code": 343, "patched_code": 349 },
+    { "japanese": "工", "korean_reading": "공", "local_index": 43, "original_code": 344, "patched_code": 350 },
+    { "japanese": "生", "korean_reading": "생", "local_index": 44, "original_code": 345, "patched_code": 351 },
+    { "japanese": "物", "korean_reading": "물", "local_index": 45, "original_code": 346, "patched_code": 352 },
+    { "japanese": "使", "korean_reading": "사", "local_index": 46, "original_code": 347, "patched_code": 353 },
+    { "japanese": "用", "korean_reading": "용", "local_index": 47, "original_code": 348, "patched_code": 354 }
+  ],
+  "source_files": [
+    "work/first_dialogue/original_render/messages.csv",
+    "work/dialogue_locator/target.json",
+    "work/dialogue_locator/target_tokens.csv",
+    "docs/EARLY_KANJI_READING_PATCH.md"
+  ],
+  "limitations": [
+    "현재 확정 문자열은 렌더링 이미지 또는 토큰 분석으로 직접 확인한 항목만 수록했다.",
+    "candidate 항목은 메시지 위치는 확인됐지만 전체 글리프 코드의 Unicode 대응표가 없어 일본어 문자열을 추측하지 않았다.",
+    "전체 Disc 1에는 37,172개의 unique message segment가 있어 이 파일은 초반 archive 1220의 1차 카탈로그다."
+  ]
+}

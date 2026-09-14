@@ -1,0 +1,62 @@
+{
+  "release": "v0.2.0-alpha.1",
+  "translation": [
+    "소피아",
+    "「페이트, 봐.",
+    "이 호텔은…",
+    "104호가 없어.",
+    "왜?"
+  ],
+  "original_iso": {
+    "size": 4689854464,
+    "sha256": "95CC4E25AC71DE7C6263AA2E544910DE30667EA3BA62726CF4A019F24B038826"
+  },
+  "patched_iso": {
+    "size": 4689854464,
+    "sha256": "BBC366A55DA0C2C985BB7E5329A7D2FE8674913995EEB4C81E9674C1E42AF27C"
+  },
+  "xdelta": {
+    "size": 49228,
+    "sha256": "D0F053E5972D7F1E4C045D706DE028C00513DC814641A9A093BFAB3571C2788B",
+    "round_trip_matches_patched_iso": true
+  },
+  "release_zip": {
+    "size": 41822,
+    "sha256": "1B7C7E48F440D7F2B82CD65D0E31F025ED6F472FBBE83DE69922629875237893",
+    "contains_ofl_license": true
+  },
+  "font": {
+    "family": "Noto Sans CJK KR",
+    "style": "Regular",
+    "version": "2.004",
+    "copyright": "Copyright © 2014-2021 Adobe",
+    "source": "https://github.com/notofonts/noto-cjk/blob/523d033d6cb47f4a80c58a35753646f5c3608a78/Sans/OTF/Korean/NotoSansCJKkr-Regular.otf",
+    "license": "SIL Open Font License 1.1",
+    "sha256": "6BCB2A0703AA137E874FC2DFFA85F6C21BA9A67FA329E81B8C801663AF7E992A",
+    "cell": "24x24",
+    "render_size": 22,
+    "gray_levels": 4,
+    "pillow_version": "11.1.0"
+  },
+  "hidden_index_unchanged": true,
+  "archive_8_roots_checked": 4,
+  "archive_1220_first_pk1_records": {
+    "checked": 12,
+    "unchanged": 11,
+    "changed": 1
+  },
+  "archive_1220_root_slz_streams_from_local_manifest": {
+    "checked": 63,
+    "unchanged": 62,
+    "changed": 1
+  },
+  "full_diff": {
+    "bytes_scanned": 4689854464,
+    "changed_bytes": 1014473,
+    "changed_outside_authorized_archives": 0,
+    "changed_by_archive": {
+      "global_font_archive": 25258,
+      "dialogue_archive_1220": 989215
+    }
+  }
+}

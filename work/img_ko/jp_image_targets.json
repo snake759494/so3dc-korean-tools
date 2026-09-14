@@ -1,0 +1,57 @@
+{
+  "fixed_text": [
+    {
+      "label": "40:25 strt 512x256 8b",
+      "jp_text": "テレビに関する設定を行います\n音の再生環境について設定します\nイベントスキップについて設定します\n一部のイベントのボイスについて設定します\nコントローラの振動について設定します\nゲームの難易度を設定します\nこの設定はゲーム中にも変更できます",
+      "notes": "3행3열 썸네일. Initial Settings(初期設定) 각 항목의 설명문 7줄. 반투명 남색 배경 위 흰 일본어 텍스트. 대응 영문판은 같은 시트의 '40:24 Initial Settings' 라벨/메뉴 텍스처. 텍스처 전체가 일본어."
+    },
+    {
+      "label": "42:36 strt 512x512 8b",
+      "jp_text": "Star Ocean Till the End of Time D.C. を\n\"PlayStation BB Unit\"にインストールします。",
+      "notes": "1행5열 썸네일. STAR OCEAN 로고 + Install / YES / NO(영문 그래픽)로 구성된 인스톨 확인 화면. 우측 하단에 작은 흰색 일본어 안내문 2줄(설치 대상 안내)만 일본어. 나머지는 영문/로고."
+    },
+    {
+      "label": "44:41 strt 512x512 8b",
+      "jp_text": "Star Ocean Till the End of Time で使用されている\nBGMを聞くことができます。",
+      "notes": "2행4열 썸네일. Music Mode 화면. 메뉴 항목(Music/Play/Stop/Play Mode/Analyzer Mode)과 dB 다이얼은 영문. 하단에 흰색 일본어 설명문 2줄만 일본어."
+    },
+    {
+      "label": "2254:38031 John 512x512 4b",
+      "jp_text": "DISC 1 に\n入れ替えて下さい\n\nDISC 2 に\n入れ替えて下さい\n\nディスクが違います\n正しいディスクを\nセットして下さい\n\nディスクの\n読み込みに\n失敗しました\n\nディスクを\nチェック中. . .\n\nディスクが\n入っていません\n正しいディスクを\nセットして下さい",
+      "notes": "2행 1열 위치(512x512, 4bpp). 디스크 교체/체크/오류 시스템 메시지 아틀라스. 각 메시지가 일반(흰색 반투명) 버전과 강조(검정 배경) 버전 두 벌로 배치됨. 라벨 하단 <TEXT> 태그 있음. 바로 오른쪽 2254:38032(512x512 4b)는 동일 메시지의 영어판이라 대상 아님. 이 시트에서 실제 일본어 픽셀이 렌더된 유일한 텍스처."
+    }
+  ],
+  "attack_labels": [
+    {
+      "label": "47:49 strt 320x208 24b",
+      "jp_text": "カーレント・ナックル",
+      "notes": "전투 데모 스크린샷 텍스처(320x208 24bpp). 상단 중앙에 흰색 필살기명 카타카나 + 하단에 'SPECIAL ATTACK' 영문. 좌상단 'Range SHORT' HUD는 영문."
+    },
+    {
+      "label": "47:52 strt 320x208 24b",
+      "jp_text": "突きまくり",
+      "notes": "전투 데모 스크린샷. 상단 중앙 흰색 필살기명(한자+히라가나) + 'SPECIAL ATTACK' 영문. 페이트 계열 근접 필살기."
+    },
+    {
+      "label": "47:55 strt 320x208 24b",
+      "jp_text": "ブレード・リアクター",
+      "notes": "전투 데모 스크린샷. 상단 중앙 흰색 필살기명 카타카나 + 'SPECIAL ATTACK' 영문."
+    },
+    {
+      "label": "47:56 strt 320x208 24b",
+      "jp_text": "ファイアボルト",
+      "notes": "전투 데모 스크린샷. 상단 중앙 흰색 술법명 카타카나 + 하단 'HERALDRY'(문장술) 영문 라벨. 좌하단 파티 HP/MP 게이지 표시."
+    }
+  ],
+  "font_grids": [
+    {
+      "label": "8:12 SHI 256x256 4b",
+      "notes": "Bottom row, 4th tile (labeled <TEXT>). Upper ~half is a hiragana+katakana font atlas in gojuon order (あいうえお…わをん / アイウエオ…ワヲン incl. dakuten/handakuten rows and 0-9・ーN), lower half is English button glyphs (SELECT/START/R3/L3/L1/R1/L2/R2). Only the kana grid is Japanese."
+    }
+  ],
+  "summary": {
+    "fixed_text_count": 4,
+    "attack_label_count": 4,
+    "font_grid_count": 1
+  }
+}

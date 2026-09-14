@@ -1,0 +1,72 @@
+# ---- binary / game-derived artifacts: never commit ----
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.iso
+*.bin
+*.elf
+*.slz
+*.slzpayload
+*.mclib
+*.xdelta
+*.ttf
+*.otf
+*.p2s
+*.p2s.backup
+bin/
+obj/
+output/
+
+# ---- user-generated workspace outputs (rebuilt from your own disc dump) ----
+# The unpacked disc trees (raw archives + decoded resources)
+work/full_unpack/
+
+# Inventory / unit files contain the ORIGINAL Japanese text extracted from the
+# disc — regenerate locally with build_inventory.py; never commit.
+work/**/inventory_containers.json
+work/**/inventory_stats.json
+work/**/translation_units*.jsonl
+work/**/tr_batches/
+work/**/tr_batches_r1/
+work/**/tr_batches_r2/
+work/**/batches_v121/
+work/**/relabel_units_*.jsonl
+work/**/relabel_worklist.json
+work/**/full_text_dump.tsv
+work/**/unique_exact_segments.csv
+work/mclib_all_decode/
+
+# Raw (pre-final) translation rounds — the canonical merged set tr_out_v121/ IS tracked
+work/full_ko/tr_out/
+work/full_ko/tr_out_r1/
+work/full_ko_d2/tr_out/
+work/full_ko_d2/tr_out_merged/
+work/full_ko_d2/tr_out_r2/
+
+# Regenerated catalogs / reports / logs
+work/**/container_catalog.csv
+work/**/container_catalog_report.json
+work/**/texture_catalog.json
+work/**/*.log
+work/**/*_stdout*.txt
+work/**/sim_report*.json
+work/**/sim_stdout*
+work/**/build_report*.json
+work/**/build_stdout*
+work/**/verify_full_report*.json
+work/**/*_report.json
+work/**/*_report_*.json
+work/**/batch_status.json
+work/**/tr_validation_report*.json
+work/**/tr_validation_report*.jsonl
+work/**/coverage_report*.json
+
+# Texture decode / repaint outputs (contain game-derived pixels)
+work/**/png/
+work/**/preview/
+work/**/patched/
+work/**/sheets/
+work/**/sle_decoded/
+work/**/glyph_sheets/
+work/**/glyph_audit_evidence/*.png
+work/**/glyph_audit_evidence/*.json

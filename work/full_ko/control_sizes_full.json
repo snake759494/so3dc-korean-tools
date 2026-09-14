@@ -1,0 +1,635 @@
+{
+  "_meta": {
+    "grammar": {
+      "terminator": "0x00 at token boundary ends the message",
+      "glyph": "b<0x80: 1-byte code; b0>=0x80,b1<0x80: code=(b0&0x7F)|(b1<<7)",
+      "control": "b0>=0x80,b1>=0x80: index=((b0&0x7F)|(b1<<7))-0x4000; index<0x24 dispatches, otherwise the pair is skipped with no operand (engine bounds check)",
+      "on_disc": "all real controls use b1==0x80 (family=b0&0x7F)"
+    },
+    "elf_module": {
+      "source": "raw/0002.sle member_01 (decrypted, work/executable_mapping/decoded/member_01_off_00011DC4_va_003E7C80.bin)",
+      "sha256": "E10283983CB167AE0E430320360401A5971CACEE7154BD512A9A967206114271",
+      "load_address": "0x003E7C80",
+      "dispatch_sites": {
+        "tokenizer": {
+          "code": "0x00461DD0",
+          "table": "0x005077A0"
+        },
+        "measuring_scan": {
+          "code": "0x004627F0",
+          "table": "0x00507830"
+        },
+        "direct_renderer": {
+          "code": "0x004C8A20",
+          "table": "0x00508DB0"
+        }
+      }
+    },
+    "verification": {
+      "messages_total_unique_files": 183065,
+      "messages_clean": 183065,
+      "messages_failed": 0,
+      "unique_segments": 37814
+    }
+  },
+  "8080": {
+    "family": 0,
+    "kind": "fixed",
+    "operand_bytes": 0,
+    "total_size": 2,
+    "meaning": "newline",
+    "observed_occurrences_unique_files": 64801,
+    "observed_messages_unique_files": 30894,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: line counter += 1 (scan 0x462808)",
+      "solver: uniquely determined from corpus",
+      "corpus: 64801 occurrences in 30894 unique-file messages verify cleanly",
+      "prior: shipped patcher total size 2 agrees"
+    ],
+    "confidence": "elf+solver"
+  },
+  "8180": {
+    "family": 1,
+    "kind": "fixed",
+    "operand_bytes": 0,
+    "total_size": 2,
+    "meaning": "page break / wait: tokenizer emits 0x4001 stop token with resume pointer (0x461E70); measuring scan stops (0x462810)",
+    "observed_occurrences_unique_files": 12675,
+    "observed_messages_unique_files": 7917,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "solver: uniquely determined from corpus",
+      "corpus: 12675 occurrences in 7917 unique-file messages verify cleanly",
+      "prior: shipped patcher total size 2 agrees"
+    ],
+    "confidence": "elf+solver"
+  },
+  "8280": {
+    "family": 2,
+    "kind": "fixed",
+    "operand_bytes": 1,
+    "total_size": 3,
+    "meaning": "set 1-byte text param (direct renderer stores at +0x9C; text speed/wait)",
+    "observed_occurrences_unique_files": 27006,
+    "observed_messages_unique_files": 26967,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x4C8A58",
+      "solver: candidate set [('F', 1), ('V',)] contains the ELF value",
+      "corpus: 27006 occurrences in 26967 unique-file messages verify cleanly",
+      "prior: shipped patcher total size 3 agrees"
+    ],
+    "confidence": "elf+solver"
+  },
+  "8380": {
+    "family": 3,
+    "kind": "fixed",
+    "operand_bytes": 0,
+    "total_size": 2,
+    "meaning": "reset the 8280 param to default",
+    "observed_occurrences_unique_files": 7,
+    "observed_messages_unique_files": 7,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x4C8A68",
+      "solver: uniquely determined from corpus",
+      "corpus: 7 occurrences in 7 unique-file messages verify cleanly"
+    ],
+    "confidence": "elf+solver"
+  },
+  "8480": {
+    "family": 4,
+    "kind": "fixed",
+    "operand_bytes": 0,
+    "total_size": 2,
+    "meaning": "flag control, token-only",
+    "observed_occurrences_unique_files": 49244,
+    "observed_messages_unique_files": 42931,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x462230",
+      "solver: uniquely determined from corpus",
+      "corpus: 49244 occurrences in 42931 unique-file messages verify cleanly",
+      "prior: shipped patcher total size 2 agrees"
+    ],
+    "confidence": "elf+solver"
+  },
+  "8580": {
+    "family": 5,
+    "kind": "fixed",
+    "operand_bytes": 4,
+    "total_size": 6,
+    "meaning": "4-byte operand (float32 in corpus); tokenized, skipped by renderers",
+    "observed_occurrences_unique_files": 14540,
+    "observed_messages_unique_files": 6346,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x461E18",
+      "solver: uniquely determined from corpus",
+      "corpus: 14540 occurrences in 6346 unique-file messages verify cleanly",
+      "float32 operand plausibility 13861/13861, top [(0.1, 6949), (0.2, 3317), (0.3, 2349)]",
+      "prior: shipped patcher total size 6 agrees"
+    ],
+    "confidence": "elf+solver"
+  },
+  "8680": {
+    "family": 6,
+    "kind": "fixed",
+    "operand_bytes": 4,
+    "total_size": 6,
+    "meaning": "4-byte operand (float32 in corpus); tokenized, skipped by renderers",
+    "observed_occurrences_unique_files": 44895,
+    "observed_messages_unique_files": 40499,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x461E18",
+      "solver: uniquely determined from corpus",
+      "corpus: 44895 occurrences in 40499 unique-file messages verify cleanly",
+      "float32 operand plausibility 19416/19416, top [(0.0, 15212), (0.2, 1202), (0.12, 454)]",
+      "prior: shipped patcher total size 6 agrees"
+    ],
+    "confidence": "elf+solver"
+  },
+  "8780": {
+    "family": 7,
+    "kind": "fixed",
+    "operand_bytes": 0,
+    "total_size": 2,
+    "meaning": "flag control, token-only",
+    "observed_occurrences_unique_files": 14221,
+    "observed_messages_unique_files": 13009,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x462230",
+      "solver: uniquely determined from corpus",
+      "corpus: 14221 occurrences in 13009 unique-file messages verify cleanly",
+      "prior: shipped patcher total size 2 agrees"
+    ],
+    "confidence": "elf+solver"
+  },
+  "8880": {
+    "family": 8,
+    "kind": "fixed",
+    "operand_bytes": 1,
+    "total_size": 3,
+    "meaning": "set text color: 1-byte palette index -> RGBA via 0x465D40",
+    "observed_occurrences_unique_files": 79239,
+    "observed_messages_unique_files": 44805,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x4C8A80",
+      "solver: candidate set [('F', 1), ('V',)] contains the ELF value",
+      "corpus: 79239 occurrences in 44805 unique-file messages verify cleanly",
+      "prior: shipped patcher total size 3 agrees"
+    ],
+    "confidence": "elf+solver"
+  },
+  "8980": {
+    "family": 9,
+    "kind": "fixed",
+    "operand_bytes": 0,
+    "total_size": 2,
+    "meaning": "reset text color (tokenizer emits 0x00808080)",
+    "observed_occurrences_unique_files": 35342,
+    "observed_messages_unique_files": 34401,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x461EA8",
+      "solver: uniquely determined from corpus",
+      "corpus: 35342 occurrences in 34401 unique-file messages verify cleanly",
+      "prior: shipped patcher total size 2 agrees"
+    ],
+    "confidence": "elf+solver"
+  },
+  "8a80": {
+    "family": 10,
+    "kind": "fixed",
+    "operand_bytes": 4,
+    "total_size": 6,
+    "meaning": "set glyph scale, float32 multiplier for x and y",
+    "observed_occurrences_unique_files": 22441,
+    "observed_messages_unique_files": 15908,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x4C8AA0 lwc1/mul.s",
+      "solver: candidate set [('F', 3), ('F', 4)] contains the ELF value",
+      "corpus: 22441 occurrences in 15908 unique-file messages verify cleanly",
+      "float32 operand plausibility 13716/13716, top [(1.0, 11838), (0.9, 1300), (0.8, 125)]",
+      "prior: shipped patcher total size 6 agrees"
+    ],
+    "confidence": "elf+solver"
+  },
+  "8b80": {
+    "family": 11,
+    "kind": "fixed",
+    "operand_bytes": 0,
+    "total_size": 2,
+    "meaning": "reset glyph scale (tokenizer emits 1.0f)",
+    "observed_occurrences_unique_files": 326,
+    "observed_messages_unique_files": 297,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x461EC0",
+      "solver: uniquely determined from corpus",
+      "corpus: 326 occurrences in 297 unique-file messages verify cleanly",
+      "prior: shipped patcher total size 2 agrees"
+    ],
+    "confidence": "elf+solver"
+  },
+  "8c80": {
+    "family": 12,
+    "kind": "fixed",
+    "operand_bytes": 4,
+    "total_size": 6,
+    "meaning": "set float param at +0x88 (glyph advance/spacing)",
+    "observed_occurrences_unique_files": 219,
+    "observed_messages_unique_files": 69,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x4C8AF8",
+      "solver: candidate set [('F', 3), ('F', 4), ('F', 5)] contains the ELF value",
+      "corpus: 219 occurrences in 69 unique-file messages verify cleanly",
+      "float32 operand plausibility 39/39, top [(12.0, 14), (2.0, 7), (43.0, 4)]"
+    ],
+    "confidence": "elf+solver"
+  },
+  "8d80": {
+    "family": 13,
+    "kind": "fixed",
+    "operand_bytes": 0,
+    "total_size": 2,
+    "meaning": "reset the 8C80 param (tokenizer emits 0.0)",
+    "observed_occurrences_unique_files": 84,
+    "observed_messages_unique_files": 66,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x461ED0",
+      "solver: uniquely determined from corpus",
+      "corpus: 84 occurrences in 66 unique-file messages verify cleanly"
+    ],
+    "confidence": "elf+solver"
+  },
+  "8e80": {
+    "family": 14,
+    "kind": "fixed",
+    "operand_bytes": 4,
+    "total_size": 6,
+    "meaning": "set float param at +0x8C (line spacing)",
+    "observed_occurrences_unique_files": 38,
+    "observed_messages_unique_files": 23,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x4C8B28",
+      "solver: candidate set [('F', 4), ('F', 8), ('F', 9), ('F', 10)] contains the ELF value",
+      "corpus: 38 occurrences in 23 unique-file messages verify cleanly",
+      "float32 operand plausibility 22/22, top [(4.0, 8), (16.0, 8), (0.0, 2)]"
+    ],
+    "confidence": "elf+solver"
+  },
+  "8f80": {
+    "family": 15,
+    "kind": "fixed",
+    "operand_bytes": 0,
+    "total_size": 2,
+    "meaning": "reset the 8E80 param (tokenizer emits 2.0f)",
+    "observed_occurrences_unique_files": 12,
+    "observed_messages_unique_files": 9,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x461EE0",
+      "solver: candidate set (>6 candidates) contains the ELF value",
+      "corpus: 12 occurrences in 9 unique-file messages verify cleanly"
+    ],
+    "confidence": "elf+solver"
+  },
+  "9080": {
+    "family": 16,
+    "kind": "fixed",
+    "operand_bytes": 0,
+    "total_size": 2,
+    "meaning": "ruby base start",
+    "observed_occurrences_unique_files": 1986,
+    "observed_messages_unique_files": 1352,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x4C8B58 -> 0x465AA0",
+      "solver: candidate set [('F', 0), ('F', 1), ('Z',)] contains the ELF value",
+      "corpus: 1986 occurrences in 1352 unique-file messages verify cleanly",
+      "prior: shipped patcher total size 2 agrees"
+    ],
+    "confidence": "elf+solver"
+  },
+  "9180": {
+    "family": 17,
+    "kind": "zero_terminated",
+    "operand_bytes": null,
+    "total_size": null,
+    "meaning": "ruby text, zero-terminated",
+    "observed_occurrences_unique_files": 1986,
+    "observed_messages_unique_files": 1352,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x461EF0 / 0x4C8B68",
+      "solver: uniquely determined from corpus",
+      "corpus: 1986 occurrences in 1352 unique-file messages verify cleanly",
+      "prior: patcher agrees (zero-terminated)"
+    ],
+    "confidence": "elf+solver",
+    "note": "operand runs to and includes the first 0x00; that NUL does NOT terminate the message"
+  },
+  "9280": {
+    "family": 18,
+    "kind": "fixed",
+    "operand_bytes": 1,
+    "total_size": 3,
+    "meaning": "insert runtime registry string #n (gp+0x568 table)",
+    "observed_occurrences_unique_files": 243,
+    "observed_messages_unique_files": 207,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x4C8BB0",
+      "solver: candidate set [('F', 1), ('V',)] contains the ELF value",
+      "corpus: 243 occurrences in 207 unique-file messages verify cleanly",
+      "prior: shipped patcher total size 3 agrees"
+    ],
+    "confidence": "elf+solver"
+  },
+  "9380": {
+    "family": 19,
+    "kind": "fixed",
+    "operand_bytes": 1,
+    "total_size": 3,
+    "meaning": "character name by 1-byte id (0x4657F0 lookup)",
+    "observed_occurrences_unique_files": 8628,
+    "observed_messages_unique_files": 7870,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x4C8BD8",
+      "solver: candidate set [('F', 0), ('F', 1), ('V',)] contains the ELF value",
+      "corpus: 8628 occurrences in 7870 unique-file messages verify cleanly",
+      "prior: shipped patcher total size 3 agrees"
+    ],
+    "confidence": "elf+solver"
+  },
+  "9480": {
+    "family": 20,
+    "kind": "fixed",
+    "operand_bytes": 4,
+    "total_size": 6,
+    "meaning": "4-byte operand; tokenized, skipped by renderers",
+    "observed_occurrences_unique_files": 826,
+    "observed_messages_unique_files": 765,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x461E18",
+      "solver: uniquely determined from corpus",
+      "corpus: 826 occurrences in 765 unique-file messages verify cleanly",
+      "float32 operand plausibility 801/801, top [(0.0, 801)]",
+      "prior: shipped patcher total size 6 agrees"
+    ],
+    "confidence": "elf+solver"
+  },
+  "9580": {
+    "family": 21,
+    "kind": "fixed",
+    "operand_bytes": 4,
+    "total_size": 6,
+    "meaning": "4-byte operand; tokenized, skipped by renderers",
+    "observed_occurrences_unique_files": 140,
+    "observed_messages_unique_files": 66,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x461E18",
+      "solver: uniquely determined from corpus",
+      "corpus: 140 occurrences in 66 unique-file messages verify cleanly",
+      "float32 operand plausibility 139/139, top [(0.0, 139)]",
+      "prior: shipped patcher total size 6 agrees"
+    ],
+    "confidence": "elf+solver"
+  },
+  "9680": {
+    "family": 22,
+    "kind": "fixed",
+    "operand_bytes": 0,
+    "total_size": 2,
+    "meaning": "flag control, token-only",
+    "observed_occurrences_unique_files": 0,
+    "observed_messages_unique_files": 0,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x462230",
+      "corpus: never observed on disc 1"
+    ],
+    "confidence": "elf_only"
+  },
+  "9780": {
+    "family": 23,
+    "kind": "fixed",
+    "operand_bytes": 0,
+    "total_size": 2,
+    "meaning": "flag control, token-only",
+    "observed_occurrences_unique_files": 0,
+    "observed_messages_unique_files": 0,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x462230",
+      "corpus: never observed on disc 1"
+    ],
+    "confidence": "elf_only"
+  },
+  "9880": {
+    "family": 24,
+    "kind": "fixed",
+    "operand_bytes": 0,
+    "total_size": 2,
+    "meaning": "flag control, token-only (emphasis-dot marker per corpus contexts)",
+    "observed_occurrences_unique_files": 30013,
+    "observed_messages_unique_files": 2606,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x462230",
+      "solver: uniquely determined from corpus",
+      "corpus: 30013 occurrences in 2606 unique-file messages verify cleanly"
+    ],
+    "confidence": "elf+solver"
+  },
+  "9980": {
+    "family": 25,
+    "kind": "fixed",
+    "operand_bytes": 0,
+    "total_size": 2,
+    "meaning": "flag control, token-only",
+    "observed_occurrences_unique_files": 6392,
+    "observed_messages_unique_files": 1941,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x462230",
+      "solver: uniquely determined from corpus",
+      "corpus: 6392 occurrences in 1941 unique-file messages verify cleanly"
+    ],
+    "confidence": "elf+solver"
+  },
+  "9a80": {
+    "family": 26,
+    "kind": "fixed",
+    "operand_bytes": 1,
+    "total_size": 3,
+    "meaning": "set 1-byte param (tokenized as family 0x1A value)",
+    "observed_occurrences_unique_files": 1,
+    "observed_messages_unique_files": 1,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x461E08",
+      "corpus: 1 occurrences in 1 unique-file messages verify cleanly"
+    ],
+    "confidence": "elf+solver"
+  },
+  "9b80": {
+    "family": 27,
+    "kind": "fixed",
+    "operand_bytes": 0,
+    "total_size": 2,
+    "meaning": "reset the 9A80 param from state +0x554",
+    "observed_occurrences_unique_files": 0,
+    "observed_messages_unique_files": 0,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x4621C8",
+      "corpus: never observed on disc 1"
+    ],
+    "confidence": "elf_only"
+  },
+  "9c80": {
+    "family": 28,
+    "kind": "zero_terminated",
+    "operand_bytes": null,
+    "total_size": null,
+    "meaning": "zero-terminated payload drawn via 0x465970",
+    "observed_occurrences_unique_files": 71,
+    "observed_messages_unique_files": 59,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x461EF0 / 0x4C8D38",
+      "solver: candidate set [('F', 11), ('Z',)] contains the ELF value",
+      "corpus: 71 occurrences in 59 unique-file messages verify cleanly",
+      "prior CONTROL_SIZES total 5 was a special case of zero-termination (2-byte payload + NUL); general rule corrected to zero_terminated"
+    ],
+    "confidence": "elf+solver",
+    "note": "operand runs to and includes the first 0x00; that NUL does NOT terminate the message"
+  },
+  "9d80": {
+    "family": 29,
+    "kind": "fixed",
+    "operand_bytes": 1,
+    "total_size": 3,
+    "meaning": "1-byte param, pointer captured (handler 0x4C8720)",
+    "observed_occurrences_unique_files": 3704,
+    "observed_messages_unique_files": 3459,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x4621D8",
+      "solver: candidate set [('F', 1), ('V',)] contains the ELF value",
+      "corpus: 3704 occurrences in 3459 unique-file messages verify cleanly",
+      "prior: shipped patcher total size 3 agrees"
+    ],
+    "confidence": "elf+solver"
+  },
+  "9e80": {
+    "family": 30,
+    "kind": "fixed",
+    "operand_bytes": 4,
+    "total_size": 6,
+    "meaning": "event cue, 4-byte operand (+derived halfword via 0x461440)",
+    "observed_occurrences_unique_files": 7979,
+    "observed_messages_unique_files": 6695,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x4621E8",
+      "solver: uniquely determined from corpus",
+      "corpus: 7979 occurrences in 6695 unique-file messages verify cleanly",
+      "float32 operand plausibility 1/7691, top [(0.0, 1)]",
+      "prior: shipped patcher total size 6 agrees"
+    ],
+    "confidence": "elf+solver"
+  },
+  "9f80": {
+    "family": 31,
+    "kind": "fixed",
+    "operand_bytes": 0,
+    "total_size": 2,
+    "meaning": "flag control, token-only",
+    "observed_occurrences_unique_files": 7979,
+    "observed_messages_unique_files": 6695,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x462230",
+      "solver: uniquely determined from corpus",
+      "corpus: 7979 occurrences in 6695 unique-file messages verify cleanly",
+      "prior: shipped patcher total size 2 agrees"
+    ],
+    "confidence": "elf+solver"
+  },
+  "a080": {
+    "family": 32,
+    "kind": "fixed",
+    "operand_bytes": 1,
+    "total_size": 3,
+    "meaning": "1-byte param (tokenized as family 0x20 value)",
+    "observed_occurrences_unique_files": 0,
+    "observed_messages_unique_files": 0,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x461E08",
+      "corpus: never observed on disc 1"
+    ],
+    "confidence": "elf_only"
+  },
+  "a180": {
+    "family": 33,
+    "kind": "fixed",
+    "operand_bytes": 1,
+    "total_size": 3,
+    "meaning": "character name via registry indirection (1-byte registry slot)",
+    "observed_occurrences_unique_files": 4,
+    "observed_messages_unique_files": 1,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x461FA8",
+      "solver: candidate set [('F', 0), ('F', 1), ('F', 3), ('F', 5), ('V',)] contains the ELF value",
+      "corpus: 4 occurrences in 1 unique-file messages verify cleanly"
+    ],
+    "confidence": "elf+solver"
+  },
+  "a280": {
+    "family": 34,
+    "kind": "fixed",
+    "operand_bytes": 1,
+    "total_size": 3,
+    "meaning": "item name by registry slot, raw",
+    "observed_occurrences_unique_files": 0,
+    "observed_messages_unique_files": 0,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x462058",
+      "corpus: never observed on disc 1"
+    ],
+    "confidence": "elf_only"
+  },
+  "a380": {
+    "family": 35,
+    "kind": "fixed",
+    "operand_bytes": 1,
+    "total_size": 3,
+    "meaning": "item name by registry slot, validated (checksum 0x83CF)",
+    "observed_occurrences_unique_files": 4,
+    "observed_messages_unique_files": 4,
+    "evidence": [
+      "elf: dispatch 0x00461DD0 (jump table 0x005077A0), 0x004627F0 (0x00507830), 0x004C8A20 (0x00508DB0) all agree",
+      "elf handler: 0x462058",
+      "solver: candidate set [('F', 0), ('F', 1), ('V',)] contains the ELF value",
+      "corpus: 4 occurrences in 4 unique-file messages verify cleanly"
+    ],
+    "confidence": "elf+solver"
+  }
+}

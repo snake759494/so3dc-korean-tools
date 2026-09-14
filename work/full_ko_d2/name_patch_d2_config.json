@@ -1,0 +1,170 @@
+{
+  "schema": "so3_name_patch disc2 port config, v1",
+  "generated": "2026-07-24",
+  "disc2_iso": {
+    "path": "D:\\ps2\\Star Ocean Till the End of Time Director's Cut (Disc 2).iso",
+    "size": 4685955072,
+    "sha256": "349FF9443E3ACFD92045C5DFAD6D97EB51D2765B0781BCD59DCD424D81670288",
+    "hidden_index": {
+      "iso_offset": 2097152,
+      "entry_count": 6144,
+      "sector": 2048,
+      "note": "same layout as disc1; archive start/size derivable as table[aid]*2048 / table[6144+aid]*2048"
+    }
+  },
+  "sle": {
+    "archive_id": 2,
+    "iso_offset": 2355200,
+    "size": 645120,
+    "sha256": "C0BE5D30CD5A28C7E31B399C1C867CB463E157BE9A06270871E5707857CBFD00",
+    "identical_to_disc1": true,
+    "sle_key_hex": "66665442B379F0C7E7D51E4B7BA41C7D",
+    "members": [
+      {
+        "index": 0,
+        "sle_offset": 0,
+        "mode": 3,
+        "compressed": 73138,
+        "unpacked": 164480,
+        "next_relative": 73156,
+        "load_va": 1955200,
+        "unpacked_sha256": "BA6F68051F89C5B918624C1CD1E743A0E6698148427C4A9EDAA9F45321555451"
+      },
+      {
+        "index": 1,
+        "sle_offset": 73156,
+        "mode": 3,
+        "compressed": 571646,
+        "unpacked": 1186048,
+        "next_relative": 0,
+        "load_va": 4095104,
+        "unpacked_sha256": "E10283983CB167AE0E430320360401A5971CACEE7154BD512A9A967206114271",
+        "writable_allocation": 571948,
+        "allocation_note": "structural 645120-73172=571948; original 302-byte zero tail"
+      }
+    ],
+    "table_offset": 1162280,
+    "table_offset_hex": "0x11BC28",
+    "table_va": "0x5038A8",
+    "table_order": "reverse (id10 first)",
+    "slot_stride": 8,
+    "literals": {
+      "2": {"file_offset_hex": "0x11FA98", "va": "0x507718", "text": "sofia"},
+      "1": {"file_offset_hex": "0x11FAA0", "va": "0x507720", "text": "fayt"}
+    },
+    "converter_va": "0x465550",
+    "converter_file_offset_hex": "0x7D8D0"
+  },
+  "secondary_copies": [
+    {
+      "archive": 68,
+      "stream": 61,
+      "decoded_path": "work\\full_unpack\\disc2\\decoded\\0068\\s000061_d0_o00000000.bin",
+      "iso_offset": 458348544,
+      "iso_offset_disc1": 493129728,
+      "file_offset": 36992,
+      "file_offset_hex": "0x9080",
+      "order": "forward (id1 first)",
+      "slot_stride": 8,
+      "mode": 1,
+      "compressed": 17490,
+      "unpacked": 37248,
+      "boundary": 458366976,
+      "boundary_kind": "archive_end (raw 0068.slz size 18432)",
+      "writable_allocation": 18416,
+      "decoded_sha256": "DFFD07CBC420CD2FCD5593082E9632C930DD6EB9183D6A100C3DE3DE6FC4DF68",
+      "identical_to_disc1": true,
+      "note": "input-charset table at +0x9000 precedes the name array, unchanged"
+    },
+    {
+      "archive": 1069,
+      "stream": 1679,
+      "decoded_path": "work\\full_unpack\\disc2\\decoded\\1069\\s001679_d0_o00000000.bin",
+      "iso_offset": 947091456,
+      "iso_offset_disc1": 1059936256,
+      "file_offset": 1390360,
+      "file_offset_hex": "0x153718",
+      "va": "0x336218",
+      "order": "reverse (id10 first)",
+      "slot_stride": 8,
+      "mode": 3,
+      "compressed": 667686,
+      "unpacked": 1449344,
+      "boundary": 947761152,
+      "boundary_kind": "archive_end (raw 1069.slz size 669696)",
+      "writable_allocation": 669680,
+      "decoded_sha256": "70D4FA07ABF8C7CEAD5F6CEF829AC86DC0D894D12A6CB5214C79B900B1A6A671",
+      "identical_to_disc1": true,
+      "note": "id9 slot holds dev leftover izaaku (B2 BB DE B0 B8), same as disc1; case ladder code at file 0xED6E0..0xED794"
+    }
+  ],
+  "global_font": {
+    "archive": 8,
+    "stream": 14,
+    "decoded_path": "work\\full_unpack\\disc2\\decoded\\0008\\s000014_d0_o00008590.bin",
+    "iso_offset": 3788176,
+    "iso_offset_disc1": 3788176,
+    "mode": 2,
+    "compressed": 24496,
+    "unpacked": 84608,
+    "boundary": 3812752,
+    "boundary_kind": "next level-0 stream (s000015) of archive 8",
+    "writable_allocation": 24544,
+    "container": "so3mclib 1.72, 292 glyphs, base 1, widths @0x80, bitmaps @0x200",
+    "decoded_sha256": "8F91FE6C630BF7890E2934D3B302911188C52DDE5732AA70E3ED40EEA325A3BC",
+    "identical_to_disc1": true,
+    "bitmaps_identical_to_disc1": true,
+    "widths_identical_to_disc1": true
+  },
+  "mclib_translation_targets": {
+    "note": "informational only - handled by the main text pipeline, not by so3_name_patch",
+    "name_list_bank": {
+      "disc2": "decoded/1076/s001945_d0_o00000D54.mclib",
+      "identical_to_disc1_1076_1945": true,
+      "namelist_fayt_pattern_offset": "0x17C5 (888006 EF01 name 00)"
+    },
+    "battle_name_bank": {
+      "disc2": "decoded/3454/s058460_d0_o0004DF80.mclib",
+      "disc1_equivalent": "decoded/3454/s060029_d0_o0004DF80.mclib",
+      "identical_to_disc1": true,
+      "note": "global stream id differs (58460 vs 60029) but archive id and in-archive offset o0004DF80 are the same"
+    },
+    "menu_master_banks": {
+      "identical_to_disc1": true,
+      "surname_block_hits": [
+        "decoded/0078/s000072_d0_o00000000.mclib",
+        "decoded/0088/s000205_d0_o00000000.mclib",
+        "decoded/0098/s000328_d0_o00000000.mclib",
+        "decoded/0108/s000451_d0_o00000000.mclib",
+        "decoded/0118/s000574_d0_o00000000.mclib",
+        "decoded/0128/s000697_d0_o00000000.mclib",
+        "decoded/0076/s000069_d0_o00000000.mclib",
+        "decoded/0086/s000202_d0_o00000000.mclib",
+        "decoded/0096/s000325_d0_o00000000.mclib",
+        "decoded/0106/s000448_d0_o00000000.mclib",
+        "decoded/0116/s000571_d0_o00000000.mclib",
+        "decoded/0126/s000694_d0_o00000000.mclib"
+      ]
+    }
+  },
+  "diffs_vs_disc1": {
+    "summary": "All four patch extents are byte-identical to disc1 (raw archives 0002.sle, 0008.zls, 0068.slz, 1069.slz identical in full). Only archive POSITIONS differ: archive 68 moved 493129728->458348544, archive 1069 moved 1059936256->947091456. Archives 2 and 8 are at identical ISO offsets. All SHA constants, table offsets, slot layouts, allocations, SLE key, converter and literals carry over unchanged.",
+    "iso_offset_overrides": {
+      "S0068_MEMBER.iso_offset": [493129728, 458348544],
+      "S0068_MEMBER.boundary": [493148160, 458366976],
+      "S1069_MEMBER.iso_offset": [1059936256, 947091456],
+      "S1069_MEMBER.boundary": [1060605952, 947761152]
+    },
+    "unchanged": [
+      "FONT_MEMBER (iso_offset 3788176, boundary 3812752)",
+      "SLE_EXTENT (iso_offset 2355200, size 645120, member1_offset 73156)",
+      "SHA_FONT / SHA_0068 / SHA_1069 / SHA_SLE / SHA_SLE_M0 / SHA_SLE_M1",
+      "SLE_TABLE_OFFSET 0x11BC28, SLE_LITERALS 0x11FA98/0x11FAA0",
+      "T0068_OFFSET 0x9080, T1069_OFFSET 0x153718, SLOT_BYTES 8",
+      "_ORIG_ROWS and _ORIG_ROWS_1069 (izak dev leftover present on disc2 too)",
+      "SLE_KEY, converter rules, kana byte assignments, mode-3 encoder",
+      "boot chain: SLPM_654.38, SYSTEM.CNF, IRX, IOPRP271.IMG, raw 0003.elf all identical"
+    ],
+    "hidden_index_deltas": "6059 of 6144 archives have different start LBAs on disc2 and 537 different sizes, but the hidden index at 0x200000 has the same format; deriving start/boundary from it makes the tool disc-agnostic"
+  }
+}

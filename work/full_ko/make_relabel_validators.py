@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+import os
+HERE = os.path.dirname(os.path.abspath(__file__))
+src = open(os.path.join(HERE, "validate_one.py"), encoding="utf-8").read()
+r1 = (src.replace('"tr_batches"', '"tr_batches_r1"')
+         .replace('"tr_out"', '"tr_out_r1"')
+         .replace("validate_one.py", "validate_one_r1.py"))
+open(os.path.join(HERE, "validate_one_r1.py"), "w", encoding="utf-8").write(r1)
+d2 = os.path.join(os.path.dirname(HERE), "full_ko_d2")
+d2v = open(os.path.join(d2, "validate_one_d2.py"), encoding="utf-8").read()
+r2 = (d2v.replace('"tr_batches"', '"tr_batches_r2"')
+         .replace('"tr_out"', '"tr_out_r2"')
+         .replace("validate_one_d2.py", "validate_one_r2.py"))
+open(os.path.join(d2, "validate_one_r2.py"), "w", encoding="utf-8").write(r2)
+print("validators written")

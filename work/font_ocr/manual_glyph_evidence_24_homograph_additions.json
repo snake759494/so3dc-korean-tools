@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0",
+  "description": "24x24 Japanese ideographs missed by the CJK-only OCR acceptance rule because their bitmaps were recognized as kana, symbols, or ASCII-like forms. This file is an additive audit result and does not modify manual_glyph_evidence.json.",
+  "key_policy": "Each sha256_prefix is a unique prefix of the raw 24x24 glyph bitmap SHA-256 in unique_24px_glyphs.csv.",
+  "audit_scope": {
+    "windows_ocr_candidates_examined": 4423,
+    "non_cjk_or_null_candidates_examined": 520,
+    "method": [
+      "atlas bitmap inspection in union-index order",
+      "Windows Japanese OCR and MS Gothic template comparison",
+      "local font slot to extracted-message context tracing",
+      "cross-check against numbered-book series and repeated dialogue contexts"
+    ]
+  },
+  "entries": [
+    {
+      "sha256_prefix": "2f176f67b070",
+      "unicode": "口",
+      "atlas_label": "U0146",
+      "union_index": 326,
+      "ocr_consensus": "ロ",
+      "evidence": "Square glyph is the 口/ロ homograph. Message contexts independently require 口: 差込口1/2, 端麗辛口, 超辛口, 一口大, 口の中, and 口に広がる. MS Gothic template top-1 is 口 (0.80720079).",
+      "confidence": 1.0
+    },
+    {
+      "sha256_prefix": "798ec2b24a7f",
+      "unicode": "二",
+      "atlas_label": "U030C",
+      "union_index": 780,
+      "ocr_consensus": "ニ",
+      "evidence": "Two-stroke 二/ニ homograph. Repeated message contexts require 二, including 二本一組, 二足歩行, 二見すると, 二度, and 二段技. MS Gothic template top-1 is 二 (0.92432106), ahead of 工 (0.89575368).",
+      "confidence": 1.0
+    },
+    {
+      "sha256_prefix": "7d89344516c5",
+      "unicode": "夕",
+      "atlas_label": "U08BA",
+      "union_index": 2234,
+      "ocr_consensus": "タ",
+      "evidence": "夕/タ homograph. Seven extracted occurrences form the fixed phrase 夕暮れの半刻. MS Gothic template top-1 is 夕 (0.87467414).",
+      "confidence": 1.0
+    },
+    {
+      "sha256_prefix": "4ce3e75646ba",
+      "unicode": "二",
+      "atlas_label": "U0D19",
+      "union_index": 3353,
+      "ocr_consensus": "ニ",
+      "evidence": "Two-stroke 二/ニ homograph. The extracted sentence requires 二酸化硫黄物語. MS Gothic template top-1 is 二 (0.92432106), ahead of 工 (0.89575368).",
+      "confidence": 1.0
+    },
+    {
+      "sha256_prefix": "a775ed372860",
+      "unicode": "夕",
+      "atlas_label": "U0D78",
+      "union_index": 3448,
+      "ocr_consensus": "タ",
+      "evidence": "夕/タ homograph. Extracted contexts require 明日の夕方 and 夕暮れの半刻. MS Gothic template top-1 is 夕 (0.87467414).",
+      "confidence": 1.0
+    },
+    {
+      "sha256_prefix": "27879ba51dd6",
+      "unicode": "〇",
+      "atlas_label": "U0E28",
+      "union_index": 3624,
+      "ocr_consensus": "〇",
+      "evidence": "Japanese ideographic zero is outside the merge script's unified-ideograph class. All six extracted uses are the date placeholder 〇月×日, and all three Windows OCR variants unanimously recognize 〇.",
+      "confidence": 1.0
+    },
+    {
+      "sha256_prefix": "3e632f25b7ca",
+      "unicode": "一",
+      "atlas_label": "U1152",
+      "union_index": 4434,
+      "ocr_consensus": "ー",
+      "evidence": "Horizontal 一/ー homograph. Its four-glyph message is 一の書～. The same numbered-book series contains 二の書～, 三の書～, 五の書～, 六の書～, and 七の書～ in sibling font containers. MS Gothic template top-1 is 一 (0.72400028).",
+      "confidence": 1.0
+    },
+    {
+      "sha256_prefix": "41891bb951b5",
+      "unicode": "二",
+      "atlas_label": "U1178",
+      "union_index": 4472,
+      "ocr_consensus": "ニ",
+      "evidence": "Stylized 二/ニ homograph. Its four-glyph message is 二の書～, confirmed by the sibling numbered-book messages 一の書～, 三の書～, 五の書～, 六の書～, and 七の書～.",
+      "confidence": 1.0
+    },
+    {
+      "sha256_prefix": "f6163037f2f4",
+      "unicode": "力",
+      "atlas_label": "U11BA",
+      "union_index": 4538,
+      "ocr_consensus": "カ",
+      "evidence": "力/カ homograph. The fully reconstructed riddle sentence reads 内に秘めたる力を解き放つは何者ぞ, which uniquely establishes 力 rather than katakana カ.",
+      "confidence": 1.0
+    }
+  ],
+  "false_positive_recheck": {
+    "status": "confirmed_non_kanji",
+    "reviewed_union_labels": [
+      "U0451",
+      "U061F",
+      "U087B",
+      "U08A9",
+      "U08AD",
+      "U08C5",
+      "U0EC6",
+      "U1023",
+      "U10D7",
+      "U10D9",
+      "U10EC",
+      "U113C",
+      "U120A",
+      "U1264"
+    ],
+    "evidence_summary": "Atlas inspection and message reconstruction reconfirm these as Greek alpha/beta, Latin letters or digits, solid/block UI marks, a circled digit, section/hash-like marks, or tiny stylized non-kanji lettering. Examples include U0451 in セクターα〔セクターアルファ〕, U08A9 as a Latin A, U08AD as a Latin V, U08C5 as a solid UI delimiter around 工房設備, U0EC6 as circled 3, U113C as #, and U1264 as digit 2."
+  },
+  "excluded_correct_non_kanji_examples": [
+    {
+      "atlas_label": "U0184",
+      "unicode": "々",
+      "reason": "Correct Japanese iteration mark, not a kanji ideograph; observed in 回々, 山々, 代々, 色々, and 我々 contexts."
+    },
+    {
+      "atlas_label": "U04BE",
+      "unicode": "ー",
+      "reason": "Horizontal homograph is a katakana prolonged-sound mark in フォーテ…, エクスキューショナー, and related katakana contexts, not 一."
+    },
+    {
+      "atlas_label": "U06EA",
+      "unicode": "ハ",
+      "reason": "Used inside the katakana rendering of デバイス, not 八."
+    },
+    {
+      "atlas_label": "U0709",
+      "unicode": "l",
+      "reason": "Used as lowercase Latin l in PlayStation, not 一 or a vertical CJK stroke."
+    },
+    {
+      "atlas_label": "U0785",
+      "unicode": "カ",
+      "reason": "Used in エンカウンター, not 力."
+    },
+    {
+      "atlas_label": "U0787",
+      "unicode": "タ",
+      "reason": "Used in エンカウンター, not 夕."
+    },
+    {
+      "atlas_label": "U08A2",
+      "unicode": "Ⅱ",
+      "reason": "Used in ドルビーデジタルプロロジックⅡ, not a kanji."
+    },
+    {
+      "atlas_label": "U107F",
+      "unicode": "l",
+      "reason": "Used in the Latin abbreviation vol.3, not 丨 or 一."
+    }
+  ]
+}
