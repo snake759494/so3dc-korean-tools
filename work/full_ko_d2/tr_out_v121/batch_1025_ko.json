@@ -1,0 +1,205 @@
+{
+ "batch_id": "batch_1025",
+ "translations": [
+  {
+   "key": "26ca4c38f202",
+   "speaker_korean": null,
+   "korean": "배틀체스 접수"
+  },
+  {
+   "key": "01ba74238be1",
+   "speaker_korean": "???",
+   "korean": "「잘 와주었구나!\n여기서는 『배틀체스』를 즐길 수\n있다네, 젊은이여!!"
+  },
+  {
+   "key": "0f16d7deadeb",
+   "speaker_korean": "???",
+   "korean": "「흐음,\n그대는 여기 처음이겠구나?"
+  },
+  {
+   "key": "f092083f67d8",
+   "speaker_korean": "???",
+   "korean": "「이거 실례했군.\n그럼, 자기소개나 좀 할까…"
+  },
+  {
+   "key": "e5d36963cbe4",
+   "speaker_korean": "???",
+   "korean": "「내 이름은 ⟦1⟧구타린 공작⟦2⟧이니라.\n이후로 잘 부탁하마."
+  },
+  {
+   "key": "1f4e70f49cd3",
+   "speaker_korean": "페이트",
+   "korean": "「아, 저는 ⟦1⟧페이트⟦2⟧라고 합니다.\n잘 부탁드립니다."
+  },
+  {
+   "key": "0f71c3751f29",
+   "speaker_korean": "구타린 공작",
+   "korean": "「허허, 제법 예의 바른 젊은이로군.\n마음에 드는구나.\n뭐, 여기서 만난 것도 인연이니,\n그대에게 이곳의 고귀한 놀이를\n가르쳐 주도록 하지."
+  },
+  {
+   "key": "b3d0fd7371f5",
+   "speaker_korean": "구타린 공작",
+   "korean": "「잘 와주었구나!\n여기서는 『배틀체스』를 즐길 수\n있다네, 젊은이여!!"
+  },
+  {
+   "key": "a828ab227b83",
+   "speaker_korean": "구타린 공작",
+   "korean": "「그럼 설명해 주도록 하지."
+  },
+  {
+   "key": "fb79661290a8",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・다른 난이도로 하기"
+  },
+  {
+   "key": "aebab9eaaecd",
+   "speaker_korean": "구타린 공작",
+   "korean": "「그럼 난이도를\n선택하거라."
+  },
+  {
+   "key": "fdc631d4f478",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・초급(레벨1) ⟦2⟧200폴"
+  },
+  {
+   "key": "f886e7955615",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・초급(레벨2) ⟦2⟧400폴"
+  },
+  {
+   "key": "f26f67b81158",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・초급(레벨3) ⟦2⟧600폴"
+  },
+  {
+   "key": "975a1c49bcb1",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・초급(레벨4) ⟦2⟧800폴"
+  },
+  {
+   "key": "d888b4bbbb63",
+   "speaker_korean": "구타린 공작",
+   "korean": "「그만두겠다는 것이냐?\n어쩔 수 없구나…\n언제든 다시 오도록 하거라,\n젊은이여!!"
+  },
+  {
+   "key": "ee802d0e770e",
+   "speaker_korean": "구타린 공작",
+   "korean": "「뭐, 나머지는 경험으로 배우는 것이지.\n여기서는 지더라도 딱히\n벌칙이 있는 건 아니니라.\n물론 승부에서 이기면\n1레벨당 4회까지\n난이도에 맞는 상을 내려주마."
+  },
+  {
+   "key": "d5a5a4a8ef4b",
+   "speaker_korean": "구타린 공작",
+   "korean": "「훌륭한 승부였다!\n그럼 난이도에 맞는\n상을 내려주도록 하지!"
+  },
+  {
+   "key": "edcc819d189e",
+   "speaker_korean": "구타린 공작",
+   "korean": "「훌륭한 승부였다!\n게다가 최고 난이도를 제패하다니\n대단하구나.\n그럼 최고 난이도에 맞는\n최고로 훌륭한 상을\n내려주도록 하지!"
+  },
+  {
+   "key": "c0f32ff6230d",
+   "speaker_korean": "구타린 공작",
+   "korean": "「아쉽게 되었구나.\n허나 언젠가는 반드시 이길 날이 오리라.\n이에 굴하지 말고 다시 오도록 하거라,\n젊은이여!"
+  },
+  {
+   "key": "23de3d2b32d9",
+   "speaker_korean": "구타린 공작",
+   "korean": "「그럼, 다시 오도록 하거라,\n젊은이여!"
+  },
+  {
+   "key": "348e88401d7d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・초급(레벨5) ⟦2⟧1000폴"
+  },
+  {
+   "key": "debefdf16f6a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・중급(레벨6) ⟦2⟧1200폴"
+  },
+  {
+   "key": "44da5adbc67c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・중급(레벨7) ⟦2⟧1400폴"
+  },
+  {
+   "key": "5e19663b2112",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・중급(레벨8) ⟦2⟧1600폴"
+  },
+  {
+   "key": "a6ae76ec5af6",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・중급(레벨9) ⟦2⟧1800폴"
+  },
+  {
+   "key": "e246ebe65b34",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・중급(레벨10) ⟦2⟧2000폴"
+  },
+  {
+   "key": "b3ce33e06421",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・상급(레벨l) ⟦2⟧2200폴"
+  },
+  {
+   "key": "f6d6b5fa872b",
+   "speaker_korean": "구타린 공작",
+   "korean": "「그럼, 게임 시작이다!!"
+  },
+  {
+   "key": "1849a063e72e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧초급 레벨 ⟦2⟧"
+  },
+  {
+   "key": "1908a0ae0fa6",
+   "speaker_korean": null,
+   "korean": "⟦1⟧중급 레벨 ⟦2⟧"
+  },
+  {
+   "key": "26098eafce8f",
+   "speaker_korean": null,
+   "korean": "⟦1⟧상급 레벨 l"
+  },
+  {
+   "key": "a8139f6bdbce",
+   "speaker_korean": "구타린 공작",
+   "korean": "「돈이 부족하구나.\n다른 난이도를 선택하겠느냐?"
+  },
+  {
+   "key": "2833ad25f1b0",
+   "speaker_korean": null,
+   "korean": "⟦1⟧⟦2⟧⟦3⟧폴 획득."
+  },
+  {
+   "key": "5c4c53c14139",
+   "speaker_korean": null,
+   "korean": "⟦1⟧레자드 플라스크⟦2⟧ 획득."
+  },
+  {
+   "key": "eb6403dfd50f",
+   "speaker_korean": "구타린 공작",
+   "korean": "「훌륭한 승부였다!"
+  },
+  {
+   "key": "592357ecf597",
+   "speaker_korean": "구타린 공작",
+   "korean": "「훌륭한 승부였다!\n게다가 최고 난이도를 제패하다니\n대단하구나."
+  },
+  {
+   "key": "67865e522c53",
+   "speaker_korean": "아나운서",
+   "korean": "「다들 기다렸지!!\n제⟦1⟧회 바니 레이스 개최다아!!\n실황 중계는 물론 이 몸,\n⟦2⟧간트바스너 13세⟦3⟧가 안방까지\n전해주겠다!!"
+  },
+  {
+   "key": "2aaeee226b8d",
+   "speaker_korean": "아나운서",
+   "korean": "「자, 각 ⟦1⟧바니⟦2⟧들이,\n스타트 그리드에 모두 모였다아!!"
+  },
+  {
+   "key": "0e5a5ac2b1c9",
+   "speaker_korean": "아나운서",
+   "korean": "「1위, ⟦1⟧번 ⟦2⟧바니⟦3⟧,\n2위는 ⟦4⟧번 ⟦5⟧바니⟦6⟧라는 결과다!\n맞힌 사람은 Congratulation!!\n못 맞힌 사람은 I feel regret...\n그럼 다음번,\n제⟦7⟧회 바니 레이스 때까지 Good bye!!"
+  }
+ ]
+}

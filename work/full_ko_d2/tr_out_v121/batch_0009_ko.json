@@ -2,244 +2,239 @@
  "batch_id": "batch_0009",
  "translations": [
   {
-   "key": "8314c0006604",
+   "key": "326b72fe9cb1",
    "speaker_korean": null,
-   "korean": "⟦1⟧・시공 스테이션 사용 안 함"
+   "korean": "만물상 만화당"
   },
   {
-   "key": "007741d95587",
-   "speaker_korean": "스테이션 직원",
-   "korean": "「어디까지\n가고 싶은 거니?"
+   "key": "7665fd7eb0f0",
+   "speaker_korean": null,
+   "korean": "조심하자!\n밤길의 검은 나그네.\n⟦P⟧"
   },
   {
-   "key": "23bcaadcf38d",
+   "key": "e97fb44aecd9",
+   "speaker_korean": null,
+   "korean": "일하지 않는 자 먹지도 말라.\n게으름뱅이는 당신 바로 뒤에 있다.\n⟦P⟧"
+  },
+  {
+   "key": "91cf49257f40",
+   "speaker_korean": null,
+   "korean": "한 사람당 식량 등의 배급 예정과\n배급품 수령 여부가 체크되어 있다.\n⟦P⟧"
+  },
+  {
+   "key": "e02815d9ab57",
+   "speaker_korean": "아기를 업은 아줌마",
+   "korean": "⟦1⟧「어서 오세요.\n뭘 찾으시나요?\n⟦P⟧"
+  },
+  {
+   "key": "fb4f433a64fd",
    "speaker_korean": "페이트",
-   "korean": "「⟦1⟧로스트 시티⟦2⟧에\n가고 싶은데요."
+   "korean": "⟦1⟧(이건 게임이 아니야.\n무기도 없이 마을 밖에 나가다니\n자살 행위야.\n⟦P⟧"
   },
   {
-   "key": "8a96cef3618a",
-   "speaker_korean": "스테이션 직원",
-   "korean": "「이름을\n알려줄래?"
-  },
-  {
-   "key": "4c52c5085cdf",
+   "key": "efa5a5ab8114",
    "speaker_korean": "페이트",
-   "korean": "「아니요,\n죄송합니다."
+   "korean": "「겨우, 도착했다….\n⟦P⟧하하… 생각보다 멀었네.\n⟦1⟧스캐너⟦2⟧상으로는……\n바로 근처로 보였는데… 말이지…."
   },
   {
-   "key": "568ba32245aa",
+   "key": "4a90333b2a30",
+   "speaker_korean": "단발머리 소녀",
+   "korean": "「앗!!"
+  },
+  {
+   "key": "4b8b4ad6931b",
+   "speaker_korean": "단발머리 소녀",
+   "korean": "「왜 그래?\n배라도 아픈 거야?"
+  },
+  {
+   "key": "9c4a1bb8bf30",
+   "speaker_korean": "단발머리 소녀",
+   "korean": "「큰일 났어, 오빠!\n오빠아~!!"
+  },
+  {
+   "key": "b55cdbef1971",
+   "speaker_korean": "미나",
+   "korean": "「⟦1⟧미나⟦2⟧는 이제 괜찮아.\n오르골 같은 건 안 고쳐져도 돼.\n그러니까 오빠가 없어져 버리는 건 싫어!!"
+  },
+  {
+   "key": "ecff1403d771",
    "speaker_korean": "페이트",
-   "korean": "「…이거 참 난감한데."
+   "korean": "「조금 자고 있을 뿐이야.\n⟦1⟧노키아⟦2⟧는, ⟦3⟧미나⟦4⟧를 두고\n없어지거나 하지 않을 거야."
   },
   {
-   "key": "22630982565c",
+   "key": "6ff7bfebb68e",
+   "speaker_korean": "미나",
+   "korean": "「정말?"
+  },
+  {
+   "key": "fec19ea45a40",
+   "speaker_korean": "미나",
+   "korean": "「오빠! 오빠아~!!"
+  },
+  {
+   "key": "d4f47a4fa251",
    "speaker_korean": "페이트",
-   "korean": "「어떻게 하냐고\n말해봤자…"
+   "korean": "「응."
   },
   {
-   "key": "e5c985ce5137",
-   "speaker_korean": "마리아",
-   "korean": "「직원을 제거하고 강행 돌파할까?\n접속 권한을 다시 쓰는 건\n아마 가능할 거야."
+   "key": "8f91ab13b9f7",
+   "speaker_korean": null,
+   "korean": "⟦1⟧인페리아 소드⟦2⟧를 손에 넣었다."
   },
   {
-   "key": "a23ca33ce64b",
+   "key": "2808c4bc07ee",
    "speaker_korean": "페이트",
-   "korean": "「으음…"
+   "korean": "「―――아아아앗!!\n하…아… 하아… 하아… 꿈인가……."
   },
   {
-   "key": "090ccbbb17d0",
-   "speaker_korean": "스테이션 직원",
-   "korean": "「아, 있다 있어.\n너희들!!"
+   "key": "5c0199639293",
+   "speaker_korean": "단발머리 소녀",
+   "korean": "「아……."
   },
   {
-   "key": "8dcf8e8965ea",
+   "key": "18a3e8483f6a",
    "speaker_korean": "페이트",
-   "korean": "「무슨 일이세요?"
+   "korean": "「너는……?"
   },
   {
-   "key": "72786e9376cc",
-   "speaker_korean": "스테이션 직원",
-   "korean": "「⟦1⟧스피어사⟦2⟧의 P라는 사람한테서\n연락이 왔는데,\n아는 사이니?"
+   "key": "9591bd92d45b",
+   "speaker_korean": "단발머리 소녀",
+   "korean": "「물, 여기에 놔둘게."
   },
   {
-   "key": "0b454819bc5f",
-   "speaker_korean": "소피아",
-   "korean": "「P씨 말인가요?"
+   "key": "089109cae068",
+   "speaker_korean": "영리해 보이는 소년",
+   "korean": "「괜찮으세요?\n몹시 가위에 눌리신 것 같던데요."
   },
   {
-   "key": "e39637043d8c",
-   "speaker_korean": "클리프",
-   "korean": "「⟦1⟧플러드⟦2⟧?"
-  },
-  {
-   "key": "9b07f516f567",
-   "speaker_korean": "소피아",
-   "korean": "「저기, ⟦1⟧레코다⟦2⟧에서 만난\n그 소년 말이에요."
-  },
-  {
-   "key": "05cf3d4d6ea9",
-   "speaker_korean": "클리프",
-   "korean": "「아, 아아, 그런가."
-  },
-  {
-   "key": "95bc45833953",
-   "speaker_korean": "클리프",
-   "korean": "「뭐, 함정이라고 보는 게\n타당하겠지."
-  },
-  {
-   "key": "43efebd9b44a",
-   "speaker_korean": "마리아",
-   "korean": "「그들은 ⟦1⟧에터널 스피어⟦2⟧를\n관리하고 있으니까, 이쪽으로 온 우리의\n움직임을 파악해도 이상하지 않고."
-  },
-  {
-   "key": "67e5c5ff37f6",
-   "speaker_korean": "클리프",
-   "korean": "「하지만 말이지."
-  },
-  {
-   "key": "a9ed441e1f73",
-   "speaker_korean": "마리아",
-   "korean": "「지금으로선 ⟦1⟧로스트 시티⟦2⟧에 갈\n다른 수단이 없는 이상, 설령 함정이라도\n갈 수밖에 없겠지."
-  },
-  {
-   "key": "2b25274fa4df",
+   "key": "f24093116e8d",
    "speaker_korean": "페이트",
-   "korean": "「그래.\n고맙게 초대를\n받아들이도록 하지."
+   "korean": "「아, 괜찮은 것 같아.\n네가 구해 준 거니?"
   },
   {
-   "key": "c25278bd0f70",
+   "key": "ca024ee1c8c8",
+   "speaker_korean": "영리해 보이는 소년",
+   "korean": "「아뇨, 저는 여기까지 옮겼을 뿐이에요.\n여동생이… ⟦1⟧미나⟦2⟧가 꼭 그러자고 해서요."
+  },
+  {
+   "key": "a05aeab830d9",
    "speaker_korean": "페이트",
-   "korean": "「그럼, 저희는 ⟦1⟧로스트 시티⟦2⟧로\n가도 되는 거죠?"
+   "korean": "「그래, ⟦1⟧미나⟦2⟧가\n구해 준 거구나.\n고마워."
   },
   {
-   "key": "43305386b49c",
-   "speaker_korean": "스테이션 직원",
-   "korean": "「어, 아, 응.\n이미 접속 권한 코드 변경은\n끝났으니까.\n게이트를 통과하면 ⟦1⟧로스트 시티⟦2⟧의\n⟦3⟧스피어사⟦4⟧에 도착할 거야."
+   "key": "e906b697c49b",
+   "speaker_korean": "단발머리 소녀",
+   "korean": "「오빠아~!"
   },
   {
-   "key": "7d9e9d34c3e7",
-   "speaker_korean": "소피아",
-   "korean": "「⟦1⟧스피어사⟦2⟧에\n직접 갈 수 있는 건가요?"
-  },
-  {
-   "key": "75e572e907e3",
-   "speaker_korean": "스테이션 직원",
-   "korean": "「그렇지.\n⟦1⟧로스트 시티⟦2⟧는 정보 기술 개발을\n중심으로 하는 선진 기업들만\n모인 도시니까.\n스파이 행위를 막기 위해서\n기본적으로 목적지 이외에는\n갈 수 없게 되어 있거든."
-  },
-  {
-   "key": "c4d29456c4a5",
-   "speaker_korean": "소피아",
-   "korean": "「그런가요."
-  },
-  {
-   "key": "b7294fc60e91",
-   "speaker_korean": "클리프",
-   "korean": "「이거 또\n함정 놓기 딱 좋은 구조란 말이지."
-  },
-  {
-   "key": "51c15b32327e",
-   "speaker_korean": "마리아",
-   "korean": "「그래.\n게이트를 막아버리면 간단히\n퇴로를 끊을 수 있으니까."
-  },
-  {
-   "key": "d8f91728563e",
-   "speaker_korean": "소피아",
-   "korean": "「위험한 거 아닐까요…"
-  },
-  {
-   "key": "817bb397368c",
+   "key": "fc55d2f38375",
    "speaker_korean": "페이트",
-   "korean": "「괜찮아,\n⟦1⟧소피아⟦2⟧."
+   "korean": "「그러고 보니, 자기소개가 아직이었네.\n내 이름은 ⟦1⟧페이트⟦2⟧.\n⟦3⟧페이트 라인갓⟦4⟧이라고 해.\n너는?"
   },
   {
-   "key": "c73aea3782f6",
-   "speaker_korean": "스테이션 직원",
-   "korean": "「OK.\n잠깐만 기다려 줄래?"
+   "key": "e152f6e898c2",
+   "speaker_korean": "영리해 보이는 소년",
+   "korean": "「⟦1⟧노키아⟦2⟧예요.\n이 아이는 ⟦3⟧미나⟦4⟧라고 해요."
   },
   {
-   "key": "77df89df6817",
-   "speaker_korean": "스테이션 직원",
-   "korean": "「미안하지만 너희들한테는\n⟦1⟧로스트 시티⟦2⟧ 접속 권한이 없나 봐.\n⟦3⟧로스트 시티⟦4⟧는 보안 문제로\n접속 권한이 없는 사람은 전송을\n할 수 없게 되어 있거든.\n미안하네.\n무슨 볼일이라도 있어?"
+   "key": "44ee123495e4",
+   "speaker_korean": "노키아",
+   "korean": "「⟦1⟧페이트 씨⟦2⟧……\n라고 하셨죠.\n당신의 그 옷… 그 귀…\n혹시 ⟦3⟧노턴⟦4⟧의\n동료인가요?"
   },
   {
-   "key": "418769985989",
-   "speaker_korean": "스테이션 직원",
-   "korean": "「방금 ⟦1⟧로스트 시티⟦2⟧에서 연락이 왔는데.\n너희들한테 접속 권한이 주어졌어."
-  },
-  {
-   "key": "d0467dbf58d4",
-   "speaker_korean": "스테이션 직원",
-   "korean": "「그, 그렇게 말했어.\n⟦1⟧플러드⟦2⟧의 지인이라고 하면 안다고\n하던데.\n나도 잘은 모르겠지만 말이야."
-  },
-  {
-   "key": "963aa7594f25",
+   "key": "f83af804ea02",
    "speaker_korean": "페이트",
-   "korean": "「⟦1⟧플러드⟦2⟧의 지인?\n이게 무슨 소리지?"
+   "korean": "「⟦1⟧노턴⟦2⟧?\n그거, 사람 이름이니?"
   },
   {
-   "key": "47885d818b75",
-   "speaker_korean": "마리아",
-   "korean": "「그러고 보니 관계자가 ⟦1⟧스피어사⟦2⟧에\n있다고 했었지.\n⟦3⟧블레어⟦4⟧던가 뭐라던가…\n분명 그 사람 아닐까?"
+   "key": "3b1d4a68c07e",
+   "speaker_korean": "노키아",
+   "korean": "「맞아요."
   },
   {
-   "key": "912f0bb4e8e4",
-   "speaker_korean": "클리프",
-   "korean": "「그럴지도 모르지."
-  },
-  {
-   "key": "5831acd650cc",
-   "speaker_korean": "소피아",
-   "korean": "「하지만 믿을 수 있는 사람\n아닐까요?"
-  },
-  {
-   "key": "edc08e24f96d",
-   "speaker_korean": "마리아",
-   "korean": "「글쎄, 그건 어떨지.\n그것 자체가 함정일 가능성도 있어."
-  },
-  {
-   "key": "f9b3f922596d",
-   "speaker_korean": "스테이션 직원",
-   "korean": "「⟦1⟧스피어사⟦2⟧라…\n⟦3⟧에터널 스피어⟦4⟧ 개발사잖아.\n나도 하고 있는데,\n그거 재밌더라."
-  },
-  {
-   "key": "25154ab169d9",
+   "key": "13f9c44c1891",
    "speaker_korean": "페이트",
-   "korean": "「⟦1⟧페이트\n라인갓⟦2⟧입니다."
+   "korean": "「무슨 사정인지 잘\n모르겠는데?"
   },
   {
-   "key": "4d4b512df65b",
-   "speaker_korean": "소피아",
-   "korean": "「⟦1⟧소피아\n에스테드⟦2⟧입니다."
+   "key": "9b66a6e7b0aa",
+   "speaker_korean": "노키아",
+   "korean": "「정말로…\n모르시는 건가요?"
   },
   {
-   "key": "cce93b17d8df",
-   "speaker_korean": "마리아",
-   "korean": "「⟦1⟧마리아\n트레이터⟦2⟧야."
+   "key": "aa3179a4024c",
+   "speaker_korean": "페이트",
+   "korean": "「아… 응.\n들어 본 적은 없는데,\n누군데 그래?"
   },
   {
-   "key": "dfdfbcca3267",
-   "speaker_korean": "클리프",
-   "korean": "「⟦1⟧클리프\n피터⟦2⟧다."
+   "key": "eee7358e6150",
+   "speaker_korean": "노키아",
+   "korean": "「아뇨, 모르시면 된 거예요.\n죄송해요. 이상한 걸 물어봐서."
   },
   {
-   "key": "f4d2fc802475",
-   "speaker_korean": "넬",
-   "korean": "「⟦1⟧넬\n젤퍼⟦2⟧야."
+   "key": "0f9a1093c423",
+   "speaker_korean": "노키아",
+   "korean": "「아직 몸도 성치 않으실 텐데요.\n당분간 저희 집에서 쉬다 가세요.\n대단한 건 못 해 드리지만,\n밥 정도는 차려 드릴 수 있으니까요…."
   },
   {
-   "key": "fc446457478e",
-   "speaker_korean": "알벨",
-   "korean": "「⟦1⟧알벨⟦2⟧다."
+   "key": "4564373b6bef",
+   "speaker_korean": "페이트",
+   "korean": "「아니, 괜찮… 윽!"
   },
   {
-   "key": "c77049be55cb",
-   "speaker_korean": "로저",
-   "korean": "「⟦1⟧로저 S.\n헉슬리⟦2⟧다!"
+   "key": "0846ea683768",
+   "speaker_korean": "미나",
+   "korean": "「안 돼! 아직 일어나면 안 되는 거야!"
   },
   {
-   "key": "d7f02e0321f7",
-   "speaker_korean": "스프레",
-   "korean": "「⟦1⟧스프레\n로세티⟦2⟧야!"
+   "key": "210aaadbdfb7",
+   "speaker_korean": "노키아",
+   "korean": "「어려울 때는 서로 돕는 법이니까,\n신경 쓰지 마세요.\n지금은 몸을 회복하는 게 우선이에요."
+  },
+  {
+   "key": "e61eb0d8e759",
+   "speaker_korean": "페이트",
+   "korean": "「신세를 지게 됐네."
+  },
+  {
+   "key": "b8cf7130c6ac",
+   "speaker_korean": "노키아",
+   "korean": "「아뇨…… ⟦1⟧미나⟦2⟧,\n너무 방해하면 안 돼."
+  },
+  {
+   "key": "7e87805029b6",
+   "speaker_korean": "미나",
+   "korean": "「응!"
+  },
+  {
+   "key": "c2c8c843c8d9",
+   "speaker_korean": "페이트",
+   "korean": "「아직 어려 보이는데,\n꽤나 야무진 아이구나.\n마치 ⟦1⟧소피아⟦2⟧ 같아."
+  },
+  {
+   "key": "b0ca9ecc4c9d",
+   "speaker_korean": "미나",
+   "korean": "「있지, 오빠는 어디서 온 거야?\n왜 귀가 동그란 거야?\n⟦1⟧소피아⟦2⟧는 누구야?\n응~? 응~? 응~?"
+  },
+  {
+   "key": "59e233eb134d",
+   "speaker_korean": "페이트",
+   "korean": "(여긴?"
+  },
+  {
+   "key": "3c49933811ba",
+   "speaker_korean": "페이트",
+   "korean": "(그렇지, 나는 변경 행성에….\n누군가가 구해 준 건가?"
+  },
+  {
+   "key": "b035dfcaea44",
+   "speaker_korean": "미나",
+   "korean": "「에헤헤♪"
+  },
+  {
+   "key": "7dfc5df8424e",
+   "speaker_korean": "페이트",
+   "korean": "「하핫."
   }
  ]
 }

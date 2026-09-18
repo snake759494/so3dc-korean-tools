@@ -2,8 +2,8 @@
  "note": "Rebuilt 2026-09-14 from recovered translation rounds (workflow agent transcripts). The original v1.2.1 sets had 333 (disc 1) and 367 (disc 2) files; files not recovered are listed below. The canonical Korean text for every message is in the patch plans extracted from the final ISOs.",
  "disc1_files": 309,
  "disc1_records": 19922,
- "disc2_files": 319,
- "disc2_records": 20185,
+ "disc2_files": 343,
+ "disc2_records": 21626,
  "recovered_rounds": {
   "tr_out": [
    1,

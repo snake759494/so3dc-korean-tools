@@ -1,0 +1,245 @@
+{
+ "batch_id": "batch_1009",
+ "translations": [
+  {
+   "key": "8314c0006604",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・시공 스테이션 사용 안 함"
+  },
+  {
+   "key": "007741d95587",
+   "speaker_korean": "스테이션 직원",
+   "korean": "「어디까지\n가고 싶은 거니?"
+  },
+  {
+   "key": "23bcaadcf38d",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧로스트 시티⟦2⟧에\n가고 싶은데요."
+  },
+  {
+   "key": "8a96cef3618a",
+   "speaker_korean": "스테이션 직원",
+   "korean": "「이름을\n알려줄래?"
+  },
+  {
+   "key": "4c52c5085cdf",
+   "speaker_korean": "페이트",
+   "korean": "「아니요,\n죄송합니다."
+  },
+  {
+   "key": "568ba32245aa",
+   "speaker_korean": "페이트",
+   "korean": "「…이거 참 난감한데."
+  },
+  {
+   "key": "22630982565c",
+   "speaker_korean": "페이트",
+   "korean": "「어떻게 하냐고\n말해봤자…"
+  },
+  {
+   "key": "e5c985ce5137",
+   "speaker_korean": "마리아",
+   "korean": "「직원을 제거하고 강행 돌파할까?\n접속 권한을 다시 쓰는 건\n아마 가능할 거야."
+  },
+  {
+   "key": "a23ca33ce64b",
+   "speaker_korean": "페이트",
+   "korean": "「으음…"
+  },
+  {
+   "key": "090ccbbb17d0",
+   "speaker_korean": "스테이션 직원",
+   "korean": "「아, 있다 있어.\n너희들!!"
+  },
+  {
+   "key": "8dcf8e8965ea",
+   "speaker_korean": "페이트",
+   "korean": "「무슨 일이세요?"
+  },
+  {
+   "key": "72786e9376cc",
+   "speaker_korean": "스테이션 직원",
+   "korean": "「⟦1⟧스피어사⟦2⟧의 P라는 사람한테서\n연락이 왔는데,\n아는 사이니?"
+  },
+  {
+   "key": "0b454819bc5f",
+   "speaker_korean": "소피아",
+   "korean": "「P씨 말인가요?"
+  },
+  {
+   "key": "e39637043d8c",
+   "speaker_korean": "클리프",
+   "korean": "「⟦1⟧플러드⟦2⟧?"
+  },
+  {
+   "key": "9b07f516f567",
+   "speaker_korean": "소피아",
+   "korean": "「저기, ⟦1⟧레코다⟦2⟧에서 만난\n그 소년 말이에요."
+  },
+  {
+   "key": "05cf3d4d6ea9",
+   "speaker_korean": "클리프",
+   "korean": "「아, 아아, 그런가."
+  },
+  {
+   "key": "95bc45833953",
+   "speaker_korean": "클리프",
+   "korean": "「뭐, 함정이라고 보는 게\n타당하겠지."
+  },
+  {
+   "key": "43efebd9b44a",
+   "speaker_korean": "마리아",
+   "korean": "「그들은 ⟦1⟧에터널 스피어⟦2⟧를\n관리하고 있으니까, 이쪽으로 온 우리의\n움직임을 파악해도 이상하지 않고."
+  },
+  {
+   "key": "67e5c5ff37f6",
+   "speaker_korean": "클리프",
+   "korean": "「하지만 말이지."
+  },
+  {
+   "key": "a9ed441e1f73",
+   "speaker_korean": "마리아",
+   "korean": "「지금으로선 ⟦1⟧로스트 시티⟦2⟧에 갈\n다른 수단이 없는 이상, 설령 함정이라도\n갈 수밖에 없겠지."
+  },
+  {
+   "key": "2b25274fa4df",
+   "speaker_korean": "페이트",
+   "korean": "「그래.\n고맙게 초대를\n받아들이도록 하지."
+  },
+  {
+   "key": "c25278bd0f70",
+   "speaker_korean": "페이트",
+   "korean": "「그럼, 저희는 ⟦1⟧로스트 시티⟦2⟧로\n가도 되는 거죠?"
+  },
+  {
+   "key": "43305386b49c",
+   "speaker_korean": "스테이션 직원",
+   "korean": "「어, 아, 응.\n이미 접속 권한 코드 변경은\n끝났으니까.\n게이트를 통과하면 ⟦1⟧로스트 시티⟦2⟧의\n⟦3⟧스피어사⟦4⟧에 도착할 거야."
+  },
+  {
+   "key": "7d9e9d34c3e7",
+   "speaker_korean": "소피아",
+   "korean": "「⟦1⟧스피어사⟦2⟧에\n직접 갈 수 있는 건가요?"
+  },
+  {
+   "key": "75e572e907e3",
+   "speaker_korean": "스테이션 직원",
+   "korean": "「그렇지.\n⟦1⟧로스트 시티⟦2⟧는 정보 기술 개발을\n중심으로 하는 선진 기업들만\n모인 도시니까.\n스파이 행위를 막기 위해서\n기본적으로 목적지 이외에는\n갈 수 없게 되어 있거든."
+  },
+  {
+   "key": "c4d29456c4a5",
+   "speaker_korean": "소피아",
+   "korean": "「그런가요."
+  },
+  {
+   "key": "b7294fc60e91",
+   "speaker_korean": "클리프",
+   "korean": "「이거 또\n함정 놓기 딱 좋은 구조란 말이지."
+  },
+  {
+   "key": "51c15b32327e",
+   "speaker_korean": "마리아",
+   "korean": "「그래.\n게이트를 막아버리면 간단히\n퇴로를 끊을 수 있으니까."
+  },
+  {
+   "key": "d8f91728563e",
+   "speaker_korean": "소피아",
+   "korean": "「위험한 거 아닐까요…"
+  },
+  {
+   "key": "817bb397368c",
+   "speaker_korean": "페이트",
+   "korean": "「괜찮아,\n⟦1⟧소피아⟦2⟧."
+  },
+  {
+   "key": "c73aea3782f6",
+   "speaker_korean": "스테이션 직원",
+   "korean": "「OK.\n잠깐만 기다려 줄래?"
+  },
+  {
+   "key": "77df89df6817",
+   "speaker_korean": "스테이션 직원",
+   "korean": "「미안하지만 너희들한테는\n⟦1⟧로스트 시티⟦2⟧ 접속 권한이 없나 봐.\n⟦3⟧로스트 시티⟦4⟧는 보안 문제로\n접속 권한이 없는 사람은 전송을\n할 수 없게 되어 있거든.\n미안하네.\n무슨 볼일이라도 있어?"
+  },
+  {
+   "key": "418769985989",
+   "speaker_korean": "스테이션 직원",
+   "korean": "「방금 ⟦1⟧로스트 시티⟦2⟧에서 연락이 왔는데.\n너희들한테 접속 권한이 주어졌어."
+  },
+  {
+   "key": "d0467dbf58d4",
+   "speaker_korean": "스테이션 직원",
+   "korean": "「그, 그렇게 말했어.\n⟦1⟧플러드⟦2⟧의 지인이라고 하면 안다고\n하던데.\n나도 잘은 모르겠지만 말이야."
+  },
+  {
+   "key": "963aa7594f25",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧플러드⟦2⟧의 지인?\n이게 무슨 소리지?"
+  },
+  {
+   "key": "47885d818b75",
+   "speaker_korean": "마리아",
+   "korean": "「그러고 보니 관계자가 ⟦1⟧스피어사⟦2⟧에\n있다고 했었지.\n⟦3⟧블레어⟦4⟧던가 뭐라던가…\n분명 그 사람 아닐까?"
+  },
+  {
+   "key": "912f0bb4e8e4",
+   "speaker_korean": "클리프",
+   "korean": "「그럴지도 모르지."
+  },
+  {
+   "key": "5831acd650cc",
+   "speaker_korean": "소피아",
+   "korean": "「하지만 믿을 수 있는 사람\n아닐까요?"
+  },
+  {
+   "key": "edc08e24f96d",
+   "speaker_korean": "마리아",
+   "korean": "「글쎄, 그건 어떨지.\n그것 자체가 함정일 가능성도 있어."
+  },
+  {
+   "key": "f9b3f922596d",
+   "speaker_korean": "스테이션 직원",
+   "korean": "「⟦1⟧스피어사⟦2⟧라…\n⟦3⟧에터널 스피어⟦4⟧ 개발사잖아.\n나도 하고 있는데,\n그거 재밌더라."
+  },
+  {
+   "key": "25154ab169d9",
+   "speaker_korean": "페이트",
+   "korean": "「⟦1⟧페이트\n라인갓⟦2⟧입니다."
+  },
+  {
+   "key": "4d4b512df65b",
+   "speaker_korean": "소피아",
+   "korean": "「⟦1⟧소피아\n에스테드⟦2⟧입니다."
+  },
+  {
+   "key": "cce93b17d8df",
+   "speaker_korean": "마리아",
+   "korean": "「⟦1⟧마리아\n트레이터⟦2⟧야."
+  },
+  {
+   "key": "dfdfbcca3267",
+   "speaker_korean": "클리프",
+   "korean": "「⟦1⟧클리프\n피터⟦2⟧다."
+  },
+  {
+   "key": "f4d2fc802475",
+   "speaker_korean": "넬",
+   "korean": "「⟦1⟧넬\n젤퍼⟦2⟧야."
+  },
+  {
+   "key": "fc446457478e",
+   "speaker_korean": "알벨",
+   "korean": "「⟦1⟧알벨⟦2⟧다."
+  },
+  {
+   "key": "c77049be55cb",
+   "speaker_korean": "로저",
+   "korean": "「⟦1⟧로저 S.\n헉슬리⟦2⟧다!"
+  },
+  {
+   "key": "d7f02e0321f7",
+   "speaker_korean": "스프레",
+   "korean": "「⟦1⟧스프레\n로세티⟦2⟧야!"
+  }
+ ]
+}

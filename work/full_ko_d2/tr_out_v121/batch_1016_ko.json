@@ -1,0 +1,345 @@
+{
+ "batch_id": "batch_1016",
+ "translations": [
+  {
+   "key": "0ad4f178c981",
+   "speaker_korean": null,
+   "korean": "투기장 접수"
+  },
+  {
+   "key": "a2bb87b9f309",
+   "speaker_korean": "투기장 접수원",
+   "korean": "「싱글 배틀이시군요,\n누가 참가하시겠습니까?"
+  },
+  {
+   "key": "2a789ecc2b46",
+   "speaker_korean": "투기장 접수원",
+   "korean": "「팀 배틀이시군요.\n그럼 어떤 랭크에 도전하시겠습니까?\n게임 참가비는 다음과 같습니다.\n⟦P⟧"
+  },
+  {
+   "key": "62e4bb48af90",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・D랭크  초보자 군단 열렬 환영   ⟦2⟧100폴"
+  },
+  {
+   "key": "13945c47b6d2",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・C랭크  어서 오세요 중급자들    ⟦2⟧300폴"
+  },
+  {
+   "key": "624179e452e3",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・P랭크  오라 상급자들       ⟦2⟧500폴"
+  },
+  {
+   "key": "d547c4d61563",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・A랭크  모여라, 엑스퍼트들  ⟦2⟧1000폴"
+  },
+  {
+   "key": "b543fc24d53a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・l랭크  신들의 길         ⟦2⟧2000폴"
+  },
+  {
+   "key": "85b91baf9e15",
+   "speaker_korean": null,
+   "korean": "⟦1⟧배틀 타입:⟦2⟧ 팀 배틀\n⟦3⟧랭크:⟦4⟧ D랭크・초보자용\n⟦5⟧도전자:⟦6⟧ ⟦7⟧⟦8⟧\n      ⟦9⟧\n      ⟦10⟧"
+  },
+  {
+   "key": "b6de913c95a8",
+   "speaker_korean": null,
+   "korean": "⟦1⟧배틀 타입:⟦2⟧ 팀 배틀\n⟦3⟧랭크:⟦4⟧ C랭크・중급자용\n⟦5⟧도전자:⟦6⟧ ⟦7⟧⟦8⟧\n      ⟦9⟧\n      ⟦10⟧"
+  },
+  {
+   "key": "c2c881eca079",
+   "speaker_korean": null,
+   "korean": "⟦1⟧배틀 타입:⟦2⟧ 팀 배틀\n⟦3⟧랭크:⟦4⟧ P랭크・상급자용\n⟦5⟧도전자:⟦6⟧ ⟦7⟧⟦8⟧\n      ⟦9⟧\n      ⟦10⟧"
+  },
+  {
+   "key": "8156061ac620",
+   "speaker_korean": null,
+   "korean": "⟦1⟧배틀 타입:⟦2⟧ 팀 배틀\n⟦3⟧랭크:⟦4⟧ A랭크・엑스퍼트용\n⟦5⟧도전자:⟦6⟧ ⟦7⟧⟦8⟧\n      ⟦9⟧\n      ⟦10⟧"
+  },
+  {
+   "key": "4b1406953d07",
+   "speaker_korean": null,
+   "korean": "⟦1⟧배틀 타입:⟦2⟧ 팀 배틀\n⟦3⟧랭크:⟦4⟧ l랭크・신급\n⟦5⟧도전자:⟦6⟧ ⟦7⟧⟦8⟧\n      ⟦9⟧\n      ⟦10⟧"
+  },
+  {
+   "key": "41d14e385879",
+   "speaker_korean": "투기장 접수원",
+   "korean": "「아쉽게 됐네요.\n이번 일로 실망하지 마시고 다시\n도전해 주세요."
+  },
+  {
+   "key": "5eb1e2537183",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「어서 오셨습니다.\n이곳은 ⟦2⟧에터널 스피어⟦3⟧ 자랑의 전투 시스템,\n투기장~파이팅 월드 ver2.01~입니다.\n⟦P⟧괜찮으시다면 제가 이 시스템에 대해\n설명해 드릴까 하는데요,\n손님께서는 어떻게 하시겠습니까?\n⟦P⟧"
+  },
+  {
+   "key": "47190f65e9bd",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・싱글 배틀"
+  },
+  {
+   "key": "c6a1a98ccb09",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・팀 배틀"
+  },
+  {
+   "key": "fd3da936eaa3",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・랭킹 배틀"
+  },
+  {
+   "key": "11f2d172ee62",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「그러시군요.\n그럼 다시 찾아주시기를\n기다리고 있겠습니다.\n⟦P⟧"
+  },
+  {
+   "key": "136ad7845bc9",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・설명 따위 필요없어"
+  },
+  {
+   "key": "3555cd165994",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・자세히 이야기해 줘."
+  },
+  {
+   "key": "7a03876c401a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・투기장에 대해"
+  },
+  {
+   "key": "50361277a4f6",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・싱글 배틀에 대해"
+  },
+  {
+   "key": "c1b0e96d148d",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・팀 배틀에 대해"
+  },
+  {
+   "key": "5a3c91f4b167",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・랭킹 배틀에 대해"
+  },
+  {
+   "key": "d4c12ab6ec09",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「그럼, 손님께서는 투기장에\n참가하시겠습니까?\n⟦P⟧"
+  },
+  {
+   "key": "e305a4b800ca",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・참가 안 함"
+  },
+  {
+   "key": "ce02d2fc6210",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「저희 투기장에서는 손님께서 키우신\n⟦2⟧에터널 스피어⟦3⟧의 캐릭터가 되어\n대전을 즐기실 수 있습니다.\n⟦P⟧배틀에 참가하려면 약간의 참가비를\n내셔야 하지만, 손님께서 대전에서\n승리하시면 그와는 비교도 안 될 만큼\n화려한 기념품과 두둑한 상금을\n받으실 수 있답니다.\n⟦P⟧마음껏 즐긴 데다 화려한 상품과\n상금까지 얻을 수 있다니!\n이렇게 되면 이제 참가해 보는 수밖에\n없지 않을까요?\n⟦P⟧"
+  },
+  {
+   "key": "414c95e535d4",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「…뭐, 이런 느낌입니다.\n그 밖에 다른 질문 있으신가요?\n⟦P⟧"
+  },
+  {
+   "key": "11e389266a9b",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「싱글 배틀은 사나이의 무대,\n일대일 진검승부입니다.\n⟦P⟧당신들의 대표 한 명이\n엄선된 적 몬스터와\n일대일 진검승부를 벌이게 됩니다.\n멋지게 5연승하면 상품을 획득!\n⟦P⟧초보자용부터 초상급자용까지\n5단계로 난이도 조절이 가능하니\n여성분도 안심하셔도 됩니다.\n⟦P⟧참고로 초보자용 난이도 D와\n중급자용인 난이도 C는\n도전자 1인당 1개까지이며,\n⟦P⟧그 이상의 난이도에서는\n난이도에 맞는 화려한 상품을 1개만\n받으실 수 있게 되어 있습니다.\n⟦P⟧"
+  },
+  {
+   "key": "d738d4abbc93",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「…뭐, 싱글 배틀에 대해서는\n이런 느낌입니다.\n그 밖에 다른 질문 있으신가요?\n⟦P⟧"
+  },
+  {
+   "key": "82a126d3d36d",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「팀 배틀은 우정의 승부,\n그 이름 그대로 팀워크가 모든 것을\n결정짓는 싸움입니다.\n⟦P⟧당신들은 3명이 한 팀이 되어\n엄선된 적 몬스터들과의\n싸움을 펼치게 됩니다.\n멋지게 5연승하면 상품을 획득!\n⟦P⟧초보자용부터 초상급자용까지\n5단계로 난이도 조절이 가능하니\n초보자분도 안심하셔도 됩니다.\n⟦P⟧참고로 초보자용 난이도 D와\n중급자용인 난이도 C는\n등록된 팀마다 6개까지이며,\n⟦P⟧그 이상의 난이도에서는\n등록된 팀마다\n1개만 상품을 받으실 수\n있게 되어 있습니다.\n⟦P⟧"
+  },
+  {
+   "key": "c460566e663c",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「…뭐, 팀 배틀에 대해서는\n이 정도일까요.\n그 밖에 다른 질문 있으신가요?\n⟦P⟧"
+  },
+  {
+   "key": "8b3aaeb1279c",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「랭킹 배틀은 투기장의 꽃,\n이걸 빼놓고는 투기장을 논할 수 없죠.\n⟦P⟧이 배틀은 전국 각지에 흩어져 있는\n다른 플레이어분들과,\n갈고닦은 ⟦2⟧에터널 스피어⟦3⟧의\n캐릭터로 벌이는 팀 배틀입니다.\n⟦P⟧규정상 자신들의 팀보다 4단계 위\n평가의 팀까지밖에 싸울 수 없지만,\n강한 팀과 싸워 이기면 상금이 들어올\n뿐만 아니라 랭킹도 올라간답니다.\n⟦P⟧참고로 현재 당신들 외에도\n50개 팀 정도가 등록되어 있으니\n도전할 맛이 확실합니다.\n⟦P⟧"
+  },
+  {
+   "key": "6790d3ede9c2",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「…뭐, 랭킹 배틀에 대해서는\n이런 느낌인데요,\n그 밖에 다른 질문 있으신가요?\n⟦P⟧"
+  },
+  {
+   "key": "d96bd0427956",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「그럼, 어느 모드의 배틀을\n플레이하시겠습니까?\n⟦P⟧"
+  },
+  {
+   "key": "fbfb96d66dc1",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「투기장에서의 싸움을\n그만두시겠습니까?\n⟦P⟧"
+  },
+  {
+   "key": "590c8ce54ec5",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・아니오, 할래."
+  },
+  {
+   "key": "2a0fb719daaa",
+   "speaker_korean": "투기장 접수원",
+   "korean": "「그게, 돈이 부족하신 것 같네요.\n그럼 다시 찾아주시기를\n기다리고 있겠습니다.\n⟦P⟧"
+  },
+  {
+   "key": "df81a76459f7",
+   "speaker_korean": "투기장 접수원",
+   "korean": "「그럼, 다음 내용으로 등록하겠습니다.\n힘내세요.\n⟦P⟧"
+  },
+  {
+   "key": "f15232156272",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「손님들은 아직 등록을\n안 하신 것 같네요.\n⟦P⟧그럼 팀 이름을 정해 주세요.\n한번 정하면 변경은 안 되니\n부디 신중하게…\n⟦P⟧"
+  },
+  {
+   "key": "bc84eb220221",
+   "speaker_korean": "페이트",
+   "korean": "⟦1⟧「팀 이름이라…\n⟦P⟧"
+  },
+  {
+   "key": "c6c4c84c0f4e",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「그러시군요…\n확실히 평생 남는 것이니 팀 이름을\n정하는 게 어렵긴 하죠.\n⟦P⟧그럼 다음에 또,\n곰곰이 생각해 보시고 와 주세요.\n⟦P⟧"
+  },
+  {
+   "key": "e0f3b7991ee4",
+   "speaker_korean": "투기장 접수원",
+   "korean": "「정말로 그 팀 이름으로 괜찮으시겠어요?\n한번 결정해 버리면 울어도 웃어도\n나중에 변경은 안 됩니다.\n⟦P⟧"
+  },
+  {
+   "key": "98b014091007",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・팀명 『시간의 틈 전사들』"
+  },
+  {
+   "key": "cb0b9e850f2b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・팀명 『강철 기사단』"
+  },
+  {
+   "key": "6758fbc7e1ec",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・팀명 『아서 왕과 밥상의 기사』"
+  },
+  {
+   "key": "ae877224022a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・팀명 『존재없는 반역자』"
+  },
+  {
+   "key": "9254fb589b64",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・팀명 『칠흑의 마전사』"
+  },
+  {
+   "key": "f8a61cea355b",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・팀명 『마룡의 눈』"
+  },
+  {
+   "key": "5d0021033be1",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・팀명 『등장! 해동참치단』"
+  },
+  {
+   "key": "5636e4887abf",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・팀명 『페이트와 동료들』"
+  },
+  {
+   "key": "6e124408770c",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「그럼, 다시 한번 잘 생각해서\n팀 이름을 정해 주세요.\n한번 정해 버리면 나중에 변경은\n안 되니 부디 신중하게…\n⟦P⟧"
+  },
+  {
+   "key": "104d31e85aa8",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・잠깐만!"
+  },
+  {
+   "key": "d7b3f29cf462",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・이 팀 이름으로 문제없어"
+  },
+  {
+   "key": "49cfd20ea27c",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「팀명은 『시간의 틈 전사들』이군요.\n접수했습니다.\n⟦P⟧"
+  },
+  {
+   "key": "76b5faa6d507",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「팀명은 『강철 기사단』이군요.\n접수했습니다.\n⟦P⟧"
+  },
+  {
+   "key": "cc49b3d315a6",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「팀명은\n『아서 왕과 밥상의 기사』이군요.\n접수했습니다.\n⟦P⟧"
+  },
+  {
+   "key": "448b92c8d569",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「팀명은 『존재없는 반역자』이군요.\n접수했습니다.\n⟦P⟧"
+  },
+  {
+   "key": "579cf35eaf3f",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「팀명은 『칠흑의 마전사』이군요.\n접수했습니다.\n⟦P⟧"
+  },
+  {
+   "key": "73b0ab42fbdf",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「팀명은 『마룡의 눈』이군요.\n접수했습니다.\n⟦P⟧"
+  },
+  {
+   "key": "f6bb309d6db0",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「팀명은 『등장! 해동참치단』이군요.\n접수했습니다.\n⟦P⟧"
+  },
+  {
+   "key": "2d64af515028",
+   "speaker_korean": "투기장 접수원",
+   "korean": "⟦1⟧「팀명은\n『페이트와 동료들』이군요.\n접수했습니다.\n⟦P⟧"
+  },
+  {
+   "key": "48d7a8cedb30",
+   "speaker_korean": "투기장 접수원",
+   "korean": "「그럼 어떤 랭크에 도전하시겠습니까?\n게임 참가비는 다음과 같습니다.\n⟦P⟧"
+  },
+  {
+   "key": "0a0900edd6ec",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・D랭크  초보자 열렬 환영      ⟦2⟧100폴"
+  },
+  {
+   "key": "58aaa84ec2f7",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・C랭크  어서 오세요 중급자     ⟦2⟧300폴"
+  },
+  {
+   "key": "a3406efd1eb3",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・P랭크  오라 상급자        ⟦2⟧500폴"
+  },
+  {
+   "key": "f387b8b231eb",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・A랭크  모여라, 엑스퍼트    ⟦2⟧1000폴"
+  }
+ ]
+}

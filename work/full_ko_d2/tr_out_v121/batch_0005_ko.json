@@ -2,284 +2,294 @@
  "batch_id": "batch_0005",
  "translations": [
   {
-   "key": "76d5074438cd",
+   "key": "2fd05e1dd70a",
+   "speaker_korean": "서큐버스",
+   "korean": "⟦1⟧「장소가 그렇게 많지는 않은데,\n한 번도 만난 적 없는 사람을 만난 걸로\n되어 버리는 곳도 있으니까 조심해.\n⟦P⟧"
+  },
+  {
+   "key": "fd6f2544168f",
+   "speaker_korean": "서큐버스",
+   "korean": "⟦1⟧「자, 이걸로 됐을 거야.\n평범하게 해서는 안 모이는 법이니까.\n⟦P⟧"
+  },
+  {
+   "key": "1c271143a218",
+   "speaker_korean": "서큐버스",
+   "korean": "⟦1⟧「이 정도면 충분하려나?\n그럼 안녕.\n⟦P⟧"
+  },
+  {
+   "key": "2a744896b7e5",
+   "speaker_korean": "서큐버스",
+   "korean": "⟦1⟧「당신도 참 별나네.\n⟦P⟧아, 맞다 맞다.\n다른 상태도 만지고 싶다면\n연락을 주면 만들어 줄 테니까.\n⟦P⟧"
+  },
+  {
+   "key": "57dc56485581",
+   "speaker_korean": "서큐버스",
+   "korean": "⟦1⟧「자, 들어갔어.\n하지만 동료 합류 자체 이벤트 쪽은\n밸런스에 관계되니까 조금만 더 기다려 줘.\n미안해.\n⟦P⟧"
+  },
+  {
+   "key": "8d10cd07eeb0",
+   "speaker_korean": "서큐버스",
+   "korean": "⟦1⟧「자, 끝났어.\n⟦P⟧"
+  },
+  {
+   "key": "28af49476126",
+   "speaker_korean": "서큐버스",
+   "korean": "⟦1⟧「에필로그용 감정도 조정이야.\n그 캐릭터의 페이트에 대한\n감정도를 80 올려 줄게.\n⟦P⟧"
+  },
+  {
+   "key": "9ee76c105b41",
+   "speaker_korean": "서큐버스",
+   "korean": "⟦1⟧「참고로 ＭＡO353의\n엔딩 공백 맵으로 가면\n시작될 거야.\n⟦P⟧하지만 파티에 없는 캐릭터는\n콤비 엔딩에서는 제외되고,\n로저는 월영이 있는 곳에서\n구해 두지 않으면 안 되니까.\n⟦P⟧"
+  },
+  {
+   "key": "498abce39e19",
    "speaker_korean": null,
-   "korean": "스테이션 내부"
+   "korean": "⟦1⟧・페이트의 전원에 대한 감정도를 20 올린다"
   },
   {
-   "key": "024c17b3e7f8",
-   "speaker_korean": "시공 스테이션 여직원",
-   "korean": "⟦1⟧「오늘 ⟦2⟧시공 스테이션⟦3⟧에\n잘 오셨습니다\n⟦P⟧이 마을 주민을 위한 오락시설인\n⟦4⟧제미티 시⟦5⟧ 외의 도시로\n이동하고 싶으신 분은 ⟦6⟧로스트시티⟦7⟧\n정부에 신청해 주세요\n⟦P⟧3개월에서 반년 후면\n허가가 날 거예요\n운이 좋으면…\n⟦P⟧"
-  },
-  {
-   "key": "bfb159a9aca9",
-   "speaker_korean": "시공 스테이션 직원",
-   "korean": "⟦1⟧「이 ⟦2⟧시공 스테이션⟦3⟧의 사용법은\n아주 간단합니다\n안쪽 시공 연결장치에 들어가기만 하면 되죠\n⟦P⟧저기 들어가면 당신이\n⟦4⟧로스트시티⟦5⟧ 정부로부터 허가받은\n전송지가 전부 표시되니까요\n⟦P⟧그중에서 목적지를 고르시면\n그걸로 OK예요\n어때요? 간단하죠?\n⟦P⟧"
-  },
-  {
-   "key": "0d110ba5eb3e",
-   "speaker_korean": "시공 스테이션 직원",
-   "korean": "⟦1⟧「어차피 당신도 목적지는\n⟦2⟧제미티 시⟦3⟧ 아닌가요?\n⟦P⟧그 외의 장소로 가는 전송자는\n정말 드무니까요\n⟦P⟧"
-  },
-  {
-   "key": "cd301a7c9f90",
-   "speaker_korean": "다른 세계를 동경하는 젊은이",
-   "korean": "⟦1⟧「액세스 권한도 없는 주제에\n왜 여기 온 거야!\n⟦P⟧다 같이 사이좋게 ⟦2⟧제미티 시⟦3⟧에서\n놀러 왔냐!?\n쳇, 속 편한 놈이네\n⟦P⟧"
-  },
-  {
-   "key": "f7a28ba89d5d",
-   "speaker_korean": "다른 세계를 동경하는 젊은이",
-   "korean": "⟦1⟧「어이, 형씨\n여기 왔다는 건 다른 마을로 가는\n액세스 권한을 갖고 있단 거잖아\n⟦P⟧그럼 그거 나한테\n넘겨줘\n어이, 부탁 좀 하자\n⟦P⟧"
-  },
-  {
-   "key": "cf7a4705e74e",
+   "key": "db9ec63491b4",
    "speaker_korean": null,
-   "korean": "뭐!?\n액세스 권한이 없다고?\n이런, 쓸모없는 놈이네\n⟦P⟧"
+   "korean": "⟦1⟧・소피아의 감정도+80"
   },
   {
-   "key": "208dd2442c5a",
-   "speaker_korean": "다른 세계를 동경하는 젊은이",
-   "korean": "⟦1⟧「형씨라면 어차피 금방\n다른 마을 액세스 권한 얻을 거 아냐\n⟦P⟧그러니까 그거 나한테 넘겨줘\n어이, 부탁 좀 하자니까\n⟦P⟧"
-  },
-  {
-   "key": "39b869257da5",
+   "key": "44edbde3e6d8",
    "speaker_korean": null,
-   "korean": "이 ⟦1⟧레코다⟦2⟧에서 다른 도시들로 이어지는\n⟦3⟧스테이션⟦4⟧ 연결도인 것 같다\n⟦P⟧"
+   "korean": "⟦1⟧・마리아의 감정도+80"
   },
   {
-   "key": "741a5139a9ff",
-   "speaker_korean": "페이트",
-   "korean": "⟦1⟧(작동 원리는 둘째치고…\n결국 셔틀이나 ⟦2⟧트랜스포터⟦3⟧\n같은 수송 수단인 모양이군\n⟦P⟧"
-  },
-  {
-   "key": "1f6576539900",
-   "speaker_korean": "페이트",
-   "korean": "⟦1⟧(모든 문자가 우리 세계에서 ⟦2⟧문장⟦3⟧으로\n쓰이는 기호인 것 같다…\n그런 거였나\n⟦P⟧"
-  },
-  {
-   "key": "361dd421d957",
+   "key": "b8c489671388",
    "speaker_korean": null,
-   "korean": "지금부터 ⟦1⟧오락도시 제미티 시⟦2⟧로\n향하는 전송 게이트를 엽니다\n⟦3⟧제미티 시⟦4⟧로 전송을 원하시는 분은\n시스템 내부로 이동해 주십시오\n⟦P⟧"
+   "korean": "⟦1⟧・클리프의 감정도+80"
   },
   {
-   "key": "aab06083f88f",
+   "key": "df1fca85ac98",
    "speaker_korean": null,
-   "korean": "⟦1⟧시공 스테이션⟦2⟧을 사용하시겠습니까?\n⟦P⟧"
+   "korean": "⟦1⟧・넬의 감정도+80"
   },
   {
-   "key": "7c8e6ca10b5b",
+   "key": "9a65fc047483",
    "speaker_korean": null,
-   "korean": "액세스 코드 확인이 완료되었습니다\n⟦P⟧고객님께는 ⟦1⟧오락도시 제미티⟦2⟧ 외에도\n⟦3⟧로스트시티⟦4⟧의 ⟦5⟧스피어사⟦6⟧로의\n시공 연결이 허가되어 있는데\n어느 도시로 공간 연결을 하시겠습니까?\n⟦P⟧"
+   "korean": "⟦1⟧・알벨의 감정도+80"
   },
   {
-   "key": "38c7db45fabb",
+   "key": "b70945cc8395",
    "speaker_korean": null,
-   "korean": "어떻게 할까요?\n⟦P⟧"
+   "korean": "⟦1⟧・로저의 감정도+80"
   },
   {
-   "key": "091071846f2e",
+   "key": "6fa4f08dbbe6",
    "speaker_korean": null,
-   "korean": "⟦1⟧・제미티 시로 연결한다"
+   "korean": "⟦1⟧・↓ 아래"
   },
   {
-   "key": "315384fbaee3",
+   "key": "72e157102249",
    "speaker_korean": null,
-   "korean": "⟦1⟧・스피어사로 연결한다"
+   "korean": "⟦1⟧・↑ 뒤로"
   },
   {
-   "key": "b9415622c8dd",
+   "key": "4ca420849df9",
    "speaker_korean": null,
-   "korean": "⟦1⟧・스테이션 사용 안 함"
+   "korean": "⟦1⟧・스프레의 감정도+80"
   },
   {
-   "key": "30309a460db7",
-   "speaker_korean": "페이트",
-   "korean": "⟦1⟧(지금은 안 써도 되겠지…\n⟦P⟧"
-  },
-  {
-   "key": "d5d2b54b5080",
+   "key": "bd22c18734e9",
    "speaker_korean": null,
-   "korean": "경고!\n이곳은 출입구가 아닙니다\n관계자 외 출입 금지\n⟦P⟧"
+   "korean": "⟦1⟧・미라쥬의 감정도+80"
   },
   {
-   "key": "448bf63823b3",
-   "speaker_korean": "마리아",
-   "korean": "「여기서 ⟦1⟧제미티 시⟦2⟧로\n갈 수 있는 것 같네"
-  },
-  {
-   "key": "efd81291a2bc",
-   "speaker_korean": "페이트",
-   "korean": "「전송 장치 같은\n거네"
-  },
-  {
-   "key": "0dba0855f615",
-   "speaker_korean": "소피아",
-   "korean": "「⟦1⟧제미티 시⟦2⟧라고\n어뮤즈먼트 시티라고 쓰여 있어\n어떤 곳일까?"
-  },
-  {
-   "key": "63ed073ee096",
-   "speaker_korean": "페이트",
-   "korean": "「글쎄\n아무튼 가 보면 알겠지"
-  },
-  {
-   "key": "de3db7573427",
+   "key": "643c45f56e8f",
    "speaker_korean": null,
-   "korean": "플러드의 집"
+   "korean": "⟦1⟧・뒤로 ↑"
   },
   {
-   "key": "a27df68cb16e",
-   "speaker_korean": "주디",
-   "korean": "⟦1⟧「무, 무슨 일이 있어도\n여긴 못 지나가게 할 거예요…\n⟦P⟧빨리 나가요!\n또 ⟦2⟧시큐리티서비스⟦3⟧를\n부르고 싶은 거예요?\n⟦P⟧"
+   "key": "eed08ea8723a",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・모든 귀중품 입수"
   },
   {
-   "key": "63eab6e273a6",
-   "speaker_korean": "플러드",
-   "korean": "⟦1⟧「잠깐만, 엄마\n그 사람은…\n⟦P⟧"
+   "key": "b631789e0c42",
+   "speaker_korean": "서큐버스",
+   "korean": "⟦1⟧「자, 이걸로 됐을까?\n⟦P⟧"
   },
   {
-   "key": "c0b6407c2ab1",
-   "speaker_korean": "주디",
-   "korean": "⟦1⟧「⟦2⟧플러드⟦3⟧!\n넌 가만히 있어!\n⟦P⟧"
+   "key": "0046fcfeb88e",
+   "speaker_korean": "귀족맨",
+   "korean": "⟦1⟧「무비 체크예요오.\n⟦P⟧"
   },
   {
-   "key": "ce4e0ddf921b",
-   "speaker_korean": "주디",
-   "korean": "⟦1⟧「자, 빨리 나가요!\n⟦P⟧"
+   "key": "f140056f7817",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・하이다 습격"
   },
   {
-   "key": "11952d5e18b0",
-   "speaker_korean": "페이트",
-   "korean": "⟦1⟧(지금은 무슨 말을 해도\n들어주지 않을 것 같군…\n⟦P⟧"
+   "key": "4736ed1c71af",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・헤루아 워프 개시"
   },
   {
-   "key": "a87c43ec34d9",
-   "speaker_korean": "주디",
-   "korean": "⟦1⟧「또 당신이군요\n빨리 나가요!\n⟦P⟧안 그러면 ⟦2⟧시큐리티서비스⟦3⟧를\n부를 거예요!\n⟦P⟧"
+   "key": "cea001c17049",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・헤루아 워프 중"
   },
   {
-   "key": "a8a1a99a93c5",
-   "speaker_korean": "플러드",
-   "korean": "⟦1⟧「결국 엄마는 끝까지\n형들을 이해해\n주지 않았어…\n⟦P⟧진짜, 왜 저렇게\n고집이 센 걸까\n실제로 형들을 보고 있으면서\n말이야\n⟦P⟧"
+   "key": "37c2a7339092",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・헤루아 브리지에 비치는 반덴 함"
   },
   {
-   "key": "858c4580dc23",
-   "speaker_korean": "플러드",
-   "korean": "⟦1⟧「게임 데이터까지 제대로 보여줬는데\n왜 엄마는 안 믿으려는 걸까?\n이거 진짜 대단한 일인데 말이야\n⟦P⟧"
+   "key": "4fb34e8d86d5",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・탈출 포드"
   },
   {
-   "key": "ebec81d8df06",
-   "speaker_korean": "주디",
-   "korean": "⟦1⟧「⟦2⟧플러드⟦3⟧의 나쁜 친구로군요\n우리 애를 더 이상 나쁜 놀이에\n끌어들이지 말아 주세요!\n⟦P⟧"
+   "key": "32e577b8c98e",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・이륙하는 이글"
   },
   {
-   "key": "1b749a8fb1de",
-   "speaker_korean": "주디",
-   "korean": "⟦1⟧「당신도 나이가 있잖아요!?\n게임 같은 거나 하고 부끄럽지도 않아요\n착실하게 공부라도 하는 게 어때요?\n⟦P⟧"
+   "key": "31f2ba3806dc",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・다음 ↓"
   },
   {
-   "key": "6710b717a412",
-   "speaker_korean": "플러드",
-   "korean": "⟦1⟧「⟦2⟧블레어⟦3⟧는 만났지?\n⟦4⟧블레어⟦5⟧는 어떤 느낌의 사람이었어!?\n⟦P⟧⟦6⟧블레어⟦7⟧랑은 자주 ⟦8⟧에터널 스피어⟦9⟧에서\n같이 모험하고 그러는데\n실제로 만난 적은 아직 없거든\n⟦P⟧"
+   "key": "c9d30e2cc14f",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・우주 공간을 나는 이글"
   },
   {
-   "key": "c34af025d0b4",
-   "speaker_korean": "플러드",
-   "korean": "⟦1⟧「⟦2⟧에터널 스피어⟦3⟧ 안에서도\n은하계 후기 연도 시나리오 쪽은\n이제 완전히 정지 상태야\n⟦P⟧그 덕분에 그 근처 국부은하군이\n은하계에서 흘러들어온 플레이어들 때문에\n완전 난리였어\n⟦P⟧"
+   "key": "3a4f8f75e7ba",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・이글 스크린에 비치는 반덴 함"
   },
   {
-   "key": "5ec166b5bb39",
-   "speaker_korean": "주디",
-   "korean": "⟦1⟧「⟦2⟧플러드⟦3⟧가 자주 하는 게임을\n만들던 회사에서 큰 사건이\n일어났다면서요\n⟦P⟧무섭네요…\n그런 사람들은 현실이랑 게임\n구별도 못 하는 걸까요?\n당신도 조심해요\n⟦P⟧"
+   "key": "4492c6025616",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・이글 워프"
   },
   {
-   "key": "db5f7d3202c4",
-   "speaker_korean": "주디",
-   "korean": "⟦1⟧「당신도 사건을 일으킬 거면\n혼자서 일으키세요!\n⟦P⟧절대로 우리 ⟦2⟧플러드⟦3⟧는\n끌어들이지 마요\n⟦P⟧"
+   "key": "62baf0e79942",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・불시착하는 이글"
   },
   {
-   "key": "4f15503e4b71",
-   "speaker_korean": "플러드",
-   "korean": "⟦1⟧「개조인가?\n아니면 버그인가…\n⟦P⟧게임이란 건 참 어렵네\n⟦P⟧"
+   "key": "f4640ab3bafb",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・반덴 습격(1)"
   },
   {
-   "key": "e8fe49afa2d8",
-   "speaker_korean": "페이트",
-   "korean": "「그건 ⟦1⟧마리아⟦2⟧의\n힘이겠지\n⟦3⟧알티네이션⟦4⟧의 힘"
+   "key": "ce32c460a022",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・반덴 습격(2)"
   },
   {
-   "key": "eb9afb548346",
-   "speaker_korean": "소피아",
-   "korean": "「그럴 수가, 어째서!?"
+   "key": "bbbed446726a",
+   "speaker_korean": "귀족맨",
+   "korean": "⟦1⟧「지금은 들어 있지 않느니라.\n⟦P⟧"
   },
   {
-   "key": "1177c02d3648",
-   "speaker_korean": "마리아",
-   "korean": "「연방과 ⟦1⟧엑스큐셔너⟦2⟧의\n싸움이네"
+   "key": "084720606d1c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・반덴 습격(3)"
   },
   {
-   "key": "21998d2b2c31",
-   "speaker_korean": "플러드",
-   "korean": "「맞아\n지금 ⟦1⟧에터널 스피어⟦2⟧에서\n실제로 일어나고 있는 일이야"
+   "key": "b44dbdbf9928",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・반덴 등장"
   },
   {
-   "key": "298de2eb7dbd",
-   "speaker_korean": "클리프",
-   "korean": "「실제로 일어나고 있는 일이라\n이거냐?"
+   "key": "3606b3d628f4",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・도그파이트"
   },
   {
-   "key": "f50771db42d1",
-   "speaker_korean": "클리프",
-   "korean": "「어이, 꼬마\n⟦1⟧에터널 스피어⟦2⟧라는 게 대체 뭐냐!?\n왜 연방이랑 ⟦3⟧엑스큐셔너⟦4⟧의 싸움이\n여기 비춰지고 있는 거냐고!?"
+   "key": "787f95e57779",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・크리에이션포를 회피하는 디플로"
   },
   {
-   "key": "6a80f7ae17ae",
-   "speaker_korean": "플러드",
-   "korean": "「진정해\n제대로 설명해 줄게"
+   "key": "beca86730b95",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・인비저블 접근"
   },
   {
-   "key": "ca79281367ad",
-   "speaker_korean": "플러드",
-   "korean": "「⟦1⟧에터널 스피어⟦2⟧라는 건 말이야\n시뮬레이터 속 세계야\n그리고 ⟦3⟧지구⟦4⟧도 그 세계 속에 존재하는\n행성 중 하나인 거지"
+   "key": "badcddf33947",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・마리아 각성"
   },
   {
-   "key": "33f7516a8b7b",
-   "speaker_korean": "플러드",
-   "korean": "「⟦1⟧에터널 스피어⟦2⟧는\n각자의 단말기로 관람할 수 있어\n그래서 은하계에서 일어나는 사건도\n여기서 볼 수 있는 거야\n그러니까 형들은\n⟦3⟧에터널 스피어⟦4⟧라는\n시뮬레이터 안에 있는\n등장 캐릭터인 거야"
+   "key": "f0d24b188802",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・디플로 이륙"
   },
   {
-   "key": "8057bdd00160",
-   "speaker_korean": "소피아",
-   "korean": "「저기…\n이 아이, 대체 무슨 말을 하는 거야?"
+   "key": "2290bbe5e515",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・집행자 일러스트"
   },
   {
-   "key": "b23f9472c176",
-   "speaker_korean": "페이트",
-   "korean": "「우리가…시뮬레이터 속\n등장 캐릭터라고?"
+   "key": "b90acb7b9a26",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・방위 라인 돌파 및 지구 붕괴"
   },
   {
-   "key": "0dc2f043bc44",
-   "speaker_korean": "플러드",
-   "korean": "「맞아"
+   "key": "0154ebb8ab87",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・집행자Gl아쿠아에리"
   },
   {
-   "key": "1c452a8e81c1",
-   "speaker_korean": "클리프",
-   "korean": "「그럼 우리는\n프로그램이라는 거냐?"
+   "key": "62f5af43f888",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・플래드의 집 모니터"
   },
   {
-   "key": "de3fec6f7b53",
-   "speaker_korean": "플러드",
-   "korean": "「뭐, 간단히 말하면\n그렇게 되는 거지"
+   "key": "d6f295c41af7",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・페이트 각성"
   },
   {
-   "key": "ab233d1bf891",
-   "speaker_korean": "소피아",
-   "korean": "「그럼 은하라는 세계는\n그냥 게임의 스테이지라는 거야?"
+   "key": "983009a9b83c",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・크로셀Gl반덴 함"
   },
   {
-   "key": "3200e9bebb6c",
-   "speaker_korean": "플러드",
-   "korean": "「아니\n⟦1⟧에터널 스피어⟦2⟧는 온라인으로\n우리 참가자 전원이 공유하고 있어\n마음대로 리셋할 수 없어\n⟦P⟧그러니까 게임이라고 하기엔\n조금 달라\n뭐, 일종의 평행세계\n같은 거려나"
+   "key": "d51d06d64647",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・아드레이의 감정도+80"
+  },
+  {
+   "key": "af36e84a3548",
+   "speaker_korean": "로빈 윈드",
+   "korean": "⟦1⟧「아드레이는 동료로 넣었습니까?\n⟦P⟧"
+  },
+  {
+   "key": "165503ae5d49",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・예"
+  },
+  {
+   "key": "4f30986063dd",
+   "speaker_korean": null,
+   "korean": "⟦1⟧・아니오"
+  },
+  {
+   "key": "4954ac646410",
+   "speaker_korean": "로빈 윈드",
+   "korean": "⟦1⟧「아드레이는 동료로 넣어 두었습니까?\n⟦P⟧"
+  },
+  {
+   "key": "db4744913eec",
+   "speaker_korean": null,
+   "korean": "⟦1⟧아쿠아베리⟦2⟧를 손에 넣었다."
+  },
+  {
+   "key": "23bfc6729864",
+   "speaker_korean": null,
+   "korean": "⟦1⟧블랙베리⟦2⟧를 손에 넣었다."
+  },
+  {
+   "key": "5b4786c89dd4",
+   "speaker_korean": null,
+   "korean": "⟦1⟧600폴⟦2⟧을 손에 넣었다."
   }
  ]
 }
